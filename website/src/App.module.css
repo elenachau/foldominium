@@ -1,0 +1,28 @@
+.appView {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.header h1 {
+    font-size: 96px;
+}
+
+.header h2 {
+    font-size: 48px;
+    font-weight: normal;
+}
+
+.img {
+    object-fit: contain;
+}
