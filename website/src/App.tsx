@@ -2,10 +2,6 @@ import classes from "./App.module.css"
 import FoldLogo from "../public/Logos/foldominium-logo-transparent_200x200.png"
 import { Form } from "./Form/Form"
 
-function Test() {
-  console.log("Clicked!");
-}
-
 function App() {
   return (
     <div className={classes.appView}>
