@@ -1,0 +1,28 @@
+{
+    "data": [
+      {
+        "name": "bat",
+        "crease_pattern": {
+          "creases": [
+            { "start": [0, 0], "end": [1, 0] },
+            { "start": [1, 0], "end": [1, 1] },
+            { "start": [1, 1], "end": [0, 1] },
+            { "start": [0, 1], "end": [0, 0] },
+            { "start": [0, 0], "end": [1, 1] },
+            { "start": [1, 0], "end": [0, 1] }
+          ]
+        },
+        "folded_views": {
+          "front": "bat_front.png",
+          "left": "bat_left.png",
+          "right": "bat_right.png",
+          "top": "bat_top.png",
+          "bottom": "bat_bottom.png",
+          "back": "bat_back.png",
+          "oblique1": "bat_oblique1.png",
+          "oblique2": "bat_oblique2.png"
+        }
+      }
+    ]
+  }
+  
