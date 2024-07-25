@@ -6,14 +6,15 @@ function App() {
   return (
     <div className={classes.appView}>
       <div className={classes.header}>
-
-        <div className={classes.imgContainer}>
-          <img src={FoldLogo}/>
-        </div>
+        {/* <a href={`/contacts`}>To Contacts</a> */}
 
         <div className={classes.headerText}>
           <h1>Foldominium</h1>
           <h2>Your all-in-one origami helper!</h2>
+        </div>
+
+        <div className={classes.imgContainer}>
+          <img className={classes.responsiveImg} src={FoldLogo}/>
         </div>
 
       </div>
