@@ -1,24 +1,11 @@
 import classes from "./App.module.css"
-import FoldLogo from "../public/Logos/foldominium-logo-transparent_200x200.png"
 import { Form } from "./Form/Form"
+import Header from "./Header/Header"
 
 function App() {
   return (
     <div className={classes.appView}>
-      <div className={classes.header}>
-        {/* <a href={`/contacts`}>To Contacts</a> */}
-
-        <div className={classes.headerText}>
-          <h1>Foldominium</h1>
-          <h2>Your all-in-one origami helper!</h2>
-        </div>
-
-        <div className={classes.imgContainer}>
-          <img className={classes.responsiveImg} src={FoldLogo}/>
-        </div>
-
-      </div>
-
+      <Header />
       <div className={classes.body}>
         {Form("Input an object, mesh, or shape to generate its origami crease pattern:",
               "(e.g. A dog with wings, a piano, or a small piece text!)"

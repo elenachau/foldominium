@@ -6,49 +6,6 @@
     flex-wrap: wrap;
 }
 
-.header {
-    display: flex;
-    flex-grow: 1;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    column-gap: 5vw;
-
-    background-color: var(--accent-color-dark);
-}
-
-.headerText {
-    text-align: center;
-    color: var(--bg-color-light);
-}
-
-.header h1 {
-    margin-bottom: 0;
-}
-
-.header h2 {
-    font-weight: normal;
-    font-style: italic;
-    margin-top: 0;
-}
-
-.imgContainer {
-    display: flex;
-    max-width: 10%;
-    margin: 10px;
-}
-
-.responsiveImg {
-    max-width: 100%;
-    height: auto;
-}
-
-@media screen and (max-width: 800px) {
-    .header {
-        flex-direction: row;
-    }
-}
-
 .body {
     display: flex;
     flex-direction: column;
