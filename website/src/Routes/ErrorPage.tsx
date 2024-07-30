@@ -22,7 +22,7 @@ function GetError()
     return (
       <div id="error-page">
         <h1>Oops! Unexpected Error</h1>
-        <p>Something went wrong.</p>
+        <p>Something went wrong:</p>
         <p>
           <i>{error.message}</i>
         </p>
