@@ -1,0 +1,10 @@
+{
+    apps : [
+      {
+        name      : "foldominium",
+        script    : "npm",
+        interpreter: "none",
+        args: "run preview -- --host 0.0.0.0"
+      }
+    ]
+}
