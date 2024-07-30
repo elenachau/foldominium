@@ -5,8 +5,8 @@ log_message() {
 
 log_message 'run application_start.sh:' 
 
-log_message 'npm build'
-npm build >> /home/ec2-user/foldominium/website/deploy.log
+log_message 'npm run build'
+npm run build >> /home/ec2-user/foldominium/website/deploy.log
 
 # foldominium is the name as stored in pm2 process
 log_message 'pm2 restart foldominium'
