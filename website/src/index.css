@@ -6,6 +6,7 @@
   --bg-color-light: #FEFAE0;
   --accent-color: #9FB15C;
   --accent-color-dark: #485A33;
+  --ease-time: 0.2s;
 
   /* color-scheme: light dark; */
   color-scheme: light;

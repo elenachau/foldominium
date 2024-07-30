@@ -39,6 +39,15 @@ label {
 
     background-color: var(--accent-color);
     color: var(--accent-color-dark);
+
+    transition: background-color var(--ease-time) ease-out, color var(--ease-time) ease-out;
+}
+
+.inputWithButton input[type=submit]:hover {
+    border-color: var(--accent-color);
+    background-color: var(--accent-color-dark);
+    color: var(--accent-color);
+    transition: background-color var(--ease-time) ease-out, color var(--ease-time) ease-out;
 }
 
 .inlineInputButton {
