@@ -8,12 +8,17 @@ import './index.css'
 
 import App from "./App.tsx";
 import ErrorPage from "./Routes/ErrorPage.tsx";
+import AboutUs from './Routes/AboutUs.tsx';
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
     errorElement: <ErrorPage />,
+  },
+  {
+    path: "aboutus/",
+    element: <AboutUs />,
   },
 ]);
 

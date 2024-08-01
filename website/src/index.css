@@ -38,8 +38,12 @@ body {
 }
 
 h1 {
-  font-size: 4em;
+  font-size: 2em;
   line-height: 1.1;
+}
+
+h2 {
+  font-size: 1em;
 }
 
 button {

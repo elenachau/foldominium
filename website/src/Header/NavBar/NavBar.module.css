@@ -1,0 +1,88 @@
+.navBar {
+    width: 3vw;
+    position: absolute;
+    left: 3vw;
+}
+
+.checkbox:checked ~ .sublinks {
+    opacity: 1;
+    background-color: var(--accent-color); 
+}
+
+.checkbox ~ .sublinks {
+    width: 10vw;
+    padding: 3vw;
+    border-radius: 10px;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 0.3s ease, background-color 0.3s ease;
+}
+
+ul {
+    padding-inline-start: 0px;
+}
+
+li {
+    color: var(--accent-color-dark);
+}
+
+/* Hamburger animations */
+
+.toggle {
+    --gap: 0.8vw;
+    --height-bar: 0.3vw;
+    --pos-y-bar-one: 0;
+    --pos-y-bar-three: 0;
+    --scale-bar: 1;
+    --rotate-bar-one: 0;
+    --rotate-bar-three: 0;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    gap: var(--gap);
+}
+
+.bars {
+    position: relative;
+    height: var(--height-bar);
+    border-radius: .5rem;
+    background-color: var(--accent-color);
+}
+
+.bar1 {
+    top: var(--pos-y-bar-one);
+    transform: rotate(var(--rotate-bar-one));
+    transition: top 200ms 100ms, transform 100ms;
+}
+
+.bar2 {
+    transform: scaleX(var(--scale-bar));
+    transition: transform 150ms 100ms;
+}
+
+.bar3 {
+    bottom: var(--pos-y-bar-three);
+    transform: rotate(var(--rotate-bar-three));
+    transition: bottom 200ms 100ms, transform 100ms;
+}
+
+.checkbox {
+    display: none;
+}
+
+.checkbox:checked + .toggle > .bar1 {
+    transition: top 200ms, transform 200ms 100ms;
+}
+
+.checkbox:checked + .toggle > .bar3 {
+    transition: bottom 200ms, transform 200ms 100ms;
+}
+
+.checkbox:checked + .toggle {
+    --pos-y-bar-one: calc(var(--gap) + var(--height-bar));
+    --pos-y-bar-three: calc(var(--gap) + var(--height-bar));
+    --scale-bar: 0;
+    --rotate-bar-one: 45deg;
+    --rotate-bar-three: -45deg;
+}
