@@ -4,6 +4,8 @@
   font-weight: 400;
 
   --bg-color-light: #FEFAE0;
+  --bg-color-medium: #DDA15E;
+  --bg-color-dark: #BC6C25;
   --accent-color: #9FB15C;
   --accent-color-dark: #485A33;
   --ease-time: 0.2s;

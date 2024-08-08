@@ -1,0 +1,46 @@
+.profiles {
+    width: 90%;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.aboutMeProfile {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 30%;
+    align-items: center;
+
+    background-color: var(--accent-color);
+    border: 0.2vw solid var(--accent-color-dark);
+    border-radius: 20px;
+}
+
+.aboutMeProfile h1, h3 {
+    margin: 0;
+}
+
+.aboutMeProfile img {
+    max-width: 10vw;
+    max-height: 8vw;
+    padding: 1vw;
+    object-fit: contain;
+    margin: 2vw;
+
+    border-radius: 15px;
+    background-color: white;
+}
+
+@media screen and (max-width: 800px) {
+    .profiles {
+        flex-direction: column;
+        align-items: center;
+        gap: 2vw;
+    }
+
+    .aboutMeProfile {
+        width: 80%;
+    }
+}

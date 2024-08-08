@@ -4,14 +4,20 @@
     left: 3vw;
 }
 
+.sublinks {
+    margin-top: 1vw;
+    padding: 0 3vw 0 3vw;
+
+    background-color: var(--bg-color-medium);
+    border: 0.2vw solid var(--bg-color-dark);
+}
+
 .checkbox:checked ~ .sublinks {
-    opacity: 1;
-    background-color: var(--accent-color); 
+    opacity: 0.98;
 }
 
 .checkbox ~ .sublinks {
     width: 10vw;
-    padding: 3vw;
     border-radius: 10px;
     position: absolute;
     opacity: 0;
@@ -23,7 +29,7 @@ ul {
 }
 
 li {
-    color: var(--accent-color-dark);
+    color: var(--bg-color-dark);
 }
 
 /* Hamburger animations */

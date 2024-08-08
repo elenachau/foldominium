@@ -4,7 +4,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    column-gap: 5vw;
+    column-gap: 2vw;
 
     background-color: var(--accent-color-dark);
 }
