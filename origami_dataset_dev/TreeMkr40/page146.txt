@@ -1,0 +1,53 @@
+                                          
+                                        
+             σ     +     []+     []()+ σ   − ()−      2+()−2≤
+         ∑    {k ml{k ml ∑ k   ∑   1   k lk   ui, x u j, x ui,yuj,y0
+        e ∈p          e∈p     e∈p           1244444344444
+         k ij variable fixed   k ij kij 
+        e ∈E s          e ∈E s e ∉E s                fixed or
+         k            124444k  43k 44444               variable
+                                fixed
+   6.6   Conditions
+
+In addition to the conditions specified above, which are always required to be satisfied, one can
+optionally impose additional conditions on the crease pattern that are typically strict equalities.
+These are easily incorporated into the nonlinear constrained optimization machinery. The
+conditions and related equations currently implemented in TreeMaker are listed below.
+
+      Node position fixed
+
+A node ui  that has one or both of its coordinates fixed to a point a must satisfy one or both of the
+ equations
+
+                                     −    =
+                                  ui, x ai, x 0
+                                     −    =
+                                  ui, y ai, y 0
+      Node fixed to corner of paper
+
+A node ui  that is constrained to lie on a corner of the paper must satisfy both equations
+
+                                 ()−    ⋅=
+                                 ui,x w  ui,x0
+
+                                    −⋅=
+                                 ()ui,yhui,y0
+       Node fixed to edge of paper
+
+ A node ui  that is fixed to lie on the edge of the paper must satisfy the equation
+
+                           ()−    ⋅⋅−⋅=
+                            ui,x w ui,x()ui,yhui,y0
+       Node fixed to line
+                                                               α
+ A node ui  that is constrained to lie on a line through point a running at angle , such as a line of
+symmetry, must satisfy the equation
+
+                         ()u − a cosα − ()u − a sinα = 0
+                           i,x x         i,y y        .
+       Two nodes paired about a line
+
+ Two nodes ui  and u j  that are constrained to be mirror-symmetric about a line through point a
+ running at angle α, such as a line of symmetry, must satisfy the two equations
+
+                                 146

@@ -1,0 +1,50 @@
+                                                                new
+                                                                              new
+
+                                                    OUT
+            Figure 14.50. 
+            If we continue the periodic pat-                                         OUT
+            tern along the left side, it forces 
+            the contours on the right, which 
+            creates a discontinuity in the 
+            contour pattern and introduces 
+            a new fractional-elevation con-
+            tour.                                                    IN
+
+                                         longer aligned with integer-elevation contours; (2) the even 
+                                         spacing of contours is disrupted along the right side.
+                                             This may not be a problem. If the right side of the triangle 
+                                         doesn’t have to mate with anything else (for example, it lies on 
+                                         the edge of the paper), all this might be perfectly OK. But the 
+                                         important lesson is that we can, in fact, build polygon-packed 
+                                         patterns from a wide variety of triangles and have the contours 
+                                         behave themselves, so long as we choose triangles whose sides 
+                                         are integer numbers of units in length.
+                                             What about other polygons, though? Building ﬂaps from 
+                                         triangles alone would be quite inefﬁcient: triangles don’t pack 
+                                         circles very efﬁciently.
+                                             The next level up in the hierarchy of polygons is quadri-
+                                         laterals. The same question applies: what quadrilateral will 
+                                         give well-behaved, evenly spaced axis-parallel contours all the 
+                                         way around the quadrilateral?
+                                             Certainly, if we want contours to run with constant spac-
+                                         ing, evenly from vertex to vertex, all four sides must be integer 
+                                         numbers of units in length.
+                                             But there’s more to it than that. Figure 14.51 shows a 
+                                         quadrilateral whose sides are all integer lengths with axis-
+                                         parallel contours along the sides. The straight skeleton (in this 
+                                         case, the sawhorse molecule) is drawn inside. The question is: 
+                                         will the contours line up?
+                                             In general, even with integer-length sides, for an arbi-
+                                         trary quadrilateral, the contours won’t line up, as shown in 
+                                         Figure 14.52. In this case, we can get evenly spaced contours 
+                                         on three sides of the quadrilateral, but they’re misaligned on 
+                                         the fourth side.
+                                             And again, like the triangle, such a misalignment may 
+                                         be acceptable, if that fourth side is on the edge of the paper; 
+                                         the misaligned contours won’t cause any further problems. 
+                                         In general, though, we’ll have to be more selective with the 
+
+     672
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

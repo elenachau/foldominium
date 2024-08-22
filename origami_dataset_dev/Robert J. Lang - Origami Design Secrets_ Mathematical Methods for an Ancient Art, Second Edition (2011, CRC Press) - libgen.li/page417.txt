@@ -1,0 +1,40 @@
+                                                                        Figure 11.4. 
+                                                                        A bookworm wishes to go from a 
+                                                                        foreleg to the tail along the base. 
+                                                                        It can take several different 
+                                                                        paths, but the most direct path 
+                                                                        is the path that lies in the plane 
+                                                                        of projection.
+
+                Now, let’s think about what the path of the bookworm would 
+            look like on the unfolded square, as shown in Figure 11.5 (you can 
+            imagine dipping the bookworm into ink so that it leaves a trail 
+            soaking through the paper as it crawled). Clearly, it starts and 
+            ends at a leaf vertex. On the square, the path might go directly 
+            from one leaf vertex to the other, or it might meander around 
+            a bit, or it might even backtrack. If it travels via the shortest 
+            route, then the path length on the square is equal to the length 
+            as measured along the bottom of the base. Any meandering 
+            or backtracking will make the path longer. Thus, the distance 
+            traveled on the unfolded square must be at least as long as the 
+            minimum distance traveled along the base.
+
+
+                    leaf vertex
+                     (foreleg)
+
+
+                                                                        Figure 11.5. 
+                                               leaf vertex
+                                               (tail)                   The trail of the bookworm.
+
+                This illustrates an extremely important property of any 
+            mapping from a square to a base: Although our example went 
+            from one leaf vertex to another, the property is general: The 
+            distance between any two points on the square must be greater 
+            than or equal to the distance between the two corresponding 
+            points on the base.
+
+                                                                                                     405
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

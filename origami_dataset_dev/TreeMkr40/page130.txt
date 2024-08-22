@@ -1,0 +1,36 @@
+ Whenever we add a new node inside a polygon, if we make the corresponding flap sufficiently
+ large, it forms several new active paths with the vertices of the old active polygon. In the process,
+ it breaks up the polygon into smaller polygons with fewer sides than the original polygon. In
+ figure 5.21, adding the new point has broken the five-sided polygon into one quadrilateral and
+ three triangles. But we already know crease patterns for quadrilaterals and triangles! Filling in
+ the crease patterns in each polygon gives a crease pattern for the full base, shown in figure 5.22.
+
+                      ABF
+
+
+                                                  F
+                      F
+
+                                      G
+                                                        C
+                      E
+
+                                                 F
+                               F
+
+                                        D
+
+Figure 5.22. Crease pattern for the 5-pointed base.
+Imagining terminal nodes as being surrounded by circles makes it easier to visualize the path
+constraints of the tree theorem. Although strictly speaking, the circle analogy only holds for
+terminal nodes with exactly one internal node between them, one can devise a similar condition
+for more widely separated nodes. If you draw in circular arcs around each terminal node tangent
+to the tri-state creases, you get a set of contours on both the crease pattern and the base, in which
+edges attached to terminal nodes are represented by circles and edges attached only to internal
+nodes are represented by contours that snake through the crease pattern as in figure 5.23. For
+numerical computation, I find that it is simpler to do all calculations in terms of paths and path
+lengths, but for intuition and visualization, the circles and contours constitute an equivalent and
+more easily visualized tool for devising new crease patterns.
+
+
+                                 130

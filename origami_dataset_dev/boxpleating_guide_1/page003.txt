@@ -1,0 +1,10 @@
+Let’s try this for one point in the CP.
+
+
+                       1 unit flap - ok    2 unit flap - ok   3 unit flap - fail
+We see that this flap is 2 units long. Let’s do this for the rest of the CP.
+
+
+What is left between the squares are so called rivers, which will separate the flaps from each other.
+Those might for example be arms that separate the fingers from the rest of the model, a neck that
+separates the head from the rest of the model, a body that separates the arms from the legs, etc.

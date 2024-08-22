@@ -1,0 +1,12 @@
+Ron Resch Pattern
+
+• Original
+   – Resch [1970]
+• Characteristics
+   – Flexible (multiDOF)
+   – Forms a smooth flat surface 
+    + scaffold
+
+• Conditions
+   – Developable
+   – 3-vertex coincidence

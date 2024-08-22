@@ -1,0 +1,14 @@
+Thickening
+
+    • Rigid origami is ideal 
+      surface (no thickness)
+    • Reality:
+       – There is thickness
+       – To make “rigid” 
+         panels, thickness must 
+         be solved 
+         geometrically
+    • Modified Model:
+       – Thick plates
+       – Rotating hinges at the 
+         edges

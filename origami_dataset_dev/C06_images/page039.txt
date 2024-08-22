@@ -1,0 +1,31 @@
+ Degree 6, symmetric vertex
+
+ After some work, we can calculate the conﬁguration space for the 
+ symmetrically-folding degree-6 vertex.
+
+                                       pop down
+                                             ( ⇡/3, ⇡) ⇢1 
+ To self-fold along mode 1, for example,   pop up −
+ we need a driving force                    mode 2
+  
+                                          mode 1
+                                    ( ⇡, ⇡/3)
+                                    −                  2+p3, 1
+ in order to be orthogonal to mode 2 at the            h    i
+                                                              ⇢2
+ ﬂat state.       ( :o :o :o  !!!!! )              O
+
+       pop down               pop up                          (⇡, ⇡/3)
+    ρ2                                                          −
+mode 1:
+                                                               mode 1
+                          ρ1
+                                                        mode 2
+            ρ1
+                              ρ2                     (⇡/3, ⇡)
+    ρ2                                                  −
+mode 2:
+                          ρ1              Thus we want to drive all 
+                                          creases to be valleys!!!
+           ρ1
+       pop up                 ρ2 pop down

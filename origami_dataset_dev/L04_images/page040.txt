@@ -1,0 +1,16 @@
+Miura-Ori
+
+• Original
+   – [Miura 1970]
+• Application
+   – bidirectionally expansible (one-
+    DOF)
+   – compact packaging
+   – sandwich panel
+                                     ISAS Space Flyer Unit
+• Conditions
+                                        zeta core
+   – Developable                        [Koryo Miura 1972]
+   – Flat-foldable
+   – op: (Planar quads)(→Rigid 
+    Foldable)

@@ -1,0 +1,30 @@
+                                             In a box-pleated model, nearly all the creases are either 
+                                         vertical or horizontal. So if a cut is made vertically or horizon-
+                                         tally, then the creases are either parallel to the cut, in which 
+                                         case they don’t hit the cut, or they are perpendicular to the 
+                                         cut, in which case they hit it at the proper angle. So, as long 
+                                         as you are careful to avoid cutting through the few diagonal 
+                                         creases, it’s possible to enlarge and extend box-pleated models 
+                                         by repeated application of the cut-and-tape technique.
+                                             Coming back to our 3 × 2 box, you should be able to see 
+                                         now how to make the box wider rather than longer by adding a 
+                                         strip running horizontally through the middle of the rectangle. 
+                                         This process, which changes the rectangle from 6 × 4 to 6 × 5, 
+                                         is shown in Figure 12.16.
+                                             What if we wanted to make the box smaller, not larger? 
+                                         Then instead of adding paper, we would take paper away. Let’s 
+                                         reduce both the length and the width of the box by a single 
+
+
+                              1. To make the box wider, add a               2. Like this.
+                              strip of paper horizontally through
+                              the crease pattern.
+
+
+                                                    3. The wider box.
+                                         Figure 12.16. 
+                                         Adding a strip to enlarge the box in the other direction.
+
+     476
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

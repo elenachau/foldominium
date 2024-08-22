@@ -1,0 +1,21 @@
+Settings
+
+
+                                        x1 
+•  Initial Figure:                         
+                                         y
+    – Symmetric Pattern                  1 
+                                        z1 
+•  Freeform Deformation                    
+                                   X =    
+    – Variables (3Nv)
+        • Coordinates                  x   
+                    X                   Nv 
+    – Constraints (2Nv_in+Nc)           yNv 
+        • Developability                   
+                                        zNv 
+        • Flat-foldability
+        • Other Constraints Under-determined System
+
+                         →Multi-dimensional 
+                         Solution Space

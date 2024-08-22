@@ -1,0 +1,49 @@
+                                         large, ﬂat regions are not usually produced by a circle- or 
+                                         polygon-packed base, because the process of maximizing the 
+                                         length of a ﬂap often minimizes its width. Additionally, large, 
+                                         bulbous, three-dimensional shapes do not typically arise from 
+                                         circle packing, ﬁrst because uniaxial bases lie ﬂat by design, 
+                                         and second because (again) the process of optimizing the length 
+                                         of ﬂaps tends to cut down on their width. With subjects that 
+                                         have large, two-dimensional expanses of surface, other tech-
+                                         niques must be employed. Attempting to design such a subject 
+                                         using packing is akin to using a pair of pliers to pound nails: it 
+                                         can be done, but the results are often unsatisfactory.
+                                             However, packing can have a place in such a design, if 
+                                         you use it when it’s appropriate. In a design that combines 
+                                         large, ﬂat expanses with many narrow ﬂaps, you can allocate 
+                                         polygons of paper for the ﬂat regions and then tie them all 
+                                         together with regions of circle or polygon packing to generate 
+                                         the required ﬂaps.
+
+                                         15.1. Flats and Flaps
+                                         Here is an example of this hybrid approach. While circle packing 
+                                         is ideal for the design of insects and other arthropods (as you 
+                                         might expect from the many arthropodic examples I’ve shown), 
+                                         it does not work particularly well for a butterﬂy or moth. In the 
+                                         members of the order Lepidoptera, the wings are the dominant 
+                                         structure in the model; indeed, for many years, the only origami 
+                                         butterﬂies consisted of wings only, plus, perhaps, a few crimps 
+                                         and/or blunt points to suggest a body. Legs and antennae were 
+                                         not even considered.
+                                             As the new geometric design techniques were discovered 
+                                         during the early 1980s, however, several folders cast their eye 
+                                         on the butterﬂy for its unique challenge: how to create large 
+                                         wings, plus small body, legs, and antennae (and, in some cases, 
+                                         even faceted eyes and proboscis!). Artist and architect Peter 
+                                         Engel devised the ﬁrst (and still perhaps the best in terms of 
+                                         its usage of the paper); by the end of the 20th century, several 
+                                         other folders, including myself, had followed in his path.
+                                             The problem of combining large ﬂat wings with small legs 
+                                         and features provides a nice challenge. Both butterﬂies and 
+                                         moths have four large wings, but since the fore and hind wings 
+                                         inevitably overlap, one always has the choice of representing 
+                                         the pair by one or two distinct panels of paper.
+                                             The observation that all four of a butterﬂy’s wings are 
+                                         roughly triangular suggests one approach: Create each wing 
+                                         ﬂap from a folded-in-half square region, as shown in Figure 15.1. 
+                                         We will allocate four such squares (one for each wing) at each 
+
+     700
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

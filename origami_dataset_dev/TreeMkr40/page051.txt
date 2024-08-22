@@ -1,0 +1,25 @@
+ All bases designed by TreeMaker are what I call a “uniaxial” base. A uniaxial base is one in
+ which all the flaps lie along a single line. A base in which all of the flaps are edge flaps has the
+ very useful property that the layers can be arranged so that with all of the layers in the same half-
+ plane, no major flap is enclosed inside of another flap. I call a base with this latter property a
+ “simple” uniaxial base. Simple bases can also be designed by the “string-of-beads” algorithm,
+ and it is fairly easy to prove that the perimeter of an edge-flap-only base cannot exceed the
+ perimeter of the square.
+
+ It is tempting to suppose that any simply stacked base must be an edge-flap-only base, but it is
+ often possible to add auxiliary nodes to a base with middle points to make them “quasi-edge-
+ like”. An example will make this clear.
+
+An eight-pointed base in which all of the
+flaps are edge flaps is shown in figure
+3.3.7. It has a scale of 0.250. If we don’t
+force all the points to be edge flaps, we’ll
+find the arrangement shown in figure
+3.3.8, in which four of the points have
+become middle flaps.
+
+
+                                                       3.3.7
+
+
+                                  51

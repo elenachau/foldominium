@@ -1,0 +1,11 @@
+Flat-foldability
+
+ Engineering Interpretation
+ → Folding into a compact configuration
+   or Deployment from 2D to 3D
+
+• Isometry condition
+  • isometric mapping with mirror reflection
+• Layering condition
+  • valid overlapping ordering
+    • globally : NP Complete [Bern and Hayes 1996]

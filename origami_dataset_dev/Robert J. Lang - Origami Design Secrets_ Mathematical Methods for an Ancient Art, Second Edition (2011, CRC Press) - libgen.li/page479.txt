@@ -1,0 +1,51 @@
+            lowed. Those two elements are a technique for building and 
+            linking boxes (used for the bodies of the engine and the two 
+            cars), and techniques for creating ﬂaps (used in the wheels and, 
+            especially, the smokestack). Both boxes and ﬂaps grow out of 
+            the same rectilinear grid of creases, which allows arbitrary 
+            combinations of boxes and ﬂaps to be created and combined 
+            at will.
+
+            12.2 Box Folding
+            The techniques to create box-like structures have their anteced-
+            ents in well-known traditional models that include (perhaps not 
+            surprisingly) a simple box, known for decades, if not hundreds 
+            of years. The box displays the underlying mechanism that 
+            enables box pleating as a style and that makes up the overall 
+            structure of Mooser’s Train. Box pleating as a style was sitting 
+            there all along, waiting to be discovered, but the most common 
+            folding sequence for the traditional box (given in Figure 12.6) 
+            and the diagonal orientation of the model obscure the underly-
+            ing structure and its relationship to the train.
+                This is a fairly common occurrence in origami: the pub-
+            lished folding sequence is usually constructed for ease of fold-
+            ability, or in some cases, for elegance of presentation (with a 
+            surprise move at the end). In either situation, the choice of 
+            folding sequence may well conceal, rather than illuminate, the 
+            underlying structure of the model.
+                Superﬁcially, what we have here is simply a box with two 
+            handles. But let’s look at it as a collection of forms. We have a 
+            linear series of forms: 
+
+                • a ﬂat form (the handle),
+
+                • a transition from a ﬂat form to a three-dimensional 
+                form,
+
+                • the three-dimensional form (the box itself),
+
+                • another transition from the three-dimensional form 
+                to a ﬂat form,
+
+                • and ﬁnally another ﬂat form (the opposite han-
+                dle).
+
+                How does this combination of two- and three-dimensional 
+            forms arise from the ﬂat sheet? The best way to ﬁnd out is to 
+            take the model back to the ﬂat sheet, keeping track of which 
+            parts came from where. If we label the features of the box—base, 
+            side, front, rear, handle—and note where each region comes 
+
+                                                                                                     467
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

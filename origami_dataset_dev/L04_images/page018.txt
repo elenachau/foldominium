@@ -1,0 +1,17 @@
+Design System: Origamizer
+
+     3D           CP          • Auto Generation of Crease 
+                                Pattern
+                              • Interactive Editing (Search 
+                                within the solution space)
+                                 – Dragging Developed Facets
+
+
+                                 – Edge Split
+
+                                 – Boundary Editing
+
+
+     Developed in the project 
+     “3D Origami Design Tool”
+     of IPA ESPer Project

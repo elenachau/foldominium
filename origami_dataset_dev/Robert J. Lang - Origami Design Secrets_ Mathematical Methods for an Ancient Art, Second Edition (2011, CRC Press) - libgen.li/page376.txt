@@ -1,0 +1,50 @@
+                                             Numerous other variations are also possible. My conjecture 
+                                         is that for a given quadrilateral with a speciﬁed set of tangent 
+                                         points, the basic gusset molecule is the molecule with the mini-
+                                         mum total crease length, but this has not yet been proven.
+                                             The gusset molecule is quite versatile. If you reexamine 
+                                         some of the crease patterns from the previous chapter, you will 
+                                         see a few gusset molecule patterns along with rabbit-ear and 
+                                         Waterbomb molecules.
+
+                                         10.7. Molecules with Rivers
+                                         When we built crease patterns from preexisting tiles, we kept 
+                                         track of ﬂaps and connections between ﬂaps by decorating the 
+                                         tiles with circles and rivers. Similarly, when building up a 
+                                         crease pattern via circle packing, we can insert segments into 
+                                         the base by inserting rivers into the circle packing. Breaking 
+                                         such a pattern down into molecules means that some of the 
+                                         molecules must contain rivers. The molecules we have seen 
+                                         thus far—rabbit-ear, Waterbomb, arrowhead, and gusset—have 
+                                         not contained rivers; thus, there must be additional molecules 
+                                         that apply to circle/river packings.
+                                             And there are, but most can be derived from the pure circle-
+                                         packed molecules. Let’s start with the three-circle rabbit-ear 
+                                         molecule and add a single river. The river must enter along one 
+                                         edge and exit along an adjacent edge. With no loss of generality, 
+                                         we can represent the situation as in Figure 10.27.
+                                             In Figure 10.27, the triangle is deﬁned by three circles of 
+                                         radius a, b, and c, plus a river of width d. But viewed in isola-
+                                         tion, this is simply equivalent to a three-circle triangle, as the 
+
+
+                      c
+                               c
+
+
+                   d
+                                   b
+             a
+                       d
+                a              b
+
+                                                                                        tangent points
+
+                                         Figure 10.27. 
+                                         Left: a triangle deﬁned by three circles plus a river. 
+                                         Middle: crease pattern. 
+                                         Right: folded molecule with two sets of tangent points.
+
+     364
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,51 @@
+Open the TreeMaker application if it is
+not already open and create a new
+square. Make a five-limbed stick figure                  1
+as shown in figure 2.2.1. As you did in
+the previous tutorial, set the body                     1
+segment to have a length of 0.8, but this                1.000
+                                           4                          5
+                                                 3             4
+time we’ll leave the head to have a length               2
+of 1.                                             1.000         1.000
+
+Now select Optimize Scale from the
+                                                        2
+Action menu to optimize the distribution                 1.000
+of nodes. You should see the nodes move
+around as usual, and then suddenly the
+two bottom nodes will shift over toward                  3
+one side or the other. When the                  5             6
+                                                               1.000
+optimization stops, the pattern of nodes          1.000              7
+will be asymmetric, as shown in figure    6
+2.2.2.
+
+                                                      2.2.1.
+
+
+                                                          1
+                                                2
+                                       4                 1        2
+                                                         1.000
+                                               3
+                                                1.000            4         5
+                                                         2
+                                                                  1.000
+                                       2
+
+                                                        2            2
+                                                         1.000
+
+                                       3                 3
+                                                                3
+
+                                               5         6
+                                                1.000     1.000
+
+                                       6         3         7
+
+                                                      2.2.2
+
+
+                                 16

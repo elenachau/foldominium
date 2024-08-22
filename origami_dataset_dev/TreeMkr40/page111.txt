@@ -1,0 +1,16 @@
+Diamond mark: some of the selected paths have this condition. Selecting the command applies a
+condition to all of the selected paths. It also puts up the dialog for the path angle quantization.
+
+Check mark: all of the selected paths have this condition. Selecting the command removes this
+type of Condtion from each of the selected paths.
+   Remove selected Path conditions
+This command removes all conditions that apply specifically to this path. It does not affect node
+conditions or edge conditions.
+   Remove all Path conditions
+This command removes all conditions that apply to all paths. It does not affect node conditions
+or edge conditions.
+   Remove all conditions               1`
+This command removes all conditions in the design.
+
+
+                                111

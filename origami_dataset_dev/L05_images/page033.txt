@@ -1,0 +1,11 @@
+ Uniaxial Bases
+
+
+Traditional
+
+  1. ﬂaps lie along or straddle a single line (the axis)
+  2. ﬂaps hinge perpendicular to the axis
+  3. can thin to stick ﬁgure (tree)
+
+                                         33
+Informal deﬁnition are bases that can be trivially modiﬁed to become unaxial

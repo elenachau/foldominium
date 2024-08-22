@@ -1,0 +1,30 @@
+When an edge is first created, it will be
+highlighted and will have a default length
+of 1 unit.
+
+Once there are two or more terminal
+nodes, all terminal nodes will have a
+circle shown around them whose radius
+is equal to the scaled length of the
+attached edge.
+
+In this example, node 2 is selected, so
+clicking in a new location will create
+another new node and edge as shown in
+figure 4.3.4.
+
+Internal nodes (those with two or more
+edges emanating from them) do not
+display circles around them. However,
+you can add branches to the tree that
+emanate from an internal node by
+selecting the internal node and then
+                                                       4.3.3
+clicking elsewhere in the square, as
+shown in figure 4.3.5 and 4.3.6.
+
+
+                                                       4.3.4
+
+
+                                  70

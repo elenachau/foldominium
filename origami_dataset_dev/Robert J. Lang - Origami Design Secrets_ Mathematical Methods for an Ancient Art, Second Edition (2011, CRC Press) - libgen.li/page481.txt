@@ -1,0 +1,34 @@
+            from in the unfolded sheet, we can establish a correspondence 
+            between the folded and unfolded forms of the model, as shown 
+            in Figure 12.7.
+
+
+                                                                        Figure 12.7. 
+                                                                        Correspondence between the 
+                                                                        parts of the folded model and 
+                                                                        the crease pattern.
+
+                If we examine the crease pattern by itself, we see that not 
+            all of the paper is needed to make the model. In particular, 
+            the top and bottom corners (which are tucked down inside the 
+            bottom of the model) don’t contribute much (other than a bit 
+            of extra stiffness, owing to the multiple layers), and the side 
+            corners are tucked underneath the handle as well.
+                Note that in this three-dimensional model, some of the 
+            mountain and valley folds make a dihedral angle—the angle 
+            between adjacent surfaces—of 90° while others are pressed ﬂat 
+            in the folded model.
+                Examination of the labeled crease pattern in Figure 12.8 
+            shows that we don’t need the entire square to fold this box. In 
+            fact, we can fold what is essentially the same model from a 3 × 2 
+            rectangle, as outlined by dotted lines in Figure 12.9.
+                Although a 3 × 2 rectangle is considered nonstandard in 
+            origami (or at least, less common) and is less pleasingly sym-
+            metric than a square, it is a more natural shape for folding the 
+            box, since the edges of the paper are aligned with the sides of 
+            the box and the layers are more evenly distributed. We can 
+            fold essentially the same box from a 3 × 2 rectangle, as shown 
+
+                                                                                                     469
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

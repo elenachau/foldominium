@@ -1,0 +1,51 @@
+                These are the basic geometric elements of polygon pack-
+            ing, of the uniaxial box pleating persuasion.
+                And why make a distinction between polygon packing 
+            and uniaxial box pleating? Why are these not the same thing? 
+            Because it’s possible to use other angles for the boundary con-
+            straints. There is an entirely new family of polygon packing 
+            out there that, unlike box pleating, has not been exploited for 
+            40 years, which I call “hex pleating,” that uses a different set 
+            of angular constraints. We will encounter it shortly, but for 
+            now, let’s continue down the path of uniaxial box pleating as 
+            our exemplar of polygon packing.
+                The rules of polygon packing are simple and similar to 
+            circle packing:
+
+                1. All polygons must pack without overlaps.
+                2. The centers of the minimum-size polygons (or equiva-
+                   lently, the enclosed circle) must lie within the hinge 
+                   polygon.
+                3. Polygons can be expanded to ﬁll unused space; rivers 
+                   may not.* 
+
+            And there is one very important difference from circle packing:
+
+                4. All empty space must eventually be absorbed into 
+                   some polygon; there can be no unused space.
+
+                This last rule has a straightforward explanation. In circle 
+            packing, circles represent minimum usage, and empty space 
+            is allowed. But in polygon packing, the polygons represent 
+            actual usage, and at the end of the day, all paper must end up 
+            in some ﬂap. For that reason, we are fortunate that L-shaped 
+            and T-shaped and other complex shaped polygons are allowed; 
+            they may very well be necessary to ﬁll all space.
+                Let’s now set up an example to illustrate the packing 
+            technique. Figure 13.12 shows a simple example of a stick 
+            ﬁgure with ﬁve leaf ﬂaps and one branch ﬂap and its as-
+            sociated hinge polygons—ﬁve squares (corresponding to the 
+            ﬁve leaf ﬂaps) and one hinge river (corresponding to the one 
+            branch ﬂap).
+                These polygons must now be packed into a square subject 
+            to the four polygon packing rules above. As with circle packing, 
+            we seek a rigid packing, which we can obtain by scaling up 
+            the individual polygons in a uniform fashion or by enlarging/
+            shrinking the enclosing square until the elements are rigidly 
+
+            * This requirement is not strictly true; we will shortly learn a technique 
+            that allows rivers to be (apparently) expanded.
+
+                                                                                                     577
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

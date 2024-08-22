@@ -1,0 +1,40 @@
+                               2.0 Tutorials
+
+    2.1  Tutorial 1: Designing a Base
+
+ In this tutorial, you will work through the design of a 4-legged animal with a head and tail and
+ will learn the fundamentals of designing a model with TreeMaker. Before starting it, you should
+ understand the fundamentals of origami design, such as the difference between corner, edge, and
+ middle flaps and be familiar with the basic origami procedures and terms such as valley fold,
+ mountain fold, reverse fold, rabbit ear, et cetera.
+
+ Begin by double-clicking on the TreeMaker icon to launch it. On startup, TreeMaker creates a
+ new, untitled window that displays a square — the default shape of paper. Later, you will see
+ how to change the size and shape of the paper (you can even design for a rectangle if you like)
+ but for now we’ll use a square.
+
+ TreeMaker designs an origami base that can be represented by a stick figure. You specify the
+ desired proportions of your base by drawing a stick figure in the square and specifying its
+ dimensions. If you have ever used a drawing program on a Macintosh computer, you should have
+ no trouble in figuring out how to draw a figure, but if you haven’t, we’ll walk you through it.
+
+Click once in the middle of the square.
+You will see a dot appear with a number
+above it. This dot is a node; the number
+is the index of the node, which is used to
+identify the node later on. Each node is
+assigned a unique index. You can ignore
+the index for now. If you clicked just
+once, the node has a highlight around it,
+which means that it is selected. If the
+node has no highlight, it is deselected.
+The color of the highlight is the color set
+on your computer, so it may be different
+from the orange color shown in figure
+2.1.1.
+
+
+                                                       2.1.1
+
+
+                                   7

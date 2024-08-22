@@ -1,0 +1,39 @@
+                A single pleat crossing can be thought of as an individ-
+            ual tile. To develop an approximation of the pattern of 
+            semicircles, we should array tiles containing the lines of 
+            the pleat crossings in such a way that they create a similar 
+            pattern. Figure 7.17 shows such an array, ﬁlling in over the 
+            semicircular array.
+
+
+                                                                        Figure 7.17. 
+                                                                        Left: two tiles of crease pattern. 
+                                                                        Right: the tiles arrayed over the 
+                                                                        pattern of semicircles.
+
+                One can think of this operation as cutting out small tiles 
+            of pleats, then taping them together edge-to-edge to realize the 
+            larger array. We can do this to both the folded and unfolded 
+            form of the paper. The folded form gives the folded array; the 
+            unfolded form gives the crease pattern necessary to realize the 
+            array. Figure 7.18 shows, ﬁrst, a single tile.
+
+
+                                                                        Figure 7.18. 
+                                                                        Left: the folded tile. 
+                                                                        Right: the crease pattern.
+
+                What we deﬁne as the edges of the tile is somewhat arbi-
+            trary; what matters most is the tile-to-tile spacing, which sets 
+            the overall periodicity of the scale array. In Figure 7.18, I have 
+            chosen the tile boundary so that the visible portion of each scale 
+            is a quarter of an equilateral octagon. We can create an array 
+            of such octagonal scales by putting together an array of scale 
+            tiles, as shown in Figure 7.19.
+                And then, once we have created our array, we can (ﬁgu-
+            ratively) tape the patterns together as we did with individual 
+            grafts in order to create a single-sheet array.
+
+                                                                                                     209
+                                                                Chapter 7: Pattern Grafting
+© 2012 by Taylor & Francis Group, LLC

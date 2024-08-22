@@ -1,0 +1,44 @@
+                                                      misalignment
+
+
+            Figure 8.18. 
+            Two tiles cannot be mated if 
+            their circles do not line up.
+
+                                             At this point, you might wish to explore ﬁtting together 
+                                         tiles in different ways and examining the resulting crease pat-
+                                         terns (and for a challenge, try folding the corresponding bases). 
+                                         The circles serve two purposes. First, they create matching 
+                                         rules that enforce foldability of the resulting crease patterns. If 
+                                         you match up two tiles with misaligned circles, you will not, in 
+                                         general, be able to collapse the crease pattern without adding 
+                                         new creases. For example, the right triangle tile and the Lizard 
+                                         tile cannot be mated because the circles don’t line up. If you 
+                                         try to fold the shape in Figure 8.18, you cannot form either of 
+                                         the two creases incident perpendicularly upon the mating line 
+                                         without adding new creases inside the other tile.
+                                             Therefore it is absolutely necessary that all circles line up 
+                                         with the circles of mating tiles along tile boundaries. This is a 
+                                         substantial restriction on the ways that tiles can be assembled 
+                                         into crease patterns.
+                                             On the other hand, however, there is often more than one 
+                                         way that the circles can be drawn within a given tile. Let’s 
+                                         look at the rectangular tile. It differs from the triangular and 
+                                         Waterbomb tiles in two ways: 
+
+                                             • A gap in the middle of the crease pattern sepa-
+                                             rates the upper pair of circles from the lower pair of 
+                                             circles.
+
+                                             • A segment in the folded form separates the upper 
+                                             pair of ﬂaps from the lower pair of ﬂaps.
+
+
+            Figure 8.19.                                              gap
+            Left: crease pattern for the 
+            rectangular tile. 
+            Right: folded form of the tile.
+
+     256
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

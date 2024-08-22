@@ -1,0 +1,37 @@
+                                         and slide them around within the circle jig shown previously; 
+                                         I usually just draw sketches. A bit of manipulation reveals an 
+                                         elegantly symmetric arrangement of circles and rivers, shown 
+                                         in Figure 10.37.
+                                             There is certainly some variation possible in the sizes of 
+                                         the circles and width of the river; we could certainly adjust 
+                                         the circles’ sizes (and thus, ﬂap lengths) up or down by a small 
+                                         amount without limiting our ability to create a recognizable 
+                                         orchid. So, once we draw in the axial creases (along lines where 
+                                         the circles and rivers touch), we can choose the circle sizes to put 
+                                         all axial creases at multiples of 15°—which will make it easier 
+                                         to fold, since 15° is a quarter of the easily folded 60°. Another 
+                                         beneﬁt of this choice of circle size will soon become apparent.
+                                             But ﬁrst, let’s take stock of what we have accomplished 
+                                         with this packing. There are four identical quadrilater-
+                                         als that are circle-plus-crossing-river type. These can be 
+                                         ﬁlled by either the sawhorse molecule (if we’re lucky) or 
+                                         gusset molecule (if we’re not). On the sides, we have two 
+                                         triangles of the circle-plus-river type; we can ﬁll these in 
+                                         with rabbit-ear molecules. The rest of the paper is taken 
+                                         up by four triangles at the four corners of the square; since 
+                                         these triangles only contribute to two flaps each, they 
+                                         are essentially unused, and we can fold them underneath 
+                                         and ignore them (or pull them out later in the model if a new 
+                                         use arises).
+                                             With regard to the quadrilaterals, the choice of a 15° ge-
+                                         ometry was lucky (or inspired) because it allows us to use the 
+                                         much simpler sawhorse molecule in the crease pattern. Filling 
+
+
+            Figure 10.38. 
+            Generic form of the filled-in 
+            crease pattern.
+
+     374
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

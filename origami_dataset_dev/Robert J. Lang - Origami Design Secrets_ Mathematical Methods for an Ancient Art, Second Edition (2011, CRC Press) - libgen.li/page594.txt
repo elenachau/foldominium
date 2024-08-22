@@ -1,0 +1,49 @@
+                                             But the second difference is even bigger: instead of creat-
+                                         ing molecular crease patterns that encompass parts of multiple 
+                                         ﬂaps, we can create the ridge creases for each polygon and 
+                                         river independently, and each region is an isolated ﬂap. That 
+                                         is, we treat each polygon and river in isolation and construct 
+                                         its ridge creases completely independently of all of the other 
+                                         hinge polygons. There is, again, some “magic” in how creases 
+                                         all work together, but in this case, the “magic” is that even if 
+                                         we construct the ridge creases for the independent polygons, 
+                                         they will all work together in the overall crease pattern.
+                                             So how do we construct these ridge creases? There are, as 
+                                         we have seen, two classes of polygons: hinge polygons (which 
+                                         can be squares, rectangles, or more irregular shapes), and hinge 
+                                         rivers (which are rectilinear). 
+                                             The hinge rivers are the easiest to construct ridges for, 
+                                         especially with uniaxial box pleating. In fact, they’re ridicu-
+                                         lously simple. Everywhere the river makes a bend, you launch 
+                                         a 45-degree ridge crease from the corner that travels across 
+                                         the river until it hits the opposite corner on the other “bank” 
+                                         of the river, as shown in Figure 13.15.
+
+
+            Figure 13.15. 
+            Top: ridge creases in a hinge 
+            river. 
+            Lower left: ridge creases must 
+            connect corners of opposite 
+            banks of the river. 
+            Lower right: if a ridge crease 
+            misses the opposite corner, then 
+            the river is not constant width.
+
+                                             If it does not hit an opposite corner, then you haven’t 
+                                         constructed the river properly as a curve of constant width. In 
+                                         fact, one way of checking that the river has constant width is 
+                                         to draw all the ridge creases and make sure that all of them 
+                                         run from corner to corner.
+                                             The ridge creases for the hinge polygons get a little bit 
+                                         more interesting, depending on the shape of the hinge polygon. 
+                                         For a given size ﬂap, the smallest that a hinge polygon can be 
+                                         is a square, and the ridge creases for a square are easy; they 
+                                         are simply the diagonals of the square.
+                                             For a rectangle, the ridge crease pattern is also very 
+                                         simple. One extends the diagonals inward from the corners of 
+                                         the square. The two diagonals adjacent to each short side will 
+
+     582
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

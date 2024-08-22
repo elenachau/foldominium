@@ -1,0 +1,52 @@
+                                          F
+                       A
+
+
+                     E             B
+
+                                                                        Figure 11.2. 
+                                              C
+                                                         H              Schematic of a hypothetical 
+                                                                        uniaxial base for an animal with 
+                                                           D            four legs, a head, body, and tail. 
+                                       G                                It’s a uniaxial base if it can be 
+                                                                        manipulated so that all of the 
+                                                                        ﬂaps lie in a common plane and 
+                                                                        all of the layers are perpendicu-
+                                                                        lar to the plane. The shadow of 
+                                                                        the base consists entirely of 
+                                                                        lines.
+
+            to the layers of the base, as shown in Figure 11.2. This analogy 
+            can only be pushed so far, however. In many uniaxial bases—
+            even one as simple as the Bird Base—some ﬂaps are wrapped 
+            around others in such a way that the shadows of individual 
+            ﬂaps are unavoidably overlapping. The true shadow would 
+            show fewer segments than the number of edges possessed by 
+            the actual tree. To avoid such ambiguities, I will always show 
+            a tree with edges (and nodes) distinctly separated, as shown 
+            in Figure 11.3.
+                This point emphasizes another ambiguity about trees: 
+            There is no particular signiﬁcance to the orientation of the 
+            edges of the tree graph. All that matters are the edge weights 
+
+
+              B                                          B
+
+
+            A                                          A
+
+                             C                                          C      D
+                                    D
+
+                                               F                                          F
+                                              E                                         E
+            Figure 11.3. 
+            Left: shadow cast by a Bird Base. The shadows of wrapped ﬂaps are 
+            superimposed. 
+            Right: base and schematic tree. The shadow is perturbed to distinguish 
+            ﬂaps that are wrapped around one another.
+
+                                                                                                     403
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

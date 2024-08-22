@@ -1,0 +1,38 @@
+                                                                        Figure 11.34. 
+                                                                        Universal molecule for the 
+                                                                        polygon shown in Figure 11.33.
+
+                The string-of-beads method produces a single large polygon 
+            that must be collapsed into the base. The techniques described 
+            by Maekawa involve placing tangent circles in the contours 
+            shown in the last step of Figure 11.33, which is analogous to 
+            our use of additional circles to break down axial polygons into 
+            smaller polygons in the tree method. Kawahata’s algorithm 
+            projects hyperbolas in from the edges to locate reference points 
+            for molecular patterns, and produces yet another type of mol-
+            ecule.
+                One can also apply the universal molecule directly to the 
+            string-of-beads polygon, achieving another efﬁcient crease pat-
+            tern that collapses into a base.
+                Figure 11.34 shows the universal molecule. The initial 
+            hexagon is inset to the point that the two horizontal reduced 
+            paths become active, and the hexagon is split into two triangles 
+            and a rectangle. The triangles are ﬁlled with rabbit ear creases; 
+            the rectangle is further inset, forming a sawhorse molecule.
+                The tree method of design is based on equations and has 
+            been rigorously proven to work. Rigorous proof may ease one’s 
+            mind, but solving the equations can be quite difﬁcult to do 
+            by hand. Such computationally intensive problems are best 
+            handled by computer and, indeed, the procedures described 
+            above can be cast in the mathematical and logical terms that 
+            lend themselves to computer modeling. I have written a com-
+            puter program, TreeMaker, which implements these algorithms. 
+            Using TreeMaker, I’ve created bases for a number of subjects 
+            whose solutions have eluded me over the years—deer with 
+            varying sizes and types of antlers, 32-legged centipedes, ﬂying 
+            insects, and more. Using a computer program accelerates the 
+            development of a model by orders of magnitude; from the tree 
+
+                                                                                                     431
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

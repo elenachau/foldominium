@@ -1,0 +1,33 @@
+                          Base                                    Base                                   Base
+
+
+                 1. For an optimally efficient point split, 2. Now we’ll refold the model. The        3. Fold the sides in.
+                 the point where the base crease hits the top point isn’t used; fold it down.
+                 edge is separated from the desired point
+                 tip by a distance equal to half the
+                 separation between the point tips.
+
+
+                          Base
+
+
+                 4. Make creases that connect the       5. Squeeze the sides in so that the    6. Fold the excess paper from side to
+                 edges of the base with the points      extra paper swings downward,           side. Flatten firmly.
+                 that will become the tips of the two   using the creases on the far layers
+                 flaps. Turn the model over.            that you made in the previous step.
+
+
+                                                                                                         Base
+
+
+                 7. Reverse-fold the edge inside.       8. The finished split point. Now the           9. Crease pattern.
+                 Observe that the edge of the reverse   shortest path on the crease pattern is
+                 fold (the black dot) lines up with the also the shortest path on the folded
+                 previously defined base.               model.
+
+                Figure 5.9. 
+                Folding sequence for the ideal split.
+
+                                                                                                                                  101
+                                                                                     Chapter 5: Splitting Points
+© 2012 by Taylor & Francis Group, LLC

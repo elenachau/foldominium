@@ -1,0 +1,50 @@
+Once a third node has been created, the
+convex hull of the nodes (border paths)
+will be outlined as is shown in figure
+4.3.6.
+
+Each edge of the tree corresponds to a
+flap of the base. By repeatedly selecting
+nodes and clicking, you can build up
+arbitrarily complex trees with any
+number and arrangement of flaps.
+
+To remove a node or edge, simply select
+it  by clicking on it and do one of the
+following:
+
+Select the Cut command, Edit menu
+
+Select the Clear command, Edit menu
+
+Hit the <delete> or <forward delete> key
+
+Nodes, edges, and paths are some                       4.3.5
+examples of “parts.” Attributes of parts
+— the location of a node, the length of an
+edge, and so forth — can be altered by
+editing the part. How this is done is the
+subject of the next section.
+
+   4.4   Editing Parts
+
+All parts (nodes, edges, paths, polys,
+vertices, and creases) have attributes
+associated with them. Some are
+numerical settings; some describe
+relationships to other parts. You can edit
+many of these attributes in several ways.
+The most direct is to double-click on the
+part. Double-clicking brings up a dialog
+that displays all of the attributes of the
+part whether they are editable or not.
+This section describes all of the editor
+dialogs for each of the parts.
+
+      Nodes
+                                                       4.3.6
+If a node is double-clicked, the Node
+Editor is put up as shown in figure 4.4.1.
+
+
+                                  71

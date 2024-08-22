@@ -1,0 +1,15 @@
+                                       4.4.2
+
+Expert Mode displays additional noneditable information about the node at the bottom of the
+dialog. You don’t really need to know this information to design an origami base, but you might
+find it interesting; it tells you a little about how the data structure is put together.
+
+      Edges
+
+If an edge is double-clicked the Edge Editor is put up as shown in figure 4.4.3.
+
+
+                                       4.4.3
+
+
+                                  73

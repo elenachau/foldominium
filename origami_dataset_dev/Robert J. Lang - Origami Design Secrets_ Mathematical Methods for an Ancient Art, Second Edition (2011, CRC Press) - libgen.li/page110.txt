@@ -1,0 +1,44 @@
+                                         other, but you could only travel along the paper—you couldn’t 
+                                         jump across the gap. Imagine a microscopic bookworm that 
+                                         travels within a sheet of paper—that is, he crawls between the 
+                                         two sides of the sheet but never ventures to either surface. (He 
+                                         is a very shy bookworm.) How far must he crawl to get from the 
+                                         tip of one ﬂap to the tip of the other? Even without knowing 
+                                         anything about the folded structure of the two ﬂaps, we can 
+                                         say for certain that the bookworm must travel from the tip of 
+                                         one ﬂap down to its baseline, then back out to the tip of the 
+                                         other ﬂap (at a minimum) because there’s no shorter path that 
+                                         doesn’t require the bookworm to leave the paper, as shown in 
+                                         Figure 5.6. So the bookworm must travel the sum of the lengths 
+                                         of both ﬂaps. (And since it may not be possible to go from the 
+                                         baseline of one ﬂap directly to the other ﬂap via the interior of 
+                                         the paper, the journey could be even longer.)
+
+
+            Figure 5.6. 
+            Path followed by an origami 
+            bookworm.
+
+                                             Suppose, for the moment, that our bookworm were further 
+                                         restricted to traveling only along folded or raw edges. Then 
+                                         there is only a small number of paths he could travel along. 
+                                         The two shortest paths, labeled A and B, are shown in Figure 
+                                         5.7 by dashed lines (in some cases, he is traveling along hidden 
+                                         layers of paper). A third path, labeled C, is shown that does 
+                                         not follow existing folds.
+                                             It helps to distinguish the different paths by simultaneous-
+                                         ly examining the crease pattern and the model with the paths 
+                                         drawn on each. These are shown together in Figure 5.7.
+                                             Of course, paths A and B are only two of the possible paths 
+                                         the bookworm could take, but these are the two shortest paths 
+                                         that travel along folded or raw edges of the paper. Neither, 
+                                         however, is the shortest possible path from the bookworm’s 
+                                         point of view, which is the same whether the paper is folded 
+                                         or unfolded. That shortest path is easy to draw on the crease 
+                                         pattern; it’s a straight line. It’s a bit harder to work out what 
+                                         it is on the folded model, lying as it does in hidden layers of 
+                                         paper, but it is shown as path C in Figure 5.7.
+
+      98
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

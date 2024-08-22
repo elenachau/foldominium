@@ -1,0 +1,20 @@
+                                       4.2.2
+
+These are two different ways of viewing the same design. As is shown in the next section (Menu
+Commands), you can use the Custom View… command in the View menu to select which parts
+are shown and how they are shown.
+
+Some parts are color-coded to display their attributes. Color coding is summarized in the
+following tables.
+
+                      terminal cond’d     Node circle
+                       node      node       color
+
+                       false               no circle
+
+                        true    false       black
+
+                        true     true       green
+
+
+                                  66

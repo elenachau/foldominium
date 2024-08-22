@@ -1,0 +1,35 @@
+ with the polygon. You’ll have to rebuild the polygons yourself, which you can do by selecting
+ the Build Polys and Creases command from the Action menu. Then put the model back into
+ Creases Only view (View menu).
+
+The new crease pattern, shown in figure
+2.2.16, is mirror-symmetric about the                    6        2         1
+new symmetry line and is completely
+different from the crease pattern that has
+                                                          5        1
+book symmetry.                                     2      1.000     1.000
+                                                                            2
+Also, if you check the scale (at the top of
+the window), you’ll see that the scale has                 2
+fallen once again to 0.2626. So the          3                     6
+diagonal symmetry in this example is                                1.000
+                                                           2                7
+less efficient than book symmetry. In                       1.000
+general, you can orient a model along   4
+either symmetry line and will have very          3
+                                                            3       2
+different crease patterns for both                1.000
+configurations. Sometimes book                3
+symmetry will be more efficient,                        4   3
+sometimes diagonal symmetry will be                     1.000
+                 TreeMaker
+more efficient. With      , you can                  5
+easily check them both.
+
+                                                      2.2.15
+
+
+                                                      2.2.16
+
+
+                                  24

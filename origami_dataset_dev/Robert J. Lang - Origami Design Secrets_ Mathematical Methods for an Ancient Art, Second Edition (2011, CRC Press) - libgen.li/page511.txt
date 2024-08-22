@@ -1,0 +1,35 @@
+            1. Begin with a rectangle, creased in half the long way. 2. Pinch in the middle and fan out the
+            Fold a series of equal pleats along its length. edges.
+
+
+                                                                        Figure 12.40. 
+                                                                        Folding sequence for a pleated 
+                                 3. The result is a near circle.        circular coaster.
+
+                First: what is the minimum length rectangle needed for the 
+            ends to reach one another, i.e., to complete the circle? There are 
+            two levels of answer: a quick, simple approximation (for which 
+            you should ﬁnd a value close to 1:1.57); and then, a more ac-
+            curate answer that takes into account the height of the central 
+            region (and therefore, the number of pleat pairs).
+                Second: if you include a bit of excess length in the rect-
+            angle, can you ﬁnd an elegant way of joining the ends after 
+            you make the circle? There is no single answer to this, but it’s 
+            worth pursuing; when folded from paper money, this circular 
+            fan makes both a good coaster at a bar, and (depending on the 
+            denomination) a good tip after you’ve ﬁnished your drink. 
+                And what might one use this structure for in origami? 
+            Besides the examples shown in Trattato delle piegature and 
+            subsequent napkin-folding, a fan-fold shows up in Yoshizawa’s 
+            peacock and many others’ origami renditions of this and similar 
+            subjects. You will see it in one of my own designs in the folding 
+            instructions at the end of this chapter.
+                Simple straight pleats are only the beginning, though. 
+            The possibilities really begin to explode when we start adding 
+            creases that run across the pleats.
+                We can add cross folds efﬁciently by making the cross folds 
+            ﬁrst and then pleating. Merely the presence of the additional 
+
+                                                                                                     499
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,37 @@
+            Figure 7.23. 
+            Another tile unit for ﬁsh scales 
+            that is more efﬁcient. Top: the 
+            tile and its crease pattern. 
+            Bottom: a 2 × 2 array and its 
+            crease pattern.
+
+                                         experimentation reveals a somewhat more efﬁcient tile, shown 
+                                         in Figure 7.23 in both folded form and crease pattern.
+                                             In this second tile, the crease pattern is 41% larger than the 
+                                         folded form (2.0 times in area), so is more efﬁcient in its use of 
+                                         paper than our ﬁrst scale pattern, as shown in Figure 7.24. 
+
+
+                                                                    1+1/√2
+                                                     1+√2
+                                                                        1/√2
+                                                   1   2+√2
+                                                                     2+2√2
+                                                                            √
+            Figure 7.24.                                                   1+ 2
+                                                            2 + 2√2
+            Dimensions of the new scale                          ≈1.41
+                                                             + √
+            tile.                                           2   2
+
+                                             In fact, the maximum number of layers in any region of this 
+                                         tile (seven) is roughly half of the maximum for the sunken-tip 
+                                         pattern, as shown in Figure 7.25. Its efﬁciency comes from the 
+                                         fact that, relatively speaking, the pleats are half the width of 
+                                         the pleats in the previous pattern.
+                                             An interesting side note: Did you notice that all regions 
+                                         have an odd number of layers? It’s not hard to show that this 
+
+     212
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

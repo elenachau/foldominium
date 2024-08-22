@@ -1,0 +1,30 @@
+             5. Continue with the       6. This gives an        7. Sinking the vertical    8. Like this.
+             doubly pleated form.       array of sharp          edges transforms the
+             Reverse-fold the raw       points or scales.       array into a series of
+             edges between the pleats                           triangular teeth.
+             as far as possible. Valley-
+             fold on front and back
+             layers to match.
+             Figure 12.42. 
+             Further transformations on the doubly pleated array.
+
+
+             5. Stretch the outside of            6. Grasp each pleat and pull          7. A curved doubly pleated
+             each pleat apart to create a         it apart with a twist; then           section.
+             curved array.                        move on to the next.
+             Figure 12.43. 
+             Stretching a doubly pleated region to impart a curve.
+
+             stretch each pleat asymmetrically; this allows either positive 
+             or negative curvature, as shown in Figure 12.43. 
+                  One can also stretch an array of pleats in the opposite 
+             direction to create a concave surface, or in both directions in 
+             different places to create smoothly varying apparent curvature. 
+             In both cases, you are reducing the size of each horizontal pleat 
+             on one side or the other, changing each from a parallel-crease 
+             pleat to an angled pleat. The maximum bend, and the limit 
+             of stretching, occurs when one side or the other is entirely 
+
+                                                                                                                 501
+                                                                          Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,27 @@
+                                         either case, all polygons are either triangles or quadrilaterals, 
+                                         and so one can now ﬁll in the polygons with the appropriate 
+                                         tiles, giving the resultant crease pattern, shown superimposed 
+                                         over the circles in Figure 9.21.
+
+
+            Figure 9.21. 
+            The ﬁnished crease pattern.
+
+                                             Although the method of circle packing seems to be very 
+                                         straightforward, there are many choices to be made along the 
+                                         way, each giving a different result. For example, when placing 
+                                         the pedipalps, we could have placed them at the top of the square 
+                                         and put the abdomen down in the central hexagon, giving the 
+                                         circle packing and crease pattern shown in Figure 9.22.
+
+
+            Figure 9.22. 
+            An alternative circle packing 
+            and crease pattern.
+
+                                             The choice of which packing to use will be affected by vari-
+                                         ous factors. For example, in the pattern of Figure 9.21, the two 
+
+     312
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

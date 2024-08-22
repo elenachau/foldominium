@@ -1,0 +1,45 @@
+                                         the corners nearest the body; therefore, we need to introduce 
+                                         gaps between the left and right wings (and, if we want separate 
+                                         fore and aft wings, between those pairs as well).
+                                             We saw how to introduce gaps back when we were split-
+                                         ting points in Chapter 6; we added a strip graft between the 
+                                         regions that needed a gap. The width of the strip was twice the 
+                                         depth of the gap. We can do that here using the unassigned 
+                                         paper for the graft. In Figure 15.3, I’ve added diagonal creases 
+                                         that delineate the gap. I’ve also added half-circles, which do 
+                                         the same. A gap can be considered to be two half-ﬂaps, joined 
+                                         at their base; consequently, we can use portions of circles (and 
+                                         portions of molecular crease patterns) to construct the gaps as 
+                                         well as the ﬂaps.
+
+                                                                    gap
+
+                                                      wing                        wing
+
+
+                                                                  unassigned
+
+
+            Figure 15.3. 
+            Between adjacent pairs of wings 
+            we introduce gaps (pairs of half-
+            points). The paper required for           wing                        wing
+            the gaps is indicated by the half 
+            circles.
+
+                                             In this model, I’ve made the gaps two-thirds of the length 
+                                         of the side of the wing triangles. It’s possible, of course, to ex-
+                                         tend the gaps all the way to the tips of the wing triangles, but 
+                                         if I extend it only partway, then I can use the corners of the 
+                                         wing triangles in a different way, as four points of the cluster 
+                                         of points forming body, legs, and antennae.
+                                             The head, legs, and abdomen all emanate from the same 
+                                         point. To a reasonable approximation, the antennae can also be 
+                                         treated as emanating from the same location, which means that 
+                                         all ten ﬂaps—two antennae, six legs, abdomen and head—can 
+                                         be represented by a simple circle packing. We will now require 
+                                         that the circles not just ﬁt into the square, but that they not 
+
+     702
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

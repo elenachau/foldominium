@@ -1,0 +1,49 @@
+                                         new, but once we recognize the function of a structure, we can 
+                                         then use, adapt, modify, and improve it, and make it one more 
+                                         tool in our designer’s arsenal.
+
+                                         14.2. Layer Management
+                                         Level shifting allows one to selectively widen (or narrow) ﬂaps. 
+                                         That allows one to, for example, make a body wider than the 
+                                         legs, or distribute layers across the width of a ﬂap, reducing (or 
+                                         at least, balancing) the overall thickness of the ﬂap. This is a 
+                                         useful capability. When one is designing a complex base, even 
+                                         with thin paper, the paper thickness plays a non-negligible 
+                                         role in the ﬁnished ﬁgure. When used well, it can add needed 
+                                         three-dimensionality to the fold. It can also get in the way, 
+                                         though, driving upward the thickness of ﬂaps that need to be 
+                                         thin (legs, antennae), or simply unbalancing thickness. If one 
+                                         folds an insect with six legs so that four of the legs come from 
+                                         the corners and the other two come from the edges, then those 
+                                         edge ﬂaps will have roughly twice as many layers as the corner 
+                                         ﬂaps. This can produce a notable imbalance in the apparent 
+                                         thickness of the legs.
+                                             Paradoxically, the solution to such an imbalance, with 
+                                         some legs too thick, is to add layers to the legs that are too 
+                                         thin. If the thicknesses are balanced, it is much less noticeable. 
+                                         This selective addition of layers to ﬂaps can be accomplished 
+                                         by enlarging the corresponding hinge polygons.
+                                             Fine-grained layer control is an ability that polygon pack-
+                                         ing offers that is not readily available in circle/river packing. 
+                                         In the latter, the individual ﬂap polygons are deﬁned late in 
+                                         the design process, and you “get what you get.” In polygon 
+                                         packing, we can tinker with the layers in individual polygons, 
+                                         giving much more control over the thickness of the correspond-
+                                         ing ﬂaps.
+                                             The way we add layers to ﬂaps in uniaxial box pleating 
+                                         is simple: we make the ﬂap polygon larger than its minimum 
+                                         size. Since all of the paper within the polygon is going to go 
+                                         into the ﬂap, making the polygon larger while maintaining the 
+                                         length and width of the ﬂap insures that the average amount 
+                                         of paper in the ﬂap increases.
+                                             All leaf ﬂaps (those with one free end) taper in their 
+                                         number of layers, with the fewest layers near the tip and the 
+                                         most near the base, where it joins the rest of the model. This 
+                                         relationship is evident in circle-packed bases, where ﬂaps tend 
+                                         to be triangular; it is less evident, but no less true, in uniaxial 
+                                         box-pleated bases. The number of layers at the base tends to 
+                                         increase linearly with distance from the tip, and is, for evenly 
+
+     632
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

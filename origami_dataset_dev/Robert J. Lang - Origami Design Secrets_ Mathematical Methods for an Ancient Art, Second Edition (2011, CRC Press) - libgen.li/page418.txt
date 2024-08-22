@@ -1,0 +1,50 @@
+                                             Since the tree graph is the shadow of the base, distance 
+                                         along the bottom of the base is the same as the distance mea-
+                                         sured along the tree graph. Thus, the distance between two leaf 
+                                         vertices on the square must be at least as large as the distance 
+                                         between the corresponding two leaf nodes as measured along 
+                                         the edges of the tree. If the path on the tree graph doubles 
+                                         back or has any uphill or downhill component, as illustrated 
+                                         in Figure 11.6, the distance between the leaf vertices must be 
+                                         absolutely larger than the distance on the graph.
+
+
+                                                                       P1
+                        P1
+                             l                                               l1
+                             1                                                       l2       l3
+                                                                                     α          P2
+                                     l2                                P1
+
+
+                                               l3
+
+                                                    P2
+                                                                                                P2
+
+
+                                         Figure 11.6. 
+                                         A straight path on the square maps to a path in the base that may 
+                                         have uphill (and/or downhill) components.
+
+                                             And in particular, this relationship must hold for any two 
+                                         points on the base that correspond to nodes on the tree. Now 
+                                         while this condition must hold for any pair of points on the 
+                                         base, it turns out that if it holds for every pair of leaf nodes, 
+                                         it will hold for every pair of points on the base. That is, if you 
+                                         can identify a set of points on the square corresponding to all 
+                                         of the leaf nodes of a tree—the leaf vertices—and the leaf ver-
+                                         tices satisfy the condition that the distance between any pair 
+                                         of them is greater than or equal to the distance between the 
+                                         corresponding nodes as measured on the tree, then it is almost 
+                                         always guaranteed that a crease pattern exists to transform the 
+                                         square into a base whose projection is the given tree.
+                                             This is a remarkable property. It tells us that no matter 
+                                         how complex a desired base is, no matter how many points it 
+                                         may have and how they are connected to one another, we can 
+                                         always ﬁnd a crease pattern that transforms the square (or 
+                                         any other shape paper, for that matter) into the base. Putting 
+
+     406
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

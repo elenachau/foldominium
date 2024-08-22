@@ -1,0 +1,33 @@
+            a raw edge, and so the resulting pattern may end up being 
+            slightly easier to fold neatly—particularly if it is a very com-
+            plex and/or highly stressed pattern.
+                Hex pleating offers some additional beneﬁts, too; hexa-
+            gons are closer to circles than squares, and so hex pleating has 
+            the potential to give more efﬁcient packings than the square 
+            packings of box pleating. But that is only a potential, not a 
+            deﬁnite, rule; whether a hex-pleated packing, or a box-pleated 
+            packing, or box pleating plus Pythagorean stretches is more ef-
+            ﬁcient will depend on the speciﬁcs of the design. I have found a 
+            few designs where hex pleating provides an interesting and/or 
+            elegant crease pattern. Hex-pleated contour maps and folded 
+            forms are shown in Figures 14.47 and 14.48 as two examples: 
+            a Cyclomatus metallifer beetle and a scorpion. 
+                The Cyclomatus is similar to the Cicada Nymph in that 
+            most of the axis-parallel folds (and layers of paper) are shifted 
+            to higher elevation; most contours are axial+1 and axial+2. You 
+            will see, though, a few axial contours—notably the ones that give 
+            rise to the cleft between the wing covers of the beetle. You will 
+            ﬁnd a fully assigned crease pattern at the end of the chapter.
+                The  Scorpion, too, uses multiple levels and numerous 
+            level shifters to keep the legs thin and the body wide, as you 
+            can see in Figure 14.48. It, too, has a fully assigned crease 
+            pattern at the end of the chapter.
+
+
+            Figure 14.47. 
+            Contour map, base, and folded model of a hex-pleated Cyclomatus 
+            metallifer beetle. 
+
+                                                                                                     669
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

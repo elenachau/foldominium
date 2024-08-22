@@ -1,0 +1,51 @@
+                              8.0 Final Stuff
+
+    8.1 Comments and Caveats
+
+ While TreeMaker is a very powerful tool for origami design (if I do say so), it is important to be
+ aware of its limitations, so you don’t try to use it for something it’s not suited for. There are also
+ several subtleties to TreeMaker design that, when properly accounted for, will further improve
+ your productivity.
+
+ Keep in mind that TreeMaker is basically a dumb optimizer; it does not seek out symmetries that
+lead to particularly elegant folding sequences, nor does it recognize when a slight modification of
+the lengths of branches might allow a more elegant or symmetric folding sequence. TreeMaker
+always takes the brute-force approach, seeking the absolute optimum, even when a slight
+deviation from the optimum would make a much more elegant model. However, you can
+recognize when a particularly symmetric configuration is close at hand and can set conditions to
+force a symmetric and/or more elegant solution.
+
+Also, TreeMaker finds local optima, not global optima. If you see a lot of unused space in the
+crease pattern, you might consider rearranging a few circles and restarting the search routine.
+You may find a better solution with a different initial trial solution. In general, efficient solutions
+have many 3- and 4-sided polygons after the first optimization. If you find that you get several
+polygons with a large number of sides, try dragging one or more nodes into the center of the big
+polygon and re-optimizing.
+
+Most importantly, some subjects just don’t lend themselves to design using tree theory. Since
+tree theory abstracts the model as a stick figure, for subjects that can be approximated by a stick
+figure, TreeMaker works very well; but for subjects that are not easily turned into a stick figure,
+TreeMaker is the wrong tool for the job. For example, for chunky models or models that require
+large flat regions (such as a hippo or butterfly) other design algorithms are likely to do a better
+job than TreeMaker. Also, since the tree itself is inherently one-dimensional, you can’t specify
+ colors directly for models that show both sides of the paper; while you can force flaps to be edge
+ or corner flaps (and thus are easily reversible), you can’t easily design complex two-toned
+ models such as zebras or tigers.
+
+ Finally, keep in mind that for all its power, TreeMaker only provides a base. It’s still up to you to
+thin the flaps and convert the base into the final model, and there is a lot of room for
+personalizing, customizing, and putting your own stamp of artistry onto your design.
+
+TreeMaker is written in C++ using Metrowerks’s CodeWarrior development environment.
+Versions prior to 4.0 of TreeMaker may be freely distributed provided that you include all
+documentation and the copyright notice unmodified and that you do not charge anything for it.
+Version 4.0 may not be freely distributed due to copyright restrictions on some of the code. See
+the cover page of this manual for license terms.
+
+TreeMaker is constantly evolving, and my priorities are to fix known bugs and add features but
+not to deal with obscure incompatibilities. It ain’t bulletproof, and while I currently know of no
+life-threatening bugs and will try to fix any that I hear about, it still may exhibit unexpected
+behavior (i.e., crashes). Have fun playing around, but use it at your own risk.
+
+
+                                 169

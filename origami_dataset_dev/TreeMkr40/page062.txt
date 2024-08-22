@@ -1,0 +1,22 @@
+                                     3.5.6
+
+Notice that the node already has three conditions on it — conditions on the paths that emanate
+from it. From the popup menu, select a “Node fixed to position” condition, and turn on the
+conditions for both the x and y coordinates, fixing both to the value 0.0000.
+
+
+                                     3.5.7
+
+Then click on OK.
+
+Repeat on node 6, this time fixing it to x=1.0000, y=0.0000.
+
+Now Select All (from the Edit menu) and choose the command Optimize Strain from the
+Action menu.
+
+This is a different optimizer than we chose before. The reason is that once we start putting a lot
+of conditions on the crease pattern (and particularly path conditions), it becomes impossible to
+satisfy all the conditions without distorting the original tree. The Optimize Strain command
+
+
+                                 62

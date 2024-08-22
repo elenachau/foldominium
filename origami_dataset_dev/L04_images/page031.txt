@@ -1,0 +1,10 @@
+Developability condition
+to be used
+• Constraints
+   – For every interior vertex v 
+    (kv-degree), gauss area
+    equals 0.               GC<0     GC=0     GC>0
+
+               kv
+   Gv  =2π   −∑   θi = 0
+               i=0

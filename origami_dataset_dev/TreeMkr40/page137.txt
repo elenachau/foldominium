@@ -1,0 +1,17 @@
+Figure 5.29. Construction of the universal molecule for the polygon shown in figure 28.
+Figure 5.29 shows the universal molecule. The initial hexagon is inset to the point that the two
+horizontal reduced paths become active, and the hexagon is split into two triangles and rectangle.
+The triangles are filled with rabbit ear creases; the rectangle is further inset, forming a Maekawa
+molecule.
+
+Figure 5.30 compares the crease pattern obtained from this polygon by adding an additional node
+to the tree pattern (i.e., adding a middle flap) and that obtained with the universal molecule. (Tri-
+state creases are shown as dotted lines.)
+
+
+Figure 5.30. (Left) Crease pattern obtained by adding an additional node to the hexagonal active
+polygon. (Right) Crease pattern obtained by using the universal molecule.
+A nice feature of the universal molecule is that it is very frugal with creases. A tree filled in with
+universal molecules tends to have relatively few creases and large, wide flaps (which can, of
+
+                                 137

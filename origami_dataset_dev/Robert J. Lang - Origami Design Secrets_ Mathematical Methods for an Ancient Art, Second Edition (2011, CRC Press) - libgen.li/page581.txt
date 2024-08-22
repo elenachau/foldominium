@@ -1,0 +1,35 @@
+                This design now consists of four axial polygons: a triangle 
+            at the bottom, a quadrilateral at the top (it looks like a triangle, 
+            but it’s actually a quadrilateral with one straight vertex), and 
+            the two heptagons that make up most of the model.
+                (Heptagons? Surely I mean hexagons, right? No, these are 
+            heptagons from the standpoint of ﬁlling with molecules; each 
+            has one vertex along the midline of the base that is straight, 
+            i.e., with a vertex angle of 180°. Each polygon takes in seven 
+            circles around its outside, ergo, it is a heptagon.)
+                Once we have a rigid packing, we can ﬁll in the creas-
+            es using our favorite system of molecules. As we saw in 
+            Chapter 10, it is possible to break up large polygons into 
+            triangles and quadrilaterals by adding additional circles that 
+            create extra ﬂaps in the open spaces, but for this example I 
+            am going to use the universal molecule (using TreeMaker to 
+            compute the positions of the vertices and creases). Figure 13.5 
+            shows the resulting crease pattern using the generic form 
+            introduced in Chapter 10, with all creases colored according 
+            to their structural role.
+
+
+                                                                       Figure 13.5. 
+                                                                       Crease pattern for the generic 
+                                                                       beetle with structural coloring.
+
+                As a reminder, with structural coloring, axial creases are 
+            green, ridges are red, hinges are blue, and gussets are gray. 
+            This coloring (which gives the orientation of the creases in 
+            the base) and the hints on folding direction provided by the 
+            generic form are enough to collapse such a crease pattern in 
+            practice using the approximate rules given in Chapter 10, 
+
+                                                                                                     569
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

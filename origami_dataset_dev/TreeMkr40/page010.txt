@@ -1,0 +1,33 @@
+Now we will add side branches to the
+tree. Click once on node 2 to select it,
+then click once to the left of node 2; this
+adds a leg. Click again on node 2 to
+select it and click once to the right of
+node 2; this adds another leg, as shown in
+figure 2.1.4.
+
+Got the hang of it? Now try to add two
+more legs to node 3, so that you wind up
+with something that looks like figure
+2.1.5.
+
+This stick figure represents an animal
+with a head, two front legs, a body, two
+rear legs, and a tail. It will be used to
+define a base with flaps for the head,
+legs, body, and tail. Since all of the edges
+of the stick figure have the same relative
+length, each of the flaps of the base (and
+the body) will be the same length in this              2.1.4
+example.
+
+Note that the nodes are outlined by lines.
+These lines are called border paths;
+they’ll define the usable region of the
+square when we’re done.
+
+
+                                                    Figure 2.1.5
+
+
+                                  10

@@ -1,0 +1,26 @@
+                                         other types of subject that incorporate branching patterns into 
+                                         their form. Recall the Roosevelt Elk from Chapter 11, which had 
+                                         elaborately branched antlers but a host of complicated reference 
+                                         points to ﬁnd. A moose would seem to offer a similar challenge. 
+                                         Figure 13.42 shows a stick ﬁgure and two circle-packed crease 
+                                         patterns, computed from tree theory. The pattern on the left 
+                                         is the simplest ﬁgure that ﬁts into the square; the pattern on 
+                                         the right has received some tweaking to try to simplify the 
+                                         folding pattern. Neither of them, however, appears particularly 
+                                         desirable to fold.
+
+
+                                         Figure 13.42. 
+                                         Top: stick ﬁgure for a moose. 
+                                         Bottom left: a minimally optimized crease pattern. 
+                                         Bottom right: a modiﬁed crease pattern adjusted to simplify the 
+                                         pattern.
+
+                                             But with uniaxial box pleating, we can create a simple 
+                                         crease pattern that goes all the way to the base and folded 
+                                         model in a relatively straightforward way, illustrated in Fig-
+                                         ure 13.43.
+
+     608
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,20 @@
+                  B1                   B5                  B8                  B11
+
+
+                  B2                   B6                  B9                  B12
+
+
+                  B3                   B7                  B10                 B13
+
+
+                  B4                                                           B14
+
+
+                                                                               B15
+
+           Figure 4.5. 
+           Uchiyama’s B bases.
+
+      60
+                     Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

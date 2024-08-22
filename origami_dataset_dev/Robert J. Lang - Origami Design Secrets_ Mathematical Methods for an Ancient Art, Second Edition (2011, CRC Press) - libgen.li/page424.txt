@@ -1,0 +1,57 @@
+                                                                     A
+
+                                                              EF
+
+                                                                      B
+
+                                                         EF
+                                                A                                         A
+                                                                B          B
+                                                                     A
+                                         E                                                       F
+
+                                                 B               B       B                 B
+
+                                                             C               C
+                                                 C                                         C
+
+                                         G                                                       H
+                                                        GH
+                                                               C           C
+
+                                                                     D
+
+                                                                     A
+
+
+                                                                      B
+
+            Figure 11.10.                                             C
+            The four axial polygons for the 
+            six-legged base and the sub-                      GH
+            trees corresponding to each 
+            subbase.                                                 D
+
+                                         ﬁrst polygon into a subbase must be compatible with a crease 
+                                         pattern that collapses the adjacent polygon into its subbase. In 
+                                         tiles, we enforced this matching by drawing circles and rivers 
+                                         within axial polygons and forcing the circles and rivers to line 
+                                         up. Then, when we introduced molecules, we found that circle/
+                                         river alignments could be enforced by requiring alignment of 
+                                         the tangent points of the circles.
+                                             Let’s look at the circle/river treatment of this problem. 
+                                         When the path conditions are written as equations, it is difﬁ-
+                                         cult to form an intuitive picture of them, but the value of such 
+                                         a treatment is that this optimization can be formulated as a 
+                                         set of equations capable of being solved by existing computer 
+                                         algorithms. We could have also solved for a base correspond-
+                                         ing to this tree by the circle/river method; if we did this, we 
+                                         would have arrived at a conﬁguration of circles and rivers 
+                                         that we can superimpose on the rudimentary crease pattern 
+                                         from Figure 11.8, as shown in Figure 11.11.
+                                             Figure 11.11 makes it clear: The tangent points, which we 
+                                         introduced in an ad hoc way in the previous chapter, are sim-
+
+     412
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

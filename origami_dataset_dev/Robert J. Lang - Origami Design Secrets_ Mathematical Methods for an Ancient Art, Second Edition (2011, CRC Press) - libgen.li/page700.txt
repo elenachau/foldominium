@@ -1,0 +1,11 @@
+             Longhorn Beetle
+
+
+             Mark the edges of a 24x24 square grid. Use the edge
+             markings to locate interior vertices. Note the use of
+             level shifters to selectively widen regions of the body.
+
+
+     688
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

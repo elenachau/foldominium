@@ -1,0 +1,26 @@
+Basics of Rigid Origami
+Angular Representation                C2(ρ2)
+                            C3(ρ3)
+                                             χ1= CB 1 12
+• Constraints                      B23 λ2
+                                λ3    B12    χ = CB
+                                          C1(ρ1) 2 2 23
+   – [Kawasaki 87]               B34  λ1
+                                     B41     χ3= CB 3 34
+    [belcastro and Hull 02]       λ4
+                                             χ4= CB 4 41
+
+        χ1  χn−1 χ n = I          C4(ρ4)
+
+   – 3 equations per interior Generic case:
+    vertex
+                               DOF = Ein     -3Vin
+• Vin interior vert + 
+                                       +
+  Ein foldline model:
+                           ρ =[]ICCN −    ρ 0
+   – constraints:
+                  =                 +            
+          []C   ρ   0      where C    is the     
+         ×                                        
+      3VEinin matrix       pseudo -inverse of C

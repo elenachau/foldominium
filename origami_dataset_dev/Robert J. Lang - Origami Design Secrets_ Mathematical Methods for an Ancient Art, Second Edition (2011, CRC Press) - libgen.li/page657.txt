@@ -1,0 +1,48 @@
+                Part of the reason we have conﬂict with odd-order Py-
+            thagorean stretches is that we have assumed as part of the 
+            geometry that the gusset is itself axis-parallel; this implicitly 
+            assumes that the two circle centers lie at the same elevation. 
+            If one is axial, the other must be axial. But the fact that their 
+            separation, measured along the perimeter of the two overlap-
+            ping squares, is odd suggests that if we want alternating eleva-
+            tions, the two circle centers should lie at different elevations. 
+            And this, in turn, gives an entirely different geometry to the 
+            creases and vertices in the region of overlap.
+                We can solve for the dimensions of this new geometry. 
+            It is similar to that of Figure 14.16, but now the two vertices 
+            A and B, instead of both being shifted upward from the axis 
+            in the folded form are shifted equal distances, one upward 
+            from the axial contour, the other downward from the axial+1 
+            contour, as shown in Figure 14.22. 
+
+
+                    r2
+
+                A
+                  A′
+
+               h
+
+
+            s2
+
+                                          r1
+                                                             h A
+                                                                                                 h
+                                   B′                          A′                             B′
+                                    B                                                           B
+                          s1                                                   d
+            Figure 14.22. 
+            Schematic of an offset Pythagorean stretch. Left: crease pattern. 
+            Right: projection of the folded form with ridge creases in red.
+
+                If we again denote the offset distance by h, we ﬁnd a 
+            somewhat different expression for the offset in this conﬁgu-
+            ration:
+                                 s2 + s2 − (d 2 +1)
+                       h       =  1   2             .          (14–5)
+                                 4(s1 + s2 − (d +1))
+
+                                                                                                    645
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,49 @@
+                                                    Node
+                                  VertexOwner
+                                                    Path
+                                  CreaseOwner
+                   NodeOwner                         Poly
+                                  PolyOwner
+                   PathOwner
+                                                     Tree
+                                  EdgeOwner
+                                     7.10
+
+There are a couple of interesting aspects of these relationships that could be confusing:
+
+1. A Poly can own other Polys, which are called subPolys.
+
+2. Both Poly and Tree own Polys and hence (through inheritance) also own Nodes and
+Paths. A Poly owns all Nodes that are fully enclosed by the Poly and owns all Paths that
+connect those Nodes.
+
+Both Poly and Path can own Creases. However, only the Tree can own Edges.
+
+3. Both Nodes and Paths can own Vertices.
+
+The owner for an object has a member variable that points back to the owner; e.g., the Node
+object has a member variable, mOwnedNodes, that points to the NodeOwner.
+
+Because the behavior of different types of Owners is similar, there is some logic to embedding
+ownership behavior into a template class (e.g., Owner<Vertex>, Owner<Node>, etc.).
+However, I found that it is easier to follow the code if I give each owner a unique name
+(“mNodeOwner”) and use unique names for owned objects (“mOwnedNodes”). Also, as you
+will see, there are some member functions unique to particular Owner classes.
+
+Here are the types of objects that other objects own:
+
+A terminal Node or ring Node may own a single Vertex that coincides with the position of the
+Node.
+
+The following types of Paths own Creases: active paths, spoke paths, ridge paths, and
+optionally, ring paths.
+
+Active paths, ring paths, and ridge paths can own internal vertices as well that lie along the paths.
+
+A Poly owns radial Creases that connect to its reduced polygons and/or any ridge Crease. A
+Poly also owns Creases that run between internal vertices. A Poly also owns its sub-polys.
+
+A Tree owns its Nodes, Edges, Paths, and Polys.
+
+
+                                162

@@ -1,0 +1,37 @@
+                                         consumed. Great bends are possible by making deeper pleats 
+                                         to start with, and a wide variety of forms are possible; British 
+                                         artist Paul Jackson has created a wide variety of bowls and 
+                                         abstract shapes using such stretched pleats.
+                                             It is instructive to pull apart one of these forms to exam-
+                                         ine the crease pattern. The crease pattern for the structure of 
+                                         Figure 12.43 is shown in Figure 12.44.
+
+
+                                         Figure 12.44. 
+                                         Crease pattern of a doubly pleated structure. 
+                                         Left: before stretching. 
+                                         Right: after stretching.
+
+                                             As you can see, the angles of the valley folds have changed. 
+                                         They are no longer parallel; they are angled, and that is what 
+                                         gives the overall curve to the structure. The crease pattern has 
+                                         obvious translational symmetry; each pair of vertical columns 
+                                         of panels is repeated horizontally, so that the overall form is 
+                                         entirely speciﬁed by a single pair of columns. Let’s focus in on 
+                                         a single column pair, as shown in Figure 12.45.
+                                             Narrowing our focus to a single column of the pleated pat-
+                                         tern lets us consider more broadly what the possibilities are for 
+                                         pleated forms. This shape is nothing more than a simple strip 
+                                         of paper folded in half and then crimped with angled folds. We 
+                                         can turn this strip into a pleated form by making use of the 
+                                         translational symmetry: the fact that the left and right sides of 
+                                         the strip are superimposed in the ﬂattened folded form means 
+                                         that we can, in principle, glue together multiple strips along 
+                                         their edges. That is, we can graft vertical strips together. We 
+                                         can do so with simple parallel crimps; we can do so with angled 
+                                         crimps; but we can do so with far more complex treatments of 
+                                         this vertical strip.
+
+     502
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,35 @@
+            Figure 12.29. 
+            Crease pattern and folded form for a 3-unit-long ﬂap.
+
+            our 8 × 8 grid, so to go to longer and longer ﬂaps, we’d need to 
+            go to a larger number of squares in our grid.
+                Even from these three examples, though, you can begin 
+            to see the pattern: the region of the paper that goes into the 
+            ﬂap is a 1:2 rectangle with alternating mountain/valley creases 
+            emanating from the midpoint of one side to the opposite cor-
+            ners. The three sides of this rectangle that connect to the rest 
+            of the paper do so with alternating pleats. These pleats are 
+            very regular structures. You can see, I think, that it would be 
+            relatively easy to connect these pleats to other ﬂaps or boxes 
+            of the sort we created at the beginning of this chapter.
+                One other observation here is that with this pattern, in 
+            which the ﬂap comes out on the white side of the paper, the 
+            color of the ﬂap itself alternates with its length: odd-length ﬂaps 
+            are colored, even-length ﬂaps are white. But this is not strictly 
+            required; we can, in fact, change the even-length ﬂaps to col-
+            ored (or odd-length ﬂaps to white) simply by devoting another 
+            vertical strip to the T-graft, as shown in Figure 12.30.
+                Now look at the top edge of the paper, starting from the left 
+            side. For colored ﬂaps, no matter what their length is, the ﬁrst 
+            vertical crease is a valley fold. The next is a mountain. And from 
+            there, they alternate, mountain/valley, with the total number 
+            of creases depending on the length of the individual ﬂaps.
+                Since the pleat creases are perpendicular to the edges of 
+            the paper, this means that we could easily create two ﬂaps of 
+            the same size along the edge of the paper by simply connecting 
+            two T-grafts to each other so that the vertical creases of the 
+            pleats match up, as illustrated in Figure 12.31.
+
+                                                                                                     487
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

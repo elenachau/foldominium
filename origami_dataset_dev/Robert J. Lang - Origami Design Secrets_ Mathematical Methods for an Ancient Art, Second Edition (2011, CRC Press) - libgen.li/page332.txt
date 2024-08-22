@@ -1,0 +1,30 @@
+                                         N = 1                  N = 2                    N = 3
+
+
+                                         N = 4                  N = 5                    N = 6
+
+
+                                         N = 7                  N = 8                    N = 9
+                                         Figure 9.30. 
+                                         Crease patterns for optimal bases with one through nine ﬂaps.
+
+                                             In each ﬁgure, I have drawn in the major creases of the 
+                                         base. Notice something: Wherever two circles touch, there is a 
+                                         major crease connecting the centers of the two circles. These 
+                                         lines are shown as mountain folds in the ﬁgures. Note, too, that 
+                                         any crease that hits one of these mountain lines other than at 
+                                         a circle center hits it at a right angle. These properties hint at 
+                                         some deeper relationships between circle packings and their 
+                                         corresponding crease patterns. As we will see in later sections, 
+                                         there are several different types of creases that all share con-
+                                         sistent properties.
+                                             You might ﬁnd it an illuminating exercise to transfer the 
+                                         crease patterns shown here to origami paper squares and to 
+                                         fold the corresponding bases to verify that they do, indeed, have 
+                                         the proper number of ﬂaps and that the ﬂaps are all the same 
+                                         size within each base. You will also discover something about 
+                                         the coloring pattern of the creases. Most of the black creases 
+
+     320
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

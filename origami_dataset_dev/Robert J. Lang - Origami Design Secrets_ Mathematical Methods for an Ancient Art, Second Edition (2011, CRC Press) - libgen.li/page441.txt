@@ -1,0 +1,32 @@
+            Figure 11.32. 
+            Crease patterns and folded forms for three different molecular 
+            solutions to the ﬁve-ﬂap pentagon. 
+            Left: stub plus gusset quad. 
+            Middle: two stubs. 
+            Right: universal molecule.
+
+                Since polygon subdivision is commonly called for in several 
+            places, you can mix and match approaches; say, add a stub 
+            to fracture a polygon, then ﬁll in the results with universal 
+            molecules. Or you could apply the universal molecule to some 
+            polygons and subdivide others. As the number of sides of the 
+            initial polygon grows, the possibilities explode. All crease pat-
+            terns will be foldable into bases with the same number and 
+            length of ﬂaps as was speciﬁed by the tree; the differences lie 
+            in the width of the ﬂaps, the presence of extra ﬂaps, and the 
+            number of layers of paper that lie along the axis of the base. 
+            Figure 11.32 shows the folded form for three of the crease pat-
+            terns for the ﬁve-ﬂap pentagon.
+                These images also illustrate some general features of the 
+            different approaches. A nice feature of the universal molecule is 
+            that it is very frugal with creases. A tree ﬁlled in with universal 
+            molecules tends to have relatively few creases and large, wide 
+            ﬂaps (which can, of course, be subsequently narrowed arbitrarily 
+            as desired). In fact, I conjecture that for any axial polygon, the 
+            universal molecule is the crease pattern with the shortest total 
+            length of creases that collapses that polygon to a uniaxial base. 
+            A small number of creases translates into relatively few layers in 
+
+                                                                                                     429
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

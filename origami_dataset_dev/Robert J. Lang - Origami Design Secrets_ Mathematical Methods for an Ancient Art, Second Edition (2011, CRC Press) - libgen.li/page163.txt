@@ -1,0 +1,50 @@
+                If we’ve assumed that all the hind-leg toes are together 
+            at point A in the folded base, then the toe marked A* in the 
+            crease pattern must be one of them. So it, too, must be sepa-
+            rated from the tail point C by the same distance x—in the 
+            folded form.
+                Now let’s look back at the crease pattern. It’s clear that 
+            point A* is somewhat closer to point C in the crease pattern 
+            than point A. So in the crease pattern, the distance from A* to 
+            C is less than x. In the folded form, it’s equal to x. So whatever 
+            the crease pattern in the colored region is, it has to increase 
+            the separation between points A* and C.
+                But this is impossible. Short of stretching or cutting, there 
+            is no way to fold a sheet of paper that increases the distance 
+            between two points. Folding can only reduce this distance. The 
+            goal is impossible to attain; there is no set of creases added to 
+            the border graft that allows all four bird base points to come 
+            together at the tip of the leg ﬂaps.
+                So, while border grafts allow a Bird Base to be added to 
+            one or more corners of a square, they don’t allow one to be 
+            added to the edge in the same way.
+                More importantly, we have touched on a very deep con-
+            cept in origami design: the relationship between distances in 
+            the folded and unfolded forms. As we saw in point-splitting, 
+            where it was key to the design of the ideal split, examining 
+            distances in the folded base and on the unfolded pattern can 
+            show what is possible and impossible and provides guidance 
+            for the location of important creases. And as we will see in 
+            later chapters, this relationship forms the underpinning of a 
+            full mathematical theory of efﬁcient origami design.
+                In the example described above, the point marked A* was 
+            the one that caused the problem. What if we only wanted two 
+            toes? Then could we use a border graft that incorporated the 
+            two-ﬂap Fish Base? The embedded crease pattern is shown 
+            in Figure 6.23.
+                This pattern does not incorporate any contradictory as-
+            sumptions, unlike the previous example, and if you draw it 
+            out, you will ﬁnd that you can add creases to realize a lizard 
+            base with two ﬂaps at the tip of each foot.
+                But as noted earlier, the border graft is fairly inefﬁcient 
+            anyhow, and we have one other possible way of performing 
+            a graft: the strip graft. We can graft a strip into a model by 
+            cutting it apart and inserting the strip(s) between the cut 
+            edges.
+                In the strip graft that we used in the Tree Frog, we cut 
+            each ﬂap down the middle—more speciﬁcally, along an obvious 
+            line of symmetry. Where should we cut this pattern? The lizard 
+
+                                                                                                     151
+                                                                       Chapter 6: Grafting
+© 2012 by Taylor & Francis Group, LLC

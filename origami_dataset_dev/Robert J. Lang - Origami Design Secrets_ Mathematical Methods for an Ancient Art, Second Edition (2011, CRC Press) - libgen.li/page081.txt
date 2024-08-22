@@ -1,0 +1,36 @@
+                                                             new
+                                                                                            new
+
+
+            Figure 4.16. 
+            Left: a Bird Base. Middle: the crease pattern shifted toward a corner. 
+            Right: the crease pattern shifted toward an edge.
+
+                Neither of the two variations is aesthetically pleasing; the 
+            creases terminate in rather arbitrary locations, resulting in 
+            several points with ragged edges and others with a parallel-
+            edged strip running along one side. These excess bits will usu-
+            ally detract from the model unless they can be incorporated 
+            into the design—that is, used to create one or more additional 
+            features of the model. That this incorporation can be done 
+            successfully is illustrated by the Baby in Figure 4.17, which is 
+            based on an offset Waterbomb Base, and which uses the extra 
+            strip to realize the color-changed diaper. Can you identify the 
+            creases of the Waterbomb Base in the crease pattern? It will 
+            be a bit harder, because portions of the base creases have 
+            changed direction or been smoothed out in the course of fold-
+            ing the model, so they are not as evident. Nevertheless, you 
+            should be able to pick out the creases of a Waterbomb Base 
+            shifted toward an edge.
+                It is also possible to offset the central crease cluster while 
+            preserving the points where the creases all come together at 
+            the corners of the square. This eliminates the ragged points 
+            of the previous offsetting technique, but now the edges of the 
+            four points are no longer aligned. That may or may not be a 
+            drawback; two of the points are now longer than the other 
+            two, making the base perhaps better suited to other subjects. 
+            Such a base is said to be a distorted base.
+
+                                                                                                      69
+                                                                Chapter 4: Traditional Bases
+© 2012 by Taylor & Francis Group, LLC

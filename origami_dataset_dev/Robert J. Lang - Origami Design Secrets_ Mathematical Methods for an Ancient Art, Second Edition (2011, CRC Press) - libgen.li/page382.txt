@@ -1,0 +1,35 @@
+                                         form. But also, knowing the probable crease assignments, we 
+                                         can, in a single crease pattern, give a broad hint of the crease 
+                                         assignment by adopting three simple rules:
+
+                                             • all ridge creases are valley folds except those at 
+                                             axial reﬂex vertices, which are mountain folds;
+
+                                             • all gusset baselines are mountain folds; and
+
+                                             • all hinge creases are shown as unfolded creases 
+                                             (since they could go either way).
+
+                                             The generic forms of all of the molecules we have seen are 
+                                         shown in Figure 10.34.
+
+
+                                         Figure 10.34. 
+                                         Generic form of molecules. 
+                                         Top row: rabbit-ear, Waterbomb, and sawhorse molecules. 
+                                         Bottom: arrowhead and gusset molecules. Note the ridge crease 
+                                         that is a mountain fold at the axial reﬂex vertex in the arrowhead 
+                                         molecule.
+
+                                             It is a curious fact that the generic form of a molecule isn’t 
+                                         actually ﬂat-foldable as drawn; but I ﬁnd the structural form 
+                                         as illuminating, if not more so, than the true crease pattern. 
+                                         The true crease assignment varies depending on the speciﬁc 
+                                         ﬂap orientation, which is often not important. What is very 
+                                         important when one is attempting to assemble a molecule, 
+                                         or a base, is to know where each crease ends up in the folded 
+                                         form. And so it is often more useful to know whether a crease 
+
+     370
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

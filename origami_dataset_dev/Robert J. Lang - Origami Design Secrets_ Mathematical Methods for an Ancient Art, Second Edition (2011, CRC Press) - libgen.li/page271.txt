@@ -1,0 +1,30 @@
+                                                                        Figure 8.24. 
+                                                                        Left: crease pattern. 
+                                                                        Right: folded form of the 
+                                                                        resulting shape.
+
+            axis of symmetry can be oriented along the edge of the square 
+            or along the diagonal. Packing the tiles in along the diagonal 
+            is a bit more efﬁcient, but still leaves some unused paper at 
+            the top and bottom of the square.
+                No problem: we can simply add more tiles (suitably deco-
+            rated by circles and/or rivers) to create more ﬂaps and consume 
+            the rest of the paper in the square, as shown in Figure 8.25.
+                By enforcing circle matching, we ensure that the crease 
+            pattern can be folded ﬂat (we will have to add some creases to 
+            the two sliver triangles along the upper edges and assign crease 
+            directions to the generic creases). Furthermore, by counting 
+            circles and rivers, we can elucidate the structure of the resulting 
+            base before we have even begun to fold. There are ﬁve circles 
+            at the top of the pattern, all touching; these will give rise to 
+            ﬁve ﬂaps. The topmost circle is larger than the other four; that 
+
+
+            Figure 8.25. 
+            Left: the shape ﬁt into a square. 
+            Right: add a few more tiles to add more ﬂaps and consume the 
+            remaining paper in the square.
+
+                                                                                                     259
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

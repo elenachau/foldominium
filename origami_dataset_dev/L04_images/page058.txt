@@ -1,0 +1,21 @@
+DOF in Generic Triangular Mesh
+
+Euler’s:(Vin+Eout)-(Eout+Ein)+F=1
+
+Triangle : 3F=2Eout + Ein
+
+Mechanism: DOF = Ein -3Vin
+
+
+Disk with Eout outer edges
+
+  DOF = Eout     -3
+
+with H generic holes
+
+ DOF = Eout -3 -3H
+
+
+(Vin+Eout)-(Eout+Ein)+F=1-H
+
+DOF = Ein -3Vin-6H

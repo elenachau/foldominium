@@ -1,0 +1,44 @@
+At this point, you are seeing several
+different sets of information overlaid on
+one another. The tree (shades of blue)
+displays the abstract structure of the tree.
+The gray polygons display the underlying
+structure of the crease pattern. The crease
+lines display the creases themselves.
+Because the creases are overlaid on top
+of everything else, the display gets rather
+busy when all of the creases are present.
+You can choose to display just the
+creases by choosing the Show Creases
+Only command from the  View menu,
+ getting the result shown in figure 2.1.10.
+
+ Finally, we have the crease pattern for
+ the base — the thing we were looking for
+ all along. In general, the black lines are
+ valley folds, the medium gray lines are
+ mountain folds, and the light gray folds
+ can be either; but there are a few                   2.1.10
+ exceptions. The bottom corners of the
+ square aren’t used for anything, so you
+ would probably mountain-fold them underneath, rather than valley-folding them upward. A
+ major exception is the following. Around a middle point, the creases alternate around the point as
+ mountain, valley, mountain, valley… and one of the valleys needs to be turned into a mountain
+ fold to satisfy the Kawasaki theorem M=V±2. Since there are, in general, multiple valleys that
+ could be turned into mountains, I don’t make that choice for you. The light gray creases can be
+ either mountain, valley, or unfolded, depending upon which way you direct the flaps when you
+ flatten the model. These folds are, using the terminology of tree theory, tristate creases. So you
+ will still need to add a few creases when you try to collapse the crease pattern into a base, but it
+ should be pretty obvious where the additional creases go.
+
+ There are two ways to get the crease pattern from the screen onto a piece of paper. First, you can
+ simply print it using the Print command in the File menu. Second, at any time you can copy the
+ contents of the window to the Clipboard using the Copy command in the Edit menu. You can
+ then paste the image of the crease pattern into your favorite drawing program for further touch-
+ up and subsequent printout. In either case, if you print out the crease pattern and fold it up, you
+ will arrive at the base shown in figure 2.1.11 (which also shows which creases are mountain and
+ valley folds using the conventional line patterns). As promised, its flaps have the same number,
+ connections, and relative size as the original stick figure.
+
+
+                                  14

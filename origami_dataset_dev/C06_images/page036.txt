@@ -1,0 +1,18 @@
+Degree 6, symmetric vertex
+
+How do we “push” the creases to fold through singularities (like the ﬂat, 
+unfolded state) to the conﬁguration we want?
+            pop down                              pop up
+       ρ2
+ mode 1:
+                                           ρ1
+
+                    ρ1
+                                                  ρ2
+        ρ2
+ mode 2:
+                                           ρ1
+
+
+                    ρ1
+             pop up                              ρ2 pop down

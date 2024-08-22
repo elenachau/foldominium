@@ -1,0 +1,33 @@
+            ﬂapping action, so when you pull its head and legs like the 
+            traditional ﬂapping bird, this Pteranodon ﬂaps its wings.
+
+            5.3. Splitting Edge and Middle Flaps
+            The folding sequence shown in Figure 5.12 works for a corner 
+            ﬂap, a ﬂap formed from a corner of the square, which describes 
+            the main ﬂaps of the four Classic Bases. In addition to four 
+            corner ﬂaps, the Frog Base possesses a different type of ﬂap: 
+            Its central point comes from the middle of the paper, a so-called 
+            middle ﬂap. Furthermore, the smaller points on a Frog Base 
+            come from the edge of the paper, an edge ﬂap. You might ask, 
+            is it possible to split edge and middle ﬂaps?
+                Indeed it is, although the layers get thicker and less 
+            manageable as you move from corner to edge to middle ﬂap. 
+            The process is relatively straightforward for an edge ﬂap. 
+            An edge ﬂap still has two raw edges, and so it can be treated 
+            like a corner ﬂap and split into two points in the same way 
+            as a corner point. In fact, the folding sequence illustrated in 
+            Figure 5.12 may be used as well on an edge ﬂap.
+                However, a middle ﬂap has no raw edges, which played a 
+            prominent role in the folding sequence of Figure 5.12. But we 
+
+
+                    1. Assemble four corner split crease         2. …to obtain the crease pattern for
+                    patterns ...                                 a middle split.
+
+            Figure 5.15. 
+            A middle ﬂap can be constructed by stitching together four corner 
+            ﬂaps and their crease patterns along the raw edges.
+
+                                                                                                     105
+                                                                 Chapter 5: Splitting Points
+© 2012 by Taylor & Francis Group, LLC

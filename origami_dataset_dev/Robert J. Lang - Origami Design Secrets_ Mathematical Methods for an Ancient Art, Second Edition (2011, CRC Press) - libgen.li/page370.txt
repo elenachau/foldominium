@@ -1,0 +1,39 @@
+                                                                         Four tangent
+                                                                         points come
+                                                                         together
+
+
+            Figure 10.17. 
+            Top: for one set of circles, the four 
+            tangent points come together. 
+            Bottom: for all other sets of 
+            circles, the tangent points do 
+            not align.                                                    Four points    tangent point
+                                                                          come together
+
+
+            Figure 10.18.
+            Waterbomb molecule crease 
+            pattern within a four-circle 
+            rhombus. Note that the perpen-
+            diculars do not hit the tangent 
+            points.
+
+                                         10.5. Arrowhead Molecule
+                                         Although the Waterbomb molecule doesn’t always bring the 
+                                         tangent points together, there are other crease patterns that 
+                                         do. One that is quite simple to construct and fold is shown in 
+                                         Figure 10.19. This pattern, described by Meguro and Maekawa, 
+                                         will always bring the four tangent points together. We call it 
+                                         the arrowhead molecule.
+                                             There is usually more than one arrowhead molecule that 
+                                         can be constructed from a given quadrilateral. In Figure 10.19, 
+                                         we started from the lower left corner; however, we could have 
+                                         as easily started from the upper right corner and derived the 
+                                         molecule whose crease pattern is shown in Figure 10.20.
+                                             A nice feature of the arrowhead molecule is that all of 
+                                         the creases are easily constructed either by computation or 
+
+     358
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

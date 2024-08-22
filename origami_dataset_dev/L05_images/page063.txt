@@ -1,0 +1,8 @@
+                        TreeMaker Example
+
+
+                                                                                  45
+Symmetry (book/diagonal)
+Identifying/ﬁxing unconstrained nodes with local strain
+Triangulation of creasepattern (need three degrees of freedom)
+View Settings

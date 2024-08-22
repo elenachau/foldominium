@@ -1,0 +1,40 @@
+               20. Petal-fold.      21. Fold the flap   22. Fold and unfold. 23. Closed-sink the edges
+                                    back upward.                             on the creases you just
+                                                                             made.
+
+                                               20–24
+
+
+            24. Closed-sink the next 25. Repeat steps 20–24 26. Finished four points.
+            pair of edges.        behind.
+
+            Figure 5.16. 
+            Folding sequence to split a middle ﬂap into four smaller ﬂaps.
+
+
+            can get an idea of what is possible by examining the crease pat-
+            terns of corner, middle, and edge ﬂaps shown in Figure 5.14.
+                As Figure 5.14 shows, the crease pattern for an edge ﬂap 
+            is simply that of a pair of corner ﬂaps, and that of a middle 
+            ﬂap is four corner ﬂaps; edge and middle ﬂaps themselves 
+            can be made by sewing together corner ﬂaps along their  
+            raw edges.
+                It thus makes sense to see if the analogy continues. For 
+            example, is it possible to put together the crease patterns 
+            for four split corner ﬂaps to get the crease pattern for a split 
+            middle ﬂap?
+                It is, and the result is shown in Figure 5.15. This can be 
+            folded up. The sequence to fold it directly from a middle ﬂap 
+            is quite challenging, however, which perhaps accounts for its 
+            rarity in published origami designs. One possible sequence 
+            is shown in Figure 5.16. You can try this sequence on the top 
+            of a Frog Base.
+                When you split a middle ﬂap, you obtain four smaller 
+            ﬂaps. (Similarly, an edge point can be split into either two 
+            or three ﬂaps, depending on how you orient the creases with 
+            respect to the edge.) The split middle ﬂap gives rise to an 
+            interesting relationship. Each of the four resulting ﬂaps has 
+
+                                                                                                     107
+                                                                 Chapter 5: Splitting Points
+© 2012 by Taylor & Francis Group, LLC

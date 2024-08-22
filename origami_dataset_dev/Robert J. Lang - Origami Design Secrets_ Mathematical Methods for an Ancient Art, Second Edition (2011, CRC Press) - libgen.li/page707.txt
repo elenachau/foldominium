@@ -1,0 +1,14 @@
+             Scorpion HP
+
+
+             Divide the side edges into 58 equal divisions. Then,
+             starting from the middle, measure off 24 divisions in
+             each direction, each horizontal division 1.155× larger
+             than the vertical divisions. There will be a little paper
+             left over at each edge; this gets folded inside. Use the
+             divisions as the basis of a 30° grid for the creases.
+
+
+                                                                                                                 695
+                                                                       CreaseChapter Patterns: 14: Polygon Scorpion Packing HP 
+© 2012 by Taylor & Francis Group, LLC

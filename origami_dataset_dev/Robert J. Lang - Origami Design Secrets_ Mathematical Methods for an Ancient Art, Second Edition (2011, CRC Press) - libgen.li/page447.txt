@@ -1,0 +1,40 @@
+                A signiﬁcant drawback of computed crease patterns is that 
+            it can be quite difﬁcult to construct a linear folding sequence. 
+            In fact, not only is it hard to break the base down into a series 
+            of steps; it can be difﬁcult simply to locate all of the major 
+            creases! This is especially the case for highly branched patterns 
+            whose ﬂaps are chosen to be somewhat arbitrary lengths (e.g., 
+            to match the dimensions of a particular subject).
+                An example of the latter situation is shown in Figure 11.38. 
+            This juvenile Roosevelt Elk has a fairly complex branching pat-
+            tern in its antlers, and its creases fall on no particular grid. As 
+            you will see in its folding instructions at the end of the chapter, 
+            your best bet to ﬁnd reference points for the folds of the base 
+            is to simply measure and mark.
+
+            11.10. Comments
+            Tree theory is in some ways the culmination of all of the differ-
+            ent techniques for constructing uniaxial bases. Uniaxial bases 
+            are wonderful things, but they are by no means all of origami. 
+            While insects, arthropods, and other many-legged creatures 
+            can often be successfully addressed with a uniaxial base, there 
+            are many origami subjects for which the many narrow ﬂaps of 
+            a uniaxial base are not particularly suitable. Furthermore, the 
+            great majority of origami ﬁgures designed over the years were 
+            not constructed from uniaxial bases, and many designers—most 
+            notably John Montroll—have developed other approaches to 
+            design that are clearly not uniaxial.
+                However, uniaxial bases are amazingly versatile, and be-
+            cause they can be constructed systematically, they can be used 
+            for quite a few origami problems. Furthermore, the underlying 
+            techniques are more broadly applicable, and concepts from tree 
+            theory, circle/river packings, point-splitting, and more, can be 
+            mixed and combined with other techniques to yield efﬁcient, 
+            novel, and sometimes beautiful structures. The last few chap-
+            ters demonstrate two of the many possibilities that lie within 
+            these hybrid approaches.
+
+
+                                                                                                     435
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

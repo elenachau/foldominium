@@ -1,0 +1,14 @@
+Outline
+
+1. Origamizer
+  –  tucking molecules
+  –  layout algorithm
+2. Freeform Origami
+  –  constraints of origami
+  –  perturbation based calculation
+  –  mesh modification
+3. Rigid Origami
+  –  simulation
+  –  design by triangular mesh
+  –  design by quad mesh
+  –  non-disk?

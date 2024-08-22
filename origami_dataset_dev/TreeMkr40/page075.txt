@@ -1,0 +1,18 @@
+                                       4.4.5
+
+There are no editable fields of a path, other than the controls for adding conditions. The
+uneditable fields of the Path Editor do tell you some useful information; they are:
+
+min length — the minimum length (in unscaled tree units) this path is allowed
+
+current length — the current length of the path (in unscaled tree units)
+
+current angle — the current angle of the path with respect to the x-axis.
+
+There is also a set of controls for adding conditions to the path.
+
+At the lower left corner, clicking on the disclosure triangle toggles between normal and expert
+mode as shown in figure 4.4.6.
+
+
+                                  75

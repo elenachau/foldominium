@@ -1,0 +1,41 @@
+                                         packing. There is an entirely new family of polygon packing out 
+                                         there that, unlike box pleating, has not been widely exploited. I 
+                                         call it uniaxial hex pleating, or just hex pleating for short. Hex 
+                                         pleating, too, is a form of polygon packing, but it uses different 
+                                         polygons and rivers, with all edges running at multiples of 30°, 
+                                         not 45°. Instead of leading naturally to patterns of squares, hex 
+                                         pleating leads naturally to various combinations of equilateral 
+                                         triangles and/or hexagons.
+                                             Like box pleating, hex pleating is most easily carried out on 
+                                         a grid, both for simplicity of drawing, and to avoid the problem 
+                                         of inﬁnite bouncing. But instead of using square grid patterns, 
+                                         we will use a grid of equilateral triangles. The centers of the 
+                                         packing circles will be at vertices of the grid; the edges of the 
+                                         hinge polygons will run along these grid lines. Some examples 
+                                         of hinge polygons and polygonal rivers on such a triangular 
+                                         grid are illustrated in Figure 14.37.
+
+
+            Figure 14.37. 
+            Hinge polygons for hex pleating. 
+            Top row: 1-unit ﬂaps. 
+            Middle and bottom: 1-unit rivers 
+            and 2-unit ﬂaps.
+
+                                             As with uniaxial box pleating, the hinge creases run along 
+                                         grid lines. Since there are three possible directions for hinge 
+                                         lines rather than two, there is a much wider variety of shapes 
+                                         that hex pleating hinge polygons take on. Also as with box 
+                                         pleating, the minimum-size polygon for a given length ﬂap is 
+                                         the minimum polygon that encloses a circle whose radius is the 
+                                         length of the ﬂap. That means that the minimum-size polygon 
+                                         is a hexagon; two examples are shown in Figure 14.37. Since 
+                                         a hexagon is a better ﬁt to a circle than a square, this means 
+                                         that hex-pleated ﬂaps can be slightly more efﬁcient than box-
+                                         pleated ﬂaps. (The difference is, however, small.)
+                                             One noticeable difference between hex pleating and box 
+                                         pleating is that in the former, there is a deﬁnite distinction 
+
+     660
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

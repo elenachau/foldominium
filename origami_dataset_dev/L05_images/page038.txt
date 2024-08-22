@@ -1,0 +1,8 @@
+                                      Flaps
+
+
+                                                                                  35
+Idea of ‘elevation’ on a ﬂap/tree edge
+Rivers separate two parts of a tree with strip of constant width
+Circle limiting case of river separating single point from rest
+Splitting a leaf edge into a leaf and brach creates a redundant node

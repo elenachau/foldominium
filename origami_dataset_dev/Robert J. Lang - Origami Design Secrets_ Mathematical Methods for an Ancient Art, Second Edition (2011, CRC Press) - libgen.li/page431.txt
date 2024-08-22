@@ -1,0 +1,51 @@
+                                                    C
+                          D
+
+                                              C′
+                                   D′′    B′′
+
+                                A′
+                                                                        Figure 11.19. 
+                                                                        Drop perpendiculars from the 
+                 A                                            B         new vertices B′′ and D′′.
+
+                If you solve for the gusset quad numerically, you will see 
+            that there are some quadrilaterals for which the points A′, B′, 
+            C′, and D′ all fall on a line or point. In these special cases, you 
+            don’t get an inner quadrilateral for the gusset; instead, you get 
+            a sawhorse molecule (if a line) or a Waterbomb molecule (if a 
+            point). So the gusset molecule is, in fact, the general molecule 
+            for any quadrilateral.
+                Using the rabbit-ear molecule for triangles and the 
+            gusset molecule for quadrilaterals, you can fill in any tree- 
+            theorem-derived collection of axial polygons that consists of 
+            triangles and quadrilaterals to get the complete crease pat-
+            tern for the base. Figure 11.20 shows the full crease pattern 
+            for the six-legged tree and the resulting base. You can easily 
+            verify the crease pattern by cutting it out and folding it on the 
+            lines. As you can see, the projection of the base into the plane 
+
+              EF
+
+                     B                 B
+                              A                         A
+                                                                              F
+
+                         B          B
+                                                     E
+                                                                 B
+                   C                     C                                            H
+
+                                                                         C
+                                                              G
+            GH
+                                                                                D
+                     C                 C
+
+                              D
+            Figure 11.20. 
+            Full crease pattern (in structural form) and the six-legged base.
+
+                                                                                                     419
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

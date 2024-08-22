@@ -1,0 +1,9 @@
+Proposing Approach
+
+• Initial State: existing 
+  origami models (e.g. Miura-
+  ori, Ron Resch Pattern, …)
+  + Perturbation consistent 
+  with the origami conditions.
+• Straightforward user 
+  interface.

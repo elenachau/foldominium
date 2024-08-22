@@ -1,0 +1,51 @@
+ • Rewrote TreeFile class to buffer file I/O, gaining over an order of magnitude in speed during
+ Save/Open.
+
+ • Converted mathematical classes (Minimax, ConstrainedMinimax, etc.) to templates
+
+ • About… box is faster.
+(3.7) 12-3-96
+
+• Fixed a bug that affected the display of polygons in the main window and screwed up printing
+on certain types of printers; also added a background to the main window.
+
+• Added a background to valid polygons.
+
+• Added crop marks in multipage printouts so you can print out large patterns on multiple sheets
+and can accurately cut and paste them together
+
+• Removed the unnecessary border around the square in the printout, which increases the size of
+the largest square you can fit onto a single page to 7.5 in.
+
+• UI is now updated to PP Constructor 2.3 format, including use of new LPrintout.
+
+• Added a modest speed improvement to the “Fracture Poly” algorithm by eliminating some
+unnecessary calculations
+
+• Added new Path::mIsValidPath member variable, which is used in the improved polygon-
+finding algorithm. Also added the corresponding display in the Path Editor.
+
+• Big improvements in the polygon-finding algorithm; border paths don’t have to be active to
+form polygons. Non-optimized but valid node arrangements will now form crease patterns.
+
+• Improved the algorithm that identifies pinned nodes. Nodes are now pinned only by active
+paths and the edges of the paper.
+
+• Added offscreen drawing, which improves the look and feel.
+
+• Tweaked the color scheme slightly for better visibility and contrast.
+
+• Added a polygon editor. There’s nothing to change, but it does let you examine some of the
+internal characteristics of polygons.
+(4.0) 4-1-98 released
+
+• Complete overhaul of software model. Standard objects — Node, Edge, Path, Poly, Tree —
+have many new fields. Phased out the Fold object; introduced the Vertex, Crease, and Condition
+objects.
+
+• All objects are now descended from Part and have an index.
+
+• Polys are now hierarchical. Objects can own one another.
+
+
+                                 172

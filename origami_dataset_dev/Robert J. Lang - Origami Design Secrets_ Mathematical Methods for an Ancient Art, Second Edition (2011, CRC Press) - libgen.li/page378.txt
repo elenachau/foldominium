@@ -1,0 +1,29 @@
+                                         Figure 10.29. 
+                                         Crease pattern and folded form for a sawhorse molecule.
+
+
+                                      1. Fold one edge down to lie        2. Reverse-fold the top corners
+                                      along the opposite edge.            so that all edges lie along the
+                                                                          bottom edge.
+
+
+                                                         3. Finished sawhorse
+                                                         molecule.
+                                         Figure 10.30. 
+                                         Folding sequence for the sawhorse molecule.
+
+                                             Recall that even if a quadrilateral satisﬁed the Wa  -
+                                         terbomb condition (sums of opposite sides were equal), the 
+                                         Waterbomb molecule wasn’t necessarily the molecule that 
+                                         aligns the tangent points. A similar situation occurs with 
+                                         the sawhorse molecule; even though you can fold any quad-
+                                         rilateral into a sawhorse molecule, the particular sawhorse 
+                                         molecule won’t necessarily make the tangent points line up. 
+                                         Figure 10.31 shows the sawhorse creases superimposed on a 
+                                         valid circle/river pattern, and it is clear that the hinge creases 
+                                         do not hit the edges at the tangent points of the circles and 
+                                         rivers.
+
+     366
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

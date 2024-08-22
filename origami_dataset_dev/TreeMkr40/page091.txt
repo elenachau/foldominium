@@ -1,0 +1,24 @@
+ blue) and selecting this command, the lengths of all of the unpinned selected edges will be
+ lengthened proportionally by increasing their strain, optimizing the position of the unpinned
+ selected nodes. If you happen to have selected pinned nodes or edges, they will be ignored. Since
+ only the selected nodes and edges will be considered, an easy way to increase all possible nodes
+ and edges is to select all (command-A) and then select this command. Figure 4.5.14 shows a
+ typical before and after configuration for scaling a single edge.
+
+
+                                       4.5.14
+   Split Selected EdgeÉ                1H
+ This command lets you add a node somewhere in the middle of an existing edge. Selecting this
+ comands puts up a dialog shown in figure 4.5.15.
+
+
+                                       4.5.15
+
+You enter the distance the soon-to-be-created node should be from the indicated node (in tree
+units). You must enter a positive value less than the length of the edge. A new node will be
+added along the edge, breaking it into two separate edges. Just adding a node to an edge doesn’t
+accomplish anything, but you can use the new node to add new branches to the tree. Figure
+4.5.16 shows a before and after configuration.
+
+
+                                  91

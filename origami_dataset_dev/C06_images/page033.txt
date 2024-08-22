@@ -1,0 +1,23 @@
+Back to the degree 4 case
+
+Theorem: For every rigidly, ﬂat-foldable degree-4 vertex with arbitrary target 
+and starting conﬁgurations, there exists a driving force that makes the vertex 
+uniquely self-foldable.
+
+                                                    ⇢1
+
+Proof:  Assume that the target        is on mode 1. 
+We want to ﬁnd a potential function                       ~⇢ (1)
+such that 
+(1)            monotonically decreases along mode 1 
+                                                  ~⇢ (0)
+toward the target state and                                      ⇢2
+(2)            monotonically decreases along mode 2 
+toward the ﬂat state. 
+ 
+The following works:      4
+         1                   1
+U(~⇢ )=     ~⇢  ~⇢  2 =        (⇢    ⌧ )2
+         2k   −  T k         2   i −  i
+                         i=1
+where       are the coordinates ofX the target conﬁguration.

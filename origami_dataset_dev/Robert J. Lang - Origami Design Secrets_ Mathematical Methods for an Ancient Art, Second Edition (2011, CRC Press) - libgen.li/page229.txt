@@ -1,0 +1,34 @@
+                                           d0
+
+                                              d1            d2
+
+            Figure 7.31. 
+            Close-up of the edge of the pattern, showing how the individual scale 
+            tiles map to the crease pattern. The hidden region of paper in each 
+            tile maps to one of the lines in our schematic.
+
+                To make things concrete: if we choose to make 1-cm scales 
+            (a nice size), then the pleats should be 1.207 cm and 0.207 cm 
+            apart, respectively (which, in practice, one can round to 1.2 
+            and 0.2 cm for easy measurement).
+                And how do we actually go about folding the individual 
+            scales? One factor that should be apparent is that the overall 
+            structure of each scale is two crossing pleats, with some “extra 
+            stuff” at the crossing. That suggests a method of folding each 
+            scale. We could fold the two pleats separately, then stretch 
+            the crossing apart and refold the “extra stuff,” as shown in 
+            Figure 7.32.
+                This two-step method of folding the scale allows one to 
+            more easily fold the entire array. One can fold all of the pleats 
+            in one direction, then all of the pleats in the other direction, 
+            then, one at a time, go through and at each crossing, stretch the 
+            crossing and refold the creases at the junction, then ﬂatten. In 
+            this way, the folded paper may be kept ﬂat between each of the 
+            folding steps. (As a practical note, I ﬁnd that precreasing the 
+            pleats and the two concentric squares at each crossing before 
+            folding anything facilitates keeping the stretch maneuvers 
+            crisp and precise.)
+
+                                                                                                     217
+                                                                Chapter 7: Pattern Grafting
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,54 @@
+                   h
+
+                                                                        Figure 11.29. 
+                                                                        The reduced polygon in the 
+                                                                        folded form corresponds to the 
+                                                                        original polygon cut by a plane 
+                                                                        a distance h above the original 
+                                                                        plane of projection.
+
+
+            A2′,… as we did for the gusset quad construction. I will call the 
+            inset polygon a reduced polygon of the original polygon.
+
+                Note that the points Ai′ lie on the bisectors emanating from 
+
+            the points Ai for any h. Consider ﬁrst a reduced polygon that is 
+            inset by an inﬁnitesimally small amount. In the folded base, the 
+            sides of the reduced polygon all lie in a common plane, just as 
+            the sides of the original axial polygon all lie in a common plane. 
+            However, the plane of the sides of the reduced polygon is offset 
+            vertically from the plane of the sides of the axial polygon by a 
+            distance h. This is illustrated schematically in Figure 11.29.
+                As we increase h, we shrink the size of the reduced poly-
+            gon. Is there a limit to the shrinkage? Yes, there is, and this 
+            limit is the key to the universal molecule. Recall that for any 
+            polygon that satisﬁes the tree theorem, the path between any 
+            two vertices satisﬁes a path length constraint
+
+
+                               |Ai – Aj| ≥ mlij                            (11–6)
+
+
+            where lij is the path length between nodes i and j measured 
+            along the tree. There is an analogous condition for reduced 
+            polygons; any two vertices of a reduced polygon must satisfy 
+            the condition 
+
+                                 ′    ′     ′
+                                   |A     i   –    A   j |   ≥   ml     ij                                  (11–7) 
+                          
+
+            where l′ij is a reduced path length given by
+
+                             ′
+                            l ij = lij – h(cot i + cot j )    (11–8)
+                 
+
+            and αi is the angle between the bisector of corner i and the 
+            adjacent side. Equation (11–7) is called the reduced path in-
+            equality for a reduced polygon of inset distance h. Any path 
+
+                                                                                                     425
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

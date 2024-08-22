@@ -1,0 +1,58 @@
+are those for which (1) the four nodes are distinct, and (2) both signs of dm  are represented
+
+among the four equations. In addition, solutions for dm that are negative or greater than the
+       e
+length of ab  are non-physical and must be discarded.
+
+Note that for these equations to be used as written above, there can be no unrelieved strain in the
+system. They can clearly be modified to include strain.
+
+   6.8  Universal Molecule
+
+The universal molecule is a crease pattern that is constructed by a series of repeated reductions of
+polygons. The construction is carried out by insetting the polygons and constructing reduced
+paths and fracturing the resulting network into still smaller polygons of lower order. As with
+triangulation, the process is guaranteed to terminate.
+
+We use the same polygon definitions as were used in the description of Meguro stubs. In
+addition:
+
+                  ∈  Q
+Assume the nodes ui U  are ordered by their index, i.e., the N-sided polygon contains the
+
+indices u1 , u2 ,… uN , order as you travel clockwise around the polygon. Construct the following:
+α                                                    ς ≡   α
+ i  is half of the interior angle at node ui . We define the quantity i cot i .
+                                                  °        o      =    −
+Define R90  as the operator that rotates a vector clockwise by 90 , i.e.,  R 90 (ux ,uy ) (uy , ux )
+
+                                                  u
+Define N as the operator that normalizes a vector, i.e., N o u =
+                                                  u
+
+ri  is the scaled bisector of the angle formed at ui , pointing toward the interior of the polygon
+                α                      ς
+with magnitude csc i . The vector ri  as well as i  can be constructed according to the following
+prescription:
+
+                              ′ ≡  o    −
+                             r   N  (ri−1 ri )
+                              ′′ ≡ o    −
+                             r    N (r i +1 r i )
+                              ′′′ ≡ o   o  ′′ − ′
+                             r    N  R90 (r  r )
+                                     r′′′
+                             r =
+                              i   ′′′ ⋅[]o ′′′
+                                 r   R90 r
+                             ς=⋅′
+                               irir
+The inset distance h is the largest value such that
+
+(1) for every path pij  of length lij  between non-adjacent nodes ui  and u j ,
+
+                      ()+     2++2≤−              ς + ς
+                      ux  hrx   ()uyhry    ml[]ij h()i j
+
+
+                                149

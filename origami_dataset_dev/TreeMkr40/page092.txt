@@ -1,0 +1,25 @@
+                                      4.5.16
+  Absorb Selected Node                1K
+Nodes that have exactly two branches are unnecessary and are called “redundant” nodes. (the
+node added by the previous command is a redundant node, at least until you attach something to
+it.) If you select a redundant node, this command absorbs it into the edges it connects and joins
+the edges into a single edge. This is the inverse of Split Selected Edge.
+   Absorb Redundant Nodes              1-
+This command absorbs all redundant nodes in the tree. It’s useful for cleaning up a tree if you
+fractured one or more polys and then subsequently deleted all of the stubs.
+   Remove Strain                       1]
+This command sets the strain of all edges to zero while leaving their lengths unchanged.
+   Relieve Strain                      1[
+This command changes the lengths of the edges to be equal to their strained length and then sets
+the strain equal to zero.
+   Minimize Strain                    13
+This command does another optimization that minimizes the RMS strain of the node
+configuration. This is the command to use when many path active conditions have been placed
+on the nodes, particularly if they are coupled with quantized angles; often it is not possible to
+satisfy all conditions without straining different edges by different amounts.
+
+Note: it is very easy to set up conditions that admit no solution at all. A sign that you have done
+this is that the optimizer will suddenly set the scale nearly equal to zero.
+
+
+                                 92

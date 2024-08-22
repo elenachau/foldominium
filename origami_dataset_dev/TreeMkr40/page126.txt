@@ -1,0 +1,39 @@
+ Figure 5.16. (Left) The mountain and valley folds of the gusset quad. Two tri-state creases are
+ shown. (Right) The folded version of the gusset quad.
+ You can construct an equation for the distance h in terms of the coordinates of the four corners
+and the distances; it’s a rather involved quadratic equation, but can be solved using a pocket
+calculator and high-school algebra. For arbitrary quadrilaterals, there is not a simple method to
+find the crease pattern by folding, but symmetric quadrilaterals (such as the one in the middle of
+figure 5.8) can be found by folding alone.
+
+I alluded to exceptions above; there are quadrilaterals for which the points A′, B′, C′, and D′ all
+fall on a line. In these special cases, you don’t get an inner quadrilateral; all of the inner creases
+collapse onto a line (or sometimes a point) and you get the simplified crease pattern shown in
+figure 5.17. Jun Maekawa has proven a theorem — called, appropriately enough, the Maekawa
+theorem — that says, in essence, any quadrilateral can have its edges collapsed onto a line using
+a crease pattern similar to this one. However, only in a relatively small number of cases will the
+lengths of the resulting flaps match the desired tree.
+
+                                                   C
+                          D
+
+
+                  A                                          B
+
+ Figure 5.17. The Maekawa crease pattern.
+ The Japanese folder Toshiyuki Meguro has extensively explored crease patterns that collapse
+ polygons onto lines and has coined the name “bun-shi,” or “molecules,” to describe such
+ patterns. Just as individual molecules fit together to make a larger biological structure, so too do
+ origami molecules fit together to make an origamical structure: the base.
+
+ Using the rabbit ear crease pattern for triangles and the gusset quad crease pattern for
+ quadrilaterals, you can fill in any active polygon network that consists of triangles and
+ quadrilaterals to get the complete crease pattern for the base. Such a polygon network is the one
+ for the six-legged base considered earlier in this article. Figure 5.18 shows the full crease pattern
+ for the six-legged base and the resulting base. Unlike figure 5.1, this base is a real, foldable base;
+ you can easily verify the crease pattern by cutting it out and folding it on the lines. As you can
+ see, the projection of the base into the plane is indeed the tree, and all of the flaps have their
+ proper length.
+
+
+                                 126

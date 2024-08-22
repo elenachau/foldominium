@@ -1,0 +1,56 @@
+                                         is indeed the tree, and all of the ﬂaps have the proper length. 
+                                         This crease pattern displays all of the structural crease types 
+                                         we have encountered: axial, ridge, gusset, hinge—and even a 
+                                         pair of pseudohinges along edges EG and FH.
+
+                                         11.7. Higher-Order Polygons
+                                         What about axial polygons with more than four sides? As 
+                                         we saw in the last chapter, we can reduce higher-order axial 
+                                         polygons formed in circle/river packings by adding a circle 
+                                         inside the polygon and inﬂating it until it contacts three other 
+                                         circles (or rivers). There is a corresponding procedure within 
+                                         tree theory.
+                                             Let’s take the same example we used before: a pentagon, 
+                                         which would represent a ﬁve-ﬂap base. This would have a tree 
+                                         containing ﬁve leaf nodes. Although there are several possible 
+                                         ﬁve-leaf-node trees, let’s take the simplest for illustration, the 
+                                         one with a single branch node, i.e., a ﬁve-star. This graph and 
+                                         a sample axial polygon, are shown in Figure 11.21.
+
+                                                                      ABF
+                                                        B
+
+                                           A
+                                                                                             F
+                                                                      F
+
+                                                     F
+            Figure 11.21.                                                                        C
+                                                              C
+            Left: tree for a base with ﬁve E                          E
+            equal ﬂaps. 
+            Right: pattern of leaf vertices                                                F
+                                                                             F
+            and active paths corresponding 
+                                                   D
+            to this tree.
+                                                                                    D
+
+                                             With circle/river patterns, we broke up higher-order 
+                                         polygons by adding circles within the polygon and inﬂating 
+                                         them until they contacted three (or more) of the other circles. 
+                                         Adding a circle to a circle/river pattern was tantamount to 
+                                         creating a new ﬂap. The equivalent action in tree theory would 
+                                         be to add a new leaf node and edge to the tree and extend its 
+                                         length until the path inequalities become equalities for at least 
+                                         three of the other nodes (while the path inequalities for the re-
+                                         maining nodes remain satisﬁed). The result would be the same 
+                                         pattern whether we used circles and rivers or path equations, 
+                                         and is illustrated in Figure 11.22, ﬁlled with rabbit-ear and 
+                                         gusset molecules.
+                                             In this polygon, because of the bilateral symmetry, we 
+                                         were able to make the new circle contact four other circles (or 
+
+     420
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

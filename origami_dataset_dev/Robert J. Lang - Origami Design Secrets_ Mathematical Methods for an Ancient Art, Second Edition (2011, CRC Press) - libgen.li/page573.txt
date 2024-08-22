@@ -1,0 +1,36 @@
+                                             Uniaxial13 Box Pleating
+
+                         ircle packing, molecules, and tree theory had 
+                         the potential to change the world of origami 
+                         when they began to be widely used in the mid-
+                         1990s and going forward, but they quickly 
+            C            ran up against a barrier: although one could, 
+            in principle, design arbitrarily complex tree-like structures 
+            of theoretically perfect efﬁciency, in practice, the resulting 
+            crease patterns were both highly irregular, making them 
+            difﬁcult to precrease, and all of the folds in the pattern were 
+            highly coupled to one another, making them difﬁcult to break 
+            down into a simple step-by-step folding sequence. The latter 
+            property is, unfortunately, often unavoidable. The vast major-
+            ity of theoretically possible ﬂat-foldable folding patterns are 
+            in this category; it is, in some sense, an accident of history 
+            that most published origami works have had step-by-step 
+            folding sequences, because they were discovered almost en-
+            tirely through a step-by-step process of exploration. But the 
+            irregularity is not necessarily something that we, as origami 
+            designers, must live with.
+                Circle/river packing often leads to irregularity, even if the 
+            circles themselves come in only one or a few sizes. My software 
+            tool, TreeMaker, constructs a circle-packed solution for any 
+            user-speciﬁed stick ﬁgure, but even when you have the complete 
+            crease pattern, the problem still remains: how do you transfer 
+            the pattern to the folded paper? With a computer program, 
+            you could perhaps print out the pattern, but then you have to 
+            contend with printed lines on the ﬁnished form. If you want to 
+            fold the pattern with no visible printed lines, then there may be 
+            tens, or even hundreds, of vertices with no easily constructible 
+            method. I developed another tool, ReferenceFinder, which can 
+
+                                                                                                     561
+
+© 2012 by Taylor & Francis Group, LLC

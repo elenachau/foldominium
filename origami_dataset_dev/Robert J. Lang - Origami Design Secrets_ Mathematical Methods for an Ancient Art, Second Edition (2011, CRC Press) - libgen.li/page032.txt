@@ -1,0 +1,40 @@
+            Figure 2.15. 
+            The unfold arrow.
+
+
+            Figure 2.16. 
+            The unfold arrow used to show 
+            pulling paper out from inside 
+            the model.
+
+                                             Particularly in the early stages of folding a model, one 
+                                         will make a fold and then immediately unfold it, for the pur-
+                                         pose of establishing a crease that will be used in some future 
+                                         (usually more complicated) step. To keep the diagrams fairly 
+                                         compact, the fold-and-unfold action is commonly expressed 
+                                         in a single ﬁgure, and is indicated by a single double-headed 
+                                         arrow that combines the fold arrow (valley fold) and unfold 
+                                         arrow in a single arrow.
+
+
+            Figure 2.17. 
+            Fold-and-unfold is indicated 
+            by a double-headed arrow that 
+            combines the “valley fold” and 
+            “unfold” arrowheads.
+
+                                             Most of the time, the fold in a fold-and-unfold step will be 
+                                         a valley fold, but on occasion, the desired crease is a mountain 
+                                         fold. Rather than diagramming this in three steps (turn the 
+                                         paper over, valley-fold-and-unfold, turn the paper back over), I 
+                                         will use the mountain fold arrow in combination with the unfold 
+                                         arrow, as shown in Figure 2.18. It should be understood that 
+                                         what is intended is to fold the moving ﬂap behind, make the 
+                                         crease, and then unfold.
+                                             In the study of origami design, the crease pattern of the 
+                                         ﬁnished ﬁgure or a subset of same provides a great deal of 
+                                         information about the structure of the model—often more in-
+
+      20
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

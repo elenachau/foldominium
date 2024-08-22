@@ -1,0 +1,33 @@
+            Figure 14.44. 
+            Left: ridge contours added. 
+            Right: axial contours added.
+
+
+                                         respective hinge contours perpendicularly. These contours are 
+                                         forced. One can also add additional axial contours in addition to 
+                                         the forced contours, in order to establish a constant contour spac-
+                                         ing; this will result in a constant width for all of the ﬂaps and so a 
+                                         relatively uniform distribution of layers. The complete set of axial 
+                                         contours is shown in the right subﬁgure of Figure 14.44.
+                                             Next come the axial+1 contours, which we add, naturally, 
+                                         halfway between each of the axial contours, as shown in the 
+                                         left subﬁgure of Figure 14.45. 
+                                             This completes the basic crease pattern. This will give a 
+                                         base whose ﬂaps are all the same width, one “width” unit—
+                                         which, recall, is only 58% of a “length” unit in hex pleating. All 
+                                         of the ﬂaps, therefore, will be fairly narrow. The “body” ﬂaps 
+                                         get opened down the middle, along the axial line of symmetry, 
+                                         and so will be twice as wide as the individual leg and antennae 
+                                         ﬂaps, but this is still too narrow to make a respectable body. 
+                                         So we’ll want to widen the ﬂaps that give rise to thorax and 
+                                         abdomen, and this we can do by inserting level shifters at the 
+                                         appropriate place, as shown on the right in Figure 14.45. This, 
+                                         then, completes the contour map of the base, which is shown 
+                                         along with the folded model in Figure 14.46.
+                                             Not too surprisingly, it looks a lot like the Scarab Beetle 
+                                         of Figure 14.27, but with a slightly narrower body relative to 
+
+
+     666
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,23 @@
+All of what I have explained so far works well for what I like to call “perfect” square packings, i.e.
+each flap only takes up the space it needs without any “wasted” space. In such cases the square packing
+only consists of squares and rivers.
+But there are several reasons when the designer needs to put more paper into a flap, f.e. so that the
+paper can be spread in the finishing process to create broader flaps for wings, clothes etc, or because
+a perfect square packing is not possible at all. A flap like this would look like the following drawing
+
+
+When you look at this part closely you will notice that it actually is just a normal flap square with some
+pleats added in the middle.
+
+
+The four white pleats in the above drawing represent the extra paper you will have in this flap. How
+and if this extra paper will be used depends on the intended function of the flap.
+One interpretation that always works and has the advantage to create a perfect square packing as
+described above is to turn the extra paper into several small 1 unit flaps.
+The resulting CP would look as follows with several small flap squares surrounded by a river. A
+structure like this could for example be used as a leg with claws on the paws.
+
+
+So after you have assigned squares to the CP you will have to look out for rectangles like this as well
+to complete the flap assignment. In the case of my porcupine this is not necessary since my CP uses
+a perfect square packing (by my own definition).

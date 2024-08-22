@@ -1,0 +1,52 @@
+ Figure 5.14. Construction of the gusset quad for a quadrilateral ABCD. Inset the quadrilateral a
+ distance h; then drop perpendiculars from the new corners to the original sides.
+
+ Now we need some distances from the tree. Let lAC  be the distance from node A to node C on the
+tree and lBD be the distance from node B to node D. In most cases (see below for the exceptions),
+there is a unique solution for the distance h for which one of these two equations holds:
+                                   ′ ′
+                           AA AB + A C  + CCBC  = lAC , or
+                                    ′ ′
+                            BB BC  + B D  + DD AD = lBD.
+
+Let us suppose we found a solution for the first equation. The diagonal A′C′ divides the inner
+quadrilateral into two triangles. Find the intersections of the bisectors of each triangle and call
+them B′′ and D′′ . (If the second equation gave the solution, you’d use the opposite diagonal of
+the inner quadrilateral and find bisector intersections A′′  and C′′.) The points A′,  B′′, C′, and D′′
+are used to construct the complete crease pattern.
+
+                                                ′
+                                 D′            C
+                                  D′′
+                                            B′′
+                              ′
+                            A                     B′
+
+                          
+
+ Figure 15. On the inner quadrilateral, construct the bisectors of each triangle to find points B′′
+ and D′′ .
+ You’ve now found all of the points necessary to construct the crease pattern; connect them with
+ creases as shown in figure 16 to produce the mountain folds that form the spine and the one
+ valley fold that forms the gusset. You will also have to construct tri-state creases from each
+ internal node along the sides of the quad to complete the crease pattern. Figure 5.16 also shows
+ the folded gusset quad and its tree.
+
+                               C
+         D
+
+                                                        ′′
+                                                       B      ′′
+                          C′                                 D
+                                                                    ′
+                                                   C′              A
+                D′′
+                        B′′
+            A′
+                                                 C               D
+                                         B                                   A
+
+  A                                    B
+
+
+                                 125

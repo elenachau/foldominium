@@ -1,0 +1,15 @@
+                                      4.5.4
+
+   View Menu
+The View menu contains commands that affect the way the tree and crease pattern are displayed
+on the screen or printout. Commands are:
+   Default View                       1D
+Alters settings so that both the tree (the stick figure) and creases are visible. This is usually the
+most useful combination of settings for working through a design. Here is an example shown in
+figure 4.5.5.
+
+
+                                      4.5.5
+
+
+                                 83

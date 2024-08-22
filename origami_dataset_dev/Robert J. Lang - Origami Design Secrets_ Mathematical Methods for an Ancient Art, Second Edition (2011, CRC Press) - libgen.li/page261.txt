@@ -1,0 +1,34 @@
+                Figure 8.7 illustrates the process of inserting a strip into 
+            the middle of a Bird Base. We cut the base down the middle, 
+            then insert a strip into the gap. The resulting shape has paired 
+            points at the middle of the top and bottom where the original 
+            base had only single points.
+                Now, let’s look at what we’ve accomplished. The Bird Base 
+            that we started from had ﬁve ﬂaps: four long ones pointing down 
+            and one short one pointing upward. Two of the long ﬂaps at the 
+            bottom and the shorter ﬂap at the top have now been split into 
+            a pair partway along their length. This is not entirely obvious 
+            from the ﬁnal step in Figure 8.7, but if we rotate the layers so 
+            that the inserted strip stands out from the rest of the base, the 
+            gap becomes visible as shown in Figure 8.8.
+
+
+                                                                        Figure 8.8. 
+                                                                        Strip-grafted Bird Base with 
+                                                                        ﬂaps oriented so that the gap 
+                                                                        is visible.
+
+                The interesting thing here is that after the inserted strip, 
+            we still have a uniaxial base. And it is instructive to highlight 
+            the axial creases of the new base and axial raw edges, as I’ve 
+            done in Figure 8.9.
+
+
+            Figure 8.9. 
+            Left: the crease pattern of the original Bird Base. Axial creases are 
+            shown in green. 
+            Right: the crease pattern of the strip-grafted version.
+
+                                                                                                     249
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

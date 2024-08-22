@@ -1,0 +1,52 @@
+              (a) Tree                (b) Crease Pattern                         (c) Uniaxial Base
+
+ Figure 1: The applet illustrates the intercorrelation of the three structures that underlie the Universal Molecule algorithm.
+
+  As the contour shrinks inwards, an edge between two          3.   SOFTWARE AND VIDEO
+marker vertices maintains its length, while an edge between      Our software is a Java Applet implementation in which the
+a marker and a corner shrinks. This corresponds to a shrink-   user deﬁnes the input tree and is then able to modify a dou-
+ing of the tree by moving the leaves inward.   At certain      bling cycle for the tree to produce different Lang polygons.
+discrete heights one of two events occurs.  A  contraction     A slider allows the user to visualize the sweeping process. A
+event occurs when an edge between a corner and a marker        3D  window shows the user a live visualization of the ﬁnal
+vertex shrinks to a single point. All leaves incident to the   folded base realizable with the computed crease-pattern.
+internal node corresponding to the marker vertex shrink at       After a brief overview of TreeMaker, the video discusses
+once. This node is then a leaf node of the shrunken tree.      the intricacies of Lang's Universal Molecule algorithm, and
+A  branching event occurs when the distance between two        shows a totally rigid example it may produce.   The ani-
+corner vertices becomes equal to the corresponding distance    mations for the Universal Molecule segment were screen-
+between the leaf nodes. If the sweeping process were to pro-   captured from our implementation, with annotations added
+ceed past this point, the contour would cease to be a Lang     in post-processing with presentation software.  The   live
+polygon, since the distance between two leaf nodes would       demo of   our  implementation is available at our website
+become less than the corresponding distance between the        linkage.cs.umass.edu/origamiLang.
+leaves. The contour is therefore split by adding an edge
+between the two corner nodes. Marker nodes are added so
+that the edge corresponds to the path in the tree between      4.   ACKNOWLEDGEMENTS
+the two leaf nodes. This splits the contour into two con-        Research funded by DARPA\23 Mathematical Challenges"
+tours, both of which are Lang polygons. The sub-tree for       (under \Algorithmic Origami and Biology") and NSF CCF-
+each of the contours is created by splitting the tree along    1016988 grants of the second author. The ﬁrst author is
+the path between the two leaf nodes. The sweeping process      supported by an NSF Graduate Fellowship.
+then proceeds in parallel in each contour.
+  In 3D  the sweeping contours correspond to a sweeping        5.   REFERENCES
+process of the shrinking tree upwards by the height of the     [1] J. C. Bowers and I. Streinu. Lang's universal molecule
+contour. Conceptually, the sweeping process is a continuous       algorithm. Technical report, Dec 2011.
+process with discrete events. The algorithm, however, works    [2] J. C. Bowers and I. Streinu. Rigidity of Lang's origami
+by identifying the height of the next event and by recursing      universal molecules. Technical report, Feb 2012.
+on the contour and sub-tree at that event. The base case is       (Submitted).
+when the next event is a contraction of all edges to the same
+                                                               [3] R. J. Lang. Origami design secrets: mathematical
+point.
+                                                                  methods for an ancient art, A. K. Peters, 2003.
+                                                               [4] R. J. Lang. A computational algorithm for origami
+Rigidity   of Universal Molecules.       Lang's Universal         design. In Proceedings of the 12th Annual ACM
+Molecule algorithm produces crease patterns for which uni-        Symposium   on Computational Geometry, pages 98{105,
+axial realizations exist. A question remains: can the uniaxial    1996.
+state be achieved by continuously folding the creased paper,   [5] R. J. Lang. Treemaker 4.0: A program for origami
+in such a way that the faces are kept rigid and folds oc-         design, 1998. http://www.langorigami.com.
+cur only along creases? In the video, we show an example
+found using our software implementation, which (as proven
+in [2]) answers this question in the negative. The example
+gives a totally inﬂexible crease pattern, which would not fold
+into its associated uniaxial base without further deformation
+(bending) of the paper.
+
+
+                                                           420

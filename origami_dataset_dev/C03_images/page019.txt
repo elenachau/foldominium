@@ -1,0 +1,9 @@
+side length of wrappable cube
+
+
+                                                                 ×   paper
+                                                                   1
+                                                                𝑥𝑥 𝑥𝑥
+
+
+                                              [Cole, Demaine, Fox-Epstein 2013]

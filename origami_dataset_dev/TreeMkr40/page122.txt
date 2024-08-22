@@ -1,0 +1,52 @@
+                          A
+
+                      a      a                           EA
+                  D
+                                D                              a
+                          E
+                                         B
+              b                    cbD
+                                                               c
+                                                                      C
+        B                              C
+                 bcD
+
+Figure 5.10. Crease pattern for a rabbit ear and resulting subbase. Note that the three flaps of the
+subbase have the same lengths as the three edges of the tree.
+If you are actually folding the active polygon, you can find the intersection of the angle bisectors
+— point E in the figure — just by pinching each corner in half along the bisector and finding the
+ point where all the creases come together. If you are calculating the crease locations numerically,
+ there is a beautiful formula for the location of the intersection of the angle bisectors of an
+ arbitrary triangle. If pA, pB, and pC are the vector coordinates of corners A, B, and C and pE is
+the coordinate of the bisector intersection, then pE is given by the simple formula
+
+                            p (b + c) + p (c + a) + p (a + b)
+                        p  =  A        B        C      .
+                         E           2(a + b + c)
+
+That is, the location of the bisector intersection is simply the average of the coordinates of the
+three corners with each corner weighted by the length of the opposite side.
+
+What happens when one of the sides of the triangle is not an active path? This can happen, for
+example, when one of the sides of the triangle lies along an edge of the square; all of the triangles
+in figure 5.8 are of this type. Since the distance between any two terminal nodes must be greater
+than or equal to the minimum path length, the side that isn’t an active path must be slightly too
+long to be an active path rather than too short. Fortunately, only a slight modification of the
+rabbit ear is necessary to address this situation. Figure 5.11 shows the crease pattern and subbase
+when side BC is slightly too long.
+
+                          A
+
+                      a      a                           E        A
+                  D
+                                D                              a
+              b           E              B
+                                    c             b
+                                                               c
+                                                                      C
+        B        b               c     C
+
+Figure 5.11. (Left) Crease pattern for a triangle when side BC is not an active path. (Right)
+Resulting subbase.
+
+                                 122

@@ -1,0 +1,32 @@
+                                                                         d
+
+                                                                            a     c
+                                                                         b
+
+                                                                         e
+
+                                                                          f    g
+
+
+                                                                     l    h
+             Figure 8.45. 
+             Folded form of the base with                                       k
+             narrowed tiles.                                             i      j
+
+
+                                          1. Begin with the white side up.      2. Fold the top edges down along
+                                          Fold and unfold along both            the diagonal and unfold.
+                                          diagonals.
+
+
+                                          3. Fold the top edges down along a    4. The creases you just made form
+                                          crease that hits the intersection of  the boundaries of the tiles.
+                                          the edge and the crease you just
+                                          made.
+
+                                             Figure 8.46. 
+                                             Folding sequence to divide the square into square and rectangular tiles.
+
+     272
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

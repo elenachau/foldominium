@@ -1,0 +1,14 @@
+                          1
+                  Origamizer
+Related Papers:
+•Demaine, E. and Tachi, T. “Origamizer: A Practical Algorithm for Folding 
+Any Polyhedron,” work in progress.
+
+•Tachi, T.,“Origamizing polyhedral surfaces,” IEEE Transactions on 
+Visualization and Computer Graphics, vol. 16, no. 2, 2010.
+
+•Tachi, T., “Origamizing 3d surface by symmetry constraints,” August 2007. 
+ACM SIGGRAPH 2007 Posters.
+
+•Tachi, T., “3D Origami Design based on Tucking Molecule,” in Origami4: A 
+K Peters Ltd., pp. 259-272, 2009.

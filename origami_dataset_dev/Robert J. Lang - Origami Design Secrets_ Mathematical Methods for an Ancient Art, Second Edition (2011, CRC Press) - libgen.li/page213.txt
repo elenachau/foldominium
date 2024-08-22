@@ -1,0 +1,44 @@
+                To form the pleat lines, we need to give the pleats ﬁnite 
+            width, which we do by (effectively) cutting the crease pattern 
+            apart on the crease lines and inserting ﬁnite-width strips of 
+            paper as shown in Figure 7.6.
+
+
+             foreleg                                          foreleg
+
+
+                                      head
+
+
+            hind leg                                          hind leg
+
+
+                                                                        Figure 7.6. 
+                                                                        The crease pattern with paper 
+                                                                        inserted for pleats.
+                                       tail
+
+                Because some of the pleats hit the edge of the paper at an 
+            angle, when we insert ﬁnite-width pleats, the paper becomes no 
+            longer square. We’ll ﬁx that up in a minute. But ﬁrst, let’s see 
+            if we can do anything more with these pleats. Observe that one 
+            pleat already hits the edge of the paper at one of the appendages 
+            (the hind legs). This will allow us to use the paper in the pleat 
+            to make a fancier hind foot (with toes, for example); this paper 
+            comes for free. If we’re going to add paper to the hind feet, we 
+            might as well do the same for the front feet, and so I add another 
+            pleat near the top of the square that comes out at the front feet, 
+            as shown in Figure 7.7.
+                Having added pleats to decorate the shell and produce 
+            more complex feet, the paper’s overall dimensions have become 
+            roughly rectangular. To get it back to a square, we could add 
+            more paper along the sides, or we could cut some off the top or 
+            bottom. Looking back at the original crease pattern, recall that 
+            the small strip running along the top of the square wasn’t used 
+            for anything in the original base. So we could cut it off without 
+            losing anything from the base; we could have folded the original 
+            turtle from a rectangle that is shorter in height than width.
+
+                                                                                                     201
+                                                                Chapter 7: Pattern Grafting
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,10 @@
+Flat Folding of Box-Pleated Crease 
+Pattern is NP-complete
+
+
+                                                                [Akitaya, 
+                                                                Cheung, 
+                                                               Demaine, 
+                                                          Horiyama, Hull, 
+                                                               Ku, Tachi, 
+                                                            Uehara 2015]

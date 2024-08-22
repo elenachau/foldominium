@@ -1,0 +1,50 @@
+                                         respect to origami history; and Joan Sallas, for information on 
+                                         early napkin-folding and for providing one of the ﬁgures.
+                                             Toshiyuki Meguro, Jun Maekawa, and Fumiaki Kawahata, 
+                                         who developed circle and tree methods in Japan and who all 
+                                         provided crucial insights to my own work along the way.
+                                             Marshall Bern, who encouraged me to write my ﬁrst ori-
+                                         gami computer science technical paper.
+                                             Barry Hayes, who, with Marshall, proved mathematically 
+                                         that origami is really, really hard (lest there be any doubt).
+                                             Erik and Martin Demaine, who have been friends and 
+                                         collaborators in computational origami; in particular, the 
+                                         mathematical theory that led to Chapters 12–14 is as much 
+                                         theirs as mine.
+                                             Thomas Hull, who, as the focal point of origami math, has 
+                                         done more to bring origamists and mathematicians together 
+                                         than anyone else.
+                                             Koshiro Hatori, who provided translations of several of 
+                                         the references.
+                                             Dave Mitchell, for his One-Crease Elephant.
+                                             Dr. Emmanuel Mooser, for his Train.
+                                             Raymond W. McLain and Raymond K. McLain, for their 
+                                         generous permission to reproduce the latter’s Train diagrams 
+                                         and Raymond K.’s recollections of the early days of American 
+                                         origami.
+                                             In addition to the above, numerous other insights, en-
+                                         couragement, ideas, concepts, and criticisms came from Peter 
+                                         Engel, Robert Geretschläger, Chris Palmer, Paulo Barreto, 
+                                         Helena Verrill, Alex Bateman, Brian Ewins, Jeremy Shafer, 
+                                         Issei Yoshino, Satoshi Kamiya, Jason Ku, Brian Chan, Hideo 
+                                         Komatsu, Masao Okamura, and Makoto Yamaguchi. A particu-
+                                         lar thank you goes to Toshi Aoyagi who for many years acted 
+                                         as matchmaker and translator between me and many of my 
+                                         Japanese colleagues and to Koshiro Hatori, Koichi Tateishi, 
+                                         Marcio Noguchi, and Anne LaVin, who have all helped with 
+                                         translation and advice.
+                                             I am particularly indebted to Peter Engel, Marc Kirschen-
+                                         baum, and Diane Lang for proofreading the text and the 
+                                         diagrams and making numerous suggestions for corrections 
+                                         and improvements (and Diane did so twice, for both editions). 
+                                         Needless to say, any errors that remain are entirely my own. 
+                                         There are fewer errors in this printing than in the ﬁrst edition, 
+                                         however, and I am most grateful for the eagle eyes of Yu Lin 
+                                         Yang, Roberto Gretter, Gadi Vishne, and Tom Hull in identify-
+                                         ing a few elusive typos; also for fruitful discussions with Erik 
+                                         and Marty Demaine that allowed me to make a more precise 
+
+
+       x
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

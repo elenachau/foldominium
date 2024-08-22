@@ -1,0 +1,31 @@
+ To set up this condition, click on node 4 and shift-click on node 5 to select them both. Then go to
+ the Conditions menu and select the Nodes paired command.
+
+Now that nodes 4 and 5 have a condition
+on them, their node circles are also green                 1
+as shown in figure 2.2.8. If you still have      2
+them selected and click on the                                     2
+                                        4                  1
+Conditions menu, you’ll see that the                       1.000
+Nodes paired command is checked.                 3
+                                                                            5
+                                                  1.000            4
+                                                           2
+We also need to pair nodes 6 and 7. You                             1.000
+could do this the same way — select     2
+nodes 6 and 7 and then select the Nodes
+                                                           2          2
+paired command — but there’s more                          1.000
+than one way to place conditions on
+nodes. So, just for the experience, we’ll                  3
+do these a different way.               3
+                                                                 3
+Double-click on Node 6. This brings up           5         6
+the Node Editor dialog, which is shown           1.000     1.000
+in figure 2.2.9.
+                                        6         3         7
+
+                                                       2.2.8
+
+
+                                  20

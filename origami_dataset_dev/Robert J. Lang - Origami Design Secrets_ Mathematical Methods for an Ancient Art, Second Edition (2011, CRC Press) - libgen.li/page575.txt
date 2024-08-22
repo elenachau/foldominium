@@ -1,0 +1,50 @@
+            easily implemented, uniaxial box pleating can be a powerful 
+            way to design extraordinarily complicated bases.
+                Uniaxial box pleating, though it has historical roots that 
+            predate the development of circle packing, can be viewed as 
+            an extension and generalization of circle packing and works 
+            in essentially the same way. 
+
+            13.1. Limitations of Circle Packing
+            Circle/river packing creates the most efﬁcient uniaxial base for 
+            a given tree and sheet of paper, and it is guaranteed to give 
+            you every ﬂap of the appropriate length that you specify. That 
+            makes it an extremely powerful tool in the origami designer’s 
+            arsenal. However, as with any tool, it is essential that one be 
+            aware of its limitations, of which there are several.
+                First, there is no guarantee for the existence of a fold-
+            ing sequence. Circle packing and many other origami design 
+            techniques create a valid folded form (“valid” meaning it is ﬂat 
+            foldable without self-intersection), but in general, there may 
+            not be a sequential series of small steps that leads from the 
+            square to the ﬁnished shape. Traditionally, origami designs 
+            were discovered as the end result of a series of step-by-step 
+            explorations; not too surprisingly, then, such models could be 
+            constructed by a step-by-step sequence. But in the vast world 
+            of possible origami designs, step-by-step models are actually 
+            in the minority; most models cannot be broken up into a set of 
+            independent folds; they are “irreducibly complex .”* This leads 
+            to a base construction procedure that could be described as, 
+            “precrease forever, then collapse,” at which point all of the folds 
+            of the base are brought together at once. Or, as my colleague 
+            Brian Chan once described one of his designs, “fold this model 
+            in three easy steps: precrease, collapse, shape.” (Each of the 
+            “three easy steps” took several hours.) Such “three-step mod-
+            els” are becoming the norm in complex designed origami.
+                Second, in circle/river packing, there is little control over 
+            ﬂap width. Length, yes: length is speciﬁed in the algorithm. 
+            But when it comes to ﬂap width, you get what you get; you 
+            don’t get to specify ﬂap width as part of the design process. 
+            Now, it is often possible to employ sink folds (and multiple 
+            nested sink folds) to make a wide ﬂap narrower. But it is not 
+            always possible—and you can’t easily have a narrow ﬂap con-
+            nected to a wide ﬂap (at least, not without sacriﬁcing some 
+            length). As it turns out, the universal molecule appears to give 
+
+            * The term “irreducible complexity” regrettably has another usage, in the 
+            pseudoscientiﬁc doctrine known as “Intelligent Design.” I hope it is clear 
+            that the term’s usage in origami has nothing to do with such other usage.
+
+                                                                                                     563
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

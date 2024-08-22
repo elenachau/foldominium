@@ -1,0 +1,44 @@
+                Of course, the resulting points are smaller than the one 
+            we started with; nothing comes for free. Our folding sequence 
+            was not particularly directed at making them long, which 
+            leads to the question: How long could they get?
+                That question actually raises a more fundamental one: 
+            How does one quantitatively deﬁne the length of a ﬂap? Intu-
+            ition suggests that we deﬁne the length of a ﬂap as the distance 
+            from the baseline to the farthest point of the ﬂap, but this only 
+            pushes the question down a level: What would we mean by 
+            the baseline of the ﬂap? Let us deﬁne the baseline of a ﬂap as 
+            an imaginary line drawn across the ﬂap, above which the ﬂap 
+            can freely move. While this still permits some wiggle room 
+            in the deﬁnition, it allows us to deﬁne a baseline for the two 
+            ﬂaps in the split point above as the obvious horizontal crease; 
+            in this case, we can clearly deﬁne the length of the two ﬂaps 
+            as shown in Figure 5.2.
+
+
+                                        A
+
+                                                                       Figure 5.2. 
+                            6. The new flaps are shorter than          Comparison of the original and 
+                            the original we started with.              newly created ﬂaps.
+                The two new ﬂaps are less than 1/4 of the length of the 
+            original—not a very good tradeoff, it would seem. That gets us 
+            back to our question: How long can we make the two ﬂaps? If 
+            you have folded an example to play with, you can answer this 
+            experimentally, by taking ﬂap A and gently pulling it lower 
+            down while massaging the spread-sunk triangles and allowing 
+            them to expand toward each other, as shown in Figure 5.3. 
+            (It is actually easier to do this before having ever pressed the 
+            two triangles ﬂat.)
+                As Yoshizawa pointed out in his opus, Origami Dokuhon 
+            I, the optimum length is attained when the distance from the 
+            top edge down to the valley fold is equal to half the width of 
+            the top edge.
+                Clearly, these are the longest ﬂaps we can make, at least, 
+            by this technique. Note that the baseline of the ﬂaps moved 
+            downward in the process. Quite often, we have the baseline 
+            of the ﬂap already deﬁned and we’d like to make the longest 
+
+                                                                                                      95
+                                                                 Chapter 5: Splitting Points
+© 2012 by Taylor & Francis Group, LLC

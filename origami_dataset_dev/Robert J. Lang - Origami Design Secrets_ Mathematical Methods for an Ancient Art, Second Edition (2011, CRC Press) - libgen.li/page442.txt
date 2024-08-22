@@ -1,0 +1,40 @@
+                                         the base, at least until you start sinking edges to narrow them. 
+                                         A base with narrow ﬂaps will require many folds, no matter 
+                                         how you design it. But with the universal molecule, because 
+                                         you don’t have to arbitrarily add circles (and hence points) to a 
+                                         crease pattern to knock polygons down to quads and triangles, 
+                                         bases made with the universal molecule tend to have less bunch-
+                                         ing of paper and fewer layers near joints of the base, even with 
+                                         multiply-sunk ﬂaps, resulting in cleaner and—sometimes—
+                                         easier-to-fold models.
+
+                                         11.9. Other Techniques
+                                         An alternative design approach that blends aspects of the circle/
+                                         river method and tree method has been described by Kawahata 
+                                         and Maekawa. It has been called the string-of-beads method 
+                                         of design. As in the tree method, you begin with a tree of the 
+                                         model to be folded. Each line of the tree is turned into a pair of 
+                                         lines and the tree is expanded to ﬁll a square, with the nodes 
+                                         of the tree spaced around the edges of the square like beads on 
+                                         a string. Circles and circular arcs are then constructed in the 
+                                         square that surround each leaf vertex. The process is illustrated 
+                                         for a six-ﬂap base shown in Figure 11.33.
+
+
+                                         Figure 11.33. 
+                                         The string-of-beads method. The tree is turned into a closed polygon, 
+                                         which is then inﬂated inside a square with straight lines between 
+                                         the leaf nodes. The result is a large polygon inside the square that is 
+                                         subsequently collapsed into a base.
+
+                                             In the string-of-beads method, the tree is converted into 
+                                         a large polygon in which each corner is one of the leaf nodes of 
+                                         the tree, and each side is as long as the path between adjacent 
+                                         leaf nodes. It is clear that this distribution of leaf nodes is just 
+                                         a special case of the tree method in which we have constrained 
+                                         all of the nodes to lie on the edge of the square; it avoids creating 
+                                         middle ﬂaps, but at the possible expense of efﬁciency.
+
+     430
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,13 @@
+             Water Strider
+
+
+             Mark the edges of a 36x36 square grid. Use the edge
+             markings to locate interior vertices. You don’t need
+             to pre-crease the folds outside of the perfect
+             Pythagorean stretches; just fold the corners underneath
+             after precreasing the rest.
+
+
+     690
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

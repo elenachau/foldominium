@@ -1,0 +1,2 @@
+Perform some open sinks to thin the flaps. If at that point you have flaps that are longer than 2 units,
+you will have to open sink in and out accordingly.

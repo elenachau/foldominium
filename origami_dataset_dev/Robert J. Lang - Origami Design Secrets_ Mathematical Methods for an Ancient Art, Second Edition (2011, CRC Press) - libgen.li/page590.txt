@@ -1,0 +1,12 @@
+                                             Figure 13.12. 
+                                             Hinge polygons for a 5-leaf stick ﬁgure, showing the minimum polygons 
+                                             (squares that enclose the packing circles) and a hinge river.
+
+
+                                             Figure 13.13. 
+                                             Left: a 5 × 5 square almost works. 
+                                             Right: a 6 × 6 square encloses all polygons.
+
+     578
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

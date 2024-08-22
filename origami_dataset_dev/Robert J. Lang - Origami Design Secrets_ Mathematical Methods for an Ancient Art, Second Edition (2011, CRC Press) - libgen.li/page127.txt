@@ -1,0 +1,32 @@
+            Figure 5.28. 
+            Crease pattern, base, and folded model of the Walrus.
+
+            structure from the crease pattern? It is recognizably a ver-
+            sion of a Bird Base (to be precise, a stretched Bird Base), but 
+            two opposite ﬂaps have been split—to make the tusks at one 
+            end and the tail ﬂippers at the other. Figure 5.28 shows the 
+            crease pattern, the base, and the folded model. From these 
+            clues, you should be able to reconstruct the model entirely. 
+            (If you can’t fold the model from the crease pattern, base, and 
+            folded model, full instructions may be found in books cited in 
+            the references.)
+                A more sophisticated form of point-splitting is employed 
+            in the model whose crease pattern is shown in Figure 5.29. The 
+            Grasshopper is also clearly from a Bird Base, but with three 
+            splits. The central point has been sunk and Yoshizawa-split; 
+            then two of the four long ﬂaps have also been split into three 
+            points each. This, too, is a challenge: Can you ﬁgure out how 
+            to perform the splitting functions on a Bird Base to yield the 
+            Grasshopper’s base? (And then, shape the resulting ﬂaps into 
+            the folded model.)
+                By using point-splitting, you can add extra appendages 
+            and features to models made from existing bases. However, 
+            there is a cost in layers, and a limit on size. As we have seen, 
+            even the theoretically optimum two-point split results in ﬂaps 
+            less than half the size of the ﬂap you started with. Point-
+            splitting cannot double a ﬂap at the same size, or increase 
+            the length of a ﬂap, or add more points to the end of the ﬂap 
+
+                                                                                                     115
+                                                                 Chapter 5: Splitting Points
+© 2012 by Taylor & Francis Group, LLC

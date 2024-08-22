@@ -1,0 +1,39 @@
+                                         the ﬁgure, or (better yet) incorporate the folds that create the 
+                                         texture into the folds that create the rest of the model.
+
+                                         7.2. Pleated Textures
+                                         The concept of origami texture as art in itself was widely 
+                                         explored by French artist and folder Jean-Claude Correia in 
+                                         the 1980s. Correia adopted the technique of creating crossing 
+                                         grids of pleats, then manipulated the excess paper created at 
+                                         the pleat intersections. While Correia’s work was primarily 
+                                         abstract, the technique has been adopted by several artists 
+                                         to combine textures with representational origami; an early 
+                                         hedgehog by John Richardson  used crossed pleats to make a 
+                                         grid of short spines on a three-dimensional body. The technique 
+                                         perhaps reached its zenith in animal subjects in Eric Joisel’s 
+                                         Pangolin, in which crossed pleats of varying sizes created the 
+                                         scaled body of a primitive anteater.
+                                             The basic concept of a pattern graft is to create a regular 
+                                         pattern of creases that emulates some regular pattern present 
+                                         in the subject. The simplest possible pattern is formed by mak-
+                                         ing a row of parallel pleats in one direction, then again at 90° 
+                                         to the ﬁrst; this creates a grid of squares (or, depending on your 
+                                         orientation, diamonds). The resulting pattern resembles scales, 
+                                         which is perhaps why most patterned subjects have tended to be 
+                                         scaly: snakes, dragons, scaled anteaters, and the like.
+
+
+                                         Figure 7.10. 
+                                         Left: crossed pleats. 
+                                         Middle: the folded structure. 
+                                         Right: crossed pleats at 45° create a grid of diamonds.
+
+                                             There is nothing that says one can’t use other patterns, 
+                                         however; it is possible to take many regular tiling patterns 
+                                         and create pleated origami representations of them. Building 
+                                         on work by Fujimoto and Momotani, origami artist Chris K. 
+
+     204
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

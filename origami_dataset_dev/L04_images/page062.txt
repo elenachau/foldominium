@@ -1,0 +1,12 @@
+Idea: Generalize Regular pattern
+
+• Original
+  – Miura-ori
+  – Eggbox pattern
+
+• Generalization
+  To:                   Generalize
+   Non Symmetric forms
+
+ (Do not break rigid 
+ foldability)

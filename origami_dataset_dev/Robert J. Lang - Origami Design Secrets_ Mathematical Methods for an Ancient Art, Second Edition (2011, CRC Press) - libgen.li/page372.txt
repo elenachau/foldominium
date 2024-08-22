@@ -1,0 +1,39 @@
+                                                                                        tangent point
+
+                                         Figure 10.20. 
+                                         An alternate arrowhead molecule for the quadrilateral shown in 
+                                         Figure 10.19.
+
+
+            Figure 10.21. 
+            The arrowhead molecule can be 
+            separated along axial creases 
+            into a Waterbomb molecule and 
+            an extra piece that lengthens 
+            one of the points.
+
+
+                                         edges when the molecule is folded up. We saw that in the full 
+                                         crease pattern, lines that lie along the axis of the model are 
+                                         axial creases, creases that connect the centers of touching 
+                                         circles. As shown on the right in Figure 10.21, we can think 
+                                         of the arrowhead molecule as a combination of a Waterbomb 
+                                         molecule formed from four touching circles, three out of four 
+                                         of them the right length, with the extra chevron-shaped piece 
+                                         added to bring the fourth point up to the proper length.
+                                             Any molecule that has interior creases that line up with 
+                                         the raw edges when the molecule is folded is called a composite 
+                                         molecule. A molecule with no interior creases is a simple mol-
+                                         ecule. The arrowhead molecule is a composite molecule.
+                                             Another disadvantage of the arrowhead molecule is that 
+                                         it can be asymmetric even when the underlying polygon and 
+                                         circle pattern is symmetric. Figure 10.22 shows the arrowhead 
+                                         molecule constructed within the diamond from the 6-circle 
+                                         pattern of Figure 10.11. Although the diamond and its circles 
+                                         have left-right symmetry—the right side is the mirror image 
+                                         of the left—the arrowhead molecule crease pattern (and the 
+                                         folded molecule) do not.
+
+     360
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

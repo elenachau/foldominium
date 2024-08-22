@@ -1,0 +1,39 @@
+                              +=
+
+
+                              +=
+
+
+            Figure 8.17. 
+            The same two tiles can be mated along their short edges to create a 
+            different conﬁguration of ﬂaps.
+
+                Compare the four tile crease patterns with the folded form 
+            of each tile. Each circular arc deﬁnes a region of paper that 
+            belongs to a single ﬂap.
+                The value of the circles is that when two tiles mate so 
+            that the circles line up, then the folded forms of each tile also 
+            mate so that the boundaries of adjacent ﬂaps line up with each 
+            other. An example is shown in Figure 8.16. Since the boundary 
+            of each tile is axial, the seam between the two tiles must also 
+            be axial, and so I have colored the crease at the joint green to 
+            indicate its axial character.
+                In Figure 8.16, each triangular tile contains two long ﬂaps 
+            and one short ﬂap. If we mate the two triangles along their long 
+            edges, the long ﬂaps merge, top and bottom, into two long ﬂaps; 
+            but the two side ﬂaps remain separate, so that the resulting 
+            crease pattern contains two long ﬂaps and two short ﬂaps: a 
+            Fish Base.
+                Alternatively, as shown in Figure 8.17, by mating the two 
+            tiles along their short edges, instead of long ﬂaps merging, one 
+            long and one short ﬂap merge, and the resulting base has three 
+            long ﬂaps and one short ﬂap (and its crease pattern is a right 
+            triangle, rather than a square).
+                Observe that in each mating, distinct segments of circles 
+            correspond to distinct ﬂaps. Thus, a simple way of determining 
+            the number of ﬂaps created by the crease pattern is to count the 
+            number of distinct portions of circles in the crease pattern.
+
+                                                                                                     255
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

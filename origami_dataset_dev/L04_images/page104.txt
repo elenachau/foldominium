@@ -1,0 +1,10 @@
+Variations
+
+
+• Use constant thickness 
+  panels
+   – if both layers overlap 
+    sufficiently
+• use angle limitation
+   – useful for defining the 
+    “deployed 3D state”

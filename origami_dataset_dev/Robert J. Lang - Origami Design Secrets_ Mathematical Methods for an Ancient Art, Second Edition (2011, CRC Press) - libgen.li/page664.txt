@@ -1,0 +1,46 @@
+                                         river from each bank (perhaps we could call them docks?) that 
+                                         limit the maximum width.
+                                             One can, of course, use the same technique to obtain 
+                                         broader widenings, and in fact, once the total width is 3 units 
+                                         or more, all sorts of complicated patterns become possible. 
+                                         The two examples shown in Figure 14.29 merely hint at the 
+                                         possibilities.
+
+
+            Figure 14.29. 
+            Top: a 3-unit-wide broadening of 
+            a river with meanders. 
+            Bottom: an alternate broaden-
+            ing with a different set of me-
+            anders.
+
+                                             By introducing meanders into the hinge rivers, we can 
+                                         selectively widen parts of them and so use rivers to “soak up” 
+                                         extra paper in the crease pattern. Why might we want to do 
+                                         this? At ﬁrst blush, this might seem to be a needless complica-
+                                         tion. It is certainly clear that introducing tight meanders of this 
+                                         sort creates a lot of new 45° ridge creases; they can signiﬁcantly 
+                                         add to the complexity of a crease pattern.
+                                             But they have a side effect that could be very useful: me-
+                                         anders allow you to change elevation from one side of the river 
+                                         to the other. If we have alternating axial and axial+1 contours, 
+                                         when they hit an ordinary river, they proceed across the river 
+                                         banks without stopping or changing, as shown in the top sub-
+                                         ﬁgure of Figure 14.30.
+                                             If, however, we introduce a 1-unit-wide pattern of mean-
+                                         dering into our river, then when the contour lines hit the top of 
+                                         the river, they bounce off of the ridge creases, and when they 
+                                         come out the bottom, the positions of the axial and axial+1 
+                                         contours have been reversed. So, in effect, meanders can act 
+                                         as a form of level shifter, but with nice 45° ridges and vertices 
+                                         on grid points.
+                                             Everything I’ve shown thus far has been with 1-unit wide 
+                                         rivers, but rivers come in all widths. Certainly a 2- or 3-unit 
+                                         wide river could be meandered in exactly the same way, but we 
+                                         have an additional degree of freedom with these wider rivers 
+                                         because every river can be viewed as a set of parallel 1-unit-
+                                         wide rivers that all “ﬂow” in the same direction and pattern. 
+
+     652
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

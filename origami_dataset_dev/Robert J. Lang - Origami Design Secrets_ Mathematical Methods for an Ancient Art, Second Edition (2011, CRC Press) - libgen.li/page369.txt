@@ -1,0 +1,42 @@
+                Note that the distances A–D are not necessarily equal to 
+            the circle radii a–d that we started with; there are many dif-
+            ferent four-circle patterns that give rise to exactly the same 
+            quadrilateral. Three examples are shown in Figure 10.15.
+                Waterbomb molecule quadrilaterals have a couple of other 
+            interesting properties. If we draw four lines from the bisector 
+            intersection, each perpendicular to one of the four edges, they 
+            all have the same length, which means that a circle can be 
+            inscribed within the quadrilateral as shown in Figure 10.16, a 
+            property ﬁrst shown by Koji Husimi, also noted by Justin and 
+            Maekawa.
+
+
+            Figure 10.16. 
+            A quadrilateral deﬁned by four touching circles can have a circle 
+            inscribed within it that touches all four sides.
+
+                It is also quite easy to show the converse of this relation-
+            ship, that the vertices of any quadrilateral with an inscribed 
+            circle tangent to all four sides are the centers of four pairwise 
+            tangent circles.
+                If a quadrilateral satisﬁes the Waterbomb condition, then 
+            the folds of the Waterbomb Base—the four bisectors, plus the 
+            four perpendiculars—are uniquely speciﬁed. So there is only 
+            one way to collapse the quad into a Waterbomb molecule. But 
+            as we saw, there are many possible circle patterns that can 
+            give rise to the same quadrilateral. Only one particular set of 
+            circles has the property that the tangent points line up with 
+            the hinge creases, as shown in Figure 10.17.
+                For the rhombus that appears in the six-circle packing 
+            (Figure 10.11), this is also the situation: The Waterbomb mol-
+            ecule does not bring the tangent points together, as Figure 10.18 
+            shows.
+                Thus, even if a quadrilateral satisﬁes the Waterbomb 
+            condition, the Waterbomb molecule may not be the appropri-
+            ate crease pattern that brings together the tangent points. 
+            Fortunately, there are other quadrilateral molecules that ﬁll 
+            this need.
+
+                                                                                                     357
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

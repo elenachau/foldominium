@@ -1,0 +1,31 @@
+                       ?
+
+
+                       ?
+
+                                                                       Figure 14.33. 
+                                                                       A similar packing with a solu-
+                                                                       tion via level shifters that give 
+                                                                       alternating elevations down the 
+                                                                       right side.
+
+            by the Cicada Nymph shown in Figure 14.34, which uses the 
+            level-shifting technique of Figure 14.33 but widens the body by 
+            shifting all of the elevation creases by one-half unit, effectively 
+            adding a 1-unit strip down the middle of the base. 
+                There are two ways to look at this contour map and base. 
+            One is to think of it as an ordinary uniaxial base with a strip 
+            graft down the center (and that is the way that I have illus-
+            trated it), so that the contours are at elevations 0, 1/2, 1, and 2. 
+
+
+                                                             201       012
+
+
+            Figure 14.34. 
+            Contour map, base with elevations marked, and folded model for 
+            the Cicada Nymph.
+
+                                                                                                     655
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

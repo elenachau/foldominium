@@ -1,0 +1,13 @@
+fold up in the base (I encourage you to try). The flaps are, as you might expect, much wider than
+they are long. However, by sinking the top of the base in and each, all of the flaps can be thinned
+to arbitrarily large aspect ratio while maintaining their relative lengths.
+
+
+Figure 5.34. Universal molecule version of the Oru tree
+All of the crease patterns in figures 5.31–5.34 share the property that all points lie on the edge of
+the square. If we relax this constraint and allow middle points, then we can achieve a slightly
+larger and even simpler pattern (with a scale of 0.067 as compared to 0.065 for the previous
+pattern), shown in figure 5.35.
+
+
+                                140

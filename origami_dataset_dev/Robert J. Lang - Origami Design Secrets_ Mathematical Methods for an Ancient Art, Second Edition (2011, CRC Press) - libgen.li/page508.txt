@@ -1,0 +1,21 @@
+            Figure 12.38. 
+            Scaling up the crane tile. Two 
+            more doublings are required for 
+            a thousand cranes.
+
+                                         paper would be nearly 10 × 10 meters: pretty large, yes, but 
+                                         not entirely inconceivable.
+                                             And how many cranes would it contain? A 32 × 32 array 
+                                         would contain 1024 cranes. If one left six cranes unfolded at 
+                                         each of the four corners, the result would be exactly 1000 cranes. 
+                                         The Japanese folding classic Sembazuru Orikata translates to 
+                                         “The Folding of One Thousand Cranes.” The Sembazura style 
+                                         of folding involves cutting deep slits into a sheet to make ar-
+                                         rays of connected cranes. But here, we see, through the power 
+                                         of box pleating, we can—at least in principle—fold a thousand 
+                                         cranes in the fu-setsu sei-hokkei ichi-mai ori style: from a single 
+                                         uncut square.
+
+     496
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

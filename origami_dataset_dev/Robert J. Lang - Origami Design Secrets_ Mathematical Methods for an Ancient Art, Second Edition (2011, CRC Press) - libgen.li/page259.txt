@@ -1,0 +1,23 @@
+            tip. Consequently, we can always split any ﬂap along an axial 
+            crease to insert a strip graft.
+                Observe that the network of axial creases divides the crease 
+            pattern into a collection of distinct polygons whose boundaries 
+            are entirely composed of either axial creases or the raw edge of 
+            the paper. We will call these polygons axial polygons.
+
+            8.2. Splitting Along Axes
+            The axial polygons of the crease pattern have an interesting 
+            property in their own right: in the folded base, the entire pe-
+            rimeter of each polygon comes together to lie along a common 
+            line—the axis of the model. You can observe this property by 
+            taking a base and cutting it along its axis. If you remove a 
+            slight bit of paper from either side of the axis so that the cut 
+            severs folded edges that lie along the axis, both the base and 
+
+
+            Figure 8.6. 
+            Dissected crease patterns for the Fish, Bird, and Frog Bases.
+
+                                                                                                     247
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

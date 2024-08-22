@@ -1,0 +1,42 @@
+                                         Figure 8.37. 
+                                         Left: simple tile for a square. 
+                                         Right: narrowed form of the same tile.
+
+                                         form is—surprise!—the same crease pattern as a Bird Base 
+                                         (see Figure 8.37).
+                                             So, we could treat this tile as the narrow form of a square 
+                                         tile, or we could decompose it into four of the triangular tiles 
+                                         that we’ve already seen (in which case, we’d add a ﬁfth circle 
+                                         to the center of the square, representing the ﬁfth accessible 
+                                         ﬂap).
+                                             So, it appears that a given tile can have several different 
+                                         crease patterns inside it with the same number and length of 
+                                         ﬂaps; only the widths of the ﬂaps differ. The simplest tiles have 
+                                         the widest ﬂaps. By sinking the tiles in various ways, we can 
+                                         make the ﬂaps narrower; in fact, by sinking over and over, we 
+                                         can make each of the ﬂaps arbitrarily thin.
+
+                                         8.6. Stick Figures and Tiles
+                                         At this point, it is helpful to introduce a pictorial notation for 
+                                         the arrangement of ﬂaps in the folded form of a tile: the stick 
+                                         ﬁgure. We represent each ﬂap in the folded form by a line seg-
+                                         ment whose length is equal to the length of the ﬂap, with line 
+                                         segments joined to each other in the same way that the ﬂaps 
+                                         are joined to each other.
+                                             If two circles touch within the tile, then their corresponding 
+                                         ﬂaps touch, and we will represent that connection by drawing 
+                                         the sticks as touching at their corresponding end. Thus, for 
+                                         example, the folded form of a triangular tile—three ﬂaps—can 
+                                         be represented schematically by three lines coming together 
+                                         at a point.
+                                             Figure 8.38 illustrates this schematic form for two of the 
+                                         triangle tiles. A triangular tile can be folded into a shape with 
+                                         three ﬂaps; we will represent the tile by a three-branched stick 
+                                         ﬁgure, in which the sticks are the same length as the ﬂaps in 
+                                         the tile.
+                                             The stick ﬁgure can also be viewed as the limiting case as 
+                                         the ﬂaps of the folded form are made narrower and narrower. 
+
+     266
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

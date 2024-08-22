@@ -1,0 +1,25 @@
+approach to design. As in the tree method, you begin with a tree graph of the model to be folded.
+Each line of the graph is doubled and the graph is expanded to fill a square, with the nodes of the
+graph spaced around the edges of the square like beads on a string. The process is illustrated for a
+six-flap based in figure 5.28.
+
+
+Figure 5.28. The string-of-beads design method. The tree graph is turned into a closed polygon,
+which is then “inflated” inside of a square with straight lines between the terminal nodes. The
+result is a large polygon inside the square that is collapsed into the base.
+In the string-of-beads method, the tree graph is converted into a large polygon in which each
+corner is one of the terminal nodes of the tree and each side is as long as the path between
+adjacent terminal nodes. It is clear that this distribution of terminal nodes is just a special case of
+the tree method in which we have constrained all of the nodes to lie on the edge of the square; it
+avoids having middle points, but at the expense of possibly reduced efficiency.
+
+The string-of-beads approach produces a large polygon that must be collapsed into the base, and
+the techniques described by Maekawa involve placing tangent circles in the contours shown in
+the last step of figure 5.28 (which is analogous to our use of additional circles to break down
+active polygons into smaller polygons in the tree method; Kawahata’s algorithm projects
+hyperbolas in from the edges to locate reference points for molecular patterns.) However, one
+can also apply the universal molecule directly to the string-of-beads polygon, achieving another
+efficient crease pattern that collapses it into a base.
+
+
+                                136

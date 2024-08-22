@@ -1,0 +1,47 @@
+                                             We begin with the same tree graph, circles, and rivers for the 
+                                         left half of the crease pattern; but in anticipation of box pleating, 
+                                         I have placed them on a grid, as shown in Figure 13.32.
+                                             The packing starts by turning the rivers into rectilinear 
+                                         hinge rivers and wrapping the circles in the minimum-size 
+                                         squares whose hinges run along grid lines. These are then 
+                                         packed into the paper square, as shown in Figure 13.33. The 
+                                         three squares that lie on the center line have some extra space 
+                                         alongside, and so we will expand these three squares into 
+                                         rectangles.
+
+
+                                                                                   4 1
+
+                                                                                   1
+                                                                                 4 1  1
+                                                                                   1
+                                                                                6  1  1
+
+                                                                                8  2
+
+                                                                                   4
+
+
+            Figure 13.33. 
+            Packing of the hinge polygons 
+            (squares and rectilinear rivers) 
+            into the paper square (left side 
+            only).
+
+                                             We can soak up some of the extra space by expanding ﬂaps 
+                                         sideways. However, along the center line, we want to have an 
+                                         axial crease running all the way down the model in order to be 
+                                         able to unfold it into plan view. To do this, I add two more circles 
+                                         (one near the head, one below the abdomen), which insures that 
+                                         there is an unbroken stretch of packed circles and rivers from 
+                                         the top to the bottom of the square along its symmetry line, as 
+                                         shown in Figure 13.34.
+                                             Next, we add the ridges. In each polygon, the ridge is the 
+                                         straight skeleton. This is a relatively simple structure, so all 
+                                         of the closed hinge polygons are squares or rectangles; no L-
+                                         shaped or T-shaped ﬁgures, which keeps the pattern of ridges 
+                                         relatively simple, as shown in Figure 13.35.
+
+     602
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

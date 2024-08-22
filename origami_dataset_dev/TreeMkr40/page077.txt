@@ -1,0 +1,24 @@
+                                       4.4.8
+
+      Vertices
+
+If you double-click on a vertex, the Vertex Editor is put up, as shown in figure 4.4.9.
+
+
+                                       4.4.9
+
+There are no editable fields of a vertex and you can’t apply conditions to one, so the only thing
+the Vertex Editor tells you ins the index of the vertex.
+
+However, the disclosure triangle toggles to Expert Mode, which shows some of the structural
+information of the vertex, as shown in figure 4.4.10.
+
+
+                                       4.4.10
+
+      Creases
+
+If you double-click on a crease, the Crease Editor is put up as shown in figure 4.4.11.
+
+
+                                  77

@@ -1,0 +1,46 @@
+                                             Now, it’s time for the axials. If we want to unfold the 
+                                         base to lie ﬂat in plan view, then we need an axial contour 
+                                         running down the symmetry line of the model (the center of 
+                                         the square in our design). Since every point along that line 
+                                         is axial, that means that at each intersection of ridges along 
+                                         the center line, an axial contour must propagate outward 
+                                         (leftward) from the intersection. We propagate these contours 
+                                         outward until they hit a ridge; they bounce at the ridges and 
+                                         keep going until they close on themselves or run off of the 
+                                         paper, as in Figure 13.36.
+
+
+                                                                                   4 1
+
+                                                                                    1
+                                                                                 4  1  1
+                                                                                    1
+                                                                                6   1  1
+
+                                                                               8    2
+
+                                                                                    4
+
+
+            Figure 13.36. 
+            The ﬁrst round of axial creases.
+
+                                             The axial contours drawn in Figure 13.36 are the ones that 
+                                         are forced by the crease pattern (speciﬁcally, they are forced by 
+                                         the requirement of having an axial crease down the symmetry 
+                                         line of the model). But they also establish a natural scale for 
+                                         the remaining contours of elevation. Observe that the closest 
+                                         two parallel axial contours come to one another is two grid 
+                                         squares’ worth. There must be a nonzero contour of constant 
+                                         elevation between them, that is, one grid square, which means 
+                                         that the natural width of the ﬂaps will be one grid square’s 
+                                         worth. I will call this contour the “axial+1” contour, since its 
+                                         elevation is one grid square above the axial contour. And so, 
+                                         we add those forced axial+1 contours, and then continue add-
+                                         ing contours at alternating elevations so that all contours are 
+                                         either axial or axial+1. This means that the leg ﬂaps will all be 
+                                         one unit wide and the body (after opening out into plan view) 
+
+     604
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

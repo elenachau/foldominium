@@ -1,0 +1,43 @@
+                                                    l                               α
+                                                    g
+
+
+            Figure 14.57. 
+            Geometry of a comb aligned to 
+            the edge of the paper. The axial 
+            contours (and thus the hinge 
+            lines) are tilted with respect to 
+            the paper edge at an angle . 
+            The ﬁlament length is l; the gap 
+            length is g. The corresponding 
+            stick ﬁgure is shown at the top.
+
+                                         or equivalently,
+                                                                         1
+                                                    α          = sin−1        .            (14–17)
+                                                                       1+ 2 f
+
+                                             Thus, you can create any aspect ratio comb by suitable 
+                                         choice of the tilt angle: choose your comb ratio f, then use 
+                                         Equation (14–17) to solve for the tilt angle . By small adjust-
+                                         ments of the tilt angle and ﬁlament length, you can get the 
+                                         axial contour spacing to match up with an integral multiple of 
+                                         the unit width for the rest of the crease pattern, and you can 
+                                         use the triangular or quadrilateral polygons from this section 
+                                         to match up this tilted structure with a more conventionally 
+                                         designed portion of the crease pattern.
+                                             Two examples that incorporate this comb idiom are shown 
+                                         in Figures 14.58 and 14.59. The Euthysanius Beetle has long, 
+                                         feathery antennae, in addition to the usual complement of legs 
+                                         and body parts. We can set up a comb for each of the anten-
+                                         nae across the top of the paper, then use a triangle to join the 
+                                         angled contours to a regular box-pleated structure for the rest 
+                                         of the ﬁgure.
+                                             The Spur-Legged Dung Beetle incorporates six such combs, 
+                                         one on each leg. Again, we can use triangular hinge polygons to 
+                                         join the angled axis-parallel contours to a regular box-pleated 
+                                         structure for the rest of the form.
+
+     678
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

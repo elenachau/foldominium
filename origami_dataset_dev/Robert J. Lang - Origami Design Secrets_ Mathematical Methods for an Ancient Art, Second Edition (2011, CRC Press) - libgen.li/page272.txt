@@ -1,0 +1,38 @@
+            Figure 8.26. 
+            Left: the finished crease 
+            pattern. 
+            Right: the folded base.
+
+
+                                         ﬂap will be longer than the others. There are two circles at the 
+                                         bottom, separated by a river that runs across the pattern. Those 
+                                         two circles will give rise to two more ﬂaps, the same length as 
+                                         the upper four, but separated from them by a body; and ﬁnally, 
+                                         the tiny circle at the very bottom will turn into a small ﬂap, 
+                                         joined to the other two that it touches.
+                                             And indeed, with suitable crease assignment, this pat-
+                                         tern can be folded into the shape shown in Figure 8.26, which 
+                                         matches every element of the structural description.
+                                             This structure is not just a contrived example; I have used 
+                                         it to realize a Pegasus. The folded model and its crease pattern 
+                                         is shown in Figure 8.27. Folding instructions are given at the 
+                                         end of the chapter.
+                                             If you compare the crease patterns in Figures 8.26 and 8.27, 
+                                         you will see that although the overall structure is the same, 
+                                         the second crease pattern has many more creases within the 
+                                         individual tiles. It is useful, in fact, to examine the various tiles 
+                                         because they are illustrative of some of the variations you can 
+                                         ﬁnd within tiles.
+                                             First, let’s look at the rectangular tile that forms the body 
+                                         and four legs of the animal. The two forms—the basic crease 
+                                         pattern, and the form in the folded model—are shown in Fig-
+                                         ure 8.28.
+                                             In the two tile crease patterns, the circles and rivers have 
+                                         the same radii and width, respectively, and the ﬂaps have the 
+                                         same lengths in the folded forms. The only difference lies in 
+                                         the widths of the folded ﬂaps and the number of layers in each 
+                                         ﬂap. The narrower ﬂaps necessarily have more layers.
+
+     260
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

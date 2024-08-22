@@ -1,0 +1,11 @@
+           Scarab Beetle HP
+
+
+           Divide the vertical edges in 13ths and the horizontal
+           edges in 15ths; these serve as the references for the
+           primary grid, which is based on equilateral triangles.
+
+
+                                                                                           693
+                                                      CreaseChapter Patterns: 14: Scarab Polygon Beetle Packing HP 
+© 2012 by Taylor & Francis Group, LLC

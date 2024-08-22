@@ -1,0 +1,51 @@
+                                      A
+
+                               EF
+
+                                       B
+
+                          EF
+                A                                           A
+                                 BB
+                                      A
+         E                                                         F
+
+                 BBBB
+
+                              CC
+                 C                                           C
+
+         G                                                         H
+                         GH
+                                CC
+
+                                       D
+
+                                       A
+
+
+                                        B
+
+                                        C
+
+                                GH
+
+                                       D
+
+Figure 5.8. The four active polygons for the six-legged base and the trees corresponding to each
+subbase.
+An incredibly useful property of active polygons is that although two polygons may share a
+common side, if that side is an active path, any crease pattern that collapses one polygon into a
+subbase is always compatible with a crease pattern that collapses the adjacent polygon into its
+subbase! If you like, for example, you could cut up the square into separate polygons, fold each
+polygon into a subbase, and then glue matching edges of the subbases back together and be
+assured that they would match up. This matching property is unique to active paths, so any two
+polygons that share a side that is an active path will be guaranteed to match up. The practical
+upshot of this is that in order to find the creases that collapse the entire base, we can find crease
+patterns that collapse each polygon into a section of the overall base, taking the polygons one at a
+time. So here is a way to break up the design of a complicated base into a bunch of much simpler
+bases. To collapse the entire square into a uniaxial base, it suffices to find a way to collapse each
+polygon individually into the appropriate subbase.
+
+
+                                120

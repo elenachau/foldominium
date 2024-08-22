@@ -1,0 +1,32 @@
+It’s also worth pointing out that we don’t show any terminal nodes along the edges of the square
+because the paths between nodes G and E, E and F, and F and H are not active paths.
+
+It can be shown that active paths never cross each other, so the only places where lines come
+together on the square are terminal nodes. This pattern of lines breaks up the square into a set of
+polygons. In some of the polygons, all of their sides are active paths (like the inverted-kite-
+shaped quadrilateral in the center of figures 5.6 and 5.7). If one of the sides of a polygon lies on
+the edge of a square, it may or may not be an active path (in figure 5.6 and 5.7, each triangle has
+one side on the edge of the square that is not an active path.)
+
+We’ll call a polygon whose corners are terminal nodes and whose sides are active paths or the
+edge of the square an active polygon. Each active polygon has the property that all of its sides
+map to the plane of projection of the base when the square is folded into a base. Consequently, to
+find a crease pattern that collapses the square into the base, it is necessary to find a crease pattern
+that maps the network of active paths onto the plane of projection of the base.
+
+This sounds like we have added requirements and made our job harder, but in fact we have
+actually simplified things. One of the things that makes origami design so difficult is the
+interrelatedness of all the parts of the base; if you try to change the dimensions of one part of the
+model, you have to take into account how that part interacts with the rest of the paper. But it
+turns out that when you have a square broken up into active polygons, you can separate the
+design into independent pieces. Recall that the tree is the projection of the base, which is folded
+from the complete square. Each polygon on the square corresponds to a portion of the overall
+base and if you collapse any polygon into a section of the base — which I call a subbase — the
+projection of the subbase is itself a portion of the projection of the complete base, i.e., a portion
+of the original tree. For example, figure 5.8 shows the polygons for our six-legged base and the
+corresponding trees for each subbase. Note that since all of the corners of an active polygon must
+be terminal nodes, the triangles at the bottom corners of the square are not active polygons and in
+fact do not contribute to the base at all.
+
+
+                                119

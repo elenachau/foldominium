@@ -1,0 +1,32 @@
+            bases with folded structures that provide the portions of the 
+            subject that don’t ﬁt neatly into the uniaxial mold.
+                In the case of a vertebrate animal, we can create a large ﬂat 
+            polygon for the wide body of the animal and pack pieces of uni-
+            axial bases around it to create ﬂaps for the appendages; instead 
+            of distributing those ﬂaps along the centerline of the polygon as 
+            in a uniaxial base, we can distribute them around the periphery, 
+            thus reducing or eliminating the wide-body penalty.
+                The simplest way of accomplishing this would be to cut the 
+            base along some axial creases and insert a strip graft, as we 
+            did in Chapter 6, but instead of pleating the strip and turning 
+            it into more points, we leave it relatively unfolded. Figure 15.8 
+            illustrates the surgical process performed on the Frog Base of 
+            Figure 15.7.
+
+
+               1. Here is the crease pattern  2. … and insert a strip,       3. Construct a modified
+               for a Frog Base. We cut it     bounded on both sides by       Frog Base (using circle-
+               down the center …              two axes.                      river packing) in the paper
+                                                                             remaining outside the strip.
+
+
+                                 4. Extend creases across       5. The resulting base is no
+                                 the strip and fold it into a   longer uniaxial.
+                                 base.
+
+            Figure 15.8. 
+            Construction of a multiaxial base.
+
+                                                                                                     707
+                                                                  Chapter 15: Hybrid Bases
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,10 @@
+              Example Files
+
+http://jasonku.scripts.mit.edu/misc/treemaker_examples.zip
+• crab_book.tmd5 = crab with book symmetry
+• crab_diag.tmd5 = crab with diagonal symmetry
+• crab_book_tri.tmd5 = triangulated version of book
+• crab_diag_tri.tmd5 = triangulated version of diagonal
+
+
+                                        48

@@ -1,0 +1,53 @@
+             Miscellaneous
+
+ I also found it necessary to write a number of small utility packages or modified classes. They
+ are:
+
+ Alerts - a wrapper to handle simple alerts
+
+ AnimatedCursor - displays a cursor animation during calculations
+
+ LCropMark - a pane that displays crop marks in a printout
+
+ LFloatEditField - an edit field that displays a floating-point value
+
+ LGACaptEditField - an edit field that turns into a LCaption when it is disabled
+
+ LGADeadCheckbox (obsolete) - a checkbox that doesn’t respond to clicks. It’s a convenient
+ tool for displaying binary information
+
+ LGAModalDialogBox - a dialog box (derived from LGADialogBox) that displays true
+ modal dialog behavior (disabling all commands when it’s in the foreground).
+
+ LGATargetAnnouncingEditField - an edit field that broadcasts a message when it
+ becomes the target.
+
+ QDUtils - routines for doing arithmetic with QuickDraw Point records
+
+ ToggleSizeDialog - a dialog box that has two sizes you can toggle between. I use it to hide
+ object data fields that aren’t used directly but keeps them accessible.
+
+ UParamText - a utility that does for PowerPlant views what the system routine
+ ::ParamText() does for resource-based dialogs and alerts.
+
+ UPlaceDialog - a utility that places dialogs in the right place on the main screen
+
+ Sort - a template class for sorting an array of numbers.
+
+    7.2  Tree Classes: Details
+
+ In this section the fundamental data structures are discussed along with their inheritance
+ hierarchy. Many objects inherit from a “Owner” class; as discussed below, an “ObjectOwner”
+ maintains a list of references to “Object” and when the “Owner” is deleted, it kills all of its
+ owned objects.
+
+ The relationships between objects are maintained by references and lists of references. These are
+ summarized in the table below. Bolded names are references that are inherited from subclasses.
+
+       Part-ness
+
+ Most objects inherit from a base class called Part which has two member variables: an index,
+which is set by the owner of the part, and a pointer to the top-level Tree structure.
+ class Part
+
+                                 160

@@ -1,0 +1,61 @@
+                       Lang’s Universal Molecule Algorithm
+
+                       John C. Bowers                                         Ileana Streinu
+                Department of Computer Science                       Department of Computer Science
+                  University of Massachusetts                                   Smith College
+                   Amherst, MA 01003, USA.                             Northampton, MA 01063, USA.
+                     jbowers@cs.umass.edu                       istreinu@smith.edu, streinu@cs.umass.edu
+
+
+ABSTRACT                                                         A base in which each face is perpendicular to a common
+We present a Java implementation     of Lang's Universal       plane is called projectable. Lang's bases project to a tree
+Molecule algorithm, alongside with a visualization of its in-  called the shadow tree.A uniaxial base is a Lang projectable
+terconnected structures: the input metric tree and compat-     base in which the boundary of the paper folds exactly onto
+ible convex polygon, whose 2D crease pattern and 3D uni-       its shadow tree, and the rest of the base lies above the projec-
+axial base are computed by the algorithm.                      tion plane. Lang's TreeMaker algorithm  solves the follow-
+  The Java applet, the video, as well as further references    ing version of the origami design problem: given a metric
+and accompanying materials are available on our web site       tree and a sheet of paper (typically, a square or rectangle),
+linkage.cs.umass.edu/origamiLang. We also include a re-        produce a crease pattern which has a realization as a uni-
+cent example, found with the help of this implementation,      axial base whose shadow tree is the input tree. In a ﬁrst
+of a Universal Molecule crease pattern which, as a ﬂat-faced   step, TreeMaker subdivides the paper into regions, called
+origami, is completely rigid; in particular, its corresponding molecules, which can be folded independently. The Univer-
+uniaxial base cannot be reached through continuous folding     sal Molecule algorithm then ﬁlls in the crease pattern of each
+without bending of the paper.                                  molecule.
+                                                                 This video provides a visualization of Lang's Universal
+                                                               Molecule algorithm through a Java implementation, and is
+Categories and Subject Descriptors                             a companion to our recent papers [1, 2].
+I.3.5 [Computational Geometry and Object Model-
+ing]: [Geometric algorithms, languages, and systems]           2.   UNIVERSAL MOLECULE
+                                                                 The input to Lang's Universal Molecule algorithm   is a
+General Terms                                                  topologically embedded metric tree and a special type of
+Theory, Algorithms                                             convex polygon associated to the tree, which we call a Lang
+                                                               polygon. The output is a crease pattern for the polygon
+                                                               for which there exists a folded realization as a uniaxial base
+Keywords                                                       with shadow tree equal to (a geometric embedding of) the
+computational origami, origami design, rigidity, Universal     input tree.
+Molecule, TreeMaker                                              A Lang polygon is a special case of a doubling cycle for the
+                                                               input tree. A doubling cycle is a polygon created by walking
+                                                               around the topologically embedded input tree.   Each arc
+1.   INTRODUCTION                                              traversed along the walk corresponds to an edge of the same
+  In a beautiful paper from SoCG 1996 [4] (see also [5, 3]),   length in the doubling cycle. The leaf nodes are encountered
+Robert Lang introduced TreeMaker, an algorithm     for de-     only once and thus have unique corresponding vertices in
+signing origami crease patterns compatible with an input       the polygon, which we call  corners. An interior node of
+metric tree. His designs are distinguished by the existence    degree d is encountered d times and is each time marked
+of a ﬂat-folded uniaxial base compatible with the input tree.  on the boundary. We call these vertices marker vertices. If
+At the core of TreeMaker lies the Universal Molecule algo-     a doubling cycle is convex and for each pair of corners the
+rithm, which is the focus of this video.                       distance between the corners is greater than or equal to the
+  In origami design, line segments called creases are intro-   distance in the tree between the corresponding leaf nodes,
+duced on a sheet of paper to allow the paper to fold along     then the doubling cycle is a Lang polygon. The interior angle
+them into a 3D state, called a base. The line segments form    of any marker vertex is π.
+the crease pattern, which subdivides the paper into a set of     The algorithm works by a  parallel sweep process in which
+polygonal faces. The TreeMaker algorithm   creates creases     the edges of the polygon are moved inwards in a parallel
+that guarantee the existence of special 3D  folded shapes,     fashion at constant speed. The interior sweeping polygon
+called uniaxial bases.                                         is called a contour and the distance the edges have moved
+                                                               at any point in the sweep process is called the height of the
+                                                               contour. The edges of the crease pattern are created by
+Copyright is held by the author/owner(s).
+SCG’12, June 17–20, 2012, Chapel Hill, North Carolina, USA.    tracing the paths of the vertices (both corner and marker)
+ACM 978-1-4503-1299-8/12/06.                                   of the polygon.
+
+
+                                                           419

@@ -1,0 +1,49 @@
+            surprising: the leaf polygons can be T-shaped, L-shaped, or 
+            in fact quite irregular in shape, and yet we will still be able 
+            to construct creases that make them collapse quite neatly, as 
+            we will see. So it is never necessary to add additional squares 
+            or rectangles, although one might choose to do so for other 
+            reasons (to make use of the new ﬂaps, for example).
+                Recall that the boundaries of the hinge polygons were 
+            deﬁned to be the hinge creases, so once we have a fully inﬂated 
+            packing, we automatically have all of the hinge creases of 
+            the base. This highlights a crucial point: we are constructing 
+            the crease pattern in a different order from circle packing. In 
+            circle packing, we start with the axials, then build the ridges, 
+            and ﬁnish up with the hinges. In polygon packing, the hinge 
+            creases are preeminent; they are the ﬁrst creases to be found. 
+            We now turn our attention to the other creases.
+
+            13.4. Ridge Creases
+            We have found the hinge creases, but still need to ﬁll in the 
+            other creases. In circle packing, the creases come in several 
+            families: axial, gusset, ridge, and hinge (and pseudohinge, 
+            which occasionally crops up). The same types of creases show 
+            up in polygon-packed bases—with a few new tweaks and a 
+            couple of conceptual differences.
+                The ﬁrst conceptual difference comes from the basic unit 
+            in the “divide-and-conquer” algorithm. In circle packing, once 
+            we had a packing, we connected the centers of touching circles 
+            with axial creases; these axial creases, in turn, broke up the 
+            square into active polygons, each of which got ﬁlled in with a 
+            molecular crease pattern (a molecule). One of the conceptual 
+            hurdles in circle packing was the idea that a single molecule 
+            contributes to several different parts of the model. So a tri-
+            angle molecule, for example, contains parts of three different 
+            ﬂaps (or more, if there are branch ﬂaps involved); conversely, 
+            a given ﬂap may contain contributions from several different 
+            molecules. There is no one-to-one correspondence between mol-
+            ecules and ﬂaps of the model, and indeed, part of the “magic” 
+            of circle packing is that even though you construct all of the 
+            molecules independently, they all work together when joined 
+            up in a single crease pattern.
+                This situation changes in polygon packing. In circle pack-
+            ing, we don’t know where the hinge creases go until we’ve 
+            constructed the molecules, but in uniaxial box pleating, the 
+            hinge creases are exactly the boundaries of the inﬂated hinge 
+            polygons and the hinge rivers. As soon as we’ve solved the 
+            packing, we have this ﬁrst set of creases.
+
+                                                                                                     581
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

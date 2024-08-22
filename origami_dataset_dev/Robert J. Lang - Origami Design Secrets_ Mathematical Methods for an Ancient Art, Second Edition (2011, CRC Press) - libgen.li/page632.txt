@@ -1,0 +1,24 @@
+              50. Reverse-fold the long           51. Mountain-fold the next           52. Valley-fold the next pair
+              edge on each side (which            edge, reverse-folding it at          of edges, again reverse-
+              terminates with a closed            the top to align with the            folding at their top.
+              sink at the reverse folds you       previous two reverse folds.
+              just made).
+
+
+                                                   52–53          52–53
+
+
+              53. Mountain-fold the next          54. Repeat steps 52–53 on
+              pair of edges, again reverse-       the next pair of layers.
+              folding at their top.
+
+
+              55. Mountain-fold the near          56. Mountain-fold the near
+              edges underneath.                   edges underneath; reverse-           57. Pull out some excess
+                                                  fold the (final) pair of             paper from the long near
+                                                  corners at the top.                  flaps and crimp the excess
+                                                                                       paper upward at the top.
+
+                                                                                                                 621
+                                                                  ChapterFolding 13: Instructions: Uniaxial Box Bull Pleating Moose
+© 2012 by Taylor & Francis Group, LLC

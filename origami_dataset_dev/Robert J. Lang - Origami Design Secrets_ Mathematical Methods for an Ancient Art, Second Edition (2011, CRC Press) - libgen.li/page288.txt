@@ -1,0 +1,50 @@
+                                                                 1
+                                                             c =  ()Y + Z − X ,                           (8–4)
+                                                                 2
+
+                                                                 1
+                                                             c =  ()Y + Z − X ,                            (8–5)
+                                                                 2
+                                                                 1
+                                                             c =  ()Y + Z − X .                            (8–6)
+                                                                 2
+                                             In the rectangle tile, because of symmetry, there are fewer 
+                                         variables: The circles all have the same radius, as shown in 
+                                         Figure 8.51. If the circles have radius a and the river has width 
+                                         b, then the sides of the rectangle are given by
+
+                                                                 X = 2a + b,                                (8–7)
+
+                                                                 Y = 2a.                                     (8–8)
+
+                                                                      X
+                                                          aab
+
+
+                                                   a                                     a
+
+                                                Y
+
+
+                                                    a                                    a
+            Figure 8.51. 
+            A rectangular tile with a river.              aab
+
+                                             Consequently, for a given rectangle, the dimensions of the 
+                                         circles and river are simply
+                                                                     1
+                                                                  a =  Y ,                                   (8–9)
+                                                                     2
+                                                                  b = X – Y.                               (8–10)
+                                              
+
+                                             For rectangles or triangles to which we have added rivers, 
+                                         the radius of the circle is quite obviously reduced by the width 
+                                         of the added river.
+                                             These relationships can be used to construct com-
+                                         binations of tiles that give rise to new bases with new 
+
+
+     276
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

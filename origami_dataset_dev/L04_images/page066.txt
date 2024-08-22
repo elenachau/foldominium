@@ -1,0 +1,20 @@
+Get One State and Get Continuous 
+Transformation
+Finite Foldability: Existence of 
+  Folding Motion  
+There is one static state with
+              ⇔
+• Developability
+• Flat-foldability
+• Planarity of Panels
+
+   ρ1()t       ρ ()t01 
+ tan         tan   
+    2           2  
+    ρ2 ()t        ρ ()t02
+ tan    = λ  tan   
+    2     ()t   2  
+                 
+   ρ N ()t    ρ N ()t0 
+ tan           tan
+   2         2  

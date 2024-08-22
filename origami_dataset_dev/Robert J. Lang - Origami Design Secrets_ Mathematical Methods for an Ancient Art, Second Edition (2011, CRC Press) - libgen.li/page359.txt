@@ -1,0 +1,41 @@
+                                                                        Figure 10.2. 
+                                                                        Left: crease and circle pattern 
+                                                                        for the two-flap Fish Base. 
+                                                                        Right: the folded Fish Base.
+
+                There’s a second interesting phenomenon as well. Observe 
+            that there are 5 points where adjacent circles touch each other, 
+            called tangent points; I’ve labeled them all with a dot. In the 
+            folded base, which is shown on the right, all of the tangent 
+            points lie either side-by-side or one atop the other; if you poked 
+            a pin through one of them, the pin would hit every tangent 
+            point in the model.
+                Now let’s look at another base. Figure 10.3 shows creases 
+            and circles for a base with three equal ﬂaps. Again, we have 
+            axial creases between touching circles and a second set of 
+            creases perpendicular to the ﬁrst set that cross at the point of 
+            tangency. There are three tangent points, and in the base, all 
+            three tangent points lie on top of one another.
+
+
+                                                                        Figure 10.3. 
+                                                                        Left: crease and circle pattern 
+                                                                        for the three-ﬂap base. 
+                                                                        Right: the folded base.
+
+                The ﬁrst three circle bases had only edge and corner ﬂaps. 
+            Do the patterns we observed hold for middle ﬂaps? Indeed they 
+            do. Figure 10.4 shows the Bird Base, which has four long ﬂaps 
+            and one short one, which is a middle ﬂap. Again, circle centers 
+            are connected by axial creases, and creases emanate from the 
+            points where circles touch that are perpendicular to the axial 
+
+
+                                                                        Figure 10.4. 
+                                                                        Left: crease and circle pattern 
+                                                                        for the five-flap Bird Base. 
+                                                                        Right: the folded base.
+
+                                                                                                     347
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

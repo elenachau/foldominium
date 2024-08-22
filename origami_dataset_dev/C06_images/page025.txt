@@ -1,0 +1,9 @@
+ Conﬁguration space of a ﬂat-foldable, deg 4 vertex
+
+Conﬁguration space: n-dimensional parameter space containing points 
+                                    where the        are all the folding angles will contain the 
+conﬁguration space containing all such points that satisfy the rigid folding 
+constraints:   Around every vertex we must have 
+ 
+ 
+where                   is the matrix that rotates 3D space about line       by       .

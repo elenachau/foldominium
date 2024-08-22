@@ -1,0 +1,11 @@
+   Show Tree Only                      1T
+Show only the stick figure. Here is an example, shown in figure 4.5.6.
+
+
+                                      4.5.6
+  Show Creases Only                   1L
+Show only the crease pattern. Use these settings when you want to print out the crease pattern
+without any other extraneous elements. Here is an example shown in figure 4.5.7.
+
+
+                                 84

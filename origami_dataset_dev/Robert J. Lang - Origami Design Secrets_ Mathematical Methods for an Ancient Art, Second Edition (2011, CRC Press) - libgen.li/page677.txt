@@ -1,0 +1,45 @@
+                The process for constructing a hex-pleated base is pretty 
+            much the same as that for a box-pleated base. You start with 
+            the stick ﬁgure, which deﬁnes the circles and rivers that 
+            dictate the minimum size for each hinge polygon. Then draw 
+            the hinge polygons and hinge rivers on the grid, making sure 
+            that the hinge polygons enclose their respective circles and 
+            that the rivers respect their constant width. 
+                Let’s work through another example. We’ll use the same 
+            stick ﬁgure (i.e., the same dimensions) as the Scarab Beetle of 
+            Figure 14.27. We begin with the circle packing based on the 
+            stick ﬁgure with circles and rivers, but now we use a hexagonal 
+            grid as our background, as shown in Figure 14.43.
+
+
+                                                        1
+                                                       1
+                                                          1
+                                                        2
+                                                      3
+
+                                                           2
+                                                        3
+
+
+                                                                       Figure 14.43. 
+                                                                       Stick ﬁgure and packing for the 
+                                                                       left half of the crease pattern for 
+                                                                       a hex-pleated Scarab Beetle.
+
+                (Incidentally, do you see that little spur near the top of 
+            the river? That’s a hex-pleated version of a meander.)
+                Once the packing is in place, one can add the ridge creas-
+            es, followed by the axis-parallel contours. The ridge creases 
+            are the straight skeleton of each hinge polygon and the angle 
+            bisectors of the corners of the rivers, respectively, and are 
+            shown in the left subﬁgure of Figure 14.44.
+                Next come the axials. Since this is a plan view base, 
+            the center line of the crease pattern (which is the right side 
+            of each half-pattern shown in the ﬁgure) must be axial. The 
+            junctions of ridge creases along this line are axial points, and 
+            these points “seed” axial contours that propagate toward their 
+
+                                                                                                     665
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,55 @@
+ where lij  is the path length between nodes i and j measured along the tree graph. There is an
+ analogous condition for reduced polygons; any two vertices of a reduced polygon must satisfy
+ the condition
+
+                                    ′ − ′ ≥ ′
+                                   Ai  Aj  lij ,                            (2)
+       ′
+ where lij  is a reduced path length given by
+
+                              ′ =  −    α  +   α
+                             lij lij h()cot i cot j                         (3)
+    α
+ and i is the angle between the bisector of corner i and the adjacent side. I call equation (2) the
+ reduced path constraint for a reduced polygon of inset distance h. Any path for which the
+ reduced path constraint becomes an equality is, in analogy with active paths between nodes,
+ called an active reduced path.
+
+ So for any distance h, we have a unique reduced polygon and a set of reduced path constraints,
+each of which corresponds to one of the original path constraints. We have already assumed that
+all of the original path constraints are met; thus, we know that all of the reduced path constraints
+are met for the h=0 case (no inset distance). It can also be shown that there is always some
+positive nonzero value of h for which the reduced path constraints hold. On the other hand, as we
+increase the inset distance, there comes a point beyond which one or more of the reduced path
+constraints is violated. Suppose we increase h to the largest possible value for which every
+reduced path constraint remains true. At the maximum value of h, one or both of the following
+conditions will hold:
+
+(1) For two adjacent corners, the reduced path length has fallen to zero and the two inset corners
+are degenerate; or
+
+(2) For two nonadjacent corners, a path between inset corners has become an active reduced
+path.
+
+These two situations are illustrated in figure 5.25.
+
+                                              α
+                                          A5
+                                             α 5
+                        l ′=0                 5
+                         ij                       ′
+                     ′  ′                        A5
+                   Ai  Aj                                  ′  ′  ′
+                                                          lij =|Ai –Aj |
+
+
+                      h                                              ′
+                                                                   A2
+         α
+          i                    α                          h           α
+           α                 α  j                                  α   2
+            i                 j                                     2
+       Ai                        Aj                                    A2
+
+
+                                 133

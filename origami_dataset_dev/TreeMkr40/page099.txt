@@ -1,0 +1,9 @@
+                                       4.5.24
+
+There are five polygons: four triangles and a quadrilateral. Although we could build a crease
+pattern from this, we can also break the entire crease pattern into triangles. Select the
+Triangulate Tree command, Action menu, which adds a stub to the tree and breaks the lower
+ polygon into four triangles, as shown in figure 4.5.25.
+
+
+                                  99

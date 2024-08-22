@@ -1,0 +1,50 @@
+                It is perhaps not so obvious that this base has all the 
+            required ﬂaps for the legs and antennae, but they are indeed 
+            present and distinct. What is obvious is that the ﬂaps (and 
+            indeed, the entire base) are quite wide, and so considerable 
+            narrowing will be needed in order to get the legs and body nar-
+            row enough to resemble the desired subject. But what is even 
+            more obvious—painfully so—is how haphazard the folds are, 
+            in both the crease pattern and the base. In the crease pattern, 
+            creases run every which way, and the corners of ridges and 
+            gusset creases are determined solely by the mathematics of 
+            their placement algorithm. In the base, the edges do not line 
+            up at all (although if the sides are repeatedly sunk to narrow 
+            the base, they could be forced to line up by the parallel sink 
+            folds). So, although circle packing provides a mathematical 
+            solution to the problem of designing a base, it does not neces-
+            sarily provide an artistic solution, if part of the artistic goal 
+            is to have an elegant shape with alignments between creases 
+            as well as a relatively easy job of transferring the crease pat-
+            tern to the paper.
+                Even if we use ReferenceFinder to ﬁnd folding sequences 
+            for all of the points, the process is fraught with tedium and is 
+            error-prone, and the paper will likely be covered by extraneous 
+            creases even before we ever start folding. Such a design may 
+            be a mathematical success, but it is likely to be an artistic 
+            failure.
+                But in the ashes of failure sometimes are found the seeds 
+            of success, and there are some powerful ideas hidden within 
+            the rubble of this haphazard crease pattern. I would like to 
+            take a deeper look at the crease pattern and focus particular 
+            attention upon the hinge creases, which I have emphasized 
+            in Figure 13.8.
+                What are the hinge creases, really? They are the bound-
+            aries between distinct ﬂaps. Each hinge line maps to a single 
+            hinge in the base, no matter how convoluted the line is on the 
+            crease pattern. The regions delineated by the hinges are the 
+            regions of paper that become the ﬂaps themselves. These re-
+            gions are polygons (or polygonal rivers, as the case may be).
+                We performed the circle packing using circles and cur-
+            vilinear rivers, which represented the minimum amount of 
+            paper needed for each ﬂap. But now that we’ve found the 
+            crease pattern, the hinges and the polygons they enclose are 
+            something different; those polygons are the exact regions used 
+            for each ﬂap, no more, no less. We encountered these shapes 
+            in Chapter 10; they are hinge polygons. 
+                And what are the properties of these hinge polygons? 
+            Clearly, they come in two types. There are “circle-like” hinge 
+
+                                                                                                     571
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

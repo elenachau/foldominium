@@ -1,0 +1,47 @@
+As an example, construct the tree shown
+in figure 3.4.1 that has four legs of
+different lengths.                            3
+                                                                    2
+When you optimize this tree, you will get
+an irregular quadrilateral. Building
+                                                   2          1
+creases gives you a “gusset quadrilateral”         0.400      0.600
+as shown in figures 3.4.2 and 3.4.3.
+                                                        1
+
+                                                             4
+                                                   3          0.800
+                                                   1.000
+
+                                                                    5
+                                              4
+
+
+                                                       3.4.1
+
+
+                                                           2
+
+                                                1
+                                        3
+                                                         1
+                                                          0.600   1
+                                               2
+                                                0.400
+                                        1
+                                                        1
+
+                                                                 4
+                                                                  0.800
+                                                                            5
+                                               3
+                                                1.000
+                                                            1
+
+
+                                        4
+
+                                                       3.4.2
+
+
+                                  53

@@ -1,0 +1,49 @@
+                                             Once again, however, the gusset molecule comes to the 
+                                         rescue; it is possible to construct a version of the gusset mol-
+                                         ecule that brings all tangent points together, illustrated in 
+                                         Figure 10.32. This method is a simple geometric construction 
+                                         for the creases; a numerical prescription will be given later.
+                                             These ﬁve molecules—rabbit-ear, Waterbomb, arrowhead, 
+                                         sawhorse, and gusset—are sufﬁcient to ﬁll in a ﬂat-foldable 
+                                         crease pattern for any pattern of circles and rivers that deﬁne 
+                                         a uniaxial origami base. The combination of these molecules 
+                                         with circle/river packings is called the circle/river method of 
+                                         origami design.
+
+                                         10.8. Crease Assignment in Molecules
+                                         I have intentionally glossed over the topic of crease assignment 
+                                         within molecules; it is now time to straighten out the issue. 
+                                         When we create a base from circles and rivers, we divide up 
+                                         the paper into distinct polygons using the axial creases; we 
+                                         can then treat each axial polygon individually, ﬁlling it in with 
+                                         the appropriate molecular pattern. The choice of molecule is 
+                                         a local choice, depending only upon the pattern of circles and 
+                                         rivers within each axial polygon. However, the assignment 
+                                         of crease parity—whether each crease is a mountain, valley, 
+                                         or unfolded crease—is global; it depends upon the overall 
+                                         structure of the object and, in particular, the arrangement 
+                                         of the various ﬂaps. For a base whose axis is oriented verti-
+                                         cally, any given ﬂap can be folded up or down; in addition, for 
+                                         middle ﬂaps, there is often a choice in which layers the ﬂap 
+                                         lies between. All of these choices give rise to different crease 
+                                         assignments.
+                                             Nevertheless, we can specify the parity of many—though 
+                                         not all—of the creases in a pattern at the local level, and it is 
+                                         often useful to make this identiﬁcation as an incomplete ap-
+                                         proximation of the ﬁnal crease pattern.
+                                             Examination of the molecular patterns we’ve seen thus 
+                                         far reveals some rules of thumb for the parity (mountain or 
+                                         valley) of the creases within them. Crease parity depends on 
+                                         one’s point of view, of course; the convention I have been us-
+                                         ing (and will continue to use) is that the paper is two-colored; 
+                                         crease patterns are viewed from the white side of the paper, 
+                                         and the model is folded so that the color ends up on the outside 
+                                         (visible surface) of the model.
+                                             Under this convention, within any molecule, the ridge 
+                                         creases—those creases that extend inward from the corners—
+                                         are always valley folds, as an examination of the molecules in 
+                                         the previous section will show.
+
+     368
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

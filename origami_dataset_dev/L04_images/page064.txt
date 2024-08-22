@@ -1,0 +1,17 @@
+Flat-Foldable Quadrivalent Origami
+MiuraOri Vertex
+• Intrinsic Measure:
+
+     θ0 = π − θ2
+
+     θ1 = π − θ3
+• Folding Motion
+  – Opposite fold angles are 
+    equal
+                     ρ= − ρ
+  – Two pairs of folding motions 1 3
+
+    are linearly related. ρ0= ρ 2
+                        ρ    1+cos()θ − θ ρ
+                     tan 0 =       0  1 tan 1
+                        2    1+cos()θ0 + θ 1 2

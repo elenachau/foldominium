@@ -1,0 +1,30 @@
+            Figure 7.26. 
+            Left: color-coded crease pattern. 
+            Right: corresponding color-coded regions of the Koi.
+
+
+            Figure 7.27. 
+            Two sets of crossing pleats. 
+            Each pleat is represented by a 
+            single line.
+
+                                             We can form scales only where two sets of pleats actually 
+                                         cross at right angles. Conversely, anywhere the pleats cross, 
+                                         we will have scale patterns (or at least the busyness of cross-
+                                         ing pleats), whether intentional or inadvertent. And in any 
+                                         region crossed by a single set of pleats, we won’t have scales 
+                                         or unadorned paper; we will have a pattern of parallel lines, 
+                                         which may or may not be desirable in any given model, but is 
+                                         surely to be minimized in this Koi design.
+                                             So, we can overlay arrays of pleats represented by lines 
+                                         on the crease pattern and see what’s possible, as shown in 
+                                         Figure 7.28. The number of scales is somewhat arbitrary; in 
+                                         this example, I have set up a 20 × 20 array of lines, deﬁning 
+                                         a 19 × 19 array of scales, each scale signiﬁed by a square be-
+                                         tween pairs of crossing lines.
+                                             This is close, but not ideal. There are a few regions of the 
+                                         body that don’t get both sets of pleats: near the tail ﬁn and 
+
+     214
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,41 @@
+                                                                       Figure 14.30. 
+                                                                       Top: a set of axial and axial+1 
+                                                                       contours crossing a simple 1-unit 
+                                                                       river. 
+                                                                       Middle: the same contour pat-
+                                                                       tern crossing a meandered river. 
+                                                                       Note that the elevations have 
+                                                                       reversed. 
+                                                                       Bottom: the fully crease-assigned 
+                                                                       meandered river.
+
+
+                                                                       Figure 14.31. 
+                                                                       A 3-unit-wide river, split into 
+                                                                       three 1-unit-wide rivers with 
+                                                                       meanders: one on the left, two 
+                                                                       on the right.
+
+            Thus, we could take a 3-unit-wide river, split it into three 
+            1-unit-wide rivers, and then selectively widen one or two of 
+            those subrivers with meanders, as shown in Figure 14.31.
+                Occasionally, one might even wish to use half-unit-
+            width meanders. This might be puzzling at ﬁrst. As we saw 
+            earlier, if we create patterns of ridge creases with vertices 
+            at half-integral positions, this can lead to 1-unit spacing of 
+            same-elevation contours, which then forces half-unit width 
+            ﬂaps. So why would we intentionally introduce half-unit-width 
+            meanders?
+                The reason is that sometimes one half-integral structure 
+            can be used to cancel out half-integral contours created by 
+            a different structure. An example is shown in Figure 14.32, 
+            where a string of half-unit polygons is separated by a string 
+            of half-unit rivers. This gives rise to a single ﬂap with a se-
+            ries of half-unit ﬂaps along its length; useful, for example, in 
+            creating a segmented region of a body without wasting much 
+            paper. If we want the ﬂap to be 1 unit wide, i.e., composed of 
+            alternating axial and axial+1 contours, the half-unit-length 
+
+                                                                                                     653
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

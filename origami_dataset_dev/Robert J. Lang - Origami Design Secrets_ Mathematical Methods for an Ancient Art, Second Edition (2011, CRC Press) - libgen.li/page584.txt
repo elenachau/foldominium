@@ -1,0 +1,34 @@
+            Figure 13.8. 
+            The generic beetle crease pattern, 
+            with hinges emphasized.
+
+                                         polygons, which enclose circles, and “river-like” hinge polygons, 
+                                         which wind about like rivers, and so we will call the latter 
+                                         hinge rivers. The circle-like hinge polygons fully enclose the 
+                                         minimum-packing circles, and in some cases are tangent to 
+                                         those circles—but tangency is clearly not a requirement on all 
+                                         sides. As for the hinge rivers, like their curvilinear brethren, 
+                                         they maintain a constant width along their length. But they 
+                                         travel in straight segments, changing direction only at discrete 
+                                         places, where they are, invariably, crossed by a ridge crease 
+                                         that connects the two corners of the bend.
+                                             So what if we could just skip the circles and rivers and 
+                                         go straight to packing of the hinge polygons and hinge rivers? 
+                                         What might we gain? One very important thing: control over 
+                                         what polygons we use. With circle/river packing, the polygons 
+                                         bounded by hinge creases are generated fairly late in the pro-
+                                         cess and we get whatever happens to fall into place. But if we 
+                                         could work directly with hinge polygons, we could control their 
+                                         shapes; we could, in fact, choose their shapes. Thus, we could 
+                                         insure that we end up with nice hinge polygons.
+                                             And what, exactly, constitutes a “nice” hinge polygon? 
+                                         Well, two properties come to mind. First, it would be nice if 
+                                         all of the vertices fell on a regular grid, so that every vertex 
+                                         could be found with a relatively simple folding process. Second, 
+                                         it would be nice if the creases ran at only a small number of 
+                                         angles, further making it easy to construct the crease pattern. 
+                                         By a small number of angles, I mean angles that correspond 
+
+     572
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

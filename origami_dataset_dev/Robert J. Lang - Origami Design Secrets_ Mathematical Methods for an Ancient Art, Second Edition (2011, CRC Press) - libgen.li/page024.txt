@@ -1,0 +1,41 @@
+                                         Origami diagrammers attempt to break folding instructions 
+                                         into a sequence of simple steps, but some maneuvers are inher-
+                                         ently complex and require bringing 5 or 6 (or 10 or 20) folds 
+                                         together at once. For such pleasant challenges, it’s a big help 
+                                         to have all the creases already in place. Precreasing helps tame 
+                                         the dragon.
+                                             Valley, mountain, and crease are the three types of folds 
+                                         from which all origami springs. But even a valley fold is 
+                                         not necessarily the same as another valley fold if the layers 
+                                         of paper do not lie flat. When models move into three 
+                                         dimensions, both valley and mountain folds can vary in an-
+                                         other way: the fold angle, which can take on many values. 
+                                         Imagine drawing a straight line across and perpendicular to 
+                                         the fold. The fold angle is the angular change in the direction 
+                                         of this line from one side of the fold to the other. This angle can 
+                                         vary continuously, from 180° (for a valley fold) to 0° (which is 
+                                         no fold at all) to –180° (for a mountain fold). By this measure, 
+                                         valley, mountain, and crease are all part of a continuum 
+                                         of fold angle.
+                                             There is yet more variation: A fold can be sharp or soft. 
+                                         The mathematical model of a “fold” is an inﬁnitely sharp line, 
+                                         but with real paper, the sharpness of the fold is something the 
+                                         folding artist can choose. Sharp creases are not always desir-
+
+
+                                                                             >0° to 180°
+
+                                                            Valley
+
+
+                                                            Crease           0°
+
+
+            Figure 2.2.                                    Mountain          <0° to –180°
+            Valley folds, creases, and 
+            mountain folds are all part of a 
+            continuum.
+
+      12
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

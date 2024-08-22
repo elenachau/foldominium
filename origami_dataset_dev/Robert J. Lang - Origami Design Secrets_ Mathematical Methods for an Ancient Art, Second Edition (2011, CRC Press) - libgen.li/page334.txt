@@ -1,0 +1,32 @@
+                                         9.10. Bases from Equal Circle Packings
+                                         The ﬁrst unusual structure in this group is the N = 3 case. I 
+                                         suspect it is undiscovered because this pattern is not similar to 
+                                         any well-known base found by angle bisection. Its symmetry is 
+                                         based on the uncommon 30°–60°–90° right triangle rather than 
+                                         the more familiar 22.5° angle that you ﬁnd in the four Classic 
+                                         Bases. Also, two of the three ﬂaps lie on an edge, rather than 
+                                         at the corner; since edge ﬂaps tend to be thicker, most early 
+                                         origami designers avoided using edge ﬂaps unless absolutely 
+                                         necessary. I am not aware of any origami model that uses this 
+                                         pattern in a square to realize a subject with three major ﬂaps, 
+                                         despite there being a number of such subjects around, e.g., 
+                                         long-legged birds. (There are, not surprisingly, models made 
+                                         from an equilateral triangle that utilize the creases within 
+                                         the triangle.) An example of a model of my own that uses this 
+                                         symmetry is shown in Figure 9.31, with folding instructions at 
+                                         the end of the chapter.
+
+
+                                         Figure 9.31. 
+                                         Crease pattern, base, and folded model of the Emu based on the 
+                                         N = 3 circle packing.
+
+                                             Notice that three of the four corners of the square go un-
+                                         used in this base; I suspect that the proﬂigate waste of such a 
+                                         large fraction of the paper has deterred folders from making use 
+                                         of this base, and indeed, it is difﬁcult to resist the temptation to 
+                                         use some of the extra paper for wings, feathers, color-changes, 
+
+     322
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,36 @@
+                Uniaxial box pleating (page 561):  a subset of box pleating in which the 
+                90° symmetries of box pleating are used to create uniaxial bases or portions 
+                thereof.
+                Unit (page 634): the shortest distance of length and/or width in a polygon-
+                packed base; most ﬂaps’ dimensions (length and/or width) will be an integer 
+                multiple of the unit.
+                Universal molecule (page 424): a generalization of the gusset molecule 
+                that can be applied to every valid axial polygon.
+                Unsink (page 39): removing a sink fold, or turning a closed sink from con-
+                cave to convex.
+
+                V
+                Valley fold (page 18): a crease that is concave upward. Usually indicated 
+                by a dashed line (solid colored line in crease patterns).
+                Vertex: see leaf vertex, branch vertex.
+
+                W
+                Windmill Base (page 56): a traditional base that looks like a windmill.
+                Waterbomb Base (page 56): a traditional base formed by bringing the 
+                midpoints of the four edges of a square together.
+                Waterbomb condition (page 355): a quadrilateral satisﬁes the Waterbomb 
+                condition if and only if the sums of opposite sides are equal. A quadrilateral 
+                that satisﬁes this condition can be folded into an analog of the traditional 
+                Waterbomb Base.
+                Waterbomb molecule (page 355): a crease pattern within a quadrilat-
+                eral that resembles the traditional Waterbomb. Also called the Husimi 
+                molecule.
+
+                Y
+                Yoshizawa split (page 94): a technique for splitting a Kite Base ﬂap, in 
+                which the point is ﬁrst sunken, followed by two spread sinks.
+
+
+                                                                                                                                  751
+                                                                                                        Glossary
+© 2012 by Taylor & Francis Group, LLC

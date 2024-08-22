@@ -1,0 +1,17 @@
+                                       4.4.6
+
+      Polys
+
+If you double-click on a poly, the Poly Editor is put up, as shown in figure 4.4.7.
+
+
+                                       4.4.7
+
+There are no editable fields of a poly and you can’t apply conditions to one, so the only thing the
+Poly Editor really tells you is the index of the poly.
+
+However, the disclosure triangle toggles to Expert Mode, which gives some of the structural
+information of the poly, as shown in figure 4.4.8. A poly is, internally, a fairly complex beastie.
+
+
+                                  76

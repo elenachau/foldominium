@@ -1,0 +1,49 @@
+            bouncing contours rather than a nice, well-behaved rational 
+            value. That means that we can’t just pick distances randomly; 
+            we must make a conscious choice of ﬂap length, carefully 
+            chosen to avoid dense bouncing.
+                And that is exactly what the use of a grid in uniaxial box 
+            pleating accomplishes. By putting all of our polygon lines on 
+            grid points, it insures that any contour line that enters a poly-
+            gon on a grid line will exit on a grid line. This clearly limits the 
+            amount of bouncing, because once the contour lines have ﬁlled 
+            up all possible grid lines, any new contour must terminate on 
+            an existing contour or run off of the paper. Once you’ve tried a 
+            few uniaxial box-pleated designs, you will ﬁnd that surprisingly 
+            often, this is exactly what happens, and the bouncing axial con-
+            tours ﬁll up all available grid lines (which necessitates putting 
+            the axial+1 contours at half-grid positions).
+                Inﬁnite bouncing contours don’t happen in circle-packed 
+            designs because in a rigidly packed circle/river packing, the 
+            axial creases in adjacent polygons are guaranteed to be aligned 
+            collinearly with one another. But circle packings have irregu-
+            lar crease patterns. In polygon packing, we gain “niceness” 
+            in the crease pattern, but we give up the guarantee of axial 
+            crease alignments that prevent inﬁnite bouncing, and so we 
+            must take special precautions to keep the contours ﬁnite.
+                And grids are one way to accomplish this control. Uniaxial 
+            box pleating puts all lines, and all polygons, on a square grid. 
+            This forces all hinges (and, as well, all axials and constant-
+            elevation creases) to run at multiples of 90°, which is another 
+            “nice” feature. But a square grid is not the only grid that has 
+            this elegant property, as we will now see.
+
+            14.7. Hex Pleating
+            Back at the beginning of Chapter 13 I introduced the term 
+            “polygon packing,” and then moved fairly quickly to “uniaxial 
+            box pleating” as an example of polygon packing. Why use two 
+            different terms for the same thing? Because the concept of 
+            polygon packing is much broader than uniaxial box pleating. 
+            The basic idea of polygon packing is simply that we choose 
+            “nice” hinge polygons from which to construct our uniaxial 
+            base. But there are many different ways of creating “nice” 
+            hinge polygons. Uniaxial box pleating chooses “nice” to mean, 
+            “all edges run at multiples of 45°.” That gives nice, symmetri-
+            cal crease patterns and easy-to-precrease crease patterns. But 
+            it’s not the only symmetry game in town.
+                Polygon packing and uniaxial box pleating are not syn-
+            onymous because it’s possible to use other angles in polygon 
+
+                                                                                                     659
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

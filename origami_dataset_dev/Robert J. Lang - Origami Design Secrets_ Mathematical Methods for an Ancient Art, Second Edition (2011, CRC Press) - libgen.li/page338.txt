@@ -1,0 +1,38 @@
+                                         only if every circle touches either another circle or an edge of 
+                                         the square at three well-separated points (not all in the same 
+                                         semicircle). It will turn out as we explore more sophisticated 
+                                         design algorithms that the issue of stability plays a crucial role 
+                                         in the construction of crease patterns for bases.
+                                             The problem of getting eight ﬂaps in a base is encoun-
+                                         tered when one attempts to fold the simplest insects. Beetles, 
+                                         for example, must have a head, abdomen, and six legs, at a 
+                                         minimum. Of course, it is always challenging to add more 
+                                         body parts: Thorax, antennae, mandibles, horns, wings, and 
+                                         forewings would be nice, each requiring another ﬂap (and we 
+                                         will see examples that have all of them). But even the simplest 
+                                         insect must have six legs, which by the standards of classical 
+                                         folding, is no mean feat. Historically, the ﬁrst published instruc-
+                                         tions for a one-piece six-legged insect of which I am aware is 
+                                         George Rhoads’s Bug. It is made from a blintzed Bird Base, 
+                                         which corresponds to the N = 9 circle diagram.
+
+
+                                         Figure 9.37. 
+                                         Crease pattern and folded model for Rhoads’s Bug, made from a 
+                                         blintzed Bird Base and the N = 9 circle packing.
+
+                                             We encountered the blintzed Bird Base back in Chapter 4. 
+                                         It is constructed by folding the four corners to the center of a 
+                                         square, folding a Bird Base from the reduced square, and then 
+                                         unwrapping the extra paper to form new ﬂaps. There is also such 
+                                         a thing as double-blintzing, in which the four corners are folded 
+                                         to the center, and those four corners are folded to the center 
+                                         again, before folding a base and unwrapping all the layers. The 
+                                         double-blintzed Frog Base, with its thirteen equal-length ﬂaps, 
+                                         was used by the Japanese master Yoshizawa as early as the 
+                                         1950s for his famous Crab, and surely holds the record for the 
+                                         pointiest base of the Classical period.
+
+     326
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

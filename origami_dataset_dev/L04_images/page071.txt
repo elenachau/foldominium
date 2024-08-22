@@ -1,0 +1,9 @@
+Discrete Voss Surface
+Eggbox-Vertex
+• one-DOF structure
+  – Bidirectionally Flat-Foldable
+
+
+• Eggbox-Pattern
+• Variation of Eggbox
+  Pattern

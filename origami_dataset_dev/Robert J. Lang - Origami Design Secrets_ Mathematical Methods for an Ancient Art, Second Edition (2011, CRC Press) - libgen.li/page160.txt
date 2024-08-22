@@ -1,0 +1,50 @@
+                                                foreleg
+
+
+                                                                                   head
+                     hind leg                                belly
+
+
+                                                                               belly
+                                                                      foreleg
+                                               head
+                                                                              forelegs
+
+                                                                              hind legs
+
+
+                                                                                tail
+
+
+                        tail                             hind leg
+
+                                         Figure 6.20. 
+                                         Crease pattern and folded example of the simpliﬁed lizard base.
+
+                                         to the base, by coloring them in and not drawing any creases in 
+                                         them. In this case, three of the four corners go unused.
+                                             What do we mean by “not essential to the base”? A simple 
+                                         deﬁnition of nonessential would be that you can cut away the 
+                                         paper without losing or shortening any ﬂaps. In the lizard, 
+                                         the pair of scalene triangles at upper left and lower right in 
+                                         Figure 6.20 clearly ﬁts this deﬁnition (which you can verify by 
+                                         direct experimentation: Fold the base, cut off the corners, and 
+                                         refold it). The upper right corner is questionable; it creates the 
+                                         white underbelly of the lizard, and the raw corner can be used 
+                                         to make a lower jaw and/or tongue for the lizard (try it), but if 
+                                         we take the major features of the base to be head, body, legs, 
+                                         and tail, we can assuredly cut away the corner and still obtain 
+                                         these features in the same sizes and locations.
+                                             Of course, such nonessential corners, even if they create 
+                                         no new ﬂaps, still add to the thickness of the existing ﬂaps. 
+                                         This can be either a feature or a bug in the design, depending 
+                                         on whether the extra paper adds necessary stiffness to the 
+                                         ﬂap (feature) or causes the ﬂap to split, splay apart, or unfold 
+                                         (bug).
+                                             In the crease pattern, I’ve also added labels that show which 
+                                         parts of the crease form which features of the base. We use these 
+                                         to deﬁne where we wish to add extra paper to create the toes.
+
+     148
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

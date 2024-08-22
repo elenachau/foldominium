@@ -1,0 +1,31 @@
+                                         a length 0.414 times the length of the ﬂap that you started 
+                                         with, which means that the total ﬂap length—the sum of the 
+                                         lengths of the four created ﬂaps—is four times that ratio, or 
+                                         1.657 times the length of the starting ﬂap. In other words, the 
+                                         total length of the created ﬂaps is actually longer than that of 
+                                         the ﬂap you started with.
+                                             Since the result of a split middle ﬂap is four more middle 
+                                         ﬂaps, these may be thinned and split again by the same process, 
+                                         and the process repeated ad inﬁnitum. At each repetition, the 
+                                         total ﬂap length increases by a factor of 1.657. The somewhat 
+                                         surprising implication is that the total ﬂap length increases 
+                                         without limit. Of course, the number of layers increases ex-
+                                         tremely rapidly as well, setting a practical upper limit to ﬂap 
+                                         multiplication.
+
+                                         5.4. More Complex Splits
+                                         One can split multiple ﬂaps to different depths to achieve dif-
+                                         ferent effects and further variation. We saw in the ﬂapping 
+                                         Pteranodon that splitting two of its ﬂaps could be used to extend 
+                                         the life of the Bird Base. A Bird Base, of course, has a total of 
+                                         four ﬂaps. All four can be split, yielding structures that let us 
+                                         move away from birds and into other kingdoms. Splitting all 
+                                         four points of a Bird Base gives enough small ﬂaps to make a 
+
+
+                                         Figure 5.17. 
+                                         Crease pattern, base, and folded model of the Goatﬁsh.
+
+     108
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

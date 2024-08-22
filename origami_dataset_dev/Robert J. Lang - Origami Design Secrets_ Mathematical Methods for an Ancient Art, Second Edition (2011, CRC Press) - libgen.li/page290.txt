@@ -1,0 +1,41 @@
+            Figure 8.53. 
+            Top left: a parallelogram tile. 
+            Bottom left: schematic of its 
+            folded form. 
+            Right: same for a longer paral-
+            lelogram.
+
+                                             Also like a rectangle, a parallelogram can be tiled to ﬁll 
+                                         the plane. Look at what happens when we stack two of these 
+                                         tiles vertically or horizontally. The circles and rivers line 
+                                         up, so the combination can fold ﬂat. But the tilt of the paral-
+                                         lelograms creates an offset between adjacent points, so that 
+                                         the net result is a series of points evenly strung out along a 
+                                         common line.
+
+
+            Figure 8.54. 
+            Tiling of two and four par-
+            allelogram tiles and their 
+            schematics.
+
+                                             This is quite a nice trick; the circles in the crease pattern 
+                                         are arranged in rows and columns, while in the stick ﬁgure 
+                                         corresponding to the base, the ﬂaps are distributed along a 
+                                         single line. Thus, the tile allows us to build an essentially 
+                                         one-dimensional chain of ﬂaps while efﬁciently using a two-
+                                         dimensional region of paper. A combination of rectangles and 
+                                         parallelograms gives the 14 legs and body segments of a pill 
+                                         bug, as shown in Figure 8.55. By varying the length and tilt 
+                                         angle of the parallelogram, you can vary the circle radii and 
+                                         river width, corresponding to the lengths of the legs and of the 
+                                         segments between them.
+                                             It’s also possible to add circles and rivers to a trapezoid in 
+                                         the same way as a parallelogram. A combination of rectangle, 
+                                         parallelogram, and trapezoidal tiles gives a twenty-legged 
+                                         centipede, whose crease pattern and folded form is shown in 
+                                         Figure 8.56.
+
+     278
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,42 @@
+Of course, you can always simply create
+creases directly, which results in the
+universal molecule, as shown in figure
+3.4.11.
+
+This shows, once again, that there are
+many ways to get the same number of
+flaps.
+
+   3.5 Forcing symmetric angles
+
+One of the major enhancements in
+TreeMaker 4.0 is that you can force
+active paths to lie at specific angles. Why
+would you want to do this?
+
+Once you have computed and folded a
+number of  TreeMaker designs, you’ll
+discover that only rarely will the edges of
+each flap line up with each other. That’s
+because a flap is composed of a bunch of              3.4.11
+triangles coming together and when
+TreeMaker optimizes a base, there’s no
+particular reason for it to make the angles of one triangle equal to those of the adjacent layers.
+
+If you could force all angles to be the same, or one of a small set of similar angles, then you’d get
+a base in which more layers tend to line up.
+
+An additional benefit of this is that if all the major creases run along fairly standard angles, you
+run a better chance of being able to construct reference points by folding and/or a sequential
+folding sequence, rather than measuring for reference points and a folding sequence that consists
+of a single “bring all these creases together at once.”
+
+If we are to force major creases to lie at “standard” angles, which angles should we choose? A
+natural set of angles are those that are obtained by dividing a circle into an integral number of
+equal divisions: for example, the common 22.5° degree angle found in the Bird Base is obtained
+by dividing a circle into 16 parts. While this is the most common division, several others provide
+useful and interesting bases: division into 12 parts gives multiples of 30° and crease patterns with
+many equilateral triangles in them.
+
+
+                                  58

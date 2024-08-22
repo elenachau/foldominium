@@ -1,0 +1,48 @@
+ • Double-click on a node or edge to edit its individual characteristics (we’ll get into this later)
+
+ By clicking and dragging, you can change the position of a node or edge. As you build up
+ constraints on the position of a node, a node can become “pinned” and you won’t be able to drag
+ it around any more. However, if you hold down the option key, you can override this behavior
+ and drag a pinned node.
+
+ To delete a node or edge, you can either hit the backspace key or select Clear from the Edit
+ menu. Although you can’t drag a pinned node without holding down the option key, you can
+ delete any node at any time.
+
+ Keyboard commands for editing are:
+
+ • <delete> or <forward delete> to delete selected nodes or edges
+
+ • <tab> to deselect everything
+
+ • Command-A to select everything
+
+ Deleting a terminal node also removes the attached edge. Similarly, deleting an edge also deletes
+ any nodes that would otherwise be orphaned.
+
+ • Note: you can’t delete a node or edge if it would break the tree into two pieces. You’ll get an
+ error message if you try.
+
+Now we will build a tree. Choose Select
+All from the Edit menu and then choose
+Clear from the Edit menu (or hit
+<delete>) to get rid of what’s currently
+on the square. Now, starting near the
+bottom of the square, click once to place
+a node; then click once about 1/3 of the
+way up; click once again about 2/3 of the
+way up; and click once near the top of
+the square. You will have created a line
+of four nodes and three edges as shown
+in figure 2.1.3.
+
+This line of nodes represents the head
+(top), body (middle) and tail (bottom) of
+the animal. Note that only terminal nodes
+get circles around them.
+
+
+                                                       2.1.3
+
+
+                                   9

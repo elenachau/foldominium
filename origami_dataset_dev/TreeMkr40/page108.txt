@@ -1,0 +1,49 @@
+No mark: none of the selected nodes have this condition. Selecting the command applies a
+condition to each of the selected nodes.
+
+Diamond mark: some of the selected nodes have this condition. Selecting the command applies a
+condition to all of the selected nodes.
+
+Check mark: all of the selected nodes have this condition. Selecting the command removes this
+type of Condtion from each of the selected nodes.
+   Node fixed to symmetry line
+This command applies/removes a “Node fixed to symmetry line” condition to the selected
+node(s). It is enabled if at least one node is selected. The command has the following marks and
+effects:
+
+No mark: none of the selected nodes have this condition. Selecting the command applies a
+condition to each of the selected nodes.
+
+Diamond mark: some of the selected nodes have this condition. Selecting the command applies a
+condition to all of the selected nodes.
+
+Check mark: all of the selected nodes have this condition. Selecting the command removes this
+type of Condtion from each of the selected nodes.
+   Nodes paired
+This command applies/removes a “Nodes paired about symmetry line” condition to a selected
+pair of nodes. It is enabled only if you have selected exactly two nodes. The command has the
+following marks and effects:
+
+No mark: neither of the selected nodes has this condition. Selecting the command applies a
+condition binding the two nodes together.
+
+Diamond mark: one or both of the selected nodes have this condition but not with each other.
+Selecting the command removes the existing pair conditions and applies a condition binding the
+two nodes together.
+
+Check mark: the two nodes currently have this condition applied to them. Selecting the command
+removes the condition.
+   Nodes collinear
+This command applies/removes a “Nodes Collinear” condition to a selected triplet of nodes. It is
+enabled only if you have selected exactly three nodes. The command has the following marks
+and effects:
+
+No mark: none of the selected nodes has this condition. Selecting the command applies a
+condition binding the three nodes together.
+
+Diamond mark: one of the three selected nodes have this condition but they don’t form a triplet.
+Selecting the command removes the existing triplet conditions and applies a condition binding
+the three nodes together.
+
+
+                                108

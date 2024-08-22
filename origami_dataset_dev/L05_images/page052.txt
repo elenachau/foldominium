@@ -1,0 +1,8 @@
+                                  Practice!
+
+
+                                                                                  39
+Which CRP correspond to the given tree?
+CRP 1, 2, and 5 have similar trees, but diferent space allocation
+(CRP => Tree) = unique
+(Tree => CRP) = non-unique

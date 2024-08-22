@@ -1,0 +1,49 @@
+                                         over by scores of origami designers for decades, still have 
+                                         some surprising life in them. While they may seem like unique 
+                                         constructions, the traditional origami bases are actually 
+                                         specific embodiments of quite broad and general design 
+                                         principles. By thoroughly understanding the traditional bases, 
+                                         we are prepared to understand the deeper principles of origami 
+                                         design.
+
+                                         4.1. The Classic Bases
+                                         So what, exactly, are the standard bases of the origami 
+                                         repertoire? Now, it must be admitted that any labeling scheme 
+                                         that dubs certain structures “the standard bases” is going to 
+                                         be somewhat arbitrary. But there are four shapes known for 
+                                         hundreds of years in Japan that are the basis of several tra-
+                                         ditional models. These shapes have a particularly elegant 
+                                         relationship with one another that takes on a special sig-
+                                         niﬁcance in origami design. They are often called the four 
+                                         Classic Bases of origami and are named for the most famous 
+                                         models that can be folded from them: the Kite, Fish, Bird, 
+                                         and Frog Base.
+                                             Perhaps not surprisingly, in many cases, more of the 
+                                         structure of an origami model is evident in the crease pattern 
+                                         than in the folded base. For one thing, in the crease pattern, 
+                                         all parts of the paper are visible, while in the folded model 
+                                         only the outermost layers are visible—perhaps 90% or more 
+                                         of them are hidden. Furthermore, certain structures appear 
+                                         over and over in a crease pattern, which you can recognize 
+                                         as features of the ﬁnished model. (Do a lot of creases come 
+                                         together at a single point? That point probably becomes the 
+                                         tip of a ﬂap of the model.) With practice, you can learn to read 
+                                         the structure of a model in the crease pattern as if it were 
+                                         the entire folding sequence. The crease patterns, bases, and 
+                                         a representative model from each of the four Classic Bases 
+                                         are shown in Figure 4.1.
+                                             We have already encountered three of these in the El-
+                                         ephant’s Head series—the Kite, Fish, and Bird Bases. (Chal-
+                                         lenge: Can you design an elephant that makes full use of the 
+                                         ﬂaps of a Frog Base?) There is no precise deﬁnition of a base; 
+                                         perhaps a good working deﬁnition is “a geometric form with 
+                                         the same general shape and/or number of ﬂaps as the desired 
+                                         subject.”
+                                             In origami, a ﬂap is a region of paper that can be manipu-
+                                         lated relatively independently of other parts of the model. In 
+                                         origami design, bases supply ﬂaps; major ﬂaps on a base then 
+                                         get turned into major appendages of a ﬁnal model. The Kite, 
+
+      54
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

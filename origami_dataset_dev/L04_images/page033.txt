@@ -1,0 +1,21 @@
+Flat-foldability condition to be used
+
+    – Isometry
+          Alternating sum of angles is 0 [Kawasaki 
+          1989]
+        ⇔
+                       kv
+                Fv  = ∑       ()i θi = 0sgn
+                      i=0
+    – Layering
+           [kawasaki 1989]
+
+            – If θi is between foldlines assigned with MM 
+        ⇒    or VV,
+             θi    min(θi−1,θi+1)
+        + empirical condition [tachi 2007]
+                ≧
+            – If θi and θi+1 are composed byfoldlines
+             assigned with MMV or VVM then, θi
+             θi+1
+                                         ≧

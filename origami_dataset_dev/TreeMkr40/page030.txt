@@ -1,0 +1,46 @@
+Your figure should look something like
+this but it probably won’t look exactly
+the same. You should see some red lines,
+however. The red lines are paths that are 4                                 5
+not valid, meaning that their actual length      3                 4
+is less than their minimum length. They          1.000     2       1.000
+are a sign that no valid crease pattern is                 1
+possible with this arrangement of nodes.                    0.600
+                                                             1
+Again, select Optimize Scale from the
+Action menu to find a new configuration.                  2
+The result should look like figure 2.3.11.                 0.750
+
+
+                                                           3
+                                                    5          6
+                                                    1.000       1.000
+                                              6                      7
+
+                                                      2.3.10
+
+
+                                        4                                   5
+
+                                                 3                 4
+                                                 1.0002         2  1.000
+                                                           2
+                                                          1
+                                                          0.600
+                                        2                                  2
+
+                                                     2        2
+                                                          2
+                                                           0.750
+                                        3                                  3
+                                                3                   3
+
+                                                           3
+                                                 5                6
+                                                 1.000             1.000
+                                        6                                  7
+
+                                                      2.3.11
+
+
+                                  30

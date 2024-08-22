@@ -1,0 +1,35 @@
+  EF
+
+         BB
+
+                 A
+                                          A
+                                                               F
+            BB
+
+                                       E
+                                                  B
+       CC
+                                                                      H
+
+                                                         C
+ GH
+                                                G
+          CC
+                                                                D
+
+                  D
+                                  2.1.11
+
+That’s all for this example. You have learned the basics of TreeMaker: how to define a stick
+figure using the point-and-click interface and how to construct a basic crease pattern. In the next
+example, you’ll learn how to modify the stick figure to alter proportions, how to incorporate
+symmetry, and how to customize the screen and printed image.
+
+   2.2   Tutorial 2: Imposing symmetry
+
+In this tutorial, you will learn how to use some more of the settings in TreeMaker and how to
+incorporate bilateral symmetry into your design.
+
+
+                               15

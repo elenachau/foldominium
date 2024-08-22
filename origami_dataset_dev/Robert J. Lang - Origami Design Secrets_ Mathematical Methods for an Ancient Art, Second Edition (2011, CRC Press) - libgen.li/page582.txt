@@ -1,0 +1,29 @@
+                                         Section 10.8, but TreeMaker (or a bit of manual manipulation 
+                                         of the folded base) can also ﬁnd the full crease assignment, 
+                                         which is shown in Figure 13.6.
+
+
+            Figure 13.6. 
+            Full crease assignment for the 
+            TreeMaker version of the generic 
+            beetle.
+
+                                             TreeMaker also provides a picture of the folded form of the 
+                                         base, given as an “x-ray view” so that all creases are visible. 
+                                         This base is shown in Figure 13.7. The coloring of the creases 
+                                         in the folded form matches the structural coloring in the crease 
+                                         pattern, so you can see explicitly that all axial creases (green) 
+                                         do indeed coincide along the axis; the ridges (red) propagate 
+                                         toward and away from the vertical axis; the hinges (blue) are 
+                                         all perpendicular to the axis; and the gussets (gray) are parallel 
+                                         to the axis, but are removed from it at some distance.
+
+
+            Figure 13.7. 
+            X-ray view of the base for the 
+            generic beetle with creases 
+            colored according to their type.
+
+     570
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

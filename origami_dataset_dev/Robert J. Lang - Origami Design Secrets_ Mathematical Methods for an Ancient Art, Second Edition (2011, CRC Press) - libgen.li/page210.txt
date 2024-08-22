@@ -1,0 +1,27 @@
+                                         Figure 7.1. 
+                                         Crease pattern, base, and folded model of the Turtle.
+
+                                         correspondences between features of the crease pattern and 
+                                         features of the model, using the base as an intermediate posi-
+                                         tion.
+                                             In this case, the base isn’t one of the Classic Bases, but 
+                                         one can apply grafting to any preexisting base. An important 
+                                         observation here is that the underlying structure of this base 
+                                         is actually a rectangle rather than a square. The strip of paper 
+                                         along the top of the crease pattern really isn’t necessary to the 
+                                         base, something you can easily verify by cutting off the strip 
+                                         and re-folding the base, which still has all of its ﬂaps.
+                                             If we examine the base of the Turtle and its crease pattern, 
+                                         we see that the ﬂat diamond shape in the middle of the crease 
+                                         pattern gives rise to the shell (as well as the head and tail). It 
+                                         would be a fairly simple task to decorate it with lines to outline 
+                                         the plates of a real turtle’s shell, as in Figure 7.2.
+
+
+            Figure 7.2. 
+            The Turtle shell with a plate 
+            pattern overlaid upon it.
+
+     198
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

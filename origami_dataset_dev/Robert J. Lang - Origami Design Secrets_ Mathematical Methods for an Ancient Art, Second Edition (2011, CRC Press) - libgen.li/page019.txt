@@ -1,0 +1,50 @@
+            steps, but if not, it is essential that you read through this sec-
+            tion. Chapter 2 also introduces a key concept: the relationship 
+            between the crease pattern and the folded form, a relationship 
+            that we will use and cultivate throughout the book.
+                Chapter 3 initiates our foray into design by examining a 
+            few designs. The ﬁrst stage of origami design is modiﬁcation of 
+            an existing design; in this chapter, you will have an opportunity 
+            to explore this approach by devising simple modiﬁcations to a 
+            few ﬁgures.
+                Chapter 4 introduces the concept of a base, a fundamental 
+            form from which many different designs may be folded. You will 
+            learn the traditional bases of origami, a number of variations on 
+            these bases, and several methods of modifying the traditional 
+            bases to alter their proportions.
+                Chapter 5 expands upon the idea of modifying a base by 
+            focusing upon modiﬁcations that turn a single point into two, 
+            three, or more simply by folding. This technique, called point-
+            splitting, has obvious tactical value in designing, but it also 
+            serves as an introduction to the concept of modifying portions 
+            of a base while leaving others unchanged.
+                Chapter 6 introduces the concept of grafting: modifying 
+            a crease pattern as if you had spliced additional paper into it 
+            for the purpose of adding structural elements to an existing 
+            form. Grafting is the simplest incarnation of a broader idea, 
+            that the crease patterns for origami bases are composed of 
+            separable parts.
+                Chapter 7 then expands upon the idea of grafting and 
+            shows how multiple intersecting grafts can be used to create 
+            patterns and textures within a ﬁgure—scales, plates, and other 
+            textures. This set of techniques stands somewhat indepen-
+            dently, as almost any ﬁgure can be “texturized.”
+                Chapter 8 generalizes the concept of grafting to a set of 
+            techniques called tiling: ﬁguratively cutting up and reassem-
+            bling different pieces of crease patterns to make new bases. 
+            This chapter deﬁnes both tiles and matching rules that apply 
+            to the edges of tiles to insure that the assemblies of tiles can 
+            be folded into a ﬂat shape. Chapter 8 also introduces the pow-
+            erful concept of a uniaxial base—a family of structures that 
+            encompasses both the traditional origami bases and many of 
+            the most complex modern bases.
+                Chapter 9 shows how the tile decorations that enforce 
+            matching can be expanded into a design technique in their 
+            own right: the circle/river method, in which the solution of 
+            an origami base can be derived from packing circles into a 
+            square box. Circle/river packing is one of the most powerful 
+            design techniques around, capable of constructing ﬁgures with 
+
+                                                                                                      7
+                                                                    Chapter 1: Introduction
+© 2012 by Taylor & Francis Group, LLC

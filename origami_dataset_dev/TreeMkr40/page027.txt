@@ -1,0 +1,33 @@
+Now we’ll also shrink the torso a bit.
+Double-click on the torso and enter a
+                                                          1
+length of 0.75 in the Length field. Then                 head           5
+click OK. The result is shown in figure     4            1       4
+2.3.4.                                            3       0.600  1.000
+                                                   1.000  2
+We’ll also make this model symmetric
+and will take this opportunity to learn a
+third way of applying conditions. Open
+                              Edit
+up the Tree Editor by selecting the                       2
+Tree… command from the   Edit menu                        0.750
+and turn on book symmetry by clicking
+on the “book” button.
+
+Now we’ll apply conditions, but rather                    3
+than selecting specific menu commands             5              6
+or editing particular nodes as we did      6       1.000         1.000   7
+before, we’ll create all the conditions at
+once. Select the Edit Conditions…
+command from the  Conditions menu.
+You will be presented with a dialog as                 2.3.4
+shown in figure 2.3.5.
+
+
+                                      2.3.5
+
+ The Condition Editor shows every condition that applies to every part. With it, you can create all
+ three conditions within the same dialog. Select Node symmetric from the “Add…” popup menu,
+ followed by selecting Nodes paired about symmetry line twice from the same popup.
+
+                                  27

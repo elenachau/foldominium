@@ -1,0 +1,38 @@
+            all of the paper goes into one of the four ﬂaps. However, add 
+            one or two more ﬂaps, and you are forced to use edge ﬂaps. 
+            Once you start mixing edge ﬂaps and middle ﬂaps, you begin 
+            to run into tradeoffs in efﬁciency. Sometimes, it is even better 
+            not to use the corners for ﬂaps if there are additional ﬂaps to 
+            be placed on the square.
+                So, for example, suppose we want to fold a base with ﬁve 
+            equal-length ﬂaps. A little doodling with a pencil and paper 
+            (alternatively, you can cut out some cardboard circles and 
+            shufﬂe them around) will reveal two particularly efﬁcient ar-
+            rangements of circles, as shown in Figure 9.7.
+
+
+                         r = 0.354                              r = 0.324
+
+            Figure 9.7. 
+            Two circle patterns corresponding to bases with ﬁve equal-length ﬂaps.
+
+                Now we have two possible circle patterns. Which one is 
+            better? Is there any way to quantify the quality of a crease 
+            pattern?
+                As mentioned earlier, one measure of the quality of a 
+            model is its efﬁciency, that is, the relationship between the size 
+            of the folded model and the square from which it is folded. A 
+            quantitative measure of efﬁciency is to compare the size of some 
+            standard feature of the base—such as the length of a ﬂap—to 
+            the size of the original square. The most efﬁcient base is the 
+            largest possible base for a given size square. Since the ﬂaps 
+            of the base are represented by circles whose radius is equal 
+            to the length of the ﬂaps, the most efﬁcient base corresponds 
+            to the most efﬁcient circle packing, i.e., the packing with the 
+            largest circles.
+                To facilitate this comparison, let’s assume our square is 
+            one unit on a side. (If you’re using standard origami paper, a 
+
+                                                                                                     299
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

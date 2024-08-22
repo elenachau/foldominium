@@ -1,0 +1,29 @@
+                           1. Joining two boxes.                2. Joined.
+
+
+                                      3. The crease pattern for the double-box.
+
+            Figure 12.19. 
+            Joining two boxes, and the resulting crease pattern.
+
+                Two or three of these boxes can be joined at their ends. 
+            They can be lengthened, made taller, and butt-joined, and as 
+            the collection of boxes grows, the rectangle from which the 
+            complete shape is folded grows correspondingly.
+                Another way of thinking of this box is as a tube that is 
+            squeezed at the ends, as shown in Figure 12.21.
+                So now, we have a general-purpose way of making boxes: 
+            long boxes, wide boxes, open boxes, closed boxes, and chains 
+            of boxes. Boxes of all shapes and sizes. But as a starting point 
+            for origami, boxes are somewhat limited: you can only use 
+            them to make things that are, well, box-like. Fortunately, 
+            what could be more box-like than—a boxcar? Or, in the case 
+            of Mooser’s Train, a train of boxcars! It’s not hard to see how 
+            one progresses from a chain of boxes to a train of boxcars. 
+            And while Mooser’s Train isn’t built from precisely this type 
+            of box, the main structural element, shown in Figure 12.22, 
+            is a small modiﬁcation of it.
+
+                                                                                                     479
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

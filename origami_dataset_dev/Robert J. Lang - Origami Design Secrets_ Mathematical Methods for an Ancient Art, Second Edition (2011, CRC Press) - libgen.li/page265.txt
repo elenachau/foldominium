@@ -1,0 +1,46 @@
+                                                                        Figure 8.14. 
+                                                                        Generic form of the rectangular 
+                                                                        tile and one possible arrangement 
+                                                                        of ﬂaps.
+
+            possible orientations for the ﬂaps for one of the rectangular 
+            tiles. The variation arises in the creases that run perpendicular 
+            to an edge. We can recognize and treat the essential similar-
+            ity among all such variations by simply drawing the tiles in a 
+            generic form, with undifferentiated creases perpendicular to 
+            all edges as in Figure 8.14. When the tiles are assembled into 
+            full crease patterns, some of those creases will get turned into 
+            mountain and/or valley folds, but we can—and will—defer that 
+            assignment until a later time.
+                Are there more possible tiles than these? Uncountably 
+            more, as it turns out. In addition to triangles and rectangles 
+            there are tiles from pentagons, hexagons, and octagons, both 
+            regular and irregular. In later chapters, we will learn how to 
+            construct new special-purpose tiles from arbitrary shapes; but 
+            even these few shapes—triangles and rectangles—allow one to 
+            construct new, custom-tailored bases.
+
+            8.4. Tile Assembly
+            Now, if a base can be constructed from tiles, we need some rules 
+            for their assembly. Tile assembly is not as easy as it might seem, 
+            because each tile contributes to several different ﬂaps. When 
+            one is designing a ﬁgure, one naturally thinks in terms of ﬂaps, 
+            and it would be very simple if any given tile corresponded to 
+            a single ﬂap; but instead, each tile contains pieces of several 
+            ﬂaps. So, when we assemble tiles, we need to make sure that 
+            they go together in such a way as to create entire ﬂaps—in the 
+            right sizes, and with the right connections.
+                Since these tiles are axial polygons, their boundaries are 
+            all axial, and so when two tiles meet, they must join along an 
+            axial fold. So the ﬁrst rule of assembly is simple: tiles mate along 
+            their edges, and the result of the join is an axial fold. However, 
+            there is more to consider: there are folds incident upon the edges 
+            of each tile at right angles, and in order for the joined pair to 
+            fold ﬂat, these folds must meet up with one another.
+                Keeping track of the correspondence between tiles and 
+            ﬂaps is aided by decorating the tiles with circular arcs as shown 
+            in Figure 8.15 for triangular, rectangular, and square tiles.
+
+                                                                                                     253
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

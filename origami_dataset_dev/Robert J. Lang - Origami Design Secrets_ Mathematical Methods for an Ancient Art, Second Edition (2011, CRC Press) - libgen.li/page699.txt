@@ -1,0 +1,15 @@
+           Salt Creek Tiger 
+           Beetle
+
+
+           Mark the edges of a 24×24 square grid; then use the
+           edge markings to locate the interior vertices. The two
+           flaps that form the jaws are middle points, and so
+           will be a bit more of a challenge to collapse. You
+           should precrease the angled creases near the tips of
+           several points before the collapse for the best precision.
+
+
+                                                                                           687
+                                                  Crease Patterns:Chapter Salt 14: Creek Polygon Tiger Packing Beetle 
+© 2012 by Taylor & Francis Group, LLC

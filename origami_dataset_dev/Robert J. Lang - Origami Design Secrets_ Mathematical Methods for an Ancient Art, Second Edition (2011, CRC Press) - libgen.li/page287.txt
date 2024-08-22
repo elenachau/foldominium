@@ -1,0 +1,48 @@
+            obvious from the folded form that the underlying base is the 
+            same. But if you examine the pattern of ﬂaps—where are the 
+            long ﬂaps, where are the short, how are they joined—you can 
+            perceive the essential similarity. The same structural base as 
+            was used in Shiva can also be used to realize a Hercules Beetle, 
+            as shown in Figure 8.48.
+                One can also combine techniques: construct a base by 
+            tiling, then split one or more ﬂaps using point-splitting. The 
+            Praying Mantis shown in Figure 8.49 employs nearly the same 
+            base as the Hercules Beetle, but splits the middle ﬂap into four 
+            points to form antennae.
+
+            8.7. Dimensional Relationships Within Tiles
+            In any tile, every circle or river encounters two sides of the 
+            tile; this establishes a relationship between the two sides. The 
+            union of all such relationships can constrain the possible sizes 
+            of circles and rivers within the tile. In a triangle tile composed 
+            of three circles, it is clear from Figure 8.50 that each side of the 
+            triangle has a length equal to the sum of the radii of the two 
+            adjacent circles (which, you recall, are equal to the lengths of 
+            their associated ﬂaps).
+
+
+                                        c      c
+                                Z
+                                                    Y
+
+                              a                     b
+
+                                                                        Figure 8.50. 
+                                  a             b                       A triangle tile composed of three 
+                                         X                              different circles.
+
+                It is clear from the ﬁgure that if the sides of the triangle 
+            are X, Y, and Z and we are starting from ﬂaps of length a, b, 
+            and c, then
+                                     X = a + b,                  (8–1)
+                 
+                                     Y = b +  c ,                                  (8–2)
+                 
+                                     Z = a + c .                                  (8–3)
+                 
+                We can also invert the relationship to ﬁnd the lengths of 
+            ﬂaps that can be obtained from a given triangle: 
+
+                                                                                                     275
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

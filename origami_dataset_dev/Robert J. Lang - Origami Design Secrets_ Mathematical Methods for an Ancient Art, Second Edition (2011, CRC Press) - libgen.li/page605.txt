@@ -1,0 +1,39 @@
+                Each axial line starts at a circle center and propagates 
+            toward a hinge polygon boundary, perpendicular to the bound-
+            ary. And what does each do then? Why, it keeps going—in a 
+            straight line. Unless a contour line encounters some other fold, 
+            it must keep going, and so the axial contour lines from one 
+            hinge polygon will extend out of the polygon, across any inter-
+            vening rivers, and will extend into adjacent hinge polygons. 
+                In the polygon packing of a circle-packed base, the “magic” 
+            of circle packing ensures that the axial contours shooting out of 
+            one ﬂap polygon are perfectly aligned with the axial contours 
+            shooting out of the adjacent ﬂap polygon (because these axial 
+            contours are in fact the boundaries of the generating mol-
+            ecules). However, in what is perhaps the ﬁrst indication that 
+            general polygon packing is not quite so clean and simple, in 
+            uniaxial box pleating (and its generalization, polygon packing), 
+            the axial contours from a hinge polygon often do NOT line up 
+            with the axial contours from the neighboring polygon.
+                So what do we do with such axial contours? We just keep 
+            going. Any axial contour line will keep propagating until it 
+            joins a collinear axial contour, it runs off the paper, or it hits 
+            a ridge crease. This last case happens rather often, and in fact 
+            this situation ends up generating a lot of the characteristic 
+            appearance of uniaxial box-pleated bases. 
+
+
+                                                                       Figure 13.24. 
+                                                                       Crease pattern with axial lines 
+                                                                       extended across polygon boundar-
+                                                                       ies until they hit a ridge crease.
+
+                Note that an axial contour can run along the edges of 
+            the paper, in which case it is not a fold, obviously. If an axial 
+            contour hits the edge of the paper perpendicularly, then it 
+            simply stops. Life gets interesting, though, when an axial 
+            contour line hits a ridge crease; it changes direction.
+
+                                                                                                     593
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,34 @@
+          Optimizer Classes
+
+ Optimizer classes perform mathematical operations on the Tree that generate a valid crease
+ pattern. Optimizer classes are At present, there are four optimizer classes:
+ ScaleOptimizer
+
+ EdgeOptimizer
+
+ StrainOptimizer
+
+ StubFinder
+
+ These four classes do the mathematical “heavy lifting”; they actually solve for particular creases
+ patterns. They are derived from pure numerical classes (NewtonRaphson and Cpfsqp).
+
+ ScaleOptimizer finds the arrangement of nodes that gives the largest possible crease
+ pattern.
+
+ EdgeOptimizer selectively increases particular edges to their largest possible size.
+
+ StrainOptimizer is used in heavily constrained situations; it finds a configuration that
+ minimizes the strain on the edges.
+
+ StubFinder is a simple solver that adds stubs to a tree to break high-order polygons into
+ lower-order polygons.
+
+ The three optimizer classes inherit from the TreeOptimizer class, which embodies platform-
+dependent behaviors: cancellation, error messages, and showing of progress.
+
+To support the optimizers, there are a number of DifferentiableFunction objects that
+are used for constraints and objective functions for the optimizers.
+
+
+                                 156

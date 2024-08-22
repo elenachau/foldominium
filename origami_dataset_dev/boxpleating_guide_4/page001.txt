@@ -1,0 +1,17 @@
+         How to fold Box Pleated CPs
+                         Part 1II - Collapsing 2
+
+Starting where we left the CP in the last part we are now going perform a sort of Elias stretch that goes
+all the way across the square, i.e. we are going to make the stretch up until where we reach the shown
+diagonals. Those diagonals will be our reference lines for the Elias stretch and will be displayed thicker
+in all the drawings.
+
+
+I will show this Elias stretch in several steps.
+As was explained in the last part, to start with the Elias stretch, we first pull the layers apart a bit.
+Note that in the following drawings I will only show the front half of the model to make things less
+confusing (and easier for me to draw).
+
+
+                                                     Guide by Gerwin Sturm (2007/02)
+                                     Porcupine 1.2 designed by Gerwin Sturm (2007/01/23)

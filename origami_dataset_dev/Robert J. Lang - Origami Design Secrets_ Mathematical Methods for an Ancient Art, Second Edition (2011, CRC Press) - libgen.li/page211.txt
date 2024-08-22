@@ -1,0 +1,46 @@
+                We can use grafts to replicate the pattern of lines by run-
+            ning pleats composed of strips of paper along each of the lines; 
+            the folded edges of the pleats will then produce the shell pat-
+            tern. But where should the pleats go in the crease pattern? A 
+            reasonable way to proceed with the design is to fold the simple 
+            turtle, draw the plate pattern on the back, and then unfold the 
+            shell to see where the pattern winds up on the unfolded square. 
+            The result is shown in Figure 7.3.
+
+
+             foreleg                                          foreleg
+
+
+                                      head
+
+
+            hind leg                                          hind leg  Figure 7.3. 
+                                                                        The unfolded shell with the 
+                                                                        plate pattern placed on the 
+                                                                        region that becomes the shell. 
+                                                                        Note that the colored wedges 
+                                                                        are concealed by pleats in the 
+                                       tail                             folded model.
+
+                Now, we could, in principle, precisely replicate this pat-
+            tern of lines with pleats, but in striking a balance between 
+            exact reproduction and elegance of line, it’s usually desirable 
+            to simplify the pattern, focusing attention on a smaller number 
+            of distinctive lines rather than overwhelming the viewer with a 
+            clutter of lines. It is visually pleasing and gives cleaner folding 
+            patterns to make the pattern fairly symmetric. Since the crease 
+            pattern itself has a strong 60° angle symmetry throughout, it 
+            is not unreasonable to adopt that symmetry for the pattern of 
+            plates as well. I therefore chose a simpliﬁed pleat pattern as 
+            shown in Figure 7.4.
+                The simpliﬁcations are twofold: First, I force all lines to 
+            lie at multiples of 60°, which makes them match up with the 
+            lines in the rest of the model; I also eliminate the oval of lines 
+            going all the way around, ﬁguring that I can create this line 
+            by folding up the edge of the shell in the ﬁnished shape. That 
+            leaves just three wide hexagons, plus ten pleats radiating away 
+            from them. The decision to force lines to run at multiples of 
+
+                                                                                                     199
+                                                                Chapter 7: Pattern Grafting
+© 2012 by Taylor & Francis Group, LLC

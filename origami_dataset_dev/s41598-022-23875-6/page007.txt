@@ -1,0 +1,25 @@
+www.nature.com/scientificreports/
+
+
+                            Figure 4.  Design of an origami gripper with multi-physics and multiple objectives. (a) Problem setup for 
+                            building active electro-thermal origami grippers with three diferent patterns. (b–d) Te top two design rules 
+                            of designing the grippers for three diferent multi-objective targets (Targets 1 to 3). (e) Te top two design rules 
+                            for Target 3 give distinct design alternatives where a diferent origami pattern is selected, yet both data point 
+                            distributions meet the given target.
+
+                            requirement. While Pattern 3 was selected for Target 1, its horizontal creases cannot provide additional stifness 
+                            to resist prying, so Pattern 2 is now selected to achieve Target 2. Tis high interpretability of the tree methods 
+                            helps users to better understand and reason about the desired behaviors of functional origami systems. Moreover, 
+                            the machine learning method also shows how important each feature is for diferent design targets. For example, 
+                            controlling the values of the gripping arm length L1 and the location of the frst creases (defned by Ra ) is only 
+                            important for Target 2 but not for Target 1.
+                              In general, the design rules with the highest F-scores obtained from the machine learning method tend to 
+                            be similar to each other. However, Fig. 3d shows an interesting result where the top two competing rules have 
+                            relatively large diferences between them. Te large diference is because the two rules select diferent origami 
+                            patterns, and the machine learning method thinks that both of these rules are appropriate for the desired design. 
+                            Rule 1 of Target 3 selects Pattern 1 while Rule 2 selects Pattern 2. Tese results highlight that by computing 
+                            multiple rules with high F-scores, it is possible to fnd distinct design alternatives that can all achieve the desired 
+
+
+Scientifc Reports |        (2022) 12:19277  | https://doi.org/10.1038/s41598-022-23875-6                                 7
+                                                                                                                     Vol.:(0123456789)

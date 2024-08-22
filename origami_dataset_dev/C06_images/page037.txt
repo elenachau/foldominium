@@ -1,0 +1,17 @@
+Degree 6, symmetric vertex
+
+How do we “push” the creases to fold through singularities (like the ﬂat, 
+unfolded state) to the conﬁguration we want?
+
+
+Here’s the idea:  Choose a driving force       that  
+(a) pushes the state along the desired path (making                        ), and 
+(b) is orthogonal to other, undesired manifolds at all singular points.
+                              ⇢1
+
+                    undesired      d~
+                    folding path
+                                        desired
+                          d~           folding path
+                                            ⇢2
+                     d~

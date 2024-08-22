@@ -1,0 +1,19 @@
+                15. Reverse-fold the next           16. Reverse-fold the              17. Fold two layers
+                pair of edges.                      remaining pair of edges.          to the right in front
+                                                                                      and one to the left
+                                                                                      behind.
+
+
+              18. Fold the edge        19. Fold the point up         20. Fold the left edge    21. Fold the left edge
+              over to the vertical     to the top of the             over to the crease        over to the crease
+              crease.                  model.                        and unfold.               you just made and
+                                                                                               unfold.
+
+
+                  22. Open-sink the                     23. Fold the                     24. Fold one
+                  corner in and out on                  point down.                      flap to the left.
+                  the existing creases.
+
+     176
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

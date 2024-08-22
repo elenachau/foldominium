@@ -1,0 +1,35 @@
+ course, be subsequently narrowed arbitrarily as desired). In fact, I conjecture the following: for
+ any active polygon, the universal molecule is the crease pattern with the shortest total length of
+ creases that collapses that polygon to the uniaxial base. Few creases translates into relatively few
+ layers in the base (at least, until you start sinking edges to narrow them). And because you don’t
+ have to arbitrarily add circles (and hence points) to a crease pattern to knock polygons down to
+ quads and triangles (as you do using the classical tree method algorithm), bases made with the
+ universal molecule tend to have less bunching of paper and fewer layers near joints of the base,
+ resulting in cleaner and (sometimes) easier-to-fold models.
+
+ As another example of the utility of the universal molecule, an article by Maekawa in Oru
+ magazine illustrated the design of a tree structure using the string-of-beads/contour algorithm. In
+ this algorithm, all terminal nodes are arranged around the outside of the square to form one large
+ active polygon. Then fixed-size circles are added to the interior to break up the active polygon
+ into quads and triangles. Figure 5.31 shows the tree and the circle pattern derived thereby.
+
+
+          3.224 2
+                    5
+
+         2     2
+           1 1
+       2       2
+           2    2
+
+             2  2
+                1          
+
+Figure 5.31. (Left) tree and (right) crease pattern from Oru
+Maekawa’s construction used rabbit ear molecules to fill in the triangles and a different, but
+similarly versatile construction to fill in quads, called the arrowhead quad. The resulting crease
+pattern is shown in figure 5.32. Because of the large number of interior circles, the crease pattern
+is quite complex and is quite difficult to fold flat.
+
+
+                                 138

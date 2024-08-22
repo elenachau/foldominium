@@ -1,0 +1,30 @@
+                                         Figure 14.1. 
+                                         Contour map and folded model of the Flying Walking Stick.
+
+                                         of uniaxial box pleating and will, eventually, arrive at the full-
+                                         up technique of generalized polygon packing.
+
+                                         14.1. Level Shifting
+                                         One drawback of box pleating relative to circle packing is the 
+                                         issue of width—or rather, lack of width. It is not uncommon 
+                                         for the axial creases to be separated by two or even only one 
+                                         grid square, which means that the resulting ﬂaps will be only 
+                                         one or one-half grid square wide. This may not be a problem 
+                                         for insect legs, but it can deﬁnitely be a problem for the 
+                                         (typically wider) body. It would be nice to have a technique 
+                                         for selectively widening parts of the base in an elegant and 
+                                         straightforward way. 
+                                             A more serious issue can also arise: what happens if, in the 
+                                         process of bouncing, two contour lines at different elevations 
+                                         turn out to meet head-on, as shown in Figure 14.2?
+                                             Now, one’s ﬁrst reaction might be that this can’t happen. 
+                                         But we might have made decisions in several places about el-
+                                         evation (for example, forcing axial contours along the symmetry 
+                                         line of the model) that would result in this situation somewhere 
+                                         else in the model.
+                                             It can’t really happen, of course; we can’t possibly allow 
+                                         two contour lines of different elevations to run into one another. 
+
+     626
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

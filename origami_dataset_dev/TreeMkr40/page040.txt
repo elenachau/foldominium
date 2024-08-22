@@ -1,0 +1,34 @@
+ Now any time we add a new node, it brings with it a node circle that cannot overlap any other
+ node circle. In the current configuration, there is no room between node circles 1 and 3 to add a
+ new circle. So we will have to add a new node and re-optimize in order to make room for the
+ new node. This is a very important point: there is no way to modify the original configuration of
+ nodes to make a plan view base without rearranging the entire pattern of nodes!
+
+So, we’ll add a new node attached to
+node 3. We’ll want the node to be located                 1
+on the centerline between nodes 6 and 7.
+We’ll make this forcing using conditions.
+                                                          1
+There are a couple of ways we could do  4                                   5
+it: we could apply a Node fixed to                        1.000
+                                                 3                 4
+symmetry line and Node fixed to edge             1.000             1.000
+condition to the same node; but since we                   2
+know exactly where the node should lie,
+we can just use a Node fixed to position
+condition. So, create a new node attached
+to node 3 as shown in figure 3.2.3.                       2
+                                                           1.000
+Then double-click on the node to bring
+up the Node Editor. Apply a Node fixed
+to position condition, affixing the node                   3
+                                                           7
+to location x=0.5, y=0 (turn on both                 5         6
+                                                           1.000
+                                                     1.000  8  1.000
+checkboxes).                                    6                  7
+
+                                                       3.2.3
+
+
+                                  40

@@ -1,0 +1,12 @@
+What is self-folding?
+
+• Devising ways to make materials fold automatically in response to some 
+ stimulus.
+
+
+• Example:  
+ Harvard  
+ Microrobotics Lab 
+ (Hawkes, An, Benbernou,  
+ Tanaka, Kim, Demaine,  
+ Rus, Wood 2009)

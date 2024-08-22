@@ -1,0 +1,50 @@
+                                         runs along a contour line. But, unlike axial folds, where every 
+                                         zero-elevation contour line ends up as an axial fold, any given 
+                                         gusset fold is typically only a portion of the set of contour lines 
+                                         at that elevation, which raises an interesting way of identify-
+                                         ing gusset folds in a uniaxial base. In the universal molecule 
+                                         construction described in Chapter 11, a gusset fold arose from 
+                                         a rather complicated calculation involving “paths” and “reduced 
+                                         paths” and other concepts involving distances between pairs of 
+                                         points. But there is a much simpler interpretation that arises 
+                                         from consideration of the contour lines. If we create a contour 
+                                         map of a molecule or a uniaxial base, most contour lines lie 
+                                         somewhere “along the slope of the mountain”—the elevation 
+                                         on one side of the contour line is higher and the elevation on 
+                                         the other side is lower. The gusset folds are those few unique 
+                                         segments of contour line where the elevation is higher on both 
+                                         sides of the contour line.
+                                             This interpretation raises a question, then. Are there situ-
+                                         ations where the elevation is lower on both sides of a contour 
+                                         line? This situation doesn’t arise in classical circle-packing 
+                                         design using the molecules described in Chapters 10 and 11, 
+                                         but it is very easy to construct molecules in which this situa-
+                                         tion arises. In fact, you can open-sink any molecule or region 
+                                         of a uniaxial base along any contour line and in doing so can 
+                                         change an unfolded contour line to a folded contour line or (in 
+                                         some cases) vice versa.
+                                             So, as in the case of axial folds, the fold direction of a gus-
+                                         set fold is not really a fundamental characteristic of the fold. 
+                                         Rather, it is almost an incidental property of certain contour 
+                                         lines: For every contour line, the question of whether it is folded 
+                                         or unfolded is answered by the elevation of the paper on either 
+                                         side of the contour.
+                                             So, a simple way to identify axial and gusset-like folds in 
+                                         any uniaxial base would be to draw all of the contour lines (as 
+                                         densely spaced as we care to draw); identify (or assign) eleva-
+                                         tion to each line; and then determine which of them is folded, 
+                                         and their fold direction, based on the elevation of the paper on 
+                                         either side of each line.
+                                             Up to this point, I have adopted the standard of drawing 
+                                         crease patterns on the white side of the paper, for two reasons. 
+                                         First, the lighter side offers better contrast with the lines. 
+                                         Second, if one draws the crease patterns on the white side of 
+                                         the paper and folds along the lines, they will be mostly hidden 
+                                         in the folded model (unless you’ve included color changes, of 
+                                         course). But for a moment, I would like to reverse this conven-
+                                         tion, in order to cement the analogy between crease patterns 
+                                         as contour maps and the direction of fold lines. When viewed 
+
+     590
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

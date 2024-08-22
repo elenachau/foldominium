@@ -1,0 +1,37 @@
+                          7.0 Software Model
+
+ This document describes the overall structure of the TreeMaker software model, the data
+ structures, and how they correspond to the mathematical structures the make up the Tree Method
+ of origami design. TreeMaker is written in C++ and elements of the crease pattern are
+ represented by C++ objects, which are data structures and functions that act upon these data
+ structures.
+
+ TreeMaker is strongly object-oriented. Early versions of TreeMaker were written in Object
+ Pascal, which was a step up from its predecessors (I actually carried out some of the earliest
+ work in Fortran), but beginning with version 3.0, I switched to C++. for its power and
+ extensibility. Because of this, as I’ve added to the mathematical algorithms, I’ve tended to put
+ them in a very “C++-like” form. (To a man with a hammer, everything looks like a nail.)
+
+ Whether or not C++ is the most “natural” language to do origami design modeling, I make use of
+ many of the unique properties of the language in TreeMaker, including polymorphism, multiple
+ inheritance, operator overloading, template classes and functions, run-time type identification,
+ and exception classes. If you want to get understand the software model of TreeMaker, you
+ should know C++.
+
+ A comment on terminology: there are two things called “objects” in this document:
+ mathematical/geometrical objects (which are part of the mathematical algorithm) and software
+ objects (C++ data structures). For simplicity, I’ve given the C++ objects names appropriate to
+ their mathematical analogous structure. To avoid confusion, I’ll refer to mathematical objects
+ with lower-case names, while all C++ objects have upper-case names and will appear in
+ Courier font. So, for example, a node is a part of the mathematical model; a Node is a C++
+ object that represents the mathematical object.
+
+    7.1  Overview
+
+ The code for TreeMaker consists of a bunch of classes that interact with each other. TreeMaker’s
+classes are grouped into modules; classes within a module are related to each other in some way.
+Some modules depend on or are derived from other modules. A top-level view of all the modules
+in the program are shown below in figure 7.1.
+
+
+                                 151

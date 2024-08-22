@@ -1,0 +1,11 @@
+Degree 6, symmetric vertex
+
+Consider a symmetric, degree-6 vertex.  We want to   
+self-fold it to a target state (1, -3.7, 1, -3.7, 1, -3.7).
+  
+                                            
+
+                                                             
+The “obvious” driving force would be to push the 
+                                               
+creases to be (V, M, V, M, V, M), right?              

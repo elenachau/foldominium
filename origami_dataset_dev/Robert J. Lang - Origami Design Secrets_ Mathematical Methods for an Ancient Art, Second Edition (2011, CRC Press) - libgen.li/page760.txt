@@ -1,0 +1,53 @@
+                                                     O
+                                                     Offset base (page 68): a modiﬁed base formed by shifting the entire crease 
+                                                     pattern on the square while preserving angles between creases, so that extra 
+                                                     paper is created in some locations while others lose paper.
+                                                     Open sink fold (page 34): a sink fold in which the point to be sunk can be 
+                                                     entirely ﬂattened during the course of the sink.
+                                                     Origami (page 1): the art of folding paper into decorative shapes, usually 
+                                                     from uncut squares.
+                                                     Origami sekkei: see Technical folding.
+                                                     Outside reverse fold (page 23): a method of changing the direction of a 
+                                                     ﬂap, wherein the moving layers are inverted and wrapped around the sta-
+                                                     tionary layers.
+
+                                                     P
+                                                     Parity: see Crease assignment.
+                                                     Path (page 408): a line between two leaf vertices in the crease pattern.
+                                                     Path conditions (page 411): the set of all inequalities relating the coordi-
+                                                     nates of the leaf vertices, the distances between their corresponding nodes, 
+                                                     and a scale factor. The distance between any two vertices must be greater 
+                                                     than or equal to the scaled distance between their corresponding nodes as 
+                                                     measured along the tree.
+                                                     Petal fold (page 28): a combination of two squash folds in which a corner 
+                                                     is lengthened and narrowed.
+                                                     Plane of projection (page 402): a plane containing the axis of the base 
+                                                     and the axial edges of all ﬂaps, and that is perpendicular to the layers of 
+                                                     the base.
+                                                     Plan view (page 313): a model is folded in plan view if, when it lies ﬂat, 
+                                                     you are looking at the top of the subject.
+                                                     Pleat fold (page 31): a fold formed by two parallel or nearly parallel moun-
+                                                     tain and valley folds formed through all layers of a ﬂap.
+                                                     Pleat grafting (page 203): adding one or more pleats that run across a 
+                                                     crease pattern in order to add features or textures formed by the intersec-
+                                                     tions of the pleats.
+                                                     Polygon packing (page 625): a design technique for creating uniaxial bases 
+                                                     in which polygons represent each of the leaf ﬂaps and polygonal rivers repre-
+                                                     sent each of the branch ﬂaps in the base. Uniaxial box pleating and uniaxial 
+                                                     hex pleating are both examples of polygon packing techniques.
+                                                     Precreasing (page 12): folding and unfolding to create the creases required 
+                                                     for a (usually complex) step.
+                                                     Point-splitting (page 93): any of a variety of techniques for folding a single 
+                                                     ﬂap so that it turns into two or more smaller ﬂaps.
+                                                     Preliminary Fold (page 56): a traditional base formed by bringing the four 
+                                                     corners of the square together.
+                                                     Pythagorean stretch (page 640): a structure in uniaxial box pleated 
+                                                     bases that allows ﬂap centers to be closer to each other than their polygons 
+                                                     allow.
+                                                     Pythagorean stretch, extended (page 647): a variation of a Pythagorean 
+                                                     stretch in which a larger perfect Pythagorean stretch overlaps a corner of 
+                                                     the paper to give evenly spaced contours around the gusset.
+
+       748
+                              Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

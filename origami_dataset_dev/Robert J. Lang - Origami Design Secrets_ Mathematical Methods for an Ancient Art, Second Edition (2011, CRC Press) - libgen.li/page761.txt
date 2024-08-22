@@ -1,0 +1,53 @@
+                Pythagorean stretch, offset (page 646): a variation of a Pythagorean 
+                stretch in which the vertices at opposite ends of the stretch lie at different 
+                elevations.
+                Pythagorean stretch, perfect (page 642): a version of a Pythagorean 
+                stretch in which the vertices of the gusset lie at the vertices of its bounding 
+                rectangle.
+
+                R
+                Rabbit-ear fold (page 25): a combination fold that turns a triangular cor-
+                ner into a ﬂap by folding along all three angle bisectors of the triangle and 
+                gathering the excess paper into a ﬂap.
+                Rabbit-ear molecule (page 354): the pattern of creases within a triangle 
+                that collapses its edges to lie on a single line.
+                Raw edge (page 15): the original edge of the paper, as opposed to an edge 
+                created by folding.
+                Reduced path (page 425): a path between two inset vertices created during 
+                the construction of the universal molecule.
+                Reduced path inequality (page 425): an inequality condition analogous 
+                to the path condition that applies to inset vertices and paths in the universal 
+                molecule.
+                Ridge crease (page 349): a crease within a molecule that propagates inward 
+                from the corners of the molecule. Ridge creases are always valley folds when 
+                viewed from the interior of a molecule. In polygon packing, ridge creases fol-
+                low the straight skeleton and can be either mountain or valley.
+                River (page 257): an annular segment or rectangular region in a tile or crease 
+                pattern that creates a segment between groups of ﬂaps in the folded form.
+
+                S
+                Sawhorse molecule (page 365): a crease pattern within a quadrilateral 
+                similar to the Waterbomb molecule, but with a segment separating the two 
+                pairs of ﬂaps. Also known as the Maekawa molecule.
+                Scale (page 298): a quantitative measure of efﬁciency. The scale of a crease 
+                pattern is the ratio between the length of a folded ﬂap and the length of its 
+                corresponding edge in the tree graph.
+                Side view (page 313): a model is folded in side view if when the model lies 
+                ﬂat you are looking at the side of the subject.
+                Sink fold (page 33): inversion of a point. Sink folds come in several differ-
+                ent types.
+                Splitting points: see point-splitting.
+                Spread sink fold (page 33): a sink fold in which the edges of the point are 
+                spread and the point ﬂattened. Similar to a squash fold.
+                Squash fold (page 27): a fold in which the edges of a ﬂap are spread, usu-
+                ally symmetrically, and the edges ﬂattened.
+                Standard bases (page 56): the most common origami bases, usually taken 
+                to include the Classic Bases plus the Windmill Base, Cupboard Base, Pre-
+                liminary Fold, and Waterbomb Base.
+                Straight skeleton (page 584): a tree graph within a polygon, created by 
+                translating the edges inward at a constant velocity and tracing the traveling 
+
+
+                                                                                                                                  749
+                                                                                                        Glossary
+© 2012 by Taylor & Francis Group, LLC

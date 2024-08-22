@@ -1,0 +1,55 @@
+                                             12. Box Pleating
+                                             Many box-pleated ﬁgures from Neal Elias and Max Hulme may be 
+                                             found in the following: 
+
+                                             Dave Venables, Max Hulme: Selected Works 1973–1979 (BOS Booklet 
+                                             #15), London, British Origami Society, 1979.
+
+                                             Dave Venables, Focus on Neal Elias (BOS Booklet #10), London, 
+                                             British Origami Society, 1978.
+
+                                             Dave Venables (ed.), Neal Elias: Miscellaneous Folds I (BOS Booklet 
+                                             #34), London, British Origami Society, 1990.
+
+                                             Dave Venables (ed.), Neal Elias: Miscellaneous Folds II (BOS Booklet 
+                                             #35), London, British Origami Society, 1990.
+
+                                             Dave Venables (ed.), Neal Elias: Faces and Busts (BOS Booklet #36), 
+                                             London, British Origami Society, 1990.
+
+                                             Eric Kenneway, Origami: Paperfolding for Fun, London, Octopus, 
+                                             1980, pp. 90–91 (Hulme’s Fly).
+
+                                             13. Uniaxial Box Pleating
+                                             The application of the straight skeleton to the one-straight-cut prob-
+                                             lem is described in:
+
+                                             Erik D. Demaine, Martin L. Demaine, and Anna Lubiw, “Folding and 
+                                             cutting paper,” Revised Papers from the Japan Conference on Discrete 
+                                             and Computational Geometry, edited by Jin Akiyama, Mikio Kano, 
+                                             and Masatsugu Urabe, Lecture Notes in Computer Science, volume 
+                                             1763, Tokyo, Japan, December 1998, pp. 104–117.
+
+                                             Erik D. Demaine, Martin L. Demaine, and Anna Lubiw, “Folding and 
+                                             one straight cut sufﬁce,” Proceedings of the 10th Annual ACM–SIAM 
+                                             Symposium on Discrete Algorithms, 1999, pp. 891–892.
+
+                                             The program ReferenceFinder runs on Macintosh and is open-source; 
+                                             it and source code may be downloaded from: http://www.langorigami.
+                                             com/referenceﬁnder.htm.
+
+                                             A full folding sequence for the Cerambycid beetle of Figure 13.41 
+                                             may be found in:
+
+                                             Robert J. Lang, Origami Insects II, op. cit., pp. 96–106.
+
+                                             14. Polygon Packing
+
+                                             At this writing, there is no single collective description of polygon 
+                                             packing, but many of the ideas may be found described in publications 
+                                             of OrigamiUSA and the Japan Origami Academic Association and can 
+                                             be seen in crease patterns by numerous artists on their websites.
+
+     740
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

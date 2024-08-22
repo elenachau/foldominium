@@ -1,0 +1,48 @@
+                                                           4 1
+
+                                                           1
+                                                        4  1    1
+                                                           1
+                                                       6   1    1
+
+                                                     8     2
+
+                                                            4
+
+            Figure 13.1. 
+            Left: a generic beetle to design. 
+            Right: its stick ﬁgure.
+
+            be integral multiples of the smallest distance that appears 
+            in the stick ﬁgure—which is assigned a length of 1 unit. The 
+            rest of the ﬂaps follow: legs are graduated in length, with the 
+            back legs being longest at 8 units, followed by the center legs 
+            (6 units) and front legs (4 units).
+                There are a few extra ﬂaps in this stick ﬁgure: one at 
+            the top of the head and two along the body. These ﬂaps serve 
+            to create “extra paper” at strategic places in the design. The 
+            1-unit ﬂap at the top will allow the design to be opened ﬂat 
+            in plan view (viewed from above, as in the drawing); without 
+            it there would not be a complete hinge allowing the two sides 
+            to be spread apart. The other two 1-unit ﬂaps along the body 
+            create excess paper that will allow a distinct line between the 
+            head, thorax, and abdomen, to be created.
+                Next, we create the packing shapes, as shown in Fig-
+            ure 13.2.
+                It is fairly common that an origami model exhibits left/
+            right mirror symmetry. When that is the case, I commonly 
+            design only half of the model, as shown in Figure 13.2 (the 
+            left half). Flaps that lie on the line of symmetry of the subject 
+            must usually have their circles lie on the line of symmetry of 
+            the base, and this is the case in Figure 13.2.
+                And now it’s time for the circle/river packing. With this 
+            many objects, ﬁnding an optimum packing by hand is fairly 
+            hard, even with the use of physical manipulatives (cardboard 
+            circles and spacers for the rivers). With this packing, it’s 
+            fairly easy to see that most of the circles and rivers will be 
+            arrayed around the outside of the square, and one can set 
+            up an algebraic set of equations for the coordinates of all the 
+
+                                                                                                     565
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

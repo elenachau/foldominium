@@ -1,0 +1,63 @@
+                KNL Dragon  708                        Waterbomb  355                         active  408, 585
+                 crease pattern, base, and folded      with rivers  364                       between leaf vertices  408
+                      model  141                      Mollard, Michael  329                   cross  585
+                Koi                                   Momotani, Yoshihide  204                of the bookworm  405
+                 crease pattern, base, and folded     Montoya, Ligia  713                   path conditions  411, 412, 413, 
+                      model  205                      Montroll, John  48, 706                  748
+                kozo  15                               bag of tricks  4                     path equalities  420, 422
+                                                       Dog Base  244                        path inequalities  420, 426
+                L                                      Five-Sided Square  300               Payan, Charles  329
+                                                      Mooser, Emmanuel  459                 Pegasus
+                layer management  632                 Mooser’s Train  459                     crease pattern, base, and folded 
+                leaf edges  402, 747                   building block for  479                    model  260
+                leaf ﬂap  575                         mountain fold  747                    perfect offset Pythagorean stretch  
+                leaf nodes  402, 404, 406, 747         deﬁnition of  11                           646
+                leaf vertices  404, 406, 747          Mouse                                 perfect Pythagorean stretch  642
+                length of a path  408                  crease pattern, base, and folded     Periodical Cicada
+                Lepidoptera  700                            model  711                        crease pattern, base, and folded 
+                level shifter  629                    multiaxial base  705                        model  277
+                 hex-pleated  664                                                           petal fold  28, 748
+                line types in diagrams  15            N                                       an edge  29
+                Lizard                                                                        as a combination of swivel folds  
+                 crease pattern, base, and folded     Napkin Folding Problem  329                 28
+                      model  147                      Neale Dragon  139                     Pill Bug  677
+                Lizard base  242, 263                 nodes  402, 747                         crease pattern, base, and folded 
+                lokta  15                              branch  402,  744                          model  278
+                Longhorn Beetle                        leaf  402, 747                       plane of projection  402, 408, 748
+                 contour map and folded model         nonessential paper  148               plan view  313, 433, 662, 705, 748
+                      641                             NP-COMPLETENESS  21, 579              pleat fold  31, 748
+                                                                                            pleat grafting  203, 748
+                M                                     O                                     pleats
+                                                                                              coalescence of  156
+                Maekawa, Jun  48,  352,  357, 365,    offset                                  in strip grafts  153
+                   371, 430                            Bird Base with preserved corners     point-splitting  7, 93, 130, 142, 
+                mapping from square to tree  404            69                                 275, 748
+                matching rules  7                     offset base  68, 748                    four from a corner ﬂap  131
+                McLain, Raymond K.  461               offset Pythagorean stretch  646       polygon packing  573
+                meander  651                          one-cut problem  352, 588, 596        polygons
+                Meguro, Toshiyuki  48,  334, 352,     one-straight-cut  584                   axial  351
+                   365, 651                           open sink fold  34, 748                 hinge  349, 571
+                Melissen, Hans  329                   Oppenheimer, Lillian  713               overlapping  636
+                middle ﬂap  105, 155, 275,  291,      optimization  412                     Praying Mantis
+                   313, 711, 747                      Orchid                                  crease pattern, base, and folded 
+                 relative efﬁciency  321               crease pattern, base, and folded           model  275
+                 splitting of  105                          model  375                      precreasing  748
+                Milano, R.  329                       origami  1, 748                         in petal folds  29
+                MIT  584                               age of  3                              value of  12
+                Mitchell, Dave  41                    Origami Dokuhon I  95                 Preliminary Fold  56, 748
+                mixed sink fold  38, 747              origami sekkei  5, 9, 48, 748           appearance in ﬁsh scale  208
+                molecules  8, 352, 412, 581, 747      outside reverse fold  23, 748           similarity to Five-Sided Square  
+                 arrowhead  358                       overlapping polygons  636                   301
+                 composite  360                                                             pseudohinge crease  416,  581
+                 gusset  361, 638                     P                                     Pteranodon
+                 quadrilateral  354                                                           crease pattern, base, and folded 
+                 rabbit-ear  354, 749                 Palmer, Chris K.  205, 714                  model  102
+                 sawhorse  365                        Pangolin, Eric Joisel’s  204          Pythagorean stretch  640
+                 simple  360                          paper coloration  14                    extended  647
+                 triangle  352                        parity  34, 748                         offset  646
+                 universal  424                       path  748                               perfect  642
+                                                                                              perfect offset  646
+
+       756
+                              Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

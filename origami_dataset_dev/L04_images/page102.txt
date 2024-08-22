@@ -1,0 +1,7 @@
+Our Approach
+
+
+Hinge Shift                 Volume Trim
+
+
+  Non-concurrent edges       Concurrent edges

@@ -1,0 +1,58 @@
+                                      ABF                             ABF
+                           B
+
+              A
+                                                            F                                F
+                                      F                               F
+                              G
+                        F                         G                               G
+                                                                 C                               C
+                                  C
+            E                         E                               E
+
+                                                           F                               F
+                                            F                                F
+                       D
+                                                    D                               D
+            Figure 11.22. 
+            Adding another ﬂap to the base is equivalent to adding a new edge 
+            (and leaf node) to the tree. 
+            Left: the modiﬁed tree. 
+            Middle: the new circle pattern. 
+            Right: the crease pattern with molecules in place.
+
+            equivalently, turn four path inequalities into equalities). But in 
+            the general case, this is usually not possible. This can be seen 
+            by counting degrees of freedom; when we add a new circle, we 
+            have three degrees of freedom: the two coordinates of its center 
+            plus the radius of the circle. So we can, in general, use those 
+            three degrees of freedom to satisfy only three equalities.
+                Because of this limitation, we cannot usually subdivide 
+            quadrilaterals into triangles. For example, looking at quadri-
+            lateral ABGE in Figure 11.23, if we add another circle to the 
+            opening within the quadrilateral (which corresponds to adding 
+            another edge to the tree graph at node F), we will ﬁnd that we 
+            divide the quadrilateral into two triangles—and another quad. 
+            Adding a circle to this new quad still leaves a quad behind. This 
+            process can continue forever, always leaving a residual quad-
+            rilateral, which is why we needed the gusset quad and other 
+            quadrilateral molecules.
+
+            ABF                           ABF
+
+
+                                 F                             F
+            F                             F
+
+                          G                            G
+                                      C                             C   Figure 11.23. 
+            E                             E                             Left: adding a circle to the quad-
+                                                                        rilateral subdivides it, leaving a 
+                                F                             F
+                   F                             F                      new quadrilateral. Right: sub-
+                                                                        dividing the new quadrilateral 
+                          D                             D               still leaves a smaller quad.
+
+                                                                                                     421
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

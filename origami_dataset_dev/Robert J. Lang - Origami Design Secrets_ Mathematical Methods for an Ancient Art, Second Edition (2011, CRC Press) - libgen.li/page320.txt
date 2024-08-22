@@ -1,0 +1,49 @@
+                                         9.7. Selective Inflation
+                                         We can achieve a high packing density by making use of some 
+                                         variability in the design process. In most origami designs, the 
+                                         relative lengths of the ﬂaps are not all absolutely ﬁxed. After 
+                                         all, if a point is too long, it can be shortened by reversing or 
+                                         sinking its tip. Conversely, if it turns out to be too short, that 
+                                         deﬁciency can sometimes be hidden by how the shaping folds 
+                                         are performed, for example, in a leg, by reducing or eliminating 
+                                         angular bends. So if we allow some variability in the lengths 
+                                         of ﬂaps, we can adjust the sizes of the circles to obtain more 
+                                         points of contact between adjacent circles.
+                                             It’s rarely desirable to allow all of the circles in a pattern to 
+                                         vary independently. At the very least, ﬂaps that come in sym-
+                                         metric pairs—paired legs, paired wings, perhaps front-and-rear 
+                                         legs—should maintain the same relative sizes. The optimum is to 
+                                         be found not in ﬁxing all ﬂaps to have the same relative length, 
+                                         nor in allowing each ﬂap to vary independently, but somewhere 
+                                         in between. To achieve this middle ground, we divide the ﬂaps 
+                                         up into groups that are subject to similar scaling.
+                                             As a practical matter, it’s usually the longest ﬂaps—which 
+                                         have the largest circles—that dominate the structure of a crease 
+                                         pattern. Thus, one would typically start designing a crease pat-
+                                         tern by putting the largest circles in the square and inﬂating 
+                                         them until they can no longer grow. One then adds the next-
+                                         smallest set of circles in the spaces of the larger circles until 
+                                         they, too, become ﬁxed; and then add the next set, and so on. 
+                                         I call this process of ﬁxation crystallization of the circle pack-
+                                         ing, because the process resembles the crystallization of atoms 
+                                         when a liquid is cooled below freezing. And just as the atoms 
+                                         of a crystallized liquid form a highly symmetric arrangement, 
+                                         quite often the crystallized circle packings of origami, too, form 
+                                         structures of great regularity and symmetry.
+                                             An example will make the process clear. Let’s continue 
+                                         with the tarantula we introduced earlier. As I mentioned, ta-
+                                         rantulas have in addition to their eight legs an additional pair 
+                                         of appendages on the head called pedipalps which resemble a 
+                                         tenth pair of legs (although they are typically only about half 
+                                         the length of the legs). Thus, we require a base with eight long 
+                                         ﬂaps for legs and two somewhat shorter ﬂaps for the pedipalps. 
+                                         Tarantulas also have a fairly bulbous abdomen, which we will 
+                                         represent by yet another ﬂap, and a cephalothorax (which 
+                                         contains the head and body), which will also require a ﬂap. 
+                                         Thus, our desired tarantula base would have a total of twelve 
+                                         ﬂaps. We could use the twelve-equal-circle packing shown in 
+                                         Figure 9.16, but we can construct a more elegant and efﬁcient 
+
+     308
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

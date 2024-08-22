@@ -1,0 +1,24 @@
+Building the creases gives a distorted
+Bird Base–like shape shown in figure
+3.4.9 whose flaps remain the proper
+length for the specified tree.
+
+If instead we had chosen to make the
+stub on edge 1, we would have achieved
+the crease pattern shown in figure 3.4.10.
+
+Both crease patterns result in the 4 initial
+flaps coming out with the same length
+and scale. In both cases, there is an extra
+flap that corresponds to the stub. The
+extra flap “soaks up” excess paper within
+the polygon.
+
+
+                                                       3.4.9
+
+
+                                                      3.4.10
+
+
+                                  57

@@ -1,0 +1,56 @@
+ This function has the property that  it goes to zero when the path is quantized, goes to ±1 in
+ between quantized paths, and has no gradient component in the direction of shortening the path
+ (which can cause problems when there are many such constraints). However, the code for the
+ gradient of this function is rather complicated.
+
+    6.7  Meguro Stubs
+
+ A Meguro stub is a terminal node and edge added to the tree — usually emanating from the
+ middle of an existing edge — such that the new terminal node creates exactly 4 active paths to
+ other nodes in the tree.
+
+ When a Meguro stub is added inside of an existing N-sided polygon it breaks the polygon into 4
+ new polygons that all have fewer than N sides. Thus, by addition of Meguro stubs, high-order
+ polygons are converted to lower-order polygons, until eventually all polygons in the crease
+ patterns are triangles and can be filled with rabbit-ear molecules. This process is called
+ “triangulation” of a crease pattern. By repeatedly adding Meguro stubs any crease pattern can be
+ fully triangulated.
+
+ I introduce a few more definitions:
+
+ A polygon Q is defined by a set of terminal nodes U tQ  that form the vertices of the polygon and a
+ set of terminal paths PQ , which are all paths that span U Q .
+
+ Define the set of nodes U Q  and edges EQ as all nodes and edges that are contained within one or
+ more of the paths PQ ; U Q  and EQ constitute the subtree of polygon Q. Define U tQ  as the nodes
+ in U Q  that are also terminal nodes, i.e., U tQ = U Q ∩ U tn .
+
+ Let eab  be an edge of the subtree with ua  the node at one end of eab  and ub   the node at the other
+ end.
+
+ In general, for every edge eab  and set of four distinct nodes ui , u j , uk , ul , there is a Meguro
+
+ stub that terminates on a new node um ; the stub is defined by four quantities:
+
+
+The node coordinates um,x  and um,y ;
+
+
+ The distance dm  from node ua at which the new stub emanates from edge eab ;
+
+ The length lm  of the new stub.
+
+ These four variables are found by solving the four simultaneous equalities
+
+                     d     e ∈ p      
+                    +m     if ab  ia  +   −  ()−      2+−2=
+          ml ∑ (ek)                 lm   ui,x um,x  ()ui,yum,y0
+             ∈      −d     e  ∉ p     
+            ekpia      m  if ab   ia    
+
+ for each of the four nodes ui , u j , uk , ul . Although a solution can potentially be found for any
+
+four nodes, not all are valid; the only valid combinations of nodes ui , u j , uk , ul  and edges  eab
+
+
+                                 148

@@ -1,0 +1,28 @@
+            1. Crease pattern for the Bird Base. 2. Cut the point that we 3. Insert a section of 4. Unfold.
+                                           want to lengthen.   paper to lengthen the
+                                                               point.
+
+
+                                           5. The unfolded paper cannot be flattened.
+            Figure 12.15. 
+            A failed attempt to lengthen a single Bird Base point by an inserted 
+            graft.
+
+                But with the 3 × 2 box—with box-pleated models, in 
+            general—you can often change the proportions of parts of the 
+            folded model by changing the proportions of the rectangle from 
+            which you started as if you had cut the original rectangle and 
+            inserted a strip. What makes it all possible is the angular 
+            relationship between the cuts and creases that cross the cut 
+            (and here I refer only to creases that are folded, not to crease 
+            marks left over from some prior fold-and-unfold step). If all 
+            creases that cross a cut do so at 90° to the cut, then one can, in 
+            general, add a strip of paper between the cut edges to alter the 
+            proportions of the model. We saw this when we added grafted 
+            strips to uniaxial bases; we cut along axial creases so that the 
+            only creases that crossed the cut were the hinge creases, which 
+            by deﬁnition cross at 90°.
+
+                                                                                                     475
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

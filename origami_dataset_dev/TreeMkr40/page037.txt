@@ -1,0 +1,54 @@
+Building creases gives the crease pattern
+shown in figure 3.1.6.
+
+Alternatively, you could have added the
+new edge to node 2, which would give
+you the same crease pattern flopped end-
+for-end.
+
+With either of these two patterns, you get
+a crease pattern in which the “head” and
+“tail” are folded differently. For reasons
+of symmetry, you might want the head
+and tail to be symmetric, in which case,
+if you add a new edge, you need to put it
+in the middle of edge 2.
+
+A third possibility is to split edge 2,
+using the Split selected edge command.
+ If you split the edge, add a new node and
+ edge, and then optimize the length of the
+ new edge, you will get the node                       3.1.6
+arrangement shown in figure 3.1.7.
+
+                                                          5        3        4
+
+                                                             3        2
+                                                    3
+                                                             1.000    1.000
+                                                 9        3                 3
+                                                                3
+                                              2
+                                                          9
+                                                             8        4
+                                                              0.500
+                                                           9          1.000
+                                                          9        3        6
+                                        7       2    9    10  9
+                                                        7  1.000-43.8%
+                                              5          0.500
+                                               1.000
+                                                      2  9
+                                                                     3
+
+                                        2                2        9
+                                              1        6
+                                                               2
+                                               1.000    1.000
+
+                                        1       2        8
+
+                                                       3.1.7
+
+
+                                  37

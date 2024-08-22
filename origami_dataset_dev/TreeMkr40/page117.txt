@@ -1,0 +1,47 @@
+ Although the proof of the tree theorem is beyond the scope of this article1, we won’t let that stop
+ us from using it. The tree theorem tells us that if we can find a distribution of nodes on a square
+ for which the distance between any two nodes is greater than or equal to the distance between the
+ nodes on the tree, then a crease pattern exists that can transform that node pattern into a base. For
+ a given tree, there are often several possible node patterns that satisfy the tree theorem, each of
+ which yields a different base. For our six-pointed base, a little doodling with pen and paper will
+ reveal that the pattern of nodes shown in figure 5.6 fits inside of a square of side
+ 2√((121+8√179)/65) ≈ 3.7460.
+
+                         Foreleg                 Foreleg
+
+                                 2    Head    2
+
+
+                                 3            3
+
+
+                     Hind leg                       Hind leg
+                                 2            2
+
+                                      Tail
+
+Figure 5.6. Node pattern that satisfies the tree theorem for the six-legged tree.
+The tree theorem is an existence theorem; it says that a crease pattern exists but it doesn’t tell us
+what this supposed crease pattern actually is. However, it does provide a strong clue. The tree
+ theorem says that the points on the square that correspond to terminal nodes of the tree become
+ the tips of the flaps on the folded base. Are there any other parts of the square that we can
+ identify on the base?
+
+ Consider the inequality in the tree theorem. Two points corresponding to terminal nodes must be
+ separated on the square by a distance greater than or equal to the distance between them on the
+ tree. In the special case where equality holds, we can uniquely identify the line between the two
+ points. We will call a line on the square that runs between any two terminal nodes a path. Every
+ path has a minimum length, which is the sum of the edges of the tree between the terminal
+ nodes that define the path. (In the symbolism of the tree theorem, lij  is the minimum length of
+ path ij.) The actual length of a path is given by the distance between the terminal nodes as
+ measured upon the square (|ui–uj| in the tree theorem). Any path for which its actual length is
+equal to its minimum length is called an active path.
+
+On the base, the only route between two flap tips that is equal to the distance between the
+terminal nodes lies in the plane of the projection. Thus, any active path between two terminal
+
+
+1For a proof of the tree theorem, see “A Computational Algorithms for Origami Design,” 12th Annual Symposium
+on Computational Geometry, May 22–26, 1996, Philadelphia, PA.
+
+                                 117

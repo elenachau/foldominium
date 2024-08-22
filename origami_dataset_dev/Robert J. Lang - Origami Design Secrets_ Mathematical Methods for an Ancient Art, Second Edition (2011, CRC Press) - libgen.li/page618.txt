@@ -1,0 +1,42 @@
+                                         Ridges alternate between mountain and valley along their 
+                                         length. Hinges get assigned according to the positions of the 
+                                         corresponding ﬂaps. The fully assigned crease pattern with 
+                                         structural coloring is shown in Figure 13.38.
+                                             And this pattern indeed can be folded into a base that has 
+                                         the right ﬂaps in the right place to make this generic beetle, 
+                                         as shown in Figure 13.39. (The leg ﬂaps have been folded out 
+                                         to the sides in this drawing to make it easier to visualize the 
+                                         base.)
+
+
+            Figure 13.39. 
+            The generic beetle concept we 
+            started with and the box-pleated 
+            base we ended up with.
+
+                                             Having completed this design, there are now only “three 
+                                         easy steps” left for the reader: precrease, collapse, and shape. 
+                                         I encourage you to print out the pattern in Figure 13.38 and 
+                                         collapse it so that you can verify that that the coloring does 
+                                         indeed describe the position of the various creases in the folded 
+                                         base.
+                                             Box-pleated designs can be much neater than their circle-
+                                         packed equivalents. Figure 13.40 shows a stick ﬁgure and a 
+                                         narrowed circle-packed base for a Cerambycid Beetle, a beetle 
+                                         with long antennae. Although this structure, based on the uni-
+                                         versal molecule, is certainly foldable, ﬁnding reference points 
+                                         for the odd-angle folds would be difﬁcult indeed.
+                                             Its box-pleated equivalent, on the other hand, is simple 
+                                         and elegant, as shown in Figure 13.41, and is relatively easily 
+                                         foldable to boot.
+                                             Figure 13.41 displays the normal mountain/valley color 
+                                         scheme. Can you now identify the ridge, hinge, axial, and 
+                                         axial+1 creases? Can you then identify the hinge polygons, and 
+                                         so which region of the paper goes into each ﬂap?
+                                             While complex uniaxial bases are particularly well suited 
+                                         to insects and arthropods (and I have a personal soft spot for 
+                                         them as subject matter), their techniques may be used for many 
+
+     606
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

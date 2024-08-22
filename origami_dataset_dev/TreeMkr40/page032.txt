@@ -1,0 +1,41 @@
+But how long should we make edge 1?
+TreeMaker will find that out for you.   4                                   5
+Click once on edge 1 and shift-click on          3                 4
+node 1 to select them both. Then go to            1.000             1.000
+the Action menu and select the command             2        2   2
+Scale Selection. This command will                        1
+move any unpinned selected nodes in                       1 0.600+1.3%
+order to maximize the length of the     2                                   2
+selected edge or edges. (If you have
+selected more than one edge, they will all           2        2
+                                                           2
+be lengthened proportionally.) When the                    0.750
+optimization ends, you should have      3                                   3
+something like figure 2.3.12.                  3                    3
+   • Note: you must select both some
+   unpinned nodes to move and some                         3
+   unpinned edges to enlarge;                    5                 6
+                                                 1.000             1.000
+   otherwise, nothing happens because   6                                   7
+   TreeMaker simply ignores pinned
+   nodes and edges. If you want all
+   unpinned nodes and unpinned                        2.3.12
+   edges to be considered, just hit
+   command-A (Select All) to select
+   everything; TreeMaker will weed out the pinned nodes and edges before running the
+   optimization.
+
+Look closely at the length of edge 1: its length is “0.600+1.3%”. It is said to be strained. Strain is
+a deviation of an edge from its original desired value.
+
+Strain is an important concept, particularly when we start imposing lots of symmetry conditions
+on a base. A strained edge behaves as if it were actually longer or shorter. However, an edge
+“remembers” its original (“unstrained”) length, a behavior that we utilize elsewhere.
+
+There are two strain-related commands in the Action menu: Remove strain sets all strain to
+zero; it undoes any strain changes. Relieve strain does something quite different: it absorbs
+length changes due to strain into the edge and resets the strain to zero. Select Relieve strain now.
+You’ll see that the length of edge 1 has now changed from 0.6 to 0.608.
+
+
+                                  32

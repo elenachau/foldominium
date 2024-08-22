@@ -1,0 +1,37 @@
+Lang
+
+folds,” which are, essentially nested sets of inversions of the layers of each ﬂap. Sink folds are tedious to
+perform (any origami teaching session is guaranteed to elicit a series of groans when a set of sink folds is
+announced), but they are conceptually straightforward to perform. Figure 6 show the base with some (left)
+and all (right) of its layers sunken. In the end, the folded paper shape looks not unlike the original tree graph:
+a collection of long, skinny, connected sticks, each of which will become an appendage of the subject.
+
+
+            Figure 6 : Left: The partially narrowed base. Right: The fully narrowed base.
+
+    Last comes the shaping. There is no algorithm for this—and, in fact, this is one part of the process
+where both craftsmanship and artistry are preeminent in the process. A representional origami ﬁgure, no
+matter how realistic, is, in any absolute sense, still a rather crude approximation of the subject. The artist
+selects what features to emphasize and what features to minimize in order to convey the essential character
+of the subject. Craftsmanship is called for, too, to insure that every visible edge, every visible fold falls in
+the right place to convey the desired impression. A misplaced edge, an unintended wrinkle—these can spoil
+the visual effect, for the human eye is drawn to lines, ignores smooth surfaces. It is often the case that the
+shaping takes by far the greatest amount of time when creating a complex origami ﬁgure, and this process can
+last, literally, for days. (For this scorpion, shaping took only a few hours in total.) Figures 7–8 show the ﬁnal
+process of shaping, beginning with narrowing of the legs, then proceeding through shaping of the tail and
+claws, and ending up with the ﬁnal scorpion form. The narrowing and shaping of the legs is accomplished by
+selectively dampening ﬂaps as they are folded, a technique called “wet-folding” that was introduced by the
+great 20th-century origami master Yoshizawa; strips of drafting tape hold the ﬁgure in position as it dries.
+
+                                  5   Final Thoughts
+
+The early successes of circle-river packing and its relatives were most vividly seen in the subject matter of
+origami insects and their kin. In the 1970s, origami insects were considered the ultimate challenge, and at
+least one origami book ﬂatly declared that an origami grasshopper was “impossible” from a single square. In
+the 1980s, grasshoppers were not only possible, but folded and then surpassed; and the 1990s saw a golden
+age of origami insects informally known as the “Bug Wars,” in which origami creators vied with one another
+for the most realistic, leggiest, pointiest, wingiest, horniest creature they could ﬁnd! (Entomology journals
+saw a noticeable uptick in their origami subscribers, as origami artists sought out the most challenging
+possible subjects to take on.) (See [2, 7] for some of my own contributions to this battle.)
+
+                                          18

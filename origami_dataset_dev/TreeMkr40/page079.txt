@@ -1,0 +1,42 @@
+    Copyright ©1994–1998 by
+    Robert J. Lang. All rights
+    reserved. Portions (CFSQP)
+    Copyright ©1993-1998 by Craig
+    T. Lawrence, Jian L. Zhou, and
+    Andre L. Tits. Use and
+    distribution of this program is
+    subject to restrictions described
+    in the TreeMaker documentation.
+                                              A Program for Origami Design
+    Thanks for suggestions and
+    algorithmic insight to:
+    Alex Bateman, Toshiyuki
+    Meguro, Tom Hull, Jun
+    Maekawa, Fumiaki Kawahata,
+    Erik Demaine, Barry Hayes, and
+    Marshall Bern.
+    Programmed with Metrowerks
+    CodeWarrior ™ and Metrowerks
+    PowerPlant™.
+
+                                      4.5.1
+
+   File Menu
+All of these commands do what they usually do in a Macintosh application.
+   New                                1N
+Create a new, blank square to work on.
+   Open                               1O
+Open an existing tree.
+   Close                              1W
+Close the current tree. You will be prompted to save it if you have made any changes.
+   Save                                1S
+Save the current tree to disk.
+   Save AsÉ
+Save the current tree under a new name.
+   Revert
+Revert the current tree to the last saved version.
+   Page SetupÉ
+Select the page orientation and other printing options.
+
+
+                                 79

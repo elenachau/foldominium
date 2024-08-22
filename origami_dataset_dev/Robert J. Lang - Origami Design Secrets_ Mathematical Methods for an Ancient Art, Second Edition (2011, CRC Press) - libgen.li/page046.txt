@@ -1,0 +1,31 @@
+                                         Figure 2.41. 
+                                         A spread sink.
+
+                                             The next member of the sink family is the conventional, 
+                                         or open, sink. The open sink is a simple inversion of a corner 
+                                         formed from a region in the interior of the paper. Conceptu-
+                                         ally, it is quite simple: The line of the sink is a mountain fold, 
+                                         which runs all the way around the point being sunk like a road 
+                                         girdling a mountain peak. All of the creases above the sink line 
+                                         get converted to the opposite parity, mountain to valley, valley 
+                                         to mountain.
+                                             What makes an open sink “open” is that the part of the pa-
+                                         per being sunk can (usually) be opened out entirely ﬂat, which 
+                                         allows a relatively straightforward strategy for its formation: 
+                                         stretch the edges apart so that the tip of the point to be sunk 
+                                         ﬂattens out, pinch a mountain fold all the way around, then 
+                                         push the middle down into the model and ﬂatten the model. 
+                                         The creases in the sunk region will (again, usually) fall into 
+                                         the right place.
+                                             Figure 2.42 shows this process, including the intermediate 
+                                         stage, and the crease pattern of the result.
+                                             It is sometimes possible to make an open sink by perform-
+                                         ing a spread sink ﬁrst, as Figure 2.43 shows.
+
+
+                                         Figure 2.42. 
+                                         The open sink, formation and crease pattern.
+
+      34
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,51 @@
+Let this calculation run until the cursor
+turns back into an arrow and things stop
+moving around. You should see a pattern
+something like figure 2.1.7. (Your
+example might look like figure 2.1.7
+turned upside-down; if it does, don’t
+worry about it.)
+
+There is a lot of information in this
+figure, so let me spend a few minutes
+describing what we’re seeing. Note that
+the circles surrounding each terminal
+node have expanded and moved so that
+several are touching. Several black lines
+have appeared that connect terminal
+nodes and they have dots and numbers
+along them. And the stick figure has been
+distorted (because the terminal nodes
+have moved) and has changed to a
+slightly lighter blue. Also, the number
+labeled “Scale” at the top of the window
+has changed from 0.10000 to 0.26695.                   2.1.7
+Here’s what this all means. The circles
+represent the paper used by flaps that correspond to terminal nodes. The black lines between
+them are valley folds (most of the time) in the base. They are called active paths (for reasons that
+will come later). The dots and numbers along the active paths are the locations of the internal
+nodes (non-terminal nodes) along the active paths.
+
+The stick figure has been distorted, which is because each of the terminal nodes of the stick
+figure is now located in its actual location on the square. That is, when you fold the base, the tip
+of the head flap will come from the point on the paper where the terminal node that corresponds
+to the head is located.
+
+What Optimize Scale actually does is to move around the terminal nodes to try to find an
+arrangement that gives the largest possible base, subject to the proviso that all of the edges
+maintain the same lengths relative to each other. Although all of the edges are enlarged by the
+same amount, at the optimum configuration, at least some of the edges cannot be enlarged any
+more. Such edges are called “pinned” edges are are indicated by turning a lighter blue. In this
+optimization, all of the edges have turned light blue, which is an indication that no edge can be
+made any longer. In general, after you have run the Optimize Scale command, all or nearly all of
+the edges will be in this state.
+
+Most of these lines, numbers, and circles are here for illustrative purposes and you will learn later
+how to turn on and off their display. The black lines, however, are actual creases in the base; they
+are (usually) valley folds. Bases are built in two stages. First, you Optimize Scale, which
+ identifies the valley folds of the crease pattern that form a network of polygons. This defines the
+ overall structure of the base. Then, you fill in the polygons with the remaining creases and you
+ have several options at this point.
+
+
+                                  12

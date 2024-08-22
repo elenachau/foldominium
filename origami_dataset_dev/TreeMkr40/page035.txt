@@ -1,0 +1,32 @@
+Select command Optimize Scale from
+the Action menu; you should arrive at a                   5        3        4
+distribution of terminal nodes as shown
+in figure 3.1.2.                                             4        3
+                                                    3
+                                                             1.000    1.000
+This crease pattern gives a single active                                   3
+polygon, which is a hexagon. Now, as I                          3
+                                              2
+said, there are several ways to add                                   5
+creases to this pattern to complete the                    2          1.000
+                                                                            6
+base. The simplest is the one we have   7                  1.000
+already learned; simply select Build          6
+Polys and Creases from the  Action             1.000  2
+menu. This selection fills in the active                             3
+polygon with the “universal molecule”   2
+crease pattern. This is the simplest          1        7
+                                                               2
+pattern and produces the least total crease    1.000    1.000
+length.
+                                        1       2        8
+Although the universal molecule is the
+simplest pattern, it produces a base with
+wide flaps that must be repeatedly sunk                3.1.2
+in and out to narrow them.
+
+
+                                                       3.1.3
+
+
+                                  35

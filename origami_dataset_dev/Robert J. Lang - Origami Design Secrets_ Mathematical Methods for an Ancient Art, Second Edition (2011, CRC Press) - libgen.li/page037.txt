@@ -1,0 +1,45 @@
+                In the verbal instructions, the term “reverse fold” (with-
+            out an “inside” or “outside” qualiﬁer) will generally mean 
+            “inside reverse fold.”
+                A simple ﬂap with two layers has only two possible types 
+            of reverse fold: inside or outside. More complicated ﬂaps 
+            with multiple layers can have multiple possibilities or even 
+            combinations of the two; for example, the triangular shape 
+            shown in Figure 2.23 (made by folding a square in thirds at 
+            one corner) can be either inside- or outside-reverse-folded 
+            to either the left or right; in addition, it is possible to make 
+            a sort of hybrid reverse fold that combines aspects of both. 
+            The silhouettes of all three shapes (and for that matter, the 
+            mountain- or valley-folded equivalents) are the same; they 
+            differ only in their crease patterns. In diagrams throughout 
+            the book, they will be distinguished by the presence or absence 
+            of push arrows (distinguishing reverse folds from mountain 
+            or valley folds) and/or the conﬁguration of edges shown in 
+            subsequent diagrams.
+                Another combination fold that occurs with some regular-
+            ity is the rabbit-ear fold (which acquired its name from some 
+            rabbit design long since lost in the mists of antiquity). The 
+            rabbit-ear fold is almost always performed on a triangular 
+            ﬂap, and is characterized by three valley folds along the angle 
+            bisectors of the triangle, with a fourth fold, a mountain fold, 
+            extending from the point of intersection perpendicularly to 
+            one side.
+
+
+                                                                       Figure 2.24. 
+                                                                       The rabbit-ear fold.
+
+                When a rabbit-ear fold is formed, all of the edges lie on a 
+            common line. Remarkably, this procedure works for a triangle 
+            of any shape—or perhaps it is not so remarkable, since the 
+            rabbit ear is merely a demonstration of Euclid’s theorem that 
+            the angle bisectors of any triangle meet at a common point.
+                Rabbit-ear folds occur not only on isolated ﬂaps. Bring-
+            ing all the edges to lie on a common line is a special property; 
+            the rabbit ear is the simplest example of a molecule, which is 
+            the name for any crease pattern with this property. We will 
+            encounter rabbit-ear crease patterns and molecules in much 
+
+                                                                                                      25
+                                                                 Chapter 2: Building Blocks 
+© 2012 by Taylor & Francis Group, LLC

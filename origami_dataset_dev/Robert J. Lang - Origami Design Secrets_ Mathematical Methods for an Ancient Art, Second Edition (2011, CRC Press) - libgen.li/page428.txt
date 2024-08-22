@@ -1,0 +1,51 @@
+                                                        A
+                                                    a      a
+                                                 D                                      E
+            Figure 11.15.                                    D
+                                              b         E                                        C
+            Left: crease pattern for a triangle                  c                           c
+            when side BC is not an active 
+                                                                        B       b
+            path.                                                                        a
+            Right: resulting subbase.    B       bcC                                            A
+
+                                         is necessary to address this situation. Figure 11.15 shows the 
+                                         crease pattern and subbase when side BC is slightly too long.
+                                             The vertical crease emanating from point E is a new type 
+                                         of crease. Like hinge creases, it will be perpendicular to the axis 
+                                         and is perpendicular to the axial creases. However, it is not a 
+                                         boundary of a ﬂap. For this reason we call this type of crease a 
+                                         pseudohinge crease and give it its own color (dark teal).
+                                             If the triangle has two sides that aren’t active paths, a 
+                                         similar modiﬁcation will still collapse it appropriately.
+                                             Another case that we should consider is a triangle tree 
+                                         that has one or more branch vertices along its sides resulting 
+                                         from a branch node in the subtree. For example, the two side 
+                                         subtrees in Figure 11.8 each have three leaf nodes, but in each 
+                                         tree, one of the edges has a branch node because the subtree 
+                                         has a kink at that point. This situation corresponds to the 
+                                         presence of both circles and rivers within the triangle. We can 
+                                         still use the rabbit-ear molecule to provide most of the creases, 
+                                         but wherever we have a branch vertex along an axial path, we 
+                                         need a hinge crease propagating inward from the branch node 
+                                         to the ridge crease and back down to the adjacent side.
+
+                                         11.6. Quadrilaterals
+                                         As we saw in the last chapter, there were two classes of quad-
+                                         rilateral molecules: those with no rivers or rivers connecting 
+                                         adjacent edges, and those with rivers running across the quad-
+                                         rilateral. These two classes correspond to the two topologically 
+                                         distinct tree graphs with four leaf nodes, which are shown in 
+                                         Figure 11.16.
+                                             We will call the two tree graphs the four-star and the 
+                                         sawhorse. Below them you see the three simple molecules that 
+                                         can be used to fold them: the Waterbomb, sawhorse, and gusset 
+                                         molecules. The four-star graph can be thought of as a degener-
+                                         ate form of the sawhorse graph, the limiting case as the central 
+                                         segment (e) goes to zero length. Both the Waterbomb molecule 
+                                         and the sawhorse molecule can be considered special cases of 
+                                         the gusset molecule. Since the gusset molecule serves for any 
+
+     416
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

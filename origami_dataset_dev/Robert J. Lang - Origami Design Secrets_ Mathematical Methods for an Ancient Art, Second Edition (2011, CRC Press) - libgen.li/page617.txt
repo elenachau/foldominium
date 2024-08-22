@@ -1,0 +1,31 @@
+                                                     4 1
+
+                                                      1
+                                                    4 1   1
+                                                      1
+                                                   6  1   1
+
+                                                  8   2
+
+                                                      4
+
+
+                                                                       Figure 13.37. 
+                                                                       The crease pattern with both axial 
+                                                                       and axial+1 contours in place.
+
+            will be two units wide. The ﬁnished set of contours is shown 
+            in Figure 13.37.
+                Crease assignment for the axis-parallel contours is fairly 
+            easy. As viewed from the white side, the axials are (mostly) 
+            mountain folds; the exceptions are the unfolded axials down 
+            the middle of the pattern. The axial+1s are all valley folds. 
+
+
+                                                                       Figure 13.38. 
+                                                                       The structural coloring of the 
+                                                                       fully assigned crease pattern.
+
+                                                                                                     605
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

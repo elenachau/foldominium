@@ -1,0 +1,32 @@
+             Document
+
+ TreeDoc is the document object that is “command central” — menu selections, keystrokes, and
+ mouse actions are routed to the TreeDoc, which places the appropriate calls to the Tree object
+ (which is a member variable of the TreeDoc).
+
+                          LSingleDoc         TreeDoc
+                                      7.5
+
+             Views
+
+ The bulk of TreeMaker consists of various LView subclasses that let the user see and manipulate
+ the tree object. The main view is the TreeView object, which displays the tree, the various
+ parts, and the crease pattern. By selectively choosing which parts to display, the user can choose
+ to view the tree, the crease pattern, or a combination of the two.
+
+ There is also a group of editors which allow you to examine or manipulate the fields of
+ individual objects. These are all inherited from the PowerPlant class LModalDialog and a
+utility class, PartEditorMixin, which supplies useful routines for displaying object
+addresses as indices.
+
+A second group of editors perform small manipulations on the tree, e.g., changing the paper size,
+setting the lengths of a group of edges, and so forth.
+
+The ConditionRegistry class provides a binding between Condition objects and the
+views used to reference them.
+
+The ConditionTool<P, C> class provides tools for creating and filtering Conditions for
+Parts and lists of Parts.
+
+
+                                 158

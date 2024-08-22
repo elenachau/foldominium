@@ -1,0 +1,45 @@
+                               a       b                     a           b
+                                                                   e
+
+                              d        c                     d          c
+
+                                 four-star                      sawhorse
+
+
+               Waterbomb molecule           sawhorse molecule              gusset molecule
+            Figure 11.16. 
+            The two topologically distinct four-leaf-node trees and the simple 
+            molecules that can be used to fold them.
+
+            quadrilateral, whether the underlying tree is a four-star or 
+            sawhorse, let’s go through its numerical construction.
+                In the previous chapter, I showed how to construct the 
+            gusset molecule by folding; here, I will show its construction 
+            by computation. Given a quadrilateral ABCD as shown in 
+            Figure 11.17, construct a smaller quadrilateral inside whose 
+            sides are parallel to the sides of the original quadrilateral 
+            but are shifted inward a distance h (the value of h is not yet 
+            determined). 
+                Denote the corners of the new quadrilateral by A′, B′, 
+            C′, and D′. Drop perpendiculars from these four corners to 
+            the sides of the original quadrilateral. Label their points of 
+
+            intersection AAB where the line from A′ hits side AB, BAB where 
+            the line from B′ hits AB, and so forth.
+
+                Now we need some distances from the tree graph. Let lAC 
+
+            be the distance from node A to node C on the tree and lBD be 
+            the distance from node B to node D. In most cases (see below 
+            for the exceptions), there is a unique solution for the distance 
+            h for which one of these two equations holds: 
+
+
+                           AAAB + A′C′ + CCBC = lAC , or                  (11–4)
+                 
+
+                           BBBBBCBC +  +B B′D′D′ +′  +DD DDADAD =  =lBD lBD .  .                    (11–5)
+
+                                                                                                     417
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

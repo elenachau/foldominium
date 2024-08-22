@@ -1,0 +1,18 @@
+Generalize Rigid-Foldable Planar Quad-Mesh 
+
+•  One-DOF
+    – Every vertex transforms in the same way
+    – Controllable with single actuator
+•  Redundant
+    – Rigid Origami in General
+       • DOF = N – 3M 
+       • N: num of foldlines
+                                               N=4, M=1
+       • M: num of inner verts                 DOF = 1
+    – nxn array N=2n(n-1), M=(n-1)2
+      -> DOF=-(n-2)2+1
+      -> n>2, then overconstrained if not singular
+    – Rank of Constraint Matrix is N-1
+       • Singular Constraints
+    – Robust structure
+    – Improved Designability

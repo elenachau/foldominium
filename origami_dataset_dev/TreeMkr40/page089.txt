@@ -1,0 +1,43 @@
+    b — border path: this path lies on the border (the convex hull) of the set of nodes
+
+    g — polygon path: this path should be part of a poly
+
+    c — conditioned path: this path has one or more conditions applied to it
+
+ Show polygons — display major polygons. Polygons are displayed by thick gray borders inlining
+ each polygon.
+
+ Show sub polygons — display sub polygons (reduced polygons)
+
+ Show vertices — display all vertices as black dots.
+
+ Show vertex indices — display the index of each vertex next to it
+
+ Show major creases — display mountain and valley fold creases. Valley folds are shown in
+ black; mountain folds are shown in dark gray.
+
+ Show minor creases — display tri-state creases. Tristate creases are shown in light gray.
+
+ Show crease indices — display the index of each crease
+    Fit to Screen                       1F
+ This menu command changes the size of the paper and the window to fill up the main screen. On
+ a 17” monitor, you will get about a 7.25” square (which, incidentally, fits neatly on an 8.5×11”
+ sheet of paper when it is printed).
+    Set Paper SizeÉ                    1Y
+ puts up the dialog shown in figure 4.5.11 to change the paper size, which is given in inches. The
+ screen image is exactly the same size as the printed image.
+
+
+                                       4.5.11
+
+    Action Menu
+ The commands in the Action menu perform the calculations that determine the node positions
+and the locations of creases. Normally you will define a stick figure, set up conditions on the
+nodes, edges, or paths, and then alternate between refining the condition set and selecting
+commands from the Action menu.
+   Scale Everything                    11
+ Adjust the positions of all nodes and the overall scale of the model to find the position of the
+ nodes that satisfies all conditions and that gives the largest possible base. The image is updated
+ periodically as the calculations are performed so you can see progress. Type Command-Period to
+
+                                  89

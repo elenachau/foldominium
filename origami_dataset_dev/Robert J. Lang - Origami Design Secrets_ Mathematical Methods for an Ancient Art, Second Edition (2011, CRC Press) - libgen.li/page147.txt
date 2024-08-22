@@ -1,0 +1,43 @@
+            Rokoan displayed numerous examples of joined cranes folded 
+            from paper cut in such a fashion) but we will attempt to fold 
+            our design from a single square. Thus, we need to obtain all 
+            three shapes as portions of a single square. The easiest way 
+            to turn the trio of squares back into a single square is to ex-
+            tend the sides of the smaller squares until they join, forming 
+            a larger square as shown in Figure 6.6.
+
+
+                               Beak                                         Beak
+
+
+                  Leg                        Leg              Leg                         Leg
+                                Wing                                        Wing
+
+
+                                Tail                                        Tail
+
+            Figure 6.6. 
+            The three squares embedded within a larger square.
+
+                Now, we have embedded all three squares in a larger 
+            square, which can be used—we hope—to fold a bird with four-
+            toed feet. Does it work? Let’s try it out.
+                The folding sequence shown in Figure 6.7 gives a Bird 
+            Base with a small square at each of the corners. However, 
+            this square is attached to the larger Bird Base along its full 
+            diagonal. Is it possible to fold the small square into another 
+            Bird Base? Yes, but with a slightly modiﬁed sequence to ac-
+            commodate the fact that the small square is joined to the larger 
+            ﬂap, which limits how it can be manipulated.
+                The resulting Bird Base can be used to make conventional 
+            bird feet, although it is desirable to narrow some of the ﬂaps 
+            and redistribute their layers, as shown in the Songbird model 
+            at the end of the chapter.
+                What we have done here is to add some more paper to 
+            the square while keeping it square, by grafting on more paper, 
+            in this case, a border running all the way around the outside 
+            of the square. We call this a border graft. Grafting can be a 
+
+                                                                                                     135
+                                                                       Chapter 6: Grafting
+© 2012 by Taylor & Francis Group, LLC

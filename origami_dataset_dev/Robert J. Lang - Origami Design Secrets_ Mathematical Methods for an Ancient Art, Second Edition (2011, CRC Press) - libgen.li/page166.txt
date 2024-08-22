@@ -1,0 +1,38 @@
+                                             The images in Figure 6.26 illustrate the cut-and-insert 
+                                         process. However, one problem arises: It’s not possible to get 
+                                         all of the strips to line up. As you see in the right image, only 
+                                         three out of the four rectangular strips can be aligned to the 
+                                         pieces of the crease pattern.
+                                             This problem is ﬁxable, however, by making one more 
+                                         cut and adding a strip down the middle of the tail. We don’t 
+                                         need to divide the tail (forked tails being relatively rare among 
+                                         lizards), but in this case, the strip is necessary to make the 
+                                         entire graft work out.
+
+
+                                                                                ?
+
+
+                                         Figure 6.27. 
+                                         Left: the dissected pattern with an additional strip down the tail. 
+                                         Right: starting to draw in the strip creases.
+
+                                             In the image on the right in Figure 6.27, I’ve added creases 
+                                         that create only two toes for simplicity, but you could have 
+                                         easily used strip patterns for three, four, or ﬁve toes if you 
+                                         so desired. (And since we don’t need to split the tail, I have 
+                                         left it as a pleat.) An open question is: What happens in the 
+                                         very center of the pattern when all the creases come together? 
+                                         Obviously, all of the pleats that we’re making from the strips 
+                                         have to terminate at each other somehow. In this case, the 
+                                         easiest thing to do is to cut out the crease pattern, make the 
+                                         folds that we know the location of, and then extend them 
+                                         toward the center, forcing the layers to lie ﬂat as you go. The 
+                                         result is shown in Figure 6.28.
+                                             Finally, to get back to a square starting shape, we em-
+                                         bed this unusual polygon into a square, which results in the 
+                                         pattern on the right in Figure 6.28. I will leave the folding of 
+
+     154
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

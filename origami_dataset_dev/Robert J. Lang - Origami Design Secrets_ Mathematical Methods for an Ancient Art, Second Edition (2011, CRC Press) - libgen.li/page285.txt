@@ -1,0 +1,33 @@
+            touches a, the two corresponding ﬂaps are connected at their 
+            base. The way you can keep this straight is to use the rule that 
+            two segments are connected at a point if in the circle pattern, 
+            you can travel from one to the other without cutting across a 
+            circle or river.
+                Continuing downward, ﬂaps a–d are connected to a short 
+            segment (e), which, in turn, is connected to two more short seg-
+            ments (f and g) and a longer point, l. Both f and g are terminated 
+            in pairs of ﬂaps—h and i, and j and k, respectively.
+                So this base will have eight longish ﬂaps, two paired along 
+            a segment, and a single ﬂap longer than any of them. Now, if 
+            this base meets the needs of the desired subject, we can ﬁll it 
+            in with tile creases, as shown in Figure 8.44 with simple and 
+            narrowed tiles.
+                And if we fold either pattern into a base, we will obtain a 
+            base with the same number, length, and conﬁguration of ﬂaps 
+            as is predicted by the circle pattern.
+                You might enjoy folding the base for yourself and seeing if 
+            you can identify the ﬂaps. The folding sequence in Figure 8.46 
+            gives the appropriate proportions for the division into squares 
+            and rectangles; from there, the other folds can be constructed 
+            by bisecting various angles.
+                I have used a dissection very similar to this for a model 
+            of Shiva as Nataraja, but using rectangles of proportion 2 × 
+            (1+√2), rather than the silver rectangle (1 × √2). The crease 
+
+
+            Figure 8.47. 
+            Crease pattern, base, and folded model of Shiva.
+
+                                                                                                     273
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

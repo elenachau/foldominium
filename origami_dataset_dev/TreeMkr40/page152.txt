@@ -1,0 +1,43 @@
+    Vector<T>         CFSQP           LArray      Metrowerks PowerPlant
+
+
+    Matrix<T>                        ListOf<T>
+
+
+                    Cpfsqp                   Ref<T>
+     Linear                                  RefList<T>
+     Algebra
+
+  My libraries                               Tree Classes
+
+
+                            Optimizer Classes
+
+                                                     TreeMaker User 
+                                                     Interface Classes
+
+                                          TreeMaker Classes
+                                     7.1
+
+There are four main groups of modules. Two — PowerPlant and CFSQP — are libraries written
+by other guys. One — “My libraries” — is written by me. The fourth group —“TreeMaker
+Classes” — is composed of the classes unique to TreeMaker. A brief discussion of these four
+groups follows.
+
+      Metrowerks PowerPlant
+
+PowerPlant is a Macintosh class library supplied with the Metrowerks CodeWarrior family of
+compilers. It provides a complete set of classes for building a Macintosh user interface, as well as
+a number of useful utility classes. The user interface of TreeMaker is built from the PowerPlant
+class library.
+
+PowerPlant is Mac-specific. This makes porting TreeMaker to any other platform a bit of an
+undertaking. PowerPlant is a very complex library and is the subject of a 600-page manual (The
+PowerPlant Book), so I won’t bother trying to describe any more here.
+
+PowerPlant is itself composed of several independent modules, some of which can stand alone.
+One of them, the LArray class, as shown above, serves as the base for a number of my own
+class libraries.
+
+
+                                152

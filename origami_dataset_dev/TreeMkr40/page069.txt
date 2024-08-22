@@ -1,0 +1,29 @@
+    4.3  Creating a new Tree
+
+ When a window is first opened, it will be in Default View showing a blank square, as shown in
+ figure 4.3.1.
+
+You define the tree by pointing and
+clicking in the square to draw a stick
+figure that defines the topology of the
+desired origami base. Clicking once in
+the square produces a node at the
+location of the click, as shown in figure
+4.3.3. When a node is selected it is
+highlighted: it has a spot of color around
+it in the highlight color of the computer
+TreeMaker is running on.
+
+If a single node is highlighted, clicking in
+another location will add a node with an
+edge connecting the two, as shown in
+figure 4.3.3.
+
+
+                                                       4.3.1
+
+
+                                                       4.3.2
+
+
+                                  69

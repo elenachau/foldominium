@@ -1,0 +1,37 @@
+            circle-packed designs. In some cases, the efﬁciency penalty 
+            can be 40% or worse.
+                The inefﬁciencies in box pleating come about because 
+            the fundamental packing objects, e.g., squares, do not pack 
+            with the same versatility that circles do. An extreme case is 
+            illustrated by the packing consisting of two equal-length ﬂaps 
+            into a slightly-too-small square where one of the ﬂaps must 
+            lie on the symmetry line, as shown in Figure 14.13. 
+
+
+            collisioncollision                                         Figure 14.13. 
+                                                                       A packing of two circles and 
+                                                                       squares into the paper square in 
+                                                                       which the square corners prevent 
+                                                                       a close packing of their respective 
+                                                                       circles.
+
+                In the packing shown in Figure 14.13, if we were circle 
+            packing, we could easily get the two circles much closer to 
+            each other than is shown here. But using square packing, 
+            the corners of the two minimum squares collide and we can’t 
+            get them any closer. This limitation results in considerable 
+            wasted space and forces a much larger square (for a given 
+            desired base), or equivalently, more layers of paper in the 
+            resulting base.
+                Maybe, though, there is a hybrid solution, which gets a 
+            little closer to circle packing in terms of efﬁciency, but still 
+            maintains the grid structure of a box-pleated design. In order 
+            to get the circle centers closer to each other, we will have to 
+            let the minimum-size squares overlap. But we still can’t allow 
+            the circles to overlap. If we want the polygon center to lie on 
+            a grid point, then between square overlap and circle overlap, 
+            there is a small set of grid points that constitute acceptable 
+
+                                                                                                     637
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

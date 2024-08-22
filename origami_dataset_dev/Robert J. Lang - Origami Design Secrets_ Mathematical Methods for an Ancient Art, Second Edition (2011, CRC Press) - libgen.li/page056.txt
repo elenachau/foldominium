@@ -1,0 +1,48 @@
+                                         will break up the lines of the model. In short, the less efﬁcient 
+                                         a model is, the poorer its visual appeal. Thus, efﬁciency is an 
+                                         aesthetic goal as well as a mathematical goal. For a base with 
+                                         a ﬁxed number of ﬂaps, the most efﬁcient base is that base in 
+                                         which the ﬂaps are as large as possible.
+                                             The tools of origami design cannot (yet) directly address 
+                                         elegance, but they can address its close relative, efﬁciency, 
+                                         by quantifying what is possible and impossible and providing 
+                                         direction for maximally efﬁcient structures. To wield the tools 
+                                         of origami design, one must have some tools to start with. 
+                                         The way to build a set of tools is to examine some examples of 
+                                         design and deconstruct the model, identifying and isolating 
+                                         speciﬁc techniques. To get started and to illustrate some basic 
+                                         principles of origami design, let’s add three more elephants to 
+                                         the roster.
+
+                                         3.1. Elephant Design 1
+                                         The ﬁrst design shown in Figure 3.3 is for an Elephant’s Head. 
+                                         It is very simple and takes only ﬁve creases.
+                                             This is very simple—it’s perhaps one step up from the 
+                                         One-Crease Elephant, although, you might note, it took ﬁve 
+                                         steps. Can you devise an elephant using exactly two creases? 
+                                         Exactly three?
+
+                                         3.2. Elephant Design 2
+                                         On the scale of origami complexity, both the One-Crease 
+                                         Elephant and the Elephant’s Head fall into the “simple” 
+                                         category. But as we add more features to a model, it almost 
+                                         invariably increases in complexity. As an illustration, let’s take 
+                                         the same basic design as the Elephant’s Head and add a pair 
+                                         of tusks to it.
+                                             The amount of folding increased substantially, just to cre-
+                                         ate two tiny points for tusks. But I also added a few steps to give 
+                                         deﬁnition to the ears (step 9). Why? Why not just leave the face 
+                                         a ﬂat surface as we did in the previous model? Two reasons. In 
+                                         the ﬁrst Elephant’s Head, the ears came almost for free—there 
+                                         were two ﬂaps (the corners of the square) available to work with. 
+                                         But in this design, we needed to create side ﬂaps (in steps 8 
+                                         and 9) to deﬁne the ears, which required more folding.
+                                             There’s a second reason, however, which is a bit more 
+                                         subtle. There is an aesthetic balance that needs to be main-
+                                         tained across an origami design. The tusks introduce some 
+                                         small, ﬁne features into the model. The contrast between 
+                                         those ﬁne features and the broad, ﬂat, featureless expanse of 
+
+      44
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

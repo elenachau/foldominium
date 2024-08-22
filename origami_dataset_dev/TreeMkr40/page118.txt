@@ -1,0 +1,52 @@
+ nodes on the square becomes an edge of the base that lies in the plane of projection.
+ Consequently, we have another important result:
+
+    All active paths between terminal nodes map to an edge of the base in the plane of
+    projection of the base.
+ Active paths on the square lie in the plane of projection of the square, but the plane of projection
+ is where the vertical layers of paper in the base meet each other. Thus, active paths are not only
+ edges of the base: they are major creases of the base.
+
+ So now we have the rudiments of the crease pattern for the base. We know the points on the
+ square that correspond to terminal nodes of the tree become the tips of the flaps of the base, and
+ we know that active paths on the square become major creases of the base. Furthermore, they are
+ creases that lie in the plane of projection of the base. In many cases, this information alone is
+ enough to find the complete crease pattern for the uniaxial base that corresponds to the tree. In
+ many cases, though, it isn’t. So we’ll keep going.
+
+ If you draw all of the active paths on a square, you get a network of lines, each of which is a
+ major crease of the base. Figure 6 includes the active paths for the node pattern for the six-legged
+ animal, labeled with their length. Each of those lines will turn out to be a crease in the base.
+
+ Since the active paths map one-to-one to paths on the tree, any features on the tree can be
+ mapped directly onto the active paths. Specifically, we can locate where on an active path each
+ internal node falls. If our hypothetical ant travels from one terminal node to another encountering
+ internal nodes at distances d1, d2, d3, and so forth along the way, then when we draw the crease
+ pattern, we can identify each internal node along the active path connecting the nodes at the same
+ distances from the terminal nodes. Thus, we can add all of the internal nodes to our budding
+ crease pattern. In figure 5.7, I’ve identified all of the nodes, terminal and internal, by a letter on
+ the tree, and have added their locations to the active paths in the crease pattern on the square.
+ Note that in general, an internal node will show up on more than one active path.
+
+                                      EF
+                      A
+                                            BB
+                                                  A
+               EF
+
+                       BBB
+
+                                          CC
+                       C
+
+               GH
+                                     GH
+                                            CC
+                      D
+                                                  D
+
+Figure 5.7. (Left). Tree with all nodes lettered. (Right) Crease pattern with terminal nodes,
+internal nodes, and active paths.
+
+
+                                 118

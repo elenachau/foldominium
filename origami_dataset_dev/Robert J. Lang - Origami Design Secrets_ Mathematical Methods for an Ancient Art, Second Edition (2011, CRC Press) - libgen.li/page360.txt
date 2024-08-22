@@ -1,0 +1,49 @@
+                                         creases. There are eight tangent points in the crease pattern; 
+                                         in the folded base, all eight lie on top of one another.
+                                             And the pattern continues for the Frog Base shown in 
+                                         Figure 10.5: axial creases between the centers of touching 
+                                         circles, perpendicular creases emanating from the points of 
+                                         tangency, and all tangent points (this time, 16 of them) lie on 
+                                         top of each other.
+
+
+            Figure 10.5. 
+            Left: crease and circle pattern 
+            for the ﬁve-long-ﬂap Frog Base. 
+            Right: the folded base.
+
+                                             Five examples don’t prove universality, but they do sug-
+                                         gest that there are features common to all circle pattern bases. 
+                                         In fact, there are several common attributes of circle method 
+                                         crease patterns: 
+
+                                             • Where two circles touch, there is always a crease 
+                                             that connects the centers of the two circles. We’ve al-
+                                             ready encountered these; they are the axial creases.
+
+                                             • When you fold the crease pattern into the base, all 
+                                             of the creases between touching circles—the axial 
+                                             creases—wind up lying on top of each other, i.e., along 
+                                             a single line, which is the axis of the base.
+
+                                             • Where two circles touch, there are also creases that 
+                                             are tangent to the two circles and perpendicular to the 
+                                             crease between their centers. These creases appear as 
+                                             horizontal lines in the bases in Figures 10.1 through 
+                                             10.5. We’ll call them hinge creases. The hinge creases 
+                                             form the hinges between ﬂaps.
+
+                                             • In the crease pattern, the hinge creases connect 
+                                             to each other to make a continuous path that either 
+                                             starts and stops on an edge or runs all the way around 
+                                             each circle.
+
+                                             • All of the tangent points—the points where two 
+                                             circles touch (which are labeled with dots in the 
+                                             ﬁgures)—lie at the intersections of axial creases and 
+                                             hinge creases. In the folded form, they wind up lying 
+                                             precisely on top of each other in the folded base.
+
+     348
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

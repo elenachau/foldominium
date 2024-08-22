@@ -1,0 +1,50 @@
+            now simple, codiﬁed mathematical and geometric techniques 
+            for developing a desired structure.
+                This book is a collection of those techniques. It is not a step-
+            by-step recipe book for design. Origami is, ﬁrst and foremost, 
+            an art form, an expression of creativity, and it is the nature 
+            of creativity that it cannot be taught directly. It can, however, 
+            be developed through example and practice. As in other art 
+            forms, you can learn techniques that serve as a springboard 
+            for creativity.
+                The techniques of origami design that are described in 
+            this book are analogous to a rainbow of colors on an artist’s 
+            palette. You don’t need a broad spectrum, but while one can 
+            paint beautiful pictures using only black and white, the intro-
+            duction of other colors immeasurably broadens the scope of 
+            what is possible. And yet, the introduction of color itself does 
+            not make a painting more artistic; indeed, quite the opposite 
+            can happen. So it is with origami design. The use of sophisti-
+            cated design techniques—sometimes called “technical folding,” 
+            or origami sekkei—makes the resulting model neither artistic 
+            nor unartistic. But having a richer palette of techniques from 
+            which to choose can allow the origami artist to more fully 
+            express his or her artistic vision. That vision could include 
+            elements of the folding sequence: Does it ﬂow naturally? Is 
+            the revelation of the ﬁnished form predictable or surpris -
+            ing? It could include elements of the ﬁnished form: Are the 
+            lines harmonious or jarring? Does the use of folded edges 
+            contribute to or detract from the appearance? Does the ﬁgure 
+            use paper efﬁciently or waste it? The aesthetic criteria to be 
+            addressed are chosen by the artist. Any given technique may 
+            contribute to some criteria (and perhaps degrade others). By 
+            learning a variety of design techniques, the origami artist can 
+            pick and choose to apply those techniques that best contribute 
+            to the desired effect.
+                These techniques are not always strict; they are sometimes 
+            more than suggestions, but less than commandments. In some 
+            cases, they are vague rules of thumb: “Beyond eight ﬂaps, it 
+            is more efﬁcient to use a middle ﬂap.” But they can also be as 
+            precise as a mathematical equation. In recent years, origami 
+            has attracted the attention of scientists and mathematicians, 
+            who have begun mapping the “laws of nature” that underlie 
+            origami, and converting words, concepts, and images into math-
+            ematical expression. The scientiﬁc ﬁelds of computer science, 
+            number theory, and computational geometry support and il-
+            luminate the art of origami; even more, they provide still more 
+            powerful techniques for origami design that have resulted in 
+            further advances of the art in recent years. Many design rules 
+
+                                                                                                      5
+                                                                    Chapter 1: Introduction
+© 2012 by Taylor & Francis Group, LLC

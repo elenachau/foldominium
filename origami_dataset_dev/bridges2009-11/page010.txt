@@ -1,0 +1,47 @@
+Lang
+
+    To some degree, the Bug Wars are still going on, but with far more than bugs as their subject matter—
+complex origami subjects include other animals, plants, human ﬁgures, and indeed, purely geometric forms—
+and the goals of origami artists have moved well beyond “mere realism,” to now address the question,“how
+can I create a visually interesting shape that challenges the mind and perceptions of the viewer?” Design
+techniques have grown as well; circle-river packing has been expanded to include techniques based on pack-
+ings of polygons and other shapes, and the ranks of other algorithms for computational origami continues to
+grow, with contributions now coming from the academic world of computational geometry and other parts
+of mathematics and computer science. It is a heady time.
+    And yet, all of these techniques are still no more than tools in the hands of the artist. I am sometimes
+asked if the development of mathematical design techniques (or, heaven forbid, computer programs!) some-
+how diminishes origami as an artistic activity. To which I answer: these techniques, for all their power, are
+still just tools, no more than a painter’s pigments, or a sculptor’s chisels. The quality of the tool does not
+set the quality of the artwork; what matters most is what you do with those tools. But seeing what origami
+artists from all over the world have done in recent decades with the tools that computational origamists have
+given them, and an entirely new generation of conceptual and computational tools coming down the pike, I
+have no doubt that the future of origami as an art form will be exciting and invigorating for many years to
+come.
+    TreeMaker is open-source (GPL), runs on Macintosh OS X, Linux, and Windows computers, and may
+be downloaded at [8].
+
+                                      References
+
+ [1] Robert J. Lang. Mathematical algorithms for origami design. Symmetry: Culture and Science,
+    5(2):115–152, 1994.
+ [2] Robert J. Lang. Origami Insects and their Kin. Dover Publications, 1995.
+ [3] Robert J. Lang. A computational algorithm for origami design. In 12th ACM Symposium on Computa-
+    tional Geometry, pages 98–105, 1996.
+ [4] Robert J. Lang. The tree method of origami design. In Koryo Miura, editor, Origami Science and Art:
+    Proceedings of the Second International Meeting of Origami Science and Scientiﬁc Origami, pages
+    73–82, Ohtsu, Japan, 1997.
+ [5] Robert J. Lang. Scorpion, opus 379, 2002. http://www.langorigami.com/art/gallery/
+    gallery.php4?name=scorpion_varileg.
+ [6] Robert J. Lang. Origami Design Secrets: Mathematical Methods for an Ancient Art. A K Peters, 2003.
+ [7] Robert J. Lang. Origami Insects II. Gallery Origami House, 2003.
+ [8] Robert J. Lang. TreeMaker, 2003. http://www.langorigami.com/treemaker.htm.
+ [9] Toshiyuki Meguro. Jitsuyou origami sekkeihou [practical methods of origami designs]. Origami Tan-
+    teidan Shinbun, 2(7–14), 1991–1992.
+[10] Toshiyuki Meguro. ‘Tobu Kuwagatamushi’-to Ryoikienbunshiho [‘Flying Stag Beetle’ and the circular
+    area molecule method]. In Oru, pages 92–95. 1994.
+[11] R. T. Rockafellar. Augmented Lagrangian multiplier functions and duality in nonconvex programming.
+    SIAM Journal on Control, 12(2):268–285, 1974.
+[12] Andre Tits. CFSQP. http://www.aemdesign.com.
+
+
+                                          20

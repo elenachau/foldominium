@@ -1,0 +1,36 @@
+                                             So what if we want our ﬂaps to be wider than the fundamen-
+                                         tal width quantization? We can, as with box pleating, introduce 
+                                         level shifters. Recall that with box pleating, the symmetric level 
+                                         shifters came in two varieties, one for each of the two angles that 
+                                         ridge creases could make with incident axis-parallel creases (45° 
+                                         and 90°). With hex pleating, there are three possible angles, and 
+                                         so there must be three different types of symmetric level shifter. 
+                                         All three are shown in Figure 14.41. 
+
+
+            Figure 14.41. 
+            Level-shifting gadgets for hex 
+            pleating. Each gadget shifts an 
+            axial contour (green) to axial+2 
+            (violet) for a different angle of 
+            incidence between the axis-
+            parallel creases and the initial 
+            ridge crease.
+
+                                             These are the symmetric gadgets, but there are, of course, 
+                                         asymmetric ones, as well; a few are shown in Figure 14.42. 
+                                         Note that the ﬁrst asymmetric shifter follows the 30° sym-
+                                         metry of the grid, in contrast to its symmetric counterpart in 
+                                         Figure 14.41.
+                                             And, of course, there are more complex level-shifting gad-
+                                         gets that work near junctions of ridge creases.
+
+
+            Figure 14.42. 
+            Asymmetric versions of the 
+            level-shifting gadgets for hex 
+            pleating.
+
+     664
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

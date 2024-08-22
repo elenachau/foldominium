@@ -1,0 +1,26 @@
+                                         Figure 10.40. 
+                                         Crease pattern, base, and folded model of the Orchid.
+
+
+            Figure 10.41. 
+            A stick ﬁgure of an ant.
+
+                                         between the legs and head, two smaller circles for the antennae, 
+                                         and an even smaller circle for the rest of the head.
+                                             Again, there are many possible conﬁgurations, depending 
+                                         on the speciﬁc sizes of the circles and rivers and their relative 
+                                         arrangements, but a fairly straightforward conﬁguration is 
+                                         shown in Figure 10.42. Connecting the centers of touching 
+                                         circles with axial creases deﬁnes the polygons that we will ﬁll 
+                                         in with molecules.
+                                             This pattern gives four triangles and two quadrilaterals. 
+                                         This time all four of the corners of the square go unused (a not 
+                                         uncommon occurrence with circle-packed designs). In the tri-
+                                         angles, we have no choice: They receive rabbit-ear molecules. In 
+                                         the quadrilaterals, this time they don’t satisfy the conditions for 
+                                         the Waterbomb molecule, so we can use either the arrowhead 
+                                         or gusset molecule.
+
+     376
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

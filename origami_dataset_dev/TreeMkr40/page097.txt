@@ -1,0 +1,8 @@
+                                       4.5.22
+
+Most of the nodes and edges are pinned, but node 7 isn’t pinned and edge 6 could be larger. So,
+select node 7 and edge 6 and then select the Optimize Selection command, Action menu, giving
+the result shown in figure 4.5.23.
+
+
+                                  97

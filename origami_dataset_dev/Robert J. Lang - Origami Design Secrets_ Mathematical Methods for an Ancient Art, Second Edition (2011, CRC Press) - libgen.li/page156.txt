@@ -1,0 +1,39 @@
+                                         and see if the feet come out too big or too small. But there is 
+                                         another factor that should be taken into account. To keep the 
+                                         lines of the model clean, it is desirable to make the edges line 
+                                         up as much as possible, which means that features we add by 
+                                         grafting would ideally line up with features that are already 
+                                         there in the pregrafted base. In the case of the Frog, if we make 
+                                         the added strip the same width as the ﬂaps of the Frog Base, 
+                                         the new layers will be exactly half the width of the Frog Base 
+                                         ﬂaps. Narrowing the ﬂaps by folding them in half will result 
+                                         in all the edges lining up, giving a neater appearance. Thus, 
+                                         the resulting crease pattern from which we start would be 
+                                         something like Figure 6.16. 
+
+
+            Figure 6.16. 
+            An elegant proportion arises if 
+            the dimensions of the smaller 
+            squares are matched to the di-
+            mensions of the Frog Base.
+
+                                             There are still two problems: How do we ﬁnd these creases, 
+                                         and how do we actually collapse the pattern (i.e., what is the 
+                                         folding sequence)? The coordinates of the reference points can 
+                                         be numerically calculated from their geometric relationship; 
+                                         you can measure and plot their location. (It is also possible 
+                                         to devise folding sequences for any reference point, but that 
+                                         problem, which is quite rich in and of itself, is beyond the scope 
+                                         of this book.)
+                                             For ﬁnding the folding sequence, a good way to start is to 
+                                         make the paper resemble a base that you already know how 
+                                         to fold—in this case, the traditional Frog Base. It often works 
+                                         when a base has been augmented by strips simply to fold the 
+                                         strips so that the crease pattern looks like the ungrafted base, 
+                                         then proceed with the square fold as if it were all one sheet of 
+                                         paper as shown in Figure 6.17.
+
+     144
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

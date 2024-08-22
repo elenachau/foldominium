@@ -1,0 +1,40 @@
+                                          0                                     0
+                                          1                                     1
+                                          2                                     0
+                                          1                                     1
+                                          0                                     0
+
+
+            01210                                 01210
+            Figure 14.5. 
+            Contour map of a level-shifting gadget. Left: prior to level shifting. 
+            Right: after level shifting. The numbers along each contour line 
+            indicate the elevation of the contour.
+
+                Once one knows the contours, then one can work out a 
+            layer ordering and assign creases. Figure 14.6 shows one pos-
+            sible crease assignment of the pattern with mountains and 
+            valleys but retaining the structural coloring.
+
+                                          0                                     0
+                                          1                                     1
+                                          2                                     0
+                                          1                                     1
+                                          0                                     0
+
+
+            01210                                 01210
+            Figure 14.6. 
+            Crease-assigned contour map. Left: prior to level shifting. 
+            Right: after level shifting.
+
+                I call an isolated pattern of creases like this a gadget. 
+            This particular gadget is a design pattern for level shifting. 
+            Whenever a contour crosses a ridge crease, as in Figures 14.4 
+            and 14.5, we can use this gadget to shift the elevation on one 
+            side by an amount equal to twice the distance to the two sur-
+            rounding contour lines. So in the example above, the axial+2 
+
+                                                                                                     629
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

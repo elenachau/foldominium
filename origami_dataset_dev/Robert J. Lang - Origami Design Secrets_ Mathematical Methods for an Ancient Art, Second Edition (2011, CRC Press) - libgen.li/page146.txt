@@ -1,0 +1,49 @@
+                                Beak
+
+                                                               Beak
+                                                           Leg     Leg
+
+
+                                Wing                                                          Beak
+            Leg                                     Leg                     Wing
+
+                                                               Wing                        Leg
+                                                                          Tail            Leg
+
+                                                               Tail
+
+                                Tail
+
+                                         Figure 6.4. 
+                                         Crease pattern, base, and folded model for the Crow.
+
+                                             The two side corners become the legs. We would thus add 
+                                         the small squares that form Bird Bases to the corners of the 
+                                         larger square as in Figure 6.5.
+                                             Now, if we had three squares actually joined at their 
+                                         corners, we could certainly fold a four-footed bird from this 
+                                         unusual shape. The practice of folding from corner-joined 
+                                         squares is not unknown in origami (a 1797 publication by 
+
+
+                                                                       Beak
+
+                          Beak
+
+
+                                                      Leg              Wing              Leg
+                                          x
+
+                                                y
+             y
+                   Leg           Leg
+                                                             x
+                          Tail
+
+                                                                       Tail
+                                         Figure 6.5. 
+                                         Two squares attached to another square at their corners.
+
+     134
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

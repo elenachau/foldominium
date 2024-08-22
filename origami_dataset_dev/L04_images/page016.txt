@@ -1,0 +1,29 @@
+Geometric Constraints (Equations)
+
+
+   N −1       N −1
+   ∑θ()()i, jn = 2 π − ∑ α i , jn (1)
+   n=0        n=0
+              n
+   N −1          
+          cos()Θm   0
+           ∑m=1       
+   ∑ w() i, jn n   =    (2)
+   n=0   sin   Θ  0
+           ()∑m=1 m 
+              1              1
+   where  Θ =  θ ()()i,, j− +α i j + θ () i, j
+           m  2   m 1     m  2    m
+   Two-Step Linear Mapping 
+   1. Mapping based on (1) (linear)
+
+        Cw w=  b
+   2. Mapping based on (2) (linear)
+            +            +              +
+         =     +      −           where Cw is the generalized inverse of Cw 
+       w  Cw b(  I Nedge Cw C w ) w0
+                                                      +   T    T −1
+                                  If the matrix is full- rank, CCCCw= w() w w
+
+   gives (Nedge-2Nvert)dimensional solution space
+   (within the space, we solve the inequalities)

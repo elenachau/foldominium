@@ -1,0 +1,45 @@
+                                         be treated on its own. A highly complex base with numerous 
+                                         points can be broken up into a collection of relatively simple 
+                                         polygons, each analyzed individually; and when you have the 
+                                         crease patterns for the individual polygons, you can put them 
+                                         together to realize the crease pattern for the full square.
+
+                                         10.1. Tangent Points
+                                         Let us examine again some existing bases for common features 
+                                         of the crease pattern that we can relate to its underlying circle 
+                                         pattern. Figures 10.1 through 10.5 show the crease and circle 
+                                         pattern for bases with one through ﬁve equal-sized points. 
+                                         These crease patterns cover ﬁve different bases, but share sev-
+                                         eral interesting features. In each crease pattern, I’ve labeled 
+                                         with a dot the point where adjacent circles touch.
+                                             Figure 10.1 shows the crease and circle pattern for the 
+                                         Kite Base. The Kite Base appears to be a single ﬂap, but we can 
+                                         also think of it as a base with one long ﬂap joined to one short 
+                                         ﬂap; both ﬂaps are represented by circles in Figure 10.1. If we 
+                                         recognize that the horizontal crease on the right in Figure 10.1 
+                                         is the boundary between the two ﬂaps, then we see that each 
+                                         ﬂap is deﬁned by a circle; that the two circles touch at a point, 
+                                         that is, they are tangent circles; and that there are two creases 
+                                         that run through the tangent point, marked with a dot in the 
+                                         ﬁgure. The crease that connects the centers of the two circles 
+                                         is of a type that we have already met; it is an axial crease. The 
+                                         other is perpendicular to the axial crease and is tangent to both 
+                                         circles.
+
+
+            Figure 10.1. 
+            Left: crease and circle pattern 
+            for the one-flap Kite Base. 
+            Right: the folded Kite Base.
+
+                                             Now look at Figure 10.2, which shows the crease and circle 
+                                         pattern for the Fish Base. The Fish Base has two long ﬂaps and 
+                                         two short ﬂaps. All four ﬂaps are represented by circles, and 
+                                         adjacent circles touch. As with the Kite Base, there is an axial 
+                                         crease (or raw edge) between the centers of touching circles, 
+                                         and at each point of tangency, there is a crease perpendicular 
+                                         to the crease between centers.
+
+     346
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

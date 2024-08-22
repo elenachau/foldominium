@@ -1,0 +1,53 @@
+If you allow one of the nodes to start in
+the middle of the square, you will      4                                   2
+probably arrive at the solution in figure
+3.3.3, which is significantly larger with a
+scale of 0.353.
+                                                 1                 1
+In general, for 5 or more flaps, the most
+                                                 3                 1
+efficient crease pattern will have at least       1.000             1.000
+one middle flap. In this example, we
+were able to force all of the flaps to be                 3
+edge flaps simply by starting from an
+                                                          2
+initial configuration in which all of the                  1.000
+terminal nodes were on the edges. This is                   1
+not always possible, however. For                1                 1
+example, if you try the same problem for
+seven equal-length flaps, there is no            4                 5
+initial configuration that will avoid             1.000             1.000
+putting a circle into the middle of the
+                                        5                                   6
+paper, creating a middle flap. A typical
+circle pattern (with a scale of 0.268) is
+shown in figure 3.3.4.                                 3.3.3
+
+
+                                                                  3
+
+                                        4
+
+                                                             1         1
+
+                                                              2
+                                                 3             1.000
+                                                  1.000
+                                                        2         1         8
+
+                                                          1        7
+                                                1
+                                                          1.000     1.000
+                                                            1
+                                                 4
+                                        5               1                   1
+                                                  1.000
+                                                          5        6
+                                                1         1.000     1.000
+
+                                                        6         1         7
+
+                                                       3.3.4
+
+
+                                  49

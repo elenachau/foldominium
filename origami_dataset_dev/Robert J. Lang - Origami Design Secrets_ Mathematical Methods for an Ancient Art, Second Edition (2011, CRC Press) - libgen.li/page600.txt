@@ -1,0 +1,32 @@
+            Figure 13.20. 
+            The circle-packed beetle base, 
+            with axials and gusset creases 
+            highlighted.
+
+                                         angles, but in uniaxial box-pleated bases, the hinge creases are 
+                                         constrained to multiples of 90°. This means that axial creases, 
+                                         being perpendicular to the hinge creases, are also constrained 
+                                         to run at angles that are multiples of 90°. This leads to an 
+                                         interesting phenomenon, which was ﬁrst observed by   Erik 
+                                         Demaine in his solution to the one-cut problem, a phenomenon 
+                                         that we call “bouncing creases.” In circle-packed bases, axial 
+                                         creases always propagate outward from circle centers, and so 
+                                         in uniaxial box-pleated bases, it is equally tempting (and often 
+                                         justiﬁed) to launch axial creases from the centers of the packed 
+                                         squares or rectangles and propagate them outward toward the 
+                                         edges of the hinge polygons.
+                                             Before embarking on this “March of the Axials,” however, 
+                                         let us pause to address the question: What, exactly, is an “axial 
+                                         crease”? It is, fundamentally, a fold that, in the folded form, 
+                                         lies on the axis of the uniaxial base. We can characterize every 
+                                         fold whose image in the base is parallel to the axis by its per-
+                                         pendicular distance from that axis; axial folds have distance 
+                                         zero—they lie right on the axis, hence their name—while gusset 
+                                         folds, for example, typically are displaced from the axis by some 
+                                         distance. We call this offset distance the elevation of the fold.
+                                             The term “elevation” comes from the same intuitive physi-
+                                         cal picture of a molecule that gives the name to “ridge folds.” 
+
+     588
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

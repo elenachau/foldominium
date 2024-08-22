@@ -1,0 +1,37 @@
+This yields the crease pattern shown in
+figure 3.1.8.
+
+Suppose after seeing the result, we didn’t
+want to do this after all. You can remove
+the node by deleting node 10. But you
+will still be left with an extra node in the
+middle of the model. A node with only
+two edges connected is called a
+“redundant node.” You can remove a
+single redundant node by selecting it and
+choosing the command Absorb Selected
+Node from the    Action menu.
+Alternatively, you can select the
+command Absorb Redundant Nodes to
+remove all redundant nodes from a tree.
+
+   3.2  Making a plan view model
+
+Flat origami models come in two distinct
+types, which correspond to two different               3.1.8
+views of the subject. The most common
+is a “side view” model, which resembles
+the silhouette of the subject viewed from the side. (You can often make a side view model three-
+dimensional by opening out the body from the underside, but the base is still fundamentally side
+view.) Using TreeMaker, it is very easy to make side view models.
+
+ However, many models — especially insects — look better in “plan view,” that is, viewed as if
+ you were looking down on them from above. Some of the time, you can make a plan view model
+ out of a side view base by spreading the layers of the model to the left and right and flattening
+ the result. But oftentimes, the base has an odd number of layers, or the layers don’t spread
+ sufficiently far apart, or it is necessary to spread-sink one or more corners in a way that ends up
+ reducing the length of the attached points. For example, let’s take the regular human tree (equal-
+ length head, arms, legs, and body) oriented along the book direction.
+
+
+                                  38

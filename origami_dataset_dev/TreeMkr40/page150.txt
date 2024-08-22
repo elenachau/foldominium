@@ -1,0 +1,44 @@
+ (2) for every path pij  between adjacent nodes ui  and u j ,
+
+                                       u ⋅ u
+                                    h ≤
+                                       u ⋅ r
+ where
+
+                                     ≡   −
+                                   u   ui u j
+                                     ≡   −
+                                    r  ri r j
+ Although this problem is a nonlinear constrained optimization, since there is only one variable, it
+
+ can be solved directly by simply solving for each equality for all possible paths pij  and taking the
+ smallest positive value of h found. The second relation (2) gives the value for h simply by
+ replacing the inequality by equality. The solution for equality for relation (1), which is simply a
+ quadratic equation in h, is given by the following sequential substitutions:
+
+                                  = ς + ς
+                                w    i  j
+                                a = r ⋅ r − w2
+                                  =  ⋅ +
+                                b  u r  lijw
+                                  =  ⋅ − 2
+                                c  u u  lij
+                                   −b +  b2 − ac
+                                h =
+                                         a
+ Obviously, negative or complex values of h should be ignored.
+                                                        ′                  ′
+ Once a solution is found, we create a set of new reduced nodes ui  and reduced paths pij  of
+       ′
+length lij
+
+                                    ′ =  +
+                                   ui ui  hri
+
+                                 ′ =  −  ς + ς
+                                lij lij h()i j
+ The reduced nodes and reduced paths are checked for active status and then subdivided into
+ polygons, and the process is repeated.
+
+
+                                 150

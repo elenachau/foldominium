@@ -1,0 +1,16 @@
+Hybrid Surface:
+BiDirectionally Flat-Foldable PQ Mesh
+•  use 4 types of foldlines
+    – mountain fold
+       •   0° ->   -180°
+    – valley fold
+       •   0° ->   180°
+
+    – complementary                 3D
+      mountain fold
+       • -180°->      0°
+    – complementary                                Developed
+      valley fold
+       • 180° ->      0°
+     “developed” flat-folded
+       state      state                             Flat-folded

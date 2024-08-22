@@ -1,0 +1,47 @@
+                 pinned   cond’d    Edge color
+                  edge      edge
+
+                  true     false     light blue
+
+                  true     true     light cyan
+
+                  false    false   medium blue
+
+                  false    true    medium cyan
+
+
+ sub   terminal   valid   cond’d   polygon   active     Path color
+path     path     path      path    path     path
+
+true                                false                pale red
+
+true                                true                 light red
+
+false    false                                       medium light red
+
+false    true     false                                 bright red
+
+false    true     true     false    true                  black
+
+false    true     true     false    false    true        dark red
+
+false    true     true     false    false    false     medium red
+
+false    true     true     true     true                dark green
+
+false    true     true     true     false    true      dark orange
+
+false    true     true     true     false    false    medium orange
+
+
+                     crease    Crease color
+                      type
+
+                     valley       black
+
+                    mountain   medium gray
+
+                     tristate   light gray
+
+
+                            67

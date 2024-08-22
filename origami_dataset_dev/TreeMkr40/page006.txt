@@ -1,0 +1,21 @@
+    1.2  Installing TreeMaker
+
+ To install TreeMaker, drag the “TreeMaker ƒ” folder onto your hard disk. TreeMaker is a fat
+ binary Macintosh application and will run native on both 68K and Power Macintosh. (I have no
+ plans to port TreeMaker to other platforms. I am told there is a Mac emulator for Linux,
+DOS/Win95, and OS/2 called Executor. There is a sample version of it on http://www.ardi.com.)
+
+Much of the information in TreeMaker is color-coded; although you can run it on a gray-scale
+system, it will be easier if you have a color monitor with at least 256 colors.
+
+Although you can jump right into TreeMaker if you like to experiment (or you’re the type who
+never reads manuals), I recommend that you work your way through the following tutorials to
+familiarize yourself with the capabilities of TreeMaker. A basic familiarity with Macintosh
+applications is assumed throughout.
+
+   1.3   Conventions
+
+Throughout this manual, menu titles and menu commands will be emboldened.
+
+
+                                   6

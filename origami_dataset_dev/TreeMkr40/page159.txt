@@ -1,0 +1,50 @@
+                                               TreeEditor
+                                               NodeEditor
+                  PartEditorMixin              EdgeEditor
+                                               PathEditor
+                                               PolyEditor
+ LModalDialog     ToggleSizeDialog
+                                               CreaseEditor
+                                               VertexEditor
+                                               ConditionEditor
+                                               TreeViewEditor
+                                               SelectPartEditor
+                                               SizeEditor
+                                               SplitEdgeEditor
+                                               StubEditor
+                                               NodeFixedEditor
+                                               EdgeLengthEditor
+                                               QuantizationEditor
+
+                                               ConditionNodeFixedView
+                                               ConditionNodeOnCornerView
+                     TreeView                  ConditionNodeOnEdgeView
+ LView                                         ConditionNodesCollinearView
+                     ConditionEditorView       ConditionNodesPairedView
+                                               ConditionNodeSymmetricView
+                                               ConditionEdgeLengthFixedView
+                     ConditionView             ConditionPathActiveView
+                                               ConditionPathAngleFixedView
+ ConditionRegistry                             ConditionPathAngleQuantView
+ ConditionTool<P,C>
+
+                                      7.6
+
+             File I/O
+
+ File I/O is provided by the TreeFile class, which implements storage in a platform-
+independent text-based format.
+
+                            LFile       TreeFile
+                                      7.7
+
+             Printouts
+
+ The crease pattern can be printed out using the standard Apple print protocols. Printing is
+ handled by a slightly modified subclass of the PowerPlant LPrintout object.
+
+                        LPrintout        TreePrintout
+                                      7.8
+
+
+                                 159

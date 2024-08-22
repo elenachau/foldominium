@@ -1,0 +1,41 @@
+                                             Note that in the process of adding a vertical strip, we also 
+                                         created new horizontal axial creases. The Bird Base was com-
+                                         posed of four axial polygons, which are four identical triangles. 
+                                         But our inserted strip graft is similarly composed of polygons 
+                                         whose boundaries are axial creases (or the raw edge of the 
+                                         paper): In addition to the four triangles of the Bird Base, we 
+                                         have added two rectangles and two triangles.
+                                             We can now view grafts in a new light. While we have previ-
+                                         ously distinguished between the original base and the strip or 
+                                         border graft that we’ve added to the pattern, they are really not 
+                                         so different. Both the base and the graft are composed of the same 
+                                         fundamental elements, which are the axial polygons. The cre-
+                                         ation of a graft simply divides the initial crease pattern—itself 
+                                         a collection of axial polygons—along its axial folds, then inserts 
+                                         additional axial polygons into the opening as the graft.
+                                             This uniﬁcation allows us to approach design in a new 
+                                         way. In the past, we have almost always started with a base 
+                                         and then wrought variations upon it. But since bases are all 
+                                         composed of axial polygons, we can dispense with the idea of 
+                                         starting from a base and adding grafts; instead, we can actually 
+                                         build a base from scratch—maybe grafted, maybe not—simply 
+                                         by assembling axial polygons into a crease pattern. If we think 
+                                         of each axial polygon as a tile of creases, then the problem of 
+                                         design becomes a problem in ﬁtting tiles together in such a way 
+                                         that we obtain all the desired ﬂaps in our base, and the tiles 
+                                         ﬁt together to make a square.
+
+                                         8.3. Tiles of Creases
+                                         We have already encountered several possible tiles in the Clas-
+                                         sic Bases and the grafted variants seen so far. Let’s enumerate 
+                                         them.
+
+
+                                     (a)                        (b)                         (c)
+                                         Figure 8.10. 
+                                         Crease pattern and folded form for three orientations of the triangular 
+                                         tile that makes up the Classic Bases.
+
+     250
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

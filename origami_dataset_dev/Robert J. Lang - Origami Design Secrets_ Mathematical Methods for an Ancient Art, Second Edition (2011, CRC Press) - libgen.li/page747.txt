@@ -1,0 +1,55 @@
+             Martin Gardner, “Tangent Circles,” Fractal Music and Hypercards, 
+             W. H. Freeman, 1992, pp. 149–166.
+
+             Hans Melissen, On the Packing of Circles, Ph.D. Thesis, University 
+             of Utrecht, 1997.
+
+             George Rhoads’s Bug, made from a nine-circle-packing base, may be 
+             found in: 
+
+             Samuel L. Randlett, The Best of Origami, op. cit., pp. 130–131.
+
+             Most of the discussion, counterexample, and solution strategy for the 
+             Napkin Folding Problem is captured at David Eppstein’s Geometry 
+             Junkyard: http: //www.ics.uci.edu/~eppstein/junkyard/napkin.html.
+
+             A more extensive discussion (including the Margulis/Arnold credit 
+             question) is at: http://en.wikipedia.org/wiki/Napkin_folding_problem.
+
+             10. Molecules
+             A full folding sequence for the Ant of Figure 10.43 may be found in:
+
+             Robert J. Lang, Origami Insects II, op. cit., pp. 24–30.
+
+             A full folding sequence for the Cockroach of Figure 10.44 may be 
+             found in:
+
+             Robert J. Lang, Origami Insects II, ibid., pp. 47–55.
+
+             A full folding sequence for the Eupatorus gracilicornus of Figure 
+             10.51 may be found in:
+
+             Robert J. Lang, Origami Insects II, ibid., pp. 66–75.
+
+             The Maekawa-Justin theorem is described in:
+
+             Thomas Hull, “The combinatorics of ﬂat folds: a survey,” in Origami3, 
+             op. cit., pp. 29–37.
+
+             Toshiyuki Meguro describes circle packing and several types of mol-
+             ecules in: 
+
+             Toshiyuki Meguro, “Jitsuyou origami sekkeihou [Practical meth-
+             ods of origami designs],” Origami Tanteidan Shinbun, nos. 7–14, 
+             1991–1992.
+
+             11. Tree Theory
+             A partial description of tree theory is given in:
+
+             Robert J. Lang, “Mathematical algorithms for origami design,” Sym-
+             metry: Culture and Science, vol. 5, no. 2, 1994, pp. 115–152.
+
+
+                                                                                                                 735
+                                                                                        References
+© 2012 by Taylor & Francis Group, LLC

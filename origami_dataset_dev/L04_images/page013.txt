@@ -1,0 +1,17 @@
+Problem: realize arbitrary polyhedral surface 
+with a developable surface
+
+• Geometric Constraints                     Input:
+   – Developable Surf                       Arbitrary
+                                            Polyhedron
+   – Piecewise Linear
+   – Forget about Continuous 
+    Folding Motion                         Output:
+                                           Crease 
+                                           Pattern
+• Potential Application
+   – Fabrication by folding and 
+    bending
+
+                                          Folded
+                                          Polyhedron

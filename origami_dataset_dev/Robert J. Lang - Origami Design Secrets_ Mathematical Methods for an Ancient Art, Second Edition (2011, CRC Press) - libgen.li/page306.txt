@@ -1,0 +1,40 @@
+                                                                          L               L
+
+
+                                         Figure 9.4. 
+                                         Folding an edge ﬂap of length L from a square.
+
+                                         L and then unfold to the original square, you see that an edge 
+                                         ﬂap of length L consumes a half-circle of paper, and again, the 
+                                         radius of the circle is L, the length of the ﬂap.
+                                             Similarly, we can make a ﬂap from some region in the 
+                                         interior of the paper (it doesn’t have to be the very middle, of 
+                                         course). Figure 9.5 shows how such a ﬂap is made. When you 
+                                         unfold the paper, you see that a middle ﬂap requires a full 
+                                         circle of paper, and once again, the radius of the circle is the 
+                                         length of the ﬂap.
+
+
+                                                                           L              L
+
+
+                                         Figure 9.5. 
+                                         Folding a middle ﬂap of length L from a square.
+
+                                             The amount of paper consumed doesn’t depend on the 
+                                         angle of the tip of the ﬂap, only its length and location. So any 
+                                         ﬂap in any model consumes a quarter, half, or full circle of 
+                                         paper, depending upon whether it is a corner ﬂap, edge ﬂap, 
+                                         or middle ﬂap.
+                                             This relationship doesn’t depend on whether the base was 
+                                         constructed from tiles; it doesn’t depend on whether the base 
+                                         is a uniaxial base. It is a property of any ﬂap that comes to a 
+                                         point in any origami model whatsoever. This relationship gives 
+                                         us a new set of tools for designing origami bases that permits 
+                                         a more direct approach than the assembly of preexisting tiles; 
+                                         we can represent each ﬂap by a circle and work from the pat-
+                                         tern of circles directly.
+
+     294
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

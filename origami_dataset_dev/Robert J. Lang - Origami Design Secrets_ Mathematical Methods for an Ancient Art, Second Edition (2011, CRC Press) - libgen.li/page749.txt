@@ -1,0 +1,59 @@
+             Marshall Bern and Barry Hayes, “On the complexity of ﬂat origami,” 
+             Proceedings of the 7th ACM-SIAM Symposium on Discrete Algorithms, 
+             Atlanta, Georgia, 1996, pp. 175–183.
+
+             Marshall Bern, Erik Demaine, David Eppstein, and Barry Hayes, 
+             “A disk-packing algorithm for an origami magic trick,” in Origami3, 
+             op. cit., pp. 17–28.
+
+             Marshall Bern, Erik Demaine, David Eppstein, and Barry Hayes, “A 
+             disk–packing algorithm for an origami magic trick,” Proceedings of 
+             the International Conference on Fun with Algorithms, Isola d’Elba, 
+             Italy, June 1998, pp. 32–42.
+
+             Therese C. Biedl, Erik D. Demaine, Martin L. Demaine, Anna Lubiw, 
+             and Godfried T. Toussaint, “Hiding disks in folded polygons,” Proceed-
+             ings of the 10th Canadian Conference on Computational Geometry, 
+             Montreal, Quebec, Canada, August 1998.
+
+             Chandler Davis, “The set of non-linearity of a convex piecewise-linear 
+             function,” Scripta Mathematica, vol. 24, 1959, pp. 219–228.
+
+             Erik D. Demaine and Martin L. Demaine, “Folding and unfolding 
+             linkages, paper, and polyhedra,” Proceedings of the Japan Conference 
+             on Discrete and Computational Geometry: Lecture Notes in Computer 
+             Science, Tokyo, Japan, November 2000.
+
+             Erik D. Demaine, Martin L. Demaine, “Planar drawings of origami 
+             polyhedra,” Proceedings of the 6th Symposium on Graph Drawing, 
+             Lecture Notes in Computer Science, volume 1547, Montreal, Quebec, 
+             Canada, August 1998, pp. 438–440.
+
+             Erik D. Demaine, Martin L. Demaine, and Anna Lubiw, “The CCCG 
+             2001 Logo,” Proceedings of the 13th Canadian Conference on Com-
+             putational Geometry, Waterloo, Ontario, Canada, August 2001, pp. 
+             iv–v.
+
+             Erik D. Demaine and Joseph S. B. Mitchell, “Reaching folded states 
+             of a rectangular piece of paper,” Proceedings of the 13th Canadian 
+             Conference on Computational Geometry, Waterloo, Ontario, Canada, 
+             August 2001, pp. 73–75.
+
+             Erik D. Demaine, Martin L. Demaine, and Joseph S. B. Mitchell, 
+             “Folding ﬂat silhouettes and wrapping polyhedral packages: new 
+             results in computational origami,” Computational Geometry: Theory 
+             and Applications, 16 1, : 3–21, 2000. Preliminary versions in Pro-
+             ceedings of the 15th Annual ACM Symposium on Computational 
+             Geometry 1999, 105–114 and Proceedings of the 3rd CGC Workshop 
+             on Computational Geometry 1998.
+
+             Erik D. Demaine, “Folding and unfolding linkages, paper, and poly-
+             hedra,” Revised Papers from the Japan Conference on Discrete and 
+             Computational Geometry JCDCG 2000,, edited by Jin Akiyama, Mikio 
+             Kano, and Masatsugu Urabe, Lecture Notes in Computer Science, 
+             volume 2098, Tokyo, Japan, November 2000, pp. 113–124.
+
+
+                                                                                                                 737
+                                                                                        References
+© 2012 by Taylor & Francis Group, LLC

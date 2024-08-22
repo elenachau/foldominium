@@ -1,0 +1,56 @@
+However, we can force nodes to lie on
+the edge of the paper, thereby turning the             2        1        3
+associated flaps into edge flaps, by
+setting conditions on them. Select all the     1
+nodes, either by shift-clicking on each in
+turn, or by choosing the Select All     4                                 1
+command from the  Edit menu. Then                        1        2
+select the Node fixed to edge command                    1.000     1.000
+from the Condition menu, which applies
+                                                 3
+this condition to each node in the      1         1.000                     8
+selection, as shown in figure 3.3.5.
+                                                                   7
+                                                                    1.000
+Re-run the optimizer. (Because of a quirk                   1
+                                                 4
+in the optimization code, you may have                                     1
+to re-run it several times sequentially to 5      1.000
+force convergence.) When you do, you                     5        6
+                                                1         1.000    1.000
+will find that all the nodes now lie on the
+edge of the paper, essentially forming                  6        1        7
+one giant polygon. Select Build Polys
+and Creases from the Action menu and
+Creases Only from the View menu. This                  3.3.5
+pattern results in the crease pattern
+shown in figure 3.3.6.
+
+Ease of collapsing the crease pattern into
+a base is a good reason to force flaps to
+be edge flaps; another good reason is the
+number of layers. For a given width flap,
+edge flaps have only half the number of
+layers of middle flaps, and so if a flap is
+to be folded further, it may be desirable
+to make it be an edge flap to it will be
+easier to fold.
+
+Another reason to make a flap be an edge
+flap is for color-changing. The bases
+produced by TreeMaker are inherently
+single-color. If you are making a model
+that exploits the colors of both sides of
+the paper — a bald eagle, for example,
+which would have white head, tail, and
+feet — then you will need to make sure
+that the flaps to be color-changed are
+edge flaps, so that they may be turned                 3.3.6
+inside-out around the raw edges of the
+flap. (It is extremely difficult to turn a middle flap inside-out!) Of course, color-changing
+individual flaps is only the most rudimentary way of exploiting two-tone models and is
+insufficient for models with stripes or spots, for example. For zebras, tigers, and giraffes, you’ll
+have to use different techniques than those found in TreeMaker.
+
+
+                                  50

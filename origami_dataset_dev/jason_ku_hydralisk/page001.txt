@@ -1,0 +1,17 @@
+             Hydralisk 2.5 by Jason Ku
+                         Original CP: Jason Ku - http://scripts.mit.edu/~jasonku
+                      Instructions: Gerwin Sturm - http://www.origamiaustria.at
+
+ The original CP by Jason Ku can be found here:
+ http://scripts.mit.edu/~jasonku/index.php?id=2004&model=hydralisk1
+
+ The underlying structure to this model is the following box pleated CP based on 32x32 grid. So you
+ will start with precreasing the 32x32 grid.
+ With the colour side up, the outermost creases would be mountain folds and then alternating valley-
+ mountain-valley-etc.
+ With the grid done add the necessary diagonals (black) as shown in the CP below. The red creases,
+ while not necessary for collapsing the base CP, will help you a lot later on, so add them as well.
+
+
+Note: Disregard the colour differences in the different photos. Some of them turned out better with
+flash and some turned out better without.

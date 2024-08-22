@@ -1,0 +1,53 @@
+                                         world over to fold from them; a Japanese or Russian folder can 
+                                         fold from English diagrams and vice-versa). Nevertheless, many 
+                                         people ﬁnd folding instructions more readily comprehensible 
+                                         with a verbal instruction attached, and so in the instructions in 
+                                         this book, you will ﬁnd both words and pictures.
+                                             Origami verbal instructions are given as if the paper were 
+                                         ﬂat on the page before you. Thus, words that say “fold the ﬂap 
+                                         upward” mean that if you orient the working model the same 
+                                         way as the diagram on the page, you will fold the ﬂap toward 
+                                         the top of the page. “Up,” “down,” and “to the side” all refer to 
+                                         directions with respect to the printed page. While directions 
+                                         are always given as if the paper were ﬂat on the page, you may 
+                                         ﬁnd it easier to pick the model up, fold in midair, or even turn 
+                                         it over to make the fold (mountain folds are commonly made 
+                                         by turning the paper over and forming a valley fold). If you do 
+                                         this, be sure that you always return it to the orientation shown 
+                                         in the next diagram.
+                                             As the folded model begins to accumulate multiple layers 
+                                         of paper, it becomes necessary to distinguish among the layers. 
+                                         By convention, the term “near” refers to the layers closest to 
+                                         you (i.e., those on top) and “far” layers are those on the bottom 
+                                         (thus, reserving the words “top” and “bottom” for directions 
+                                         with respect to the page).
+                                             Origami paper typically has a white side and a colored 
+                                         side. The two colors are featured in some models—there are 
+                                         origami skunks, pandas, and even zebras and chessboards 
+                                         whose coloration derives from skillful usage of the two sides of 
+                                         the paper. Even if only one side is visible at the end, it is help-
+                                         ful in keeping track of what’s going on to show the two sides as 
+                                         distinct colors, and that is what I have done here.
+
+
+                     Colored side                            Top
+              White side
+                                                                                         Tip
+                                      Folded      Near                  Far
+                                      edge        layer                 layer
+
+              Horizontal                Raw                                                   Spine
+                 crease                 edge         Left              Right
+
+              Vertical
+               crease                                                         Open
+                                     Corner                                    side
+
+                                                            Bottom
+
+                                         Figure 2.3. 
+                                         Verbal terms that apply to origami diagrams.
+
+      14
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

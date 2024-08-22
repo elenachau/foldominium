@@ -1,0 +1,32 @@
+                                                                               Figure 14.51. 
+                                                                               A quadrilateral molecule with 
+                                                                               axis-parallel contours around 
+                                                                               its edges and its interior circle. 
+                                                                               Can we make the contours line 
+                                                                               up when they reﬂect across the 
+                                                                               ridge creases?
+
+
+                                                                               Figure 14.52. 
+                                                                               Three contours extended inward 
+                                                                               from the bottom and propagated 
+                                                                               across the polygon. The highlight-
+                                                                               ed intersection shows an out-of-
+                                                                               place axial contour that will force 
+                                                                               a fractional-width ﬂap.
+
+             quadrilateral that we use if it is to be packed on all four sides. 
+             One strategy is to narrow the range to quadrilaterals with 
+             two right angles or, equivalently, symmetric trapezoids. An 
+             example of each is shown in Figure 14.53, and in these quads, 
+             the contours do indeed all line up the way we want.
+
+
+             Figure 14.53. 
+             Left: a quadrilateral with two adjacent right angles and all integer 
+             sides allows its contours to connect up neatly across the polygon. 
+             Right: a symmetric trapezoid works similarly.
+
+                                                                                                                 673
+                                                                       Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,54 @@
+                                                     Four-circle quadrilateral (page 355): a quadrilateral formed by connect-
+                                                     ing the centers of four pairwise tangent circles; such a quadrilateral can be 
+                                                     folded so that all edges lie on a line and the tangent points between pairs 
+                                                     of circles touch.
+                                                     Frog Base (page 54): one of the Classic Bases, formed by squash- and petal-
+                                                     folding the four edges of a Preliminary Fold.
+
+                                                     G
+                                                     Gadget (page 629): a localized patch of crease pattern that can be substituted 
+                                                     for an existing patch to add functionality or otherwise modify the pattern. 
+                                                     Level shifters are examples of gadgets.
+                                                     Generic form (page 253): a crease pattern within a molecule or group of 
+                                                     molecules in which (a) all axial creases are shown as valley creases; (b) all 
+                                                     ridge creases are shown as mountain creases; and (c) all hinge creases are 
+                                                     shown as unfolded creases. The generic form is an approximation of the actual 
+                                                     crease pattern of a folded base.
+                                                     Grafting (page 135): modifying a crease pattern as if you had spliced into it 
+                                                     a strip or strips of paper in order to add new features to an existing base.
+                                                     Grafted Kite Base (page 708): a family of bases composed by adding a 
+                                                     border graft to two sides of a Kite Base.
+                                                     Gusset (page 32): one or more narrow triangles of paper, usually formed by 
+                                                     stretching a pleat or crimp. Used in quadrilateral molecules and Pythagorean 
+                                                     stretches.
+                                                     Gusset molecule (page 361): a crease pattern within a quadrilateral 
+                                                     that resembles a partially stretched Waterbomb molecule with a gusset 
+                                                     running across its top. The gusset molecule, like the arrowhead molecule, 
+                                                     allows any four-circle quadrilateral to be collapsed while aligning the 
+                                                     tangent points.
+                                                     Gusset sliver (page 646): a gusset crease closely spaced with an axis-parallel 
+                                                     fold, resulting in a structure difﬁcult to fold.
+
+                                                     H
+                                                     Hex pleating (page 659): a form of polygon packing in which the major 
+                                                     creases run at multiples of 30° relative to one another.
+                                                     Hinge (page 244): a joint between two ﬂaps.
+                                                     Hinge creases (page 348): creases that in a uniaxial base are perpendicu-
+                                                     lar to the axis. Hinge creases deﬁne the boundaries of ﬂaps or segments of 
+                                                     a base.
+                                                     Hinge polygons (page 349): polygons that turn into discrete ﬂaps within 
+                                                     a uniaxial base. Hinge polygons are the fundamental elements of polygon 
+                                                     packing methods of design, and a hinge polygon represents the exact region 
+                                                     of paper taken up by a particular leaf ﬂap.
+                                                     Hinge rivers (page 572): polygonal rivers that are packed along with hinge 
+                                                     polygons in polygon-packed designs. A hinge rivers represents the exact region 
+                                                     of paper taken up by a particular branch ﬂap.
+                                                     Hybrid base (page 699): a base that is constructed using multiple design 
+                                                     techniques.
+                                                     Hybrid reverse fold (page 24): a more complicated form of reverse fold 
+                                                     that combines aspects of both inside and outside reverse folds.
+
+
+       746
+                              Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,23 @@
+If you need a division like 9 (=3*3) or 15 = (3*5) or similar, you can either use one of the methods at
+http://www.origami.gr.jp/People/CAGE_/divide/index-e.html to give you this division directly or (f.e.
+if you don’t have the tables for the methods at hand) use a recursive approach with the methods you
+already know. I’ll give you an example of this with a 9 x 9 grid.
+
+
+First divide the paper into thirds with the method from before.
+Then focus on the top right square.
+
+
+You can use the exactly same method as before to divide
+this small square into thirds as well.
+
+
+With the reference lines you now have, you can easily
+fold the rest of the 9 x 9 grid.
+
+
+Now that you have the finished grid you have all the reference points you need to fold the diagonals
+shown in the CP. I usually make the diagonals as valley folds on the white side (mountain folds on the
+coloured side). But since you will need them both ways you can fold them any way you like.
+
+With all the creases made we can now start the long and tedious collapsing process.

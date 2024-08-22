@@ -1,0 +1,79 @@
+          www.nature.com/scientificreports/
+
+
+                                                        ◦
+                                     W  = 1.2 mm , γ = 52  ) is most likely to produce a single unit Miura-ori with axial stifness k < 6000 N/m . 
+                                      Te algorithm comes to this conclusion because the feature design values match the rule: tc < 0.8 mm , and 
+                                     tp < 2.1 mm . As such, each branch associated with Class 1 in the decision tree gives a design rule that would 
+                                      produce an origami design that meets the target performance. Tis highly interpretable structure of a tree method 
+                                      is useful for inverse design because the inverse relationship (i.e. f −1 ) shows how to pick features based on the 
+                                      target performance. Moreover, we use randomly selected sub-datasets to train diferent decision trees to create 
+                                      more potential design rules. Training multiple decision trees forms an ensemble version of the tree method called 
+                                      a random forest. Te structure of the trees, the splitting criteria, and the leaf node predictions are learned by 
+                                      the machine learning algorithm during the training process using a machine learning package called sklearn 37. 
+                                      Afer training multiple decision trees, we gather all the design rules by tracing back through the tree branches 
+                                      (Fig. 2d). For example, Rule 1 and Rule 2 gathered in Fig. 2d are correlated to the two diferent branches in the 
+                                      sample tree (gray arrows in Fig. 2c).
+                                        Although these decision trees are automatically learned by the machine learning method, there are other 
+                                      manually specifed variables that control how decision trees are computed. Tese user-specifed variables are 
+                                      referred to as hyperparameters in machine learning and a technique called grid search is usually performed to 
+                                      select these hyperparameters. Diferent combinations of the hyperparameters are used to train the machine learn-
+                                      ing algorithms and the best combination is selected. Te hyperparameters considered in this work includes: (i) 
+                                      the maximum depth of the trees, (ii) the number of tree learners in the forest, (iii) the cost-complexity pruning 
+                                      alpha value, (iv) the splitting criterion, and (v) the sub-dataset ratio for training diferent decision trees. Details 
+                                      on the considered hyperparameters and the grid search are provided in the Supplementary Materials Section S3.3.
+                                        Now that we have collected a number of potential design rules, we need to select those that provide better per-
+                                      formance for the inverse design problem. More specifcally, a better design rule needs to have a higher precision 
+                                      value and a higher recall value, where a high precision means that the rule is accurate, and a high recall means that 
+                                      the rule is representative (see the method section for details). In this work, we use the following routine to select 
+                                      design rules with better performance. Te rules need to satisfy two thresholds and they are: (1) the precision is 
+                                      greater than 0.9, and (2) the number of data points satisfying the rule is greater than 10. Rules that do not satisfy 
+                                      these thresholds are eliminated from further consideration. Next, we rank the rules using the F-score function 38:
+
+                                                                              2      precision · recall
+                                                                   Fβ =  1 + β
+                                                                                 β2 · precision + recall 
+                                                                              
+                                        Tis F-score function creates an average score from both the precision and the recall value, where the recall 
+                                      is seen as β times more signifcant than the precision value. In this work, we select a value of β = 0.2 because the 
+                                      precision is more important for an inverse design problem, where the goal is to fnd “some designs” that meet 
+                                      the target performance not “all designs” that meet the target performance. Finally, we select the rules with the 
+                                      highest F-scores for our origami design and Fig. 2f shows the selected rule for this demonstration example. Te 
+                                      shaded (darker) region of the box chart indicates the computed range of the four design variables and the design 
+                                                                                      ◦
+                                      rule is tc < 0.78 mm , tp < 2.2 mm , W ≥ 1.9 mm , γ ≥ 67 .
+                                        Although we managed to fnd a rule that performs well in the training dataset with a precision of 1.0, we need 
+                                      to further test the rule to verify that it is indeed a good rule. Te testing is conducted by computing the precision 
+                                      of the rule using another testing dataset that is not used for training the machine learning method. Tis process is 
+                                      usually referred to as the hold-out testing in machine learning. Basically, the training data are homework problems 
+                                      for the machine learning algorithm and the testing data is the fnal exam. Details of the hold-out testing setup 
+                                      can be found in the Supplementary Materials Section S3.3. In this demonstration example, a testing precision of 
+                                      0.86 is obtained, which is reasonably good for an unbalanced dataset like the one for the single unit Miura cells, 
+                                      where the target data only consists of 7% of the total dataset.
+                                        Once good design rules are obtained and their quality is confrmed through testing, a designer can directly 
+                                      use these rules to design a suitable origami structure. Figure 2f presents one sample design that satisfes the rules 
+                                                                                                          ◦
+                                      and has the following features: tc = 0.70 mm , tp = 1.5 mm , W = 2.5 mm , γ = 70  . Tis design has an axial stif-
+                                      ness k = 5702 N/m , which indeed meets the target performance.
+
+                                      Comparing diferent origami patterns.     It is difcult to inverse design functional origami considering 
+                                      multiple origami patterns because categorical features are needed to represent and compare these diferent pat-
+                                      terns. Categorical features including the type of origami pattern, the number of unit cells, and the topological 
+                                      design of each pattern, cannot be implemented directly into common continuous optimization-based inverse 
+                                      design  methods14,15. Capturing and comparing diferent patterns is essential because diferent origami produce 
+                                      intrinsically diferent motions and functional performances. To address this challenge, this section shows that 
+                                      the decision tree-random forest method can handle the complex interaction between categorical and continuous 
+                                      variables, which allows the method to compare and select between diferent origami patterns.
+                                        Here, we study a design problem for origami metasheets shown in Fig. 3a. Tese origami metasheets are 
+                                      cut out from a thin square plate with a footprint of 0.2 m × 0.2 m and can be built from two distinctly difer-
+                                      ent origami patterns including the standard Miura-ori pattern (Pattern 1) and the Tachi-Miura Polyhedron 
+                                      (TMP)30 (Pattern 2). To represent these two patterns, we introduce an integer (binary) variable p ={1, 2} . In 
+                                      addition, these origami metasheets can have diferent numbers of unit cells, represented as m ={24, 30, 36} and 
+                                     n ={6, 9, 12} , in the two directions. In addition to these three categorical features, three continuous design fea-
+                                      tures are also used in this problem, and they are the thickness of panels (1.0 mm < tp < 6.0 mm ), the thickness 
+                                      of creases ( 0.5 mm < tc < 1.0 mm ), and the width of creases (1.0 mm < W < 4.0 mm ). An origami database of 
+                                      2000 Miura origami samples and 2000 TMP origami samples is populated by randomly sampling values of the 
+                                      other design features. Te origami simulation package SWOMPS is used to calculate the stifness performance of 
+
+          Scientifc Reports |        (2022) 12:19277  | https://doi.org/10.1038/s41598-022-23875-6                                 4
+  Vol:.(1234567890)

@@ -1,0 +1,49 @@
+                                         types of ﬂaps are named for the point where the tip of the ﬂap 
+                                         falls on the square. A corner ﬂap has its tip come from a cor-
+                                         ner of the square, an edge ﬂap has its tip lie somewhere along 
+                                         an edge, and a middle ﬂap, as you would expect, comes from 
+                                         the middle of the paper. For example, the four large ﬂaps on 
+                                         a Frog Base are corner ﬂaps; the four stubby ﬂaps are edge 
+                                         ﬂaps; and the thick ﬂap at the top is a middle ﬂap. All three 
+                                         are illustrated in Figure 9.1.
+
+                                                                        middle flap
+
+
+                                                                          edge
+                                                                          flap
+
+            Figure 9.1. 
+            Flaps in the base have their tips 
+            at unique points in the crease 
+            pattern.                                                     corner flap
+
+                                             Paper, like people, can only be in one place at a time. 
+                                         Paper that goes into one ﬂap can’t be used for another. There-
+                                         fore, every time you create a ﬂap from the square, a portion of 
+                                         the paper gets consumed by that ﬂap. The reason to make a 
+                                         distinction between the three different types of ﬂaps—corner, 
+                                         edge, middle—is that for the same length ﬂap, each of the three 
+                                         types of ﬂaps consumes a different amount of paper.
+                                             One way to see this difference is to fold corner, edge, 
+                                         and middle ﬂaps of exactly the same size from three different 
+                                         squares. Figure 9.2 shows the folding of a corner ﬂap. If you 
+                                         imagine (or fold) a boundary across the base of the ﬂap, then 
+                                         that boundary divides the paper into two regions: The paper 
+                                         above the boundary is part of the ﬂap, and the paper below the 
+                                         boundary is everything else. The paper that goes into the ﬂap 
+                                         is for all intents and purposes consumed by the ﬂap; any other 
+                                         ﬂaps must come from the rest of the square.
+                                             So, as Figure 9.2 shows, if you fold a ﬂap of length L from 
+                                         a square so that the tip of the ﬂap comes from the corner of 
+                                         the square, when you unfold the paper to the original square, 
+                                         you see that the region of the square that went into the ﬂap 
+                                         is roughly a quarter of a circle; precisely, it’s a quarter of an 
+                                         octagon. Suppose we made the ﬂap half the width, as shown 
+                                         in Figure 9.3, before we unfolded it; then the ﬂap becomes a 
+                                         quarter of a hexadecagon. If we kept making the ﬂap thinner 
+                                         and thinner (using inﬁnitely thin paper!), the boundary of the 
+
+     292
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

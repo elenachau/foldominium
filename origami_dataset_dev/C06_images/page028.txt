@@ -1,0 +1,33 @@
+   Conﬁguration space of a ﬂat-foldable, deg 4 vertex
+
+  What does the conﬁguration space look like? 
+   
+
+       e2
+                             ρ1                        ρ1
+     e
+     3  α  π  β     ρ2
+mode  1:    −
+                 e1                              mode 2
+        β            ρ3
+           π α
+            −
+      e4
+                      ρ4                                     mode 1
+       e2
+                                                                 ρ2
+                    ρ3
+     e
+     3  α  π  β             ρ1
+mode  2:    −
+                 e1
+        β           ρ2
+           π α
+            −
+      e4
+                      ρ4
+   
+  Note: (1) The ﬂat state                 is a singularity (or a branch point) of the 
+  conﬁguration space manifold.  This means that folding from the ﬂat state is 
+  harder than unfolding to the ﬂat state.  :-) 
+            (2)  The conﬁg space is symmetric about the origin (reversing MVs). 

@@ -1,0 +1,49 @@
+                                         into the model—the prospect of starting over from scratch can 
+                                         be downright depressing.
+                                             Now, if it were allowed, one might be tempted to simply 
+                                         glue on a bit of extra paper, just as in the previous chapter the 
+                                         obvious solution to splitting a point was to cut it in two. But 
+                                         just as we found ways to achieve the same result as cutting 
+                                         while preserving one-piece, no-cut folding, it turns out that it 
+                                         is quite often possible to achieve the same result as gluing—to 
+                                         add a bit of paper to a particular location without redesigning 
+                                         the entire model—while preserving the square that we started 
+                                         from. This process is remarkably versatile: It can transform a 
+                                         run-of-the-mill design into something special or even extraordi-
+                                         nary and has been utilized by many of the world’s top origami 
+                                         designers. I call it grafting.
+
+                                         6.1. Border Grafts
+                                         For a concrete example of grafting, let’s consider our old 
+                                         standby, the Bird Base, which lends itself very well to perching 
+                                         birds. The Bird Base has four long ﬂaps, which can be used for 
+                                         a head, tail, and two legs. The simplest bird I know of that can 
+                                         be folded from the Bird Base is a traditional design, the Crow: 
+                                         Narrow two ﬂaps to make legs, then reverse-fold one ﬂap and 
+                                         crimp the two narrowed ﬂaps to create a head, legs, and feet, 
+                                         as shown in Figure 6.1.
+                                             Now, as origami designers have done for decades, you 
+                                         can use the Bird Base to realize a wide variety of perching 
+                                         birds, so long as you don’t need open wings, by using this basic 
+                                         design. By adding more folds—extra reverse folds, crimps, 
+                                         rounding folds—it’s possible to make many distinct and recog-
+                                         nizable species with suggestions of wings, feathers, and even 
+                                         eyes and other features.
+                                             But one thing that most of these origami birds have in 
+                                         common is that the foot is represented by a single toe, and 
+                                         real birds, of course, have four toes. This simpliﬁcation is not 
+                                         intrinsically bad; all origami is somewhat abstract, and in the 
+                                         overall design of a model, there should be a balance in the level 
+                                         of abstraction. A simple, clean-lined model can succeed perfectly 
+                                         well with simpliﬁed feet.
+                                             It must be said, however, that a distinctive feature of many 
+                                         birds is their splayed feet, whether standing on the ground or 
+                                         grasping a branch or twig. There are occasions when it would 
+                                         be quite desirable to have full, four-toed feet on a perching 
+                                         bird design.
+                                             One approach, of course, would simply be to turn the 
+                                         foot ﬂap into four ﬂaps using the point-splitting techniques of 
+
+     130
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

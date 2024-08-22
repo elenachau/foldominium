@@ -1,0 +1,50 @@
+            cal signiﬁcance. While there are mathematical proofs that the 
+            patterns shown in Figures 9.29 and 9.30 for N = 1 through 9 are 
+            the most efﬁcient possible, the most efﬁcient packing for N = 10 
+            has been the source of some controversy. Not until 1997 was the 
+            most efﬁcient packing known. Over a 25-year span, ﬁve different 
+            circle packings for N = 10 were found, each more efﬁcient than 
+            the previous (although the lengths of the ﬂaps in each solution 
+            are all within 1% of one another). In each case, the discoverer 
+            conjectured that he had found the most efﬁcient arrangement 
+            possible; in the case of all but the last, a more efﬁcient solution 
+            was subsequently found. The most recent solution, discovered 
+            in 1990 by the mathematicians Mollard and Payan, gives a 
+            ﬂap length of 0.2106+; it was proven optimal by the Dutch 
+            mathematician Hans Melissen in 1997. The ﬁve solutions and 
+            their lines of symmetry are given in Figure 9.41.
+                I ﬁnd it remarkable that such a simple answer to the most 
+            efﬁcient packing of ten circles into a square should be so elusive. 
+            And if there is so much room for variation in the circle packing 
+            for this one particular origami base, think of the possibilities 
+            for arbitrary origami structures.
+
+            9.11. The Napkin Folding Problem
+
+            We now have the machinery to design bases with any number of 
+            ﬂaps. We also have the tools to solve an interesting mathematics 
+            problem that circulated among mathematicians in the mid-1990s, 
+            called, at the time, the Margulis Napkin Problem for Russian 
+            mathematician Grigory Margulis (although it seems to have in 
+            fact been coined by a different Russian mathematician, Vladimir 
+            Arnold). The problem was posed as a request for a proof:
+
+                Prove that no matter how one folds a square napkin, 
+                the ﬂattened shape can never have a perimeter that 
+                exceeds the perimeter of the original square.
+
+                That is, if you start with a square 1 unit on each side, prove that 
+            you can’t fold a shape whose perimeter is greater than 4 units.
+                The somewhat surprising fact is that the assertion isn’t true—it 
+            is indeed possible to fold a shape with a perimeter greater than 4. 
+            Figure 9.42 shows the folding sequence for a shape whose perimeter is 
+            slightly greater than 4 units—4.120 units, to be exact. Remarkably, a 
+            counterexample to this recent mathematical conjecture can be made 
+            from a 200-year-old shape: the venerable Bird Base.
+                A closer examination of this shape, coupled with our under-
+            standing of circle-method origami design, reveals how this can be 
+            accomplished.
+
+                                                                                                     329
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

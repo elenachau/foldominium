@@ -1,0 +1,19 @@
+                                       4.4.1
+
+A node is always identified by an index (node 1 in this example). The fields of the Node Editor
+are:
+
+x= ___, y= ___ — the coordinates of the node
+
+label — an optional label for the node, which you may use any way you wish
+
+The large list (empty in the example), the popup menu labeled “Add…”, and the two buttons
+titled “Remove” and “Remove All” are used to place conditions on the node. See Edit
+Conditions… command, Conditions menu, for a description of these tools (which work the
+same in every dialog in which they appear).
+
+If you click on the disclosure triangle at the lower left corner of the dialog, it toggles between a
+standard dialog and an Expert Mode dialog shown in figure 4.4.2.
+
+
+                                  72

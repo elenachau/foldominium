@@ -1,0 +1,49 @@
+                                         and s2 of the enclosing rectangle. All of the dimensions of the 
+                                         gusset folds and ridge vertices follow from there. But I draw 
+                                         your attention to the distance marked t in Figure 14.16, which 
+                                         is the distance from the side of the enclosing rectangle (which is 
+                                         on gridlines) to the peak vertex of a ridge crease, whose value 
+                                         is given by Equation (14–1). This distance is either integral 
+
+                                         or half-integral, depending on the value of the expression s1 + 
+
+                                         s2 – d (even = integral, odd = half-integral).
+                                             If the distance is half-integral, then that ridge crease ver-
+                                         tex will not fall on a grid point, and that, in turn, implies that 
+                                         somewhere between the two opposite corners of this gadget, 
+                                         there must be two axis-parallel creases one unit apart; and 
+                                         this, in turn, implies that we would have implicitly introduced 
+                                         at least one half-integral axis-parallel crease. This, in itself, 
+                                         would not be so bad, except for the fact that once we’ve intro-
+                                         duced one half-integral fold somewhere, it can rattle around 
+                                         for quite a while in the crease pattern as it bounces off of ridge 
+                                         creases, halving ﬂap widths where we really don’t want them 
+                                         to be halved.
+                                             Figure 14.21 shows two similar stretches. Both ﬁt two r = 
+                                         5 circles together, so the minimum distance between the two 
+                                         circle centers is d = 10. On the left with circle A, we ﬁt them 
+
+                                         into a 9 × 6 rectangle with s1 + s2 – d = 5, which is odd. On the 
+
+                                         right with circle B, we ﬁt them into a 9 × 7 rectangle with s1 + 
+
+                                         s2 – d = 6, which is even. And indeed, the one on the left creates 
+                                         a level conﬂict if we strive for alternating elevations, whereas 
+                                         the one on the right works just ﬁne with alternating elevations 
+                                         from one axial crease to the next.
+
+
+                                            !
+                                                                                            B
+                                               A
+
+            Figure 14.21. 
+                                            s = 6                                                                                        s = 7
+            Two Pythagorean stretches        2                                              2
+            for minimum separation of 10 
+            units. Left: a 9 × 6 rectangle. 
+            Right: a 9 × 7 rectangle.                      s1 = 9              s1 = 9
+
+     644
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

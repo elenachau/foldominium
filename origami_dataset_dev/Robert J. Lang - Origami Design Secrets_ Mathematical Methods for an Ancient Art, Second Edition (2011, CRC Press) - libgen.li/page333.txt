@@ -1,0 +1,49 @@
+            will be mountain folds; all of the colored creases will be valley 
+            folds; and the light creases will go in either direction, depend-
+            ing on how you choose to orient the ﬂaps.
+                It is also instructive to note what kind of ﬂap—corner, 
+            edge, or middle—you get with each base. The distribution of 
+            ﬂaps is enumerated in Table 9.1.
+
+
+                                 Corner  Edge   Middle 
+                                 Flaps   Flaps  Flaps
+                            1       1
+                            2       2
+                            3       1       2
+                            4       4
+                            5       4              1
+                            6       2       3      1
+                                                                        Table 9.1. 
+                            7       2       4      1                    Numbers of corner ﬂaps, edge 
+                            8       4              4                    ﬂaps, and middle ﬂaps in optimal 
+                            9       4       4      1                    circle-packed bases.
+
+                Given the inefﬁciency of middle ﬂaps versus edge ﬂaps—
+            remember, a middle ﬂap takes four times as much paper as 
+            a corner ﬂap of the same length—it is somewhat surprising 
+            to ﬁnd that for as few as ﬁve ﬂaps, it is more efﬁcient to use 
+            a middle ﬂap than to create another edge ﬂap. For only three 
+            ﬂaps, one corner ﬂap and two edge ﬂaps are preferable to all 
+            three corner ﬂaps.
+                Since these patterns give the most efﬁcient bases for the 
+            desired number of ﬂaps, it is not surprising that several of 
+            them have been in existence for hundreds of years. The pat-
+            terns for one, two, four, and ﬁve ﬂaps correspond to four of the 
+            traditional bases—the Kite, Fish, Waterbomb, and Bird Bases, 
+            respectively (where the top of the Bird Base forms a ﬁfth ﬂap). 
+            The ﬁrst three bases have all of their ﬂaps on the corner; the 
+            last has one middle ﬂap.
+                What is surprising, though, is that several of these circle 
+            patterns correspond to bases that have not yet been published 
+            in the origami literature! Speciﬁcally, I am aware of no pub-
+            lished design based on the symmetry of the patterns for N = 
+            3, 6, 7, and 8. I ﬁnd this remarkable because there are quite 
+            a few models that require three, six, seven, or eight ﬂaps, and 
+            these patterns correspond to the most efﬁcient structures for 
+            getting each number of ﬂaps. It is illuminating to examine each 
+            of these crease patterns in more detail.
+
+                                                                                                     321
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

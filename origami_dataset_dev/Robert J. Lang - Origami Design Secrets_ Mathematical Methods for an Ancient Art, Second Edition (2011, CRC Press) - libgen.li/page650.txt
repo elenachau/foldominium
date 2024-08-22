@@ -1,0 +1,43 @@
+                                         centers for the central circle. If we draw a circle around the 
+                                         lower circle whose radius is the sum of the radii of both circles, 
+                                         then any grid point lying on or outside of this larger circle would 
+                                         be acceptable. This larger circle deﬁnes a “zone of acceptability” 
+                                         for the center of the second circle; each grid point within this 
+                                         zone (on or outside of the larger circle) could be a circle center. 
+                                         These points are shown in green in Figure 14.14.
+
+
+                                         potentialpotential
+                                         closercloser
+                                         circlecircle
+                                         centerscenters
+
+            Figure 14.14. 
+            Circle centers for overlapping zonezone of of
+            squares.                     acceptabilityacceptability
+
+                                             Now, clearly, if we’re violating the rules of spacing for box 
+                                         pleating, something has to be different in the crease pattern, 
+                                         and as we will see, we will lose the property of all creases run-
+                                         ning along gridlines or at multiples of 45°. But we can still ﬁnd 
+                                         creases that give distinct ﬂaps of the right shape. The two circles 
+                                         lie at diagonally opposite corners of a rectangle, and we can use 
+                                         the gusset quad molecule to ﬁnd the ridge creases that go into 
+                                         this rectangle. Those creases are shown in Figure 14.15.
+                                             So we can still generate creases that deﬁne the two poly-
+                                         gons around each circle, and while there is a bit of irregular-
+                                         ity in the crease angles, observe that several of the vertices of 
+                                         the new creases still fall on grid points. In fact, the only two 
+                                         vertices that don’t necessarily fall on grid points are the two 
+                                         extreme corners of the gusset—and even these lie on diagonal 
+                                         lines. We can solve analytically for the positions of these two 
+                                         vertices, given the other dimensions of the surrounding ﬁgures, 
+                                         as shown in Figure 14.16.
+                                             The pattern contains two recognizable rectangles; the 
+
+                                         outer rectangle (with sides s1 and s2) is the bounding box of the 
+                                         two circle centers, and this rectangle has its corners on the grid. 
+
+     638
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

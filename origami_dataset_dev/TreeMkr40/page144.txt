@@ -1,0 +1,61 @@
+    6.2  Definitions and Notation
+
+                                             ∈ n        n
+ Define U to be the set of all node coordinates ui, i I , where I  is a set of node indices:
+  n =
+ I  {1. . n n } . Each node ui has coordinate variables ui,x and ui,y.
+
+                                 ∈ e        e                     e =
+ Define E to be the set of all edges ei , i I , where I  is a set of edge indices I {1. . n e } . Each
+                               ∈                                    σ
+ edge contains exactly two nodes ni ,nj ek . Each edge ei  has a length li  and a strain i .
+
+ Define U t to be the set of terminal nodes, which are those nodes connected to exactly one edge.
+Define I tn  to be the set of terminal node indices. Clearly, U t ⊆ U  and I tn ⊆ I n .
+
+                                  ∈  n  ≠
+Define P to be the set of all paths, pij , i, j I , i j . Each path is identified by the indices of the
+
+nodes at each end of the path. Each path has a length, lij , which is given by the sum of the
+ strained lengths of the edges in the path; that is,
+
+                                  ≡      + σ
+                                 lij ∑(1    k )lk
+                                     ∈
+                                    e k pij
+
+        t
+ Define P  to be the set of terminal paths, which are those paths that connect two terminal nodes
+
+ Define m to be the overall scale of the tree.
+
+ Define w, h to be the width and height of the paper. The paper is a rectangle whose lower left
+ corner is the origin (0,0) and whose upper right corner is the point (w,h).
+
+   6.3   Scale Optimization
+
+The most basic optimization is the optimization of the positions of all terminal nodes and the
+scale of the design. This is equivalent to solving the problem
+
+                 {}∈     t
+minimize (–m) over m,ui U   s.t.
+
+     ≤    ≤          ∈  t
+(1) 0  ui, x w  for all ui U
+
+     ≤    ≤          ∈  t
+ (2) 0 ui, y h for all ui U
+
+        []+ σ    −      −    2+−2≤                  ∈  t
+ (3) m ∑ (1  k )lk  ()ui,x uj,x ()ui,yuj,y0 for all pij , P
+      ∈
+     ekpij
+
+    6.4  Edge Optimization
+
+ Edge optimization is used to selectively lengthen points by the same relative amount to “fill out”
+ a crease pattern. The scale m is fixed, and a subset of the the edges Es is subjected to the same
+variable strain s. A subset of the terminal nodes U s  is allowed to move. The edge optimizer
+ solves the problem:
+
+                                 144

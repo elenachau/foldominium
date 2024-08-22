@@ -1,0 +1,50 @@
+            a simple route, and in general, there may be no easy way to 
+            get to the destination: no linear sequence of small, bite-sized 
+            folds.
+                We can see this phenomenon in the circuitous twists and 
+            turns of axis-parallel contours and creases. If the paper were 
+            truly rigid, then any given axis-parallel crease would need to 
+            be folded uniformly along its length, all at once. And this is 
+            almost never possible without some distortion of the rest of 
+            the paper. In such patterns, all of the fold angles are coupled 
+            to one another in such a complex way that they cannot be 
+            separated; no one fold can be formed without affecting the 
+            others. The design cannot be reduced to a linear sequence; it 
+            exhibits irreducible complexity (in the origami sense).
+                So, how do you fold a design, given its crease pattern? 
+            You must bring most or all of the creases together at once, 
+            activating tens, or hundreds, of creases together. The key to 
+            success to such a complex endeavor is to recognize the hier-
+            archical structure of the crease pattern and the additional 
+            information that attaches to each crease: its type and eleva-
+            tion. Individual creases are not just “mountain” or “valley”; 
+            they have an identity that tells you where they must end up 
+            in the ﬁnished model. Thus, you know that all of the axial 
+            creases are going to end up collinear with one another along 
+            the axis; all of the axis+1 creases will be aligned with one an-
+            other on one side or the other of the axis. The hinge creases 
+            are perpendicular to the axis in the folded form; the ridge 
+            creases run along diagonals. Using this information, you can 
+            keep the “big picture” of the base in mind as you collapse the 
+            crease pattern into its ﬁnished form, guiding each crease to-
+            ward its end location, and discovering a valid layer ordering 
+            (one hopes) as the base approaches ﬂatness.
+                Most crease patterns, of course, do not tell you this ad-
+            ditional structural information. They only identify the crease 
+            as mountain or valley (and some don’t even do that much). 
+            When presented with a crease pattern, you can give yourself 
+            a leg up by ﬁrst examining it to see if there is some high-level 
+            structure. Is it uniaxial, or are regions of it uniaxial? If you 
+            can identify uniaxial regions, then you can trace the contours 
+            and identify hinge polygons, ridge creases, and axis-parallel 
+            contours. Armed with that knowledge, you can then more eas-
+            ily perform the collapse, because you will now have a map that 
+            tells you at least in general terms where you are headed.
+                For the models presented in this chapter, there are no 
+            simple, linear folding sequences. There are only crease pat-
+            terns and collapses. But to give you a little extra help, I have 
+            used a dual coloring scheme for the following crease patterns to 
+
+                                                                                                     681
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

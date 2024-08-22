@@ -1,0 +1,53 @@
+                                       1
+                                           3
+                                   3      5
+                                      5  3 7
+                                1      7   3   1
+                                      5 7
+                                        3 7
+                                   3
+                                          5 3
+
+                                       1                                Figure 7.25. 
+                                                                        Number of layers in each region 
+                                                                        of the efﬁcient scale tile.
+
+            must always be the case for a tile whose raw edges are aligned 
+            along the boundary of the tile. There is an enormous body of 
+            work concerning the mathematics of origami pleat tilings—far 
+            too much to go into here. For our purposes, it is sufﬁcient that 
+            the tiles can be combined into arbitrarily large areas of pat-
+            terned regions with pleats emanating from their edges.
+                Now, we can turn our attention back to the original object 
+            of study: the Koi. For this ﬁgure, it would be nice to add scales 
+            to the body, but not the head, tail, or pectoral ﬁns. So the ﬁrst 
+            thing to do is to identify which parts of the paper will be exposed 
+            in the folded model. We should divide the square up into three 
+            categories: (a) those parts of the paper that become the body 
+            (these should have the pattern exposed); (b) those parts of the 
+            paper that become the head and ﬁns (these should not have 
+            the pattern exposed); and (c) those parts of the paper that are 
+            hidden by other layers (these may or may not get the pattern, 
+            depending on how we are constrained by the pattern we choose). 
+            Obviously, it’s fairly wasteful to put a lot of effort (and folding) 
+            into creating a pattern that will never see the light of exterior 
+            view, but since patterns may not be created in isolation but are 
+            part of a connected whole, it may be necessary to extend the 
+            pattern into subsequently hidden regions in order to form the 
+            entire structure. Figure 7.26 shows these regions, color-coded. 
+            The body is colored. We would not like the pattern to extend 
+            onto the ﬁns or the head, so those are colored gray; then the 
+            lightest regions are those we don’t care about. Note that any 
+            region covered by another (the way the front of the body is 
+            covered by the head) falls into the “don’t care” category.
+                The task now is to ﬁll in the colored regions with a scale 
+            pattern while avoiding the gray regions. This is not as easy as 
+            it sounds, because pleated scales don’t exist in isolation: They 
+            are terminated by pleats on four sides. If we represent a pleat 
+            schematically by a single line, then an array of crossing pleats 
+            can be represented by two arrays of crossing parallel lines, as 
+            in Figure 7.27.
+
+                                                                                                     213
+                                                                Chapter 7: Pattern Grafting
+© 2012 by Taylor & Francis Group, LLC

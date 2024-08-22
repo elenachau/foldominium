@@ -1,0 +1,45 @@
+                                         unit is equivalent to 10 inches or 25 cm.) For the crease pattern 
+                                         on the left in Figure 9.7, if all of the circles are the same size, 
+                                         it is fairly easy to work out that the radius of each circle, and 
+                                         thus the length of each of the ﬁve ﬂaps in the base, is
+                                                            1
+                                                        r =    ≈ 0.354.                       (9–1)
+                                                             2
+                                             For the pattern on the right, it requires some algebra to 
+                                         calculate, but you will ﬁnd that the circle radius is
+
+                                                               1    1
+                                                        r  1               ≈+−+= 324.02 .     (9–2)
+                                                               2    2
+
+                                             Since 0.324 is smaller than 0.354, the radius of each circle 
+                                         in the second pattern is about 10% smaller than in the one on 
+                                         the left. Since the radius of the circle is equal to the length of 
+                                         the ﬂap, the ﬂaps in a base folded from the pattern on the right 
+                                         are about 10% shorter than ﬂaps folded from the pattern on 
+                                         the left. Thus, a ﬁve-ﬂap base made from the pattern on the 
+                                         left will be slightly larger and slightly more efﬁcient than the 
+                                         pattern made from the one on the right.
+                                             These two circle patterns are relatively simple. By con-
+                                         necting the centers of the circles with creases and adding a 
+                                         few more creases, you can collapse the model into a base that 
+                                         has the desired number of ﬂaps. As it turns out, there already 
+                                         exist in the origami literature bases that correspond to both 
+                                         circle patterns, shown in Figure 9.8. The pattern on the left is 
+                                         the circle pattern for the Frog Base, while the one on the right 
+                                         is the circle pattern for John Montroll’s Five-Sided Square.
+
+
+                                         Figure 9.8. 
+                                         Full crease patterns corresponding to the two circle patterns. 
+                                         Left: Frog Base. 
+                                         Right: Montroll’s Five-Sided Square.
+
+                                             There is more than just a size difference between these 
+                                         two bases; there is also a qualitative difference between them. 
+                                         In the Frog Base, the ﬁfth ﬂap is a thick middle ﬂap and points 
+                                         in the opposite direction from the four corner ﬂaps; whereas 
+
+     300
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,43 @@
+            Figure 10.10. 
+            The rabbit-ear fold brings together all edges of a triangle so that they 
+            lie on a line. Furthermore, the tangent points are all brought together 
+            to meet at a point. 
+            Left: crease pattern. 
+            Middle: folding sequence. 
+            Right: the folded form.
+
+            Meeting this second condition gets harder the more tangent 
+            points there are to align simultaneously, and since there is one 
+            tangent point for each edge of the polygon, smaller polygons 
+            are easier to ﬁnd creases for than larger ones. Thus, let us start 
+            with the smallest nontrivial polygon—a triangle—and work out 
+            a crease pattern that meets the two conditions above.
+                Figure 10.10 shows an arbitrary triangle formed by three 
+            touching circles. If you have been folding origami for any 
+            length of time, you have already encountered a technique for 
+            collapsing all of the edges of a triangle onto a line: the humble 
+            rabbit-ear fold. The rabbit ear is formed by folding all three 
+            corners of the triangle along the angle bisectors (which meet 
+            at a point); one of the points is swung over to one side and the 
+            entire structure ﬂattened. That any arbitrary triangle can be 
+            folded into a rabbit ear was noted by Justin, Husimi and Ka-
+            wasaki; however, the geometric relations underlying the rabbit 
+            ear (that the angle bisectors meet at a point and that adjacent 
+            triangles formed by dropping lines from the bisector intersec-
+            tion to all three sides are congruent) were originally proven by 
+            Euclid over 2000 years ago. Thus, the seeds of origami design 
+            were sown in antiquity.
+                For origami purposes, however, we need to satisfy both 
+            alignment conditions. It is not enough simply that the edges of 
+            the triangle all fall on a line. It is also essential that the tangent 
+            points all come together. Fortunately, it is not difﬁcult to prove 
+            mathematically that for any triangle formed by connecting the 
+            centers of three touching circles, the rabbit-ear crease pattern 
+            brings together the tangent points as well.
+                Therefore, we now have a construction for ﬁnding the 
+            crease patterns for any triangular polygon; just fold a rabbit 
+            ear. Or, to construct the creases without folding, construct the 
+
+                                                                                                     353
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

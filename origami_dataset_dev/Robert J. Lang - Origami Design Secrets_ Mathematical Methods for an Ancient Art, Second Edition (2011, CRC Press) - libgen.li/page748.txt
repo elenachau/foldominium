@@ -1,0 +1,59 @@
+                                             Robert J. Lang, “The tree method of origami design,” Origami Science 
+                                             & Art: Proceedings of the Second International Meeting of Origami 
+                                             Science and Scientiﬁc Origami, op. cit., pp. 73–82.
+
+                                             A more complete and more formal treatment may be found in:
+
+                                             Robert J. Lang, “A computational algorithm for origami design,” Com-
+                                             putational Geometry: 12th Annual ACM Symposium, Philadelphia, 
+                                             Pennsylvania, May 24–26, 1996, pp. 98–105.
+
+                                             Robert J. Lang and Erik Demaine, “Facet ordering and crease as-
+                                             signment in uniaxial bases,” in Origami4, Natick, Massachusetts, 
+                                             A K Peters, 2009, pp. 189–206.
+
+                                             A full folding sequence for the Scorpion of Figure 11.35 may be 
+                                             found in:
+
+                                             Robert J. Lang, Origami Insects II, op. cit., pp. 76–85.
+
+                                             A full folding sequence for the Flying Grasshopper of Figure 11.36 
+                                             may be found in:
+
+                                             Robert J. Lang, Origami Insects II, ibid., pp. 141–153.
+
+                                             The properties of distorted Bird Base crease patterns and associated 
+                                             quadrilaterals are summarized in:
+
+                                             Toshikazu Kawasaki, “The geometry of orizuru,” in Origami3, op. 
+                                             cit., pp. 61–73.
+
+                                             Fumiaki Kawahata’s string-of beads method and the associated mol-
+                                             ecules are described in:
+
+                                             Fumiaki Kawahata, “The technique to fold free ﬂaps of formative art 
+                                             ‘origami,’” in Koryo Miura (ed.), Origami Science & Art: Proceedings 
+                                             of the Second International Meeting of Origami Science and Scientiﬁc 
+                                             Origami, op. cit., pp. 63–71.
+
+                                             Fumiaki Kawahata, Fantasy Origami, Tokyo, Gallery Origami House, 
+                                             1995, pp. 174–179.
+
+                                             Additional papers on the underlying mathematics of origami include 
+                                             the following: 
+
+                                             Esther M. Arkin, Michael A. Bender, Erik D. Demaine, Martin L. 
+                                             Demaine, Joseph S. B. Mitchell, Saurabh Sethia, and Steven S. 
+                                             Skiena, “When can you fold a map?,” Proceedings of the 7th Workshop 
+                                             on Algorithms and Data Structures, edited by F. Dehne, J.–R. Sack, 
+                                             and R. Tamassia, Lecture Notes in Computer Science, volume 2125, 
+                                             Providence, Rhode Island, August 2001, pp. 401–413.
+
+                                             Hideki Azuma, “Some mathematical observations on ﬂat foldings 
+                                             (abstract),” Abstracts for the Second International Meeting of Origami 
+                                             Science and Scientiﬁc Origami, Otsu, Japan, 1994, pp. 45–46.
+
+
+     736
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

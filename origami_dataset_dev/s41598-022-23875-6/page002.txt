@@ -1,0 +1,51 @@
+        www.nature.com/scientificreports/
+
+
+                                    Figure 1.  Interpretable machine learning for inverse design of origami. Te relationship between origami 
+                                    design features (lef) and performance of origami systems (right) can be thought of as a black-box nonlinear 
+                                    function f  . Tis work shows that it is possible to train an interpretable machine learning method (a decision 
+                                    tree-random forest method at the bottom) to uncover the underlying structure of this black-box nonlinear 
+                                    function f  , so that we can build human understandable design rules to solve the inverse design problem (solve 
+                                         1
+                                    for f − ).
+
+                                    one needs to construct an inverse relationship f −1 that calculates a set of design features from the target perfor-
+                                    mance. In this work, we show that it is possible to compute this inverse relationship f −1 by frst populating an 
+                                    origami performance database and then applying interpretable machine learning to ft the database (approximat-
+                                    ing f  ). Unlike standard “black box” machine learning methods, interpretable machine learning can produce 
+                                    human-understandable decision rules with which people can understand why certain judgments are made by 
+                                    the  algorithms32,33. Once an interpretable approximation of the nonlinear function f  is obtained, the inverse 
+                                    relationship f −1 can be constructed. Trough our implementation and exploration of the decision tree method 
+                                    for functional origami systems, we found that selecting the “more informative” branches provides useful design 
+                                    rules for this set of problems (fnding the inverse relationship f −1).
+                                      In the following sections, we demonstrate how to resolve the origami inverse design problem as a data sci-
+                                    ence and machine learning problem. We show how to build the origami performance database and use the 
+                                    decision tree-random forest method to compute human-understandable decision rules for the inverse design 
+                                    of functional origami. First, we demonstrate the methodology using a simple design problem on Miura origami 
+                                    cells. Next, we show that the proposed method can handle categorical features and compare diferent origami 
+                                    patterns for a more complex origami metasheet design problem. We then show that the tree-based method 
+                                    can tackle multi-objective and multi-physical problems by designing a set of electro-thermal origami grippers. 
+                                    Finally, with a design problem on origami arches, we demonstrate that the proposed method can enable origami 
+                                    shape ftting algorithms to further consider non-geometrical properties so that holistic origami design can be 
+                                    achieved. Tese examples show that the decision tree-random forest method ofers unprecedented versatility 
+                                    for the inverse design of origami systems.
+                                    Results
+                                    Computing origami design rules with interpretable machine learning.       Tis section introduces 
+                                    how the decision tree-random forest method can be used to compute design rules for the inverse design of 
+                                    origami systems. To demonstrate the methodology, we use a simple design problem on Miura-ori unit cells 
+                                    as presented in Fig. 2a. Te design objective is to fnd a Miura-ori unit cell to have an axial stifness k smaller 
+                                    than 6000 N/m (target performance: k < 6000 N/m ). Te Miura-ori cell is cut from a square sheet and is 
+                                    folded to a 60% extension ratio, defned using the ratio between the folded length and fat length of the pattern 
+                                    ( Ext = L′/L = 60% ). Te axial stifness is calculated by fxing the unit cell at one end and applying small forces 
+                                    to stretch it at the other end. For this problem, four design variables (features) are used including the thickness 
+                                    of panels (t p ), the thickness of creases (t c ), the width of creases (W  ), and the sector angle of the Miura-ori pattern 
+                                    (γ  ). We determine the design ranges for these features based on practical fabrication and material limits, and 
+                                                                                                                ◦          ◦
+                                    they are: 1.0 mm < tp < 6.0 mm , 0.5 mm < tc < 1.0 mm , 1.0 mm < W < 4.0 mm , and 50 <γ <80 .
+                                      To build a database for training the machine learning model, we randomly create designs using diferent 
+                                    feature values within the specifed ranges (step 1 in Fig. 2b). Each column of the table in Fig. 2b represents one 
+                                    design (data point) and 1000 random designs are generated for this example problem. Next, we compute the 
+                                    axial stifness (or the performance) for each data point using a physics-based origami simulation package called 
+
+        Scientifc Reports |        (2022) 12:19277  | https://doi.org/10.1038/s41598-022-23875-6                                 2
+Vol:.(1234567890)

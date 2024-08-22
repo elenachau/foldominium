@@ -1,0 +1,31 @@
+Figure 5.3. Parts of a tree graph. Line segments are called edges of the graph; points where lines
+end or come together are nodes. Terminal nodes are nodes with only one edge; internal nodes
+have two or more edges.
+Suppose we have a base that has been folded from a square and we construct its tree. If we
+unfold the base, we get a square with a crease pattern that uniquely defines the base. The folding
+sequence that transforms the square into the base can be thought of as a mapping between points
+on the square and points on the tree.
+
+If you think of the tree as the shadow of the base, you can see from figure 1 that wherever you
+have vertical layers of paper, there are many points on the base that map to the same point on the
+tree. However, at the terminal nodes of the tree, there is exactly one point on the square that
+maps to the node. Thus, we can uniquely identify the points on the square that become the tips of
+the flaps of the base.
+
+Now consider the following thought experiment: suppose an ant were sitting at the tip of one of
+the legs of the base and wished to travel to another part of the base — say, the tail — without
+leaving the paper. It would have to walk down the leg to the body, down the body, and back out
+the tail. The distance it traveled would be (length of the leg) + (length of the body) + (length of
+the tail).
+
+
+Figure 5.4. An ant wishes to go from a foreleg to the tail along the base. It can take several
+different paths, but the most direct path is the path that lies in the plane of projection.
+Now, let’s think about what the path of the ant would look like on the unfolded square (you can
+imagine dipping the ant into ink so that it left a trail soaking through the paper as it walked). On
+the square, the path might meander around a bit or it might go directly from one point to the
+other, depending on the course of the ant. One thing is certain, however: the distance traveled on
+the unfolded square must be at least as long as the minimum distance traveled along the base.
+
+
+                                115

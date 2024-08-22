@@ -1,0 +1,42 @@
+                                                               body
+
+                                                                                              river
+
+                                         Figure 8.22. 
+                                         A body can be inserted into a triangular tile by representing it as a 
+                                         partial annulus.
+
+                                             So, for example, the rectangular tile and two divided isos-
+                                         celes triangle tiles can now be mated, one on either side, as 
+                                         shown in Figure 8.23. We enforce the mating of the circles on 
+                                         both sides, which constrains the aspect ratio of the rectangle 
+                                         relative to that of the two triangles.
+
+
+            Figure 8.23. 
+            Mating of two isosceles triangle 
+            tiles with a rectangular tile.
+
+                                             We must enforce mating of both the circles and the rivers, 
+                                         as shown in Figure 8.23. And now, perhaps, you see the reason 
+                                         for the name river: in a large crease pattern, rivers are regions 
+                                         of constant width that meander among the circles like a river 
+                                         meandering among hills.
+                                             Now, before we even try folding this crease pattern, we can 
+                                         determine what the resulting shape will be simply by examin-
+                                         ing the circles and rivers. There are six distinct segments of 
+                                         circles; each circle will create a distinct ﬂap. The four circles 
+                                         at the top are separated from the two at the bottom by a river 
+                                         running across the pattern; consequently, the folded shape 
+                                         should have six ﬂaps, with four at one end separated from two 
+                                         at the other by a body.
+                                             And indeed, if we fold this crease pattern, assigning crease 
+                                         directions as shown in Figure 8.24, that is exactly the shape 
+                                         we obtain.
+                                             This crease pattern isn’t a square, of course. But we can 
+                                         make a square pattern by packing these tiles into a square, as 
+                                         shown in Figure 8.25. There are two possible orientations; the 
+
+     258
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

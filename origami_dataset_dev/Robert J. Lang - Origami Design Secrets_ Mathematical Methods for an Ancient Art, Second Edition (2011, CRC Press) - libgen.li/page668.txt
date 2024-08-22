@@ -1,0 +1,41 @@
+                                         One could, of course, simply redeﬁne the axial (0) contour to be 
+                                         the middle of the base, in which case folded contour lines would 
+                                         appear at elevations 0, 1/2, 1, 3/2, and 5/2.
+                                             A fully assigned crease pattern and photograph of the ﬁn-
+                                         ished model are given at the end of the chapter. Once you have 
+                                         folded this, as a practice challenge, you might try seeing if you 
+                                         can alter the crease pattern to replace the abdomen segmenta-
+                                         tion with the technique shown in Figure 14.32.
+
+                                         14.6. Dense Bouncing
+                                         Throughout this discussion of uniaxial box pleating, an impor-
+                                         tant notion has been the idea that all of the patterns lie neatly 
+                                         on a grid. In many of the ﬁgures thus far, that grid is explicit. 
+                                         It certainly makes it easy to fold a crease pattern if its verti-
+                                         ces and lines fall upon a grid, but there is a deeper reason for 
+                                         requiring a grid, illustrated by the simple uniaxial box-pleated 
+                                         pattern shown in Figure 14.35.
+
+
+            Figure 14.35. 
+            A uniaxial box-pleated pattern. 
+            How far does the bouncing con-
+            tour go?
+
+                                             This pattern is relatively simple, consisting of four quad-
+                                         rilaterals, two of them L-shaped. The vertex marked with a 
+                                         black dot is some contour line, not necessarily axial. Suppose 
+                                         we launch it perpendicularly toward the closest hinge line and 
+                                         start the process of bouncing around the ridge creases. A little 
+                                         bit of that process is shown. Where and when does the contour 
+                                         close and/or run off of the paper?
+                                             The answer, as it turns out, depends critically upon the 
+                                         dimensions of the two L-shaped ﬁgures in the bottom half of the 
+                                         pattern. The way to see this is to cut the paper in half along the 
+                                         horizontal hinge in the middle, as shown in Figure 14.36 and, 
+                                         for each half, plot the horizontal position at which a vertical 
+                                         crease, upon entering the pattern, exits. For simplicity, let’s 
+
+     656
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

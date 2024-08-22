@@ -1,0 +1,15 @@
+             Scarab Beetle
+
+
+             Mark the edges of a 22×22 square grid. Use the edge
+             markings to locate interior vertices. You can estimate
+             the position of the axial+1 creases that run along the
+             hypotenuse of the extended Pythagorean stretch from
+             where they hit the edge relative to the edge markings.
+             The creases in the middle are used in the shaping of
+             the body.
+
+
+                                                                                                                 691
+                                                                      CreaseChapter Patterns: 14: Polygon Scarab Packing Beetle 
+© 2012 by Taylor & Francis Group, LLC

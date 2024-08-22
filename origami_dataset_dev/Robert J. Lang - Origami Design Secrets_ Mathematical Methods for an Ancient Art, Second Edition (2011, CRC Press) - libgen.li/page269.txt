@@ -1,0 +1,48 @@
+                It is clear from examination of the crease pattern and the 
+            folded form that the paper in the gap in the crease pattern 
+            gives rise to the paper separating the two pairs of points in 
+            the folded form. This paper is, in its own way, a kind of ﬂap as 
+            well; but it’s not a loose, isolated ﬂap; it’s a ﬂap that connects 
+            other ﬂaps. We can allow for such a feature in a crease pattern 
+            (and model) by inserting a stripe into the crease pattern that 
+            cuts across the rectangle, as shown in Figure 8.20.
+
+
+                                                river
+                                                                        Figure 8.20. 
+                                                                        The completed rectangular tile 
+                                                                        contains a river running across 
+                                                                        its middle.
+
+                We will give this stripe that separates groups of circles 
+            a special name: we will call it a river, for a reason that will 
+            shortly become apparent.
+                What about triangular tiles? Are there analogous struc-
+            tures?
+                The rectangular tiles give rise to two pairs of ﬂaps sepa-
+            rated by segments—like the body between the front and hind 
+            legs of an animal. We can similarly think of a triangular tile 
+            as giving rise to a pair of ﬂaps separated from a third ﬂap by 
+            a body, as shown in Figure 8.21.
+
+
+                                                                        Figure 8.21. 
+                                      body                              Both a rectangle and a triangle 
+                                                                        can be folded into a shape with 
+                                                                        a body separating one or more 
+                                                                        ﬂaps.
+
+                We can decorate the triangular tile with its own river cor-
+            responding to the body, so that the river is distinct from the 
+            circle representing the ﬂap. It’s not hard to see that while the 
+            river in the rectangular tile is a rectangle, for the triangular 
+            ﬂap, the appropriate decoration is a segment of an annulus, 
+            i.e., a rectangle bent along a circle, as in Figure 8.22.
+                This division is not unique to the isosceles triangle tile; for 
+            any corner of any tile, the circle at that ﬂap can be subdivided 
+            into a circle plus an annular river, thereby allowing it to be mated 
+            to a rectangular tile or to any other tile similarly divided.
+
+                                                                                                     257
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

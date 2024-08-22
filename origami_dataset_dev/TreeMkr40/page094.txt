@@ -1,0 +1,21 @@
+                                       4.5.18
+
+The dialog computes all possible ways to fracture the poly and displays them in a popup menu,
+cataloged by which edge is split and the length of the stub to be added. The location of the new
+node and the distance of the split from the end of the edge is shown immediately below the
+popup menu. Clicking OK results in the addition of a new terminal node and edge (a stub) to the
+tree, which fractures the polygon into lower-order polygons. Figure 4.5.19 shows before and
+after examples.
+
+
+                                       4.5.19
+
+Note: you must explicitly call Build Polys again after fracturing a poly to build the new polys.
+    Triangulate Tree                    1/
+ This command repeatedly tries to fracture every active polygon of order-4 or higher until all
+ active polygons are triangles. If you then build creases, you will get all mountain, valley, and
+ tristate creases in the model making rabbit-ear patterns. Figure 4.5.20 shows a typical before and
+ after example.
+
+
+                                  94

@@ -1,0 +1,50 @@
+            and nonadjacent corners have become active simultaneously or 
+            that multiple reduced paths have become active for the same 
+            value of h (this happens surprisingly often). In either case, the 
+            reduced polygon can be simpliﬁed, thus reducing the complex-
+            ity of the problem.
+                In a reduced polygon, if two or more adjacent corners have 
+            coalesced into a single point, then the reduced polygon has 
+            fewer sides (and paths) than the original axial polygon. And if a 
+            path between nonadjacent corners has become active, then the 
+            reduced polygon can be split into separate polygons along the 
+            active reduced paths, each with fewer sides than the original 
+            polygon (just as in the polygon network, an active path across 
+            an axial polygon splits it into two smaller polygons).
+                The gusset molecule is an example of a reduced path 
+            becoming active. In the gusset molecule the reduced quadrilat-
+            eral is inset until one of its diagonals becomes an active path; 
+            the reduced quad is then split along the diagonal into two 
+            triangles. In fact, what we have been calling a gusset crease is 
+            really nothing more than a reduced active path crease, but we 
+            will continue to draw them as gusset creases.
+                In either situation, you are left with one or more polygons 
+            that have fewer sides than the original. The process of insetting 
+            and subdivision is then applied to each of the interior polygons 
+            anew, and the process repeated as necessary.
+                If a polygon (active or reduced) has three sides, then there 
+            are no nonadjacent reduced paths. The three bisectors intersect 
+            at a point, and the polygon’s reduced polygon evaporates to a 
+            point, leaving a rabbit-ear molecule behind composed of the 
+            bisectors.
+                Four-sided polygons can have the four corners inset to a 
+            single point or to a line, in which case no further insetting is 
+            required, or to one or two triangles, which are then inset to a 
+            point. Higher-order polygons are subdivided into lower-order 
+            ones by direct analogy.
+                Since each stage of the process absolutely reduces the 
+            number of sides of the reduced polygons created (although 
+            possibly at the expense of creating more of them), the process 
+            must necessarily terminate. Since each polygon (a) can fold ﬂat, 
+            and (b) satisﬁes the tree theorem, then the entire collection 
+            of nested polygons must also satisfy the tree theorem. Conse-
+            quently, any axial polygon that satisﬁes the tree theorem—no 
+            matter how many sides—can be ﬁlled with a crease pattern 
+            using the procedure outlined above and collapsed into a base 
+            on the resulting creases.
+                Thus, for example, the ﬁve-ﬂap pentagon that I used to 
+            illustrate adding circles and stubs could also be turned into a 
+
+                                                                                                     427
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

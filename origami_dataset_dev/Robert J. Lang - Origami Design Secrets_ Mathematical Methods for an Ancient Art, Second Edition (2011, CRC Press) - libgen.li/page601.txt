@@ -1,0 +1,41 @@
+            If we set a molecule on a ﬂat surface, it looks a little bit like 
+            a mountain range and the ridge folds do indeed resemble the 
+            ridgelines of the mountains. If we deﬁne the plane on which 
+            the molecule sits as “sea level,” or zero elevation, then gus-
+            set folds (and any other folds that are parallel to the axis) 
+            have a constant, but nonzero, elevation, as illustrated in 
+            Figure 13.21.
+
+
+                                              elevation
+
+                                                   axis
+                                                   (ground)
+
+
+            Figure 13.21. 
+            Left: a base with the axis oriented to be “sea level.” The elevation 
+            of an axis-parallel fold is its distance above sea level.
+
+                Continuing this analogy, we can assign an elevation to 
+            every point within the molecule and can describe this mapping 
+            in several ways. The usual way of describing real mountain 
+            ranges is with a contour map—drawing lines of constant ele-
+            vation—and this is also the natural way to describe elevation 
+            within a molecule, or within any part of a uniaxial base. The 
+            axial folds, then, are contour lines within the crease pattern, 
+            lines of constant elevation: speciﬁcally, they are the lines of 
+            zero elevation. In a properly oriented uniaxial base, every 
+            contour line of zero elevation is an axial fold. 
+                Axial folds are usually mountain folds (when viewed from 
+            the white side of the paper), but can be valley folds, so the 
+            fold direction is not an inherent property of axial folds. What 
+            makes an “axial fold” really signiﬁcant is not so much that it 
+            is a “fold,” but rather, its “axial-ness”—speciﬁcally, that its 
+            elevation is zero.
+                Gusset folds, also highlighted in Figure 13.20, are also 
+            folds of constant elevation, which means that any gusset fold 
+
+                                                                                                     589
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

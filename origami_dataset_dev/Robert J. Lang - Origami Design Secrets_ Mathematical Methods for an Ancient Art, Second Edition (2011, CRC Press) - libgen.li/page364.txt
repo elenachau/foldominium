@@ -1,0 +1,49 @@
+                                         that must be satisﬁed by the crease pattern within an axial 
+                                         polygon: 
+
+                                             • Its edges, which are all axial folds, must be brought 
+                                             to lie along a single line.
+                                             • The tangent points along its boundary for each 
+                                             circle must be brought together at a single point.
+
+                                             The ﬁrst part of this, the problem of collapsing a polygon so 
+                                         that its edges lie on a single line, is well known in both origami 
+                                         and mathematics. In mathematics, it is related to a famous prob-
+                                         lem known as the one-cut problem: How do you fold a sheet of 
+                                         paper so that with a single cut, you cut out an arbitrary polygon 
+                                         or collection of polygons? The one-cut problem was solved by 
+                                         Erik Demaine and coworkers  (see References), using a struc-
+                                         ture from computational geometry called the straight skeleton 
+                                         (which we will meet again in Chapter 13). However, the second 
+                                         requirement—alignment of the tangent points—is unique to 
+                                         origami and leads to new and specialized crease patterns.
+                                             Within the world of origami, I and several other artists 
+                                         and scientists—notably Koji Husimi, Jun Maekawa, Toshiyuki 
+                                         Meguro, Fumiaki Kawahata, and Toshikazu Kawasaki—have 
+                                         studied crease patterns that allow various polygons to be col-
+                                         lapsed with their edges falling onto a single line. It turns out 
+                                         that a relatively small set of crease patterns can be assembled 
+                                         into very large and complex tiles, indeed, into entire crease 
+                                         patterns; both those derived from circle packings, as well as 
+                                         proto-patterns derived by other methods (such as the tree 
+                                         method, which we will shortly encounter).
+                                             All origami uniaxial bases can be constructed from a small 
+                                         set of minimal tiles. The situation is analogous to that of life 
+                                         itself, wherein a small number of amino acid molecules can be 
+                                         assembled into all the proteins that make life possible and that 
+                                         make up the diversity of the natural kingdom. Because of this 
+                                         analogy, Meguro, a biochemist, has dubbed these fundamental 
+                                         tile patterns bun-shi, or molecules. In the next section, we will 
+                                         explore origami molecules. By enumerating and identifying 
+                                         the molecules of origami, we will develop the building blocks 
+                                         of origami life.
+
+                                         10.2. Triangle Molecules
+                                         Finding a set of creases for folding a polygon so that all of its 
+                                         edges fall on a line is actually quite easy. However, there can 
+                                         be more than one such set of creases. Choosing the set that gets 
+                                         all of the tangent points to come together can be rather difﬁcult. 
+
+     352
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

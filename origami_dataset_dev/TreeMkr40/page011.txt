@@ -1,0 +1,30 @@
+At this stage of the game, you can click
+on nodes and edges and move them about
+rather easily because none of them are
+pinned. Click on nodes 7 and 8 and drag
+them upward so that they lie above node
+4, as shown in figure 2.1.6.
+
+When you have defined the stick figure,
+it’s time to start computing the crease
+pattern. Go to the Action menu and
+select the command, Optimize Scale.
+This starts the computation of the crease
+pattern. You can tell that the calculation
+is running from two things: first, the
+positions of the nodes will change and
+move around, and second, the cursor
+turns into a piece of paper that is folding
+and unfolding itself. The calculation will
+take anywhere from several minutes (on
+a Mac IIcx) to a few seconds (on a Power
+Mac).                                                  2.1.6
+   • Note: if you get tired of waiting
+   during a calculation, you can always interrupt it by pressing Command-Period.
+
+   • Note: most of the actions in TreeMaker are not easily undoable (the Undo command in
+   the Edit menu usually isn’t enabled). It’s a good idea to save figures before you run an
+   optimization, in case you don’t like the results.
+
+
+                                  11

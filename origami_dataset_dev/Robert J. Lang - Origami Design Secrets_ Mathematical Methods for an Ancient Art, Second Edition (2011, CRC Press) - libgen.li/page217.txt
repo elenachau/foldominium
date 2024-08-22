@@ -1,0 +1,34 @@
+            Palmer launched an entire genre of origami by doing exactly 
+            that. For representational origami, however, the patterns one 
+            can create are restricted to those that resemble some subject, 
+            which tends to favor fairly simple patterns. Grids of squares or 
+            diamonds are straightforward: Make crossing sets of pleats. It’s 
+            also possible to make grids of triangles and/or hexagons (you 
+            saw a small piece of the latter in the turtle shell), but these 
+            are somewhat harder to fold as they require three different 
+            directions of pleats to interact.
+                The pattern, or texture, grafted into a model is generally 
+            going to be dictated by the pattern in the subject. One subject 
+            that seems natural for texturizing is a ﬁsh: Like the previously 
+            done snakes and dragons, a ﬁsh has prominent scales. We’ll use 
+            a particular ﬁsh model—a Koi, or Japanese carp—to illustrate 
+            the process of adding texture to a model and some of the design 
+            considerations that ensue.
+                The simplest way to create texture in a model is to select 
+            a simple version of the model foldable from a square, then add 
+            texture to the square in such a way that it remains square 
+            and the pattern ends up in the appropriate part of the square 
+            exposed in the folded model. We did this in the Turtle; we can 
+            apply the same approach to a Koi. The process begins with a 
+            model, of course: We’ll use the Koi illustrated in Figure 7.11, 
+            which is folded from a square. (This Koi was created by putting 
+            a border graft onto a modiﬁed Kite Base to create longer ﬁns 
+            and tail; can you identify the original base and graft?).
+
+
+            Figure 7.11. 
+            Crease pattern, base, and folded model of the Koi.
+
+                                                                                                     205
+                                                                Chapter 7: Pattern Grafting
+© 2012 by Taylor & Francis Group, LLC

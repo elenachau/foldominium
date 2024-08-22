@@ -1,0 +1,49 @@
+                                         allowed the integration of boxes with ﬂaps: ﬂaps for wheels, 
+                                         for legs, for arms, for entire bodies. And so we shall now turn 
+                                         our attention to ﬂaps.
+
+                                         12.3. Box-Pleated Flaps
+                                         Boxes are interesting, but the possibilities for things we can 
+                                         make from boxes alone are pretty limited. Mooser’s Train con-
+                                         tains more than just boxes; an essential part of its “train-ness” 
+                                         are its wheels—14 of them in total. Each wheel comes from a 
+                                         small, triangular ﬂap of paper. Part of the beauty and power 
+                                         of box pleating is that it makes it relatively easy to create such 
+                                         ﬂaps and to place them where we want. To see why this is so, 
+                                         let us create and examine several such ﬂaps. 
+                                             We don’t have to fold the entire train to do so. We can, in 
+                                         fact, just fold ﬂaps in isolation. As long as we respect the grid 
+                                         on which the creases of the boxes reside, we can create ﬂaps and 
+                                         then, in principle at least, splice together our ﬂaps and boxes 
+                                         along the grid lines of creases, just as we did with grafting. So, 
+                                         let’s fold an isolated train wheel ﬂap.
+                                             When folding box-pleated structures, we know in advance 
+                                         that vertical and horizontal folds will fall on a regularly spaced 
+                                         grid. We don’t know where the diagonal folds fall, at least, not 
+                                         at the beginning; they’ll typically fall in different grid squares 
+                                         for different structures. When we’re experimenting, though, it’s 
+                                         often convenient to have the paper precreased into a square 
+                                         grid so that those vertical and horizontal folds fall naturally in 
+                                         the right place. But how many grid squares do we need? Pre-
+                                         creasing grids in powers of 2 (2, 4, 8, 16, 32…) is fairly easy, so 
+                                         a good general practice is to start with an 8 × 8 grid, as shown 
+                                         in Figure 12.23, and then jump up by powers of 2, as needed, 
+                                         if more squares are needed for the test structure. You’ll ﬁnd 
+                                         it most efﬁcient to fold all of the ½ divisions, followed by all of 
+                                         the ¼ divisions, then the ⅛ths, and so forth.
+                                             If we want to focus on the train wheel, we should extract 
+                                         just that part of the crease pattern, plus a little extra paper 
+                                         that will serve to illustrate how the layers of its ﬂap need 
+                                         to connect to other parts of the model. Figure 12.24 shows 
+                                         a small slice of the crease pattern from Figure 12.3 that 
+                                         contains a single wheel (from the upper left corner of the 
+                                         crease pattern). We can then transfer this crease pattern to 
+                                         a precreased 8 × 8 grid. Note: McLain’s original crease pat-
+                                         tern, shown in Figures 12.3 and 12.4, didn’t show the creases 
+                                         that appear in the outermost column of grids and were drawn 
+                                         with the colored side of the paper up. In Figure 12.24, I have 
+                                         added those creases and drawn the paper white side up. 
+
+     482
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

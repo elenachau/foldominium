@@ -1,0 +1,25 @@
+            Figure 8.41. 
+            Two rectangular tiles plus two 
+            square tiles ﬁt together to make 
+            a square.
+
+                                         short sides of the rectangles, but the ones in the larger square 
+                                         don’t mate properly with the circles and river in the rectangle. 
+                                         We can ﬁx that. Recall that any circle can be subdivided into a 
+                                         smaller circle and an annular river; similarly, the river in each 
+                                         rectangle can be bisected into two rivers to mate with the newly 
+                                         created rivers. The result is a pattern of circles and rivers in 
+                                         which all matching conditions are satisﬁed along the edges of 
+                                         the tiles, as shown in Figure 8.42.
+                                             And now, without adding any more creases, we can identify 
+                                         the number of ﬂaps in the base folded from this structure. In 
+
+
+            Figure 8.42. 
+            Tiles with circles and rivers 
+            that satisfy matching conditions 
+            across tile boundaries.
+
+     270
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

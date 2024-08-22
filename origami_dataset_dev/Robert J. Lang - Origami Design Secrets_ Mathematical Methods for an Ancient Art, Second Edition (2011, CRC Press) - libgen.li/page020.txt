@@ -1,0 +1,50 @@
+                                         arbitrary conﬁgurations of ﬂaps, and yet it can be employed 
+                                         using nothing more than a pencil and paper.
+                                             Chapter 10 explores more deeply the crease patterns 
+                                         within tiles; those that ﬁt within circle/river designs are called 
+                                         molecules. The chapter presents the most common molecules, 
+                                         which are sufﬁcient to construct full crease patterns for any 
+                                         uniaxial origami base.
+                                             Chapter 11 presents a different formulation of the circle/
+                                         river packing solution for origami design, called tree theory, in 
+                                         which the design of the base is related to an underlying stick 
+                                         ﬁgure, and the packing problem is related to a set of conditions 
+                                         applying to paths along the stick ﬁgure. Although equivalent to 
+                                         circle/river packing, the approach shown here is readily amenable 
+                                         to computer solution. It is the most mathematical chapter, but 
+                                         is in many ways the culmination of the ideas presented in the 
+                                         earlier chapters for designing uniaxial bases.
+                                             Chapter 12 then introduces a particular style of origami 
+                                         called box pleating, which has been used for some of the most 
+                                         complex designs ever constructed. Box pleating in some ways 
+                                         goes beyond uniaxial bases; in particular, it can be used to con-
+                                         struct fully three-dimensional ﬁgures by various combinations 
+                                         of box-like forms, pleats, ﬂaps, and more.
+                                             Chapter 13 expands upon the ﬂap concept of box pleating to 
+                                         introduce a new concept in design, called polygon packing, and 
+                                         a particular type of polygon packing, uniaxial box pleating, that 
+                                         ties together the concepts of box pleating and tree theory.
+                                             Chapter 14 continues the development of polygon packing 
+                                         and uniaxial box pleating, introducing the new design technique 
+                                         of hex pleating and methods of generalizing polygon packing 
+                                         further to arbitrary angles.
+                                             Chapter 15 continues to move beyond uniaxial bases, 
+                                         introducing the idea of hybrid bases, which combine elements 
+                                         from uniaxial bases with other non-uniaxial structures. The 
+                                         world of origami designs is enormously larger than the uni-
+                                         axial bases that are the focus of this book, but as this chapter 
+                                         shows, elements from uniaxial bases can be combined with 
+                                         other structures, expanded, and extended, to yield ever-greater 
+                                         variety in origami ﬁgures.
+                                             The References section provides references and commen-
+                                         tary organized by chapter with citations for material from both 
+                                         the mathematical and origami literature related to the concepts 
+                                         in each chapter.
+                                              Each chapter includes step-by-step folding instructions 
+                                         for one or more of my origami designs chosen to illustrate the 
+                                         design concepts presented in the chapter. I encourage you to 
+                                         fold them as you work your way through the book. Most have 
+
+      8
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

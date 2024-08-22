@@ -1,0 +1,36 @@
+                                                              11Tree Theory
+
+                         his section describes the mathematical ideas that 
+                         underlie the tree method of origami design, which 
+                         is a mathematical formulation of the geometric 
+                         concepts that I have introduced somewhat ad hoc 
+                         over the last few chapters, culminating in the 
+            circle/river/molecule method for designing uniaxial bases. The 
+            tree method does exactly the same thing—and indeed, utilizes 
+            molecules for the generation of the ﬁnal crease pattern—but 
+            casts the problem in a form that is a bit less intuitive, perhaps, 
+            but is both more rigorous and is more amenable to numerical 
+            solution.
+                In the circle/river method, we represent ﬂaps and connec-
+            tions between ﬂaps by circles and rivers on a square of paper; 
+            we then connect the centers of touching circles to create axial 
+            polygons, which, in turn, are ﬁlled in with molecules or are 
+            subdivided by adding new circles and then ﬁlled in. The process 
+            gives a generic-form crease pattern for a base with the appro-
+            priate number, size, and conﬁguration of ﬂaps.
+                The weak point in this process was the original packing of 
+            circles and rivers; circle packings are relatively straightforward, 
+            but when we start adding rivers, the problem can get very com-
+            plicated due to the many ways that rivers can meander among 
+            the circles. In tree theory, we avoid this problem by dispensing 
+            with circles and rivers entirely. Instead, we build a connection 
+            directly from a stick ﬁgure representation of the desired base 
+            to the crease pattern itself.
+
+            11.1. The Tree
+            We have already introduced the idea of using a small stick ﬁgure 
+            as a shorthand way of describing a base. The stick ﬁgure captures 
+
+                                                                                                     401
+
+© 2012 by Taylor & Francis Group, LLC

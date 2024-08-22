@@ -1,0 +1,19 @@
+With this assignment of squares to the CP we have arrived at the form of CP I usually use when
+publishing CPs for my models, i.e. showing the CP together with the square packing.
+
+
+When it comes to specifying, which flap will become which part of the model there is no generic
+method to do this but you will learn from experience.
+For example in the corners of this model you see some small flaps next to each other. Structures like
+this will in most cases become fingers or toes, which implies that the surrounding rivers will be arms
+or legs.
+
+Using the information we gathered, you could also create a stick-figure of the model to get a better
+understanding of how the base will look like and to get an idea of what the different flaps might be
+used for.
+
+For constructing the stick-figure there are some simple rules to follow.
+The length of a line in the stick-figure equals the lenght of the flap in the CP.
+Flaps that are not separated by a river will start at the same point.
+If two flaps are separated by a river the distance between their starting points equals the width of the
+river.

@@ -1,0 +1,16 @@
+     Possible Problems in Optimization 
+
+Problem:  A polygon bounded by active paths is concave 
+Solution:  add extra leaf node in interior & expand 
+        (split polygon into multiple convex polygons)
+
+Problem:  A polygon bounded by active paths contains an 
+unconstrained node
+Solution:  add local strain to interior node to create 
+additional active paths
+
+Problem:  Optimizer can not ﬁnd a solution due to trying 
+to optimize under too many constraints
+Solution:  decrease the number of additional constraints
+
+                                          47

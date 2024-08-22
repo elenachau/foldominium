@@ -1,0 +1,10 @@
+          Architectural Origami
+
+Architectural Form Design Systems 
+  based on Computational Origami
+
+
+                  Tomohiro Tachi
+  Graduate School of Arts and Sciences, The University of Tokyo
+                     JST PRESTO
+                tachi@idea.c.u-tokyo.ac.jp

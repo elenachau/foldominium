@@ -1,0 +1,42 @@
+            Figure 14.12. 
+            A hinge polygon with an even 
+            semiperimeter but that thwarts 
+            alternating contours because of 
+            the bouncing pattern.
+
+                                             We can insure that all straight skeleton vertices lie on grid 
+                                         points by insuring that every side of the hinge polygon is an 
+                                         even number of units in length. That is often relatively easy to 
+                                         do, but this policy may force some polygons to be larger than 
+                                         we’d like, resulting in longer ﬂaps, or greater usage of paper. 
+                                         There may very well be places where we’d like to use short 
+                                         ﬂaps—ﬂaps of length 1/2 unit turn out to be useful in adding 
+                                         folded edges for very little cost. In such circumstances, the 
+                                         ideal design may very well be a mixture of even-semiperimeter 
+                                         polygons, odd polygons, and level shifters.
+
+                                         14.4. Overlapping Polygons
+                                             I have mentioned several times that circle packing pro-
+                                         duces the most efﬁcient uniaxial base possible. By “most ef-
+                                         ﬁcient,” I mean that the size of the base relative to the size of 
+                                         the square is maximal. In very broad, general terms, efﬁciency 
+                                         is a good thing; a more efﬁcient base will have fewer layers (on 
+                                         average) than an inefﬁcient base, which means that the slender 
+                                         parts (like legs) will be easier to make thin. 
+                                             But efﬁciency is not the most important criterion in ori-
+                                         gami design by a long shot, even in the narrow slice of design 
+                                         that is uniaxial base design. Perhaps even more important is 
+                                         foldability: how easy is it to do the precreasing and the collapse 
+                                         of the base? These two steps are the Achilles’ heel of circle-
+                                         packed bases: the crease patterns can be so irregular that the 
+                                         process of precreasing becomes a grueling ordeal of measuring, 
+                                         marking, folding; repeat ad nauseum. The beauty of box pleat-
+                                         ing as a strategy for base design is that the crease patterns 
+                                         are so regular that only a simple grid of marks is needed, and 
+                                         many, or even all, of the creases may be constructed by folding 
+                                         alone. But one of the prices one pays for this foldability is ef-
+                                         ﬁciency; box-pleated designs are inherently less efﬁcient than 
+
+     636
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

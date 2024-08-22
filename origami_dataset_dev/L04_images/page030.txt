@@ -1,0 +1,18 @@
+Developable Surface
+
+•  Smooth Developable Surface
+    –  G2 surface (curvature continuous) 
+        • "Developable Surface" (in a narrow 
+          sense)
+        • Plane, Cylinder, Cone, Tangent 
+          surface
+    –  G1 Surface (smooth, tangent 
+       continuous)                         pl ane    cyl i nder  cone     t angent
+        • "Uncreased flat surface"
+        • piecewise Plane, Cylinder, Cone, 
+          Tangent surface
+
+•  Origami
+    –  G0 Surface
+    –  piecewise G1 Developable G0
+       Surface

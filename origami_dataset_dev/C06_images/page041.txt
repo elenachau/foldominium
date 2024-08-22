@@ -1,0 +1,12 @@
+In conclusion
+
+• We can also prove some multiple-vertex crease patterns can self-fold, while 
+ others cannot!  
+
+
+• See our paper:  Self-foldability in rigid origami, Journal of Mechanisms and 
+ Robotics, Vol. 9, No. 2, 2017, 021008-021008-9, doi:10.1115/1.4035558 
+
+
+• Contact:   Thomas Hull                     Tomohiro Tachi 
+                  thull@wne.edu                  tachi@idea.c.u-tokyo.ac.jp 

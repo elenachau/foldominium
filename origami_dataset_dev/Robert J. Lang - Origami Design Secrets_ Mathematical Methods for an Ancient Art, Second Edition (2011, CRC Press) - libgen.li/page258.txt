@@ -1,0 +1,29 @@
+                                         of symmetry, we ﬁnd that the raw edges of the ﬂaps don’t lie 
+                                         along the axis and the hinges aren’t perpendicular, so it’s not 
+                                         a uniaxial base. However, if we rotate the base by 90°, we can 
+                                         re-draw the axis along the raw edges, the hinges are perpen-
+                                         dicular to the axis, and it is thereby revealed to be a uniaxial 
+                                         base in this new orientation, as shown in Figure 8.4.
+                                             Uniaxial bases lend themselves to strip grafting because 
+                                         the alignment of many folded edges along the axis of an exist-
+                                         ing base makes the creases along those edges natural candi-
+                                         dates for cutting to insert strip grafts into the crease pattern. 
+                                         The creases that lie along the axis in the base form a special 
+                                         set; they are called the axial creases in the crease pattern. In 
+                                         Figure 8.5 I have colored the axial creases green (whether 
+                                         mountain, valley, or unfolded) in the crease patterns for the 
+                                         six bases. I have also similarly colored those portions of the 
+                                         raw edge of the paper that lie along the axis.
+
+
+                                         Figure 8.5. 
+                                         The axial creases and axial portions of the paper edge in the six uni-
+                                         axial base crease patterns.
+
+                                             Axial creases are natural candidates for cutting and insert-
+                                         ing strip grafts, in part because in uniaxial bases every ﬂap has 
+                                         at least one axial crease (or an axial raw edge) running to its 
+
+     246
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

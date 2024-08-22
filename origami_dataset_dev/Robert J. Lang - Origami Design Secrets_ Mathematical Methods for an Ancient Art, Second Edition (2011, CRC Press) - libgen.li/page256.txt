@@ -1,0 +1,35 @@
+                                             All six of these bases share two properties: First, all 
+                                         ﬂaps either lie along or straddle a single vertical line; second: 
+                                         the hinge at the base of any ﬂap (i.e., the line between two 
+                                         adjacent ﬂaps) is perpendicular to this line. When several ﬂaps 
+                                         lie along a line, that line is called an axis of the base. Any base 
+                                         that possesses a single axis along which all ﬂaps lie is called 
+                                         a uniaxial base. The six bases of Figure 8.1 are all uniaxial; 
+                                         their axes are shown by dashed lines in Figure 8.2. Every ﬂap 
+                                         in each base lies along the base’s unique axis.
+
+
+            Figure 8.2. 
+            The axes of six uniaxial bases.
+
+                                             Uniaxial bases are very common in origami, and they have 
+                                         several properties that make them relatively easy to construct, 
+                                         dissect, graft, and manipulate. We will study them intently for 
+                                         the next several chapters.
+                                             Not all origami bases are uniaxial, however, and before 
+                                         casting aside all other origami bases, it’s worth taking a few 
+                                         moments to look at some exceptions.
+                                             Among the traditional bases, the Windmill Base is not 
+                                         uniaxial because its four ﬂaps do not lie along a single line; 
+                                         instead, it has two crossed axes, and the hinge creases are not 
+                                         perpendicular to the axis.
+                                             A base of a more recent vintage—John Montroll’s Dog 
+                                         Base, variations of which he has used for a score of diverse 
+                                         ﬁgures—is also not a uniaxial base, having two distinct par-
+                                         allel axes. Montroll’s base is remarkable for its efﬁciency in 
+                                         use of paper (and for my money, stands as the most elegant 
+                                         base in all of origami). So while uniaxial bases will prove to be 
+
+     244
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,32 @@
+            1. Fold and unfold to define the 2. Fold and unfold along angle 3. Fold and unfold along a
+            desired location of the base of the bisectors.                horizontal crease that passes
+            two flaps.                                                    through the intersection of the two
+                                                                          bisectors.
+
+
+            4. Sink the point on the crease you 5. Mountain-fold the far edge 6. Finished pair of flaps.
+            just made.                     behind while spread-sinking the
+                                           corners. Turn the model over.
+            Figure 5.5. 
+            Alternate folding sequence for the optimum-length pair of points.
+
+            certainly good enough to generate a short pair of ears, but it 
+            would be nice to do better—for example, to take a three-legged 
+            Bird Base animal and give it that elusive fourth leg.
+
+            5.2. The Ideal Split
+            The key to making two longer ﬂaps is to ignore the foreground 
+            and examine the background; that is, turn our attention away 
+            from the ﬂaps themselves and instead, look at the space 
+            around the ﬂaps. The thing that makes two ﬂaps two instead 
+            of one is not the paper making up the ﬂaps; it’s the space 
+            we’ve created between the ﬂaps that deﬁnes the pair. What 
+            limits the length of the ﬂap is the length of the gap. And that 
+            is signiﬁcant because the gaps as well as the ﬂaps consume 
+            paper—and so we must allocate paper for both.
+                A small thought experiment will bring this out. Suppose 
+            you wished to travel from the tip of one ﬂap to the tip of the 
+
+                                                                                                      97
+                                                                 Chapter 5: Splitting Points
+© 2012 by Taylor & Francis Group, LLC

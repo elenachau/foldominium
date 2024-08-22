@@ -1,0 +1,55 @@
+                                         pattern of a stubbed quad to fold any such quad into an analog 
+                                         of the Bird Base, as shown in Figure 11.27.
+                                             The properties of quadrilaterals with distorted Bird Base 
+                                         crease patterns have been the subject of considerable investi-
+                                         gation on their own; Justin, Husimi, and Kawasaki have all 
+                                         enumerated various special cases.
+
+                                         11.8. The Universal Molecule
+                                         Since every polygon network can be broken up into triangles 
+                                         and quads by the addition of extra circles, the triangle and 
+                                         quad molecules are by themselves sufﬁcient for ﬁlling in the 
+                                         crease pattern for any tree. And if we subdivide quadrilaterals 
+                                         with stubs, we can get everything down to triangles, so that the 
+                                         rabbit-ear molecule is the only one needed. However, there are 
+                                         many other possible molecules, including molecules that can 
+                                         be used for higher-order polygons. It turns out that the gusset 
+                                         quad is just a special case of a more general construction that 
+                                         is applicable to any higher-order polygon. I call this construc-
+                                         tion the universal molecule. In fact, all of the known simple 
+                                         molecules are special cases of the universal molecule. The rest 
+                                         of this section describes the construction of this molecule for 
+                                         an arbitrary polygon.
+                                             Consider a general polygon that satisﬁes the tree theorem, 
+                                         i.e., any two vertices of the polygon are separated by a distance 
+                                         greater than or equal to the separation between their corre-
+                                         sponding nodes on the tree. Since we are considering a single 
+                                         axial polygon, we know that of the paths between nonadjacent 
+                                         vertices, none are at their minimum length (otherwise it would 
+                                         be an active path and the polygon would have been split).
+                                             Suppose we inset the boundary of the polygon by a dis-
+                                         tance h, as shown in Figure 11.28. If the original vertices of the 
+
+                                         polygon were A1, A2,…, then we will label the inset vertices A1′, 
+
+
+                                                                         polygon
+                                                                             reduced polygon
+
+                                                                              α
+                                                                               3  A
+                                                                               α   3
+                                                                          A′    3
+            Figure 11.28.                                                  3
+            A reduced polygon is inset by a 
+                                                          ′             A′
+            distance h inside an axial poly-             A1              2
+            gon. The inset corners lie on the         α
+                                                       1        h          α
+                                                        α               α   2
+            angle bisectors emanating from                1               2
+            each corner.                            A1                      A2
+
+     424
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

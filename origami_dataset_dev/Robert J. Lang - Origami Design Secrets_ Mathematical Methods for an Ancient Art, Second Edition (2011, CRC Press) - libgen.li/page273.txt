@@ -1,0 +1,21 @@
+             Figure 8.27. 
+             Crease pattern, base, and folded model of the Pegasus.
+
+
+             Figure 8.28. 
+             Left: the basic rectangle tile. 
+             Right: the tile with additional creases.
+
+                  Similarly, the triangular tiles also have somewhat more 
+             complex crease patterns than we saw previously.
+
+
+                                                                                Figure 8.29. 
+                                                                                Left: the basic isosceles triangle 
+                                                                                tile crease pattern. 
+                                                                                Right: the same tile with 
+                                                                                additional creases.
+
+                                                                                                                 261
+                                                                                  Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

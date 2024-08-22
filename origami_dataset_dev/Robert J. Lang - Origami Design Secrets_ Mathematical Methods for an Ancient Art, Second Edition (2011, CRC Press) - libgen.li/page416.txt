@@ -1,0 +1,49 @@
+                                         and their connections. In particular, a tree graph does not 
+                                         specify whether all of the ﬂaps in its corresponding base can 
+                                         be spread apart as in Figure 11.2 or some are wrapped around 
+                                         others as in Figure 11.3.
+                                             The tree graph is a schematic form that captures some of 
+                                         the essential characteristics of a base: the number of ﬂaps, the 
+                                         length of the ﬂaps, how they are connected to one another. It 
+                                         does not capture, however, the width of the ﬂaps, nor which 
+                                         ﬂaps, if any, are wrapped around others. Nevertheless, in 
+                                         many cases, it is sufﬁcient for a successful origami design to 
+                                         have a base with the same attributes as those conveyed by 
+                                         the tree graph.
+
+                                         11.2. Paths
+                                         Suppose that we have a uniaxial base folded from a square 
+                                         and that we construct its tree graph. If we unfold the base, 
+                                         we get a square with a crease pattern that uniquely deﬁnes 
+                                         the base. The act of projecting the base into a plane—casting 
+                                         a shadow—can be thought of as deﬁning a mapping between 
+                                         points on the square and points on the tree. In the language 
+                                         of mathematics, it is a surjective or onto mapping—that is, for 
+                                         every point on the square there is a corresponding point on the 
+                                         tree, but more than one point on the square can map to the 
+                                         same point on the tree.
+                                             That the mapping is not one-to-one is clear from Figure 11.3; 
+                                         wherever you have vertical layers of paper, there are many points 
+                                         on the base that map to the same point on the tree. However, if 
+                                         the ﬂaps come to sharp points, then at the leaf nodes of the tree, 
+                                         there is exactly one point on the square that maps to the node. 
+                                         Thus, for each ﬂap of the base, we can identify a unique point 
+                                         on the square that becomes the tip of the ﬂap.
+                                             A sharp point must be formed by several creases that come 
+                                         together at the point. Thus, there is a vertex in the crease pat-
+                                         tern at this point. Such a vertex maps one-to-one to a leaf node 
+                                         of the tree; we therefore call it a leaf vertex.
+                                             Let us resurrect the shy bookworm from Chapter 5; recall 
+                                         that this bookworm travels entirely within a sheet of paper 
+                                         between the two surfaces, never leaving one sheet or crossing 
+                                         from one sheet to another. Suppose the bookworm were sitting 
+                                         at the tip of one of the legs of the base and wished to travel to 
+                                         another part of the base—say, the tail—without leaving the 
+                                         paper, as shown in Figure 11.4. It would have to crawl down the 
+                                         foreleg to the body, down the body, and back out the tail. The 
+                                         distance it traveled would be (length of the foreleg) + (length 
+                                         of the body) + (length of the tail).
+
+     404
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

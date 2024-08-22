@@ -1,0 +1,46 @@
+                  TreeMaker 4.0
+
+                      Copyright ©1994–1998 by Robert J. Lang. All rights reserved.
+     Portions (CFSQP) copyright @1993–1998 by Craig T. Lawrence, Jian L. Zhou, and Andre L. Tits. All
+                                         Rights Reserved.
+                                         Terms of License
+   TreeMaker contains copyrighted code (CFSQP) that may only be used for non-profit purposes. TreeMaker
+   may not be freely distributed.
+   CFSQP's Conditions for External Use include the following
+   1. The CFSQP routines may not be distributed to third parties. Interested parties should contact the authors
+   directly.
+   2. Due acknowledgment must be made of the use of the CFSQP routines in research reports or publications.
+   Whenever such reports are released for public access, a copy should be forwarded to the authors of CFSQP.
+   3. The CFSQP routines may only be used for research and development, unless it has been agreed
+   otherwise with the authors in writing.
+   For more information on CFSQP, see http://www.isr.umd.edu/Labs/CACSE/FSQP/fsqp.html
+         To obtain a copy of the TreeMaker executable, please provide the following information:
+                                           Your name
+                           Your affiliation (must be a non-profit organization)
+                                        Your e-mail address
+                An affirmation that you will abide by CFSQP’s Conditions for External Use.
+    An affirmation that you will only be using TreeMaker for non-profit purposes and will not redistribute the
+                                            executable
+            Confirmation that you are using a Macintosh™ computer (it won't run on anything else)
+                                      sent to: rjlang@aol.com
+   A copy of the executable will be emailed to you within a few weeks.
+   If you like the program, drop me a line with your comments and attaboys. If you find bugs, drop me a line
+   with a description and I’ll try to fix it in the next version. This software is provided as-is with no implied
+   warranties of fitness or usability (but I hope you will find it to be be both fit and usable).
+                                  1.0 Introduction
+
+TreeMaker is a tool for origami design. Starting from a description of a desired origami model,
+TreeMaker computes a crease pattern for folding a base for the model from an uncut square of
+paper. This document describes TreeMaker, how you use it to design origami, and how it works.
+
+   1.1     Background
+
+Origami is the Japanese name for the art of paper-folding. The purest form of origami stipulates
+that you fold one sheet of paper, which must be square, and no cutting is allowed. These rules
+might seem restrictive, but over the hundreds of years that origami has been practiced, tens of
+thousands of origami designs have been developed for birds, flowers, animals, fish, cars, planes,
+and almost everything else under creation. Despite the age of the art, the vast majority of origami
+models have been designed within the last thirty years. This relatively late bloom of the art is due
+in part to a spread of the art worldwide and an increase in the number of its practitioners, but it is
+
+                                          4

@@ -1,0 +1,45 @@
+                                             r2
+                                                 t
+
+
+                                                           r1
+
+                     s2
+                   y
+
+
+                                                                       Figure 14.25. 
+                                        s1                             Geometry of an extended Py-
+                                     x                                 thagorean stretch.
+
+                Conversely, if we choose the value of y, then
+                               2t(y − t)
+                     x       =        ,                        (14–9)
+                                y − 2t
+
+            and if we set y = s2, so that one of the ridges hits the upper 
+            left corner, then
+                              ()s + s − d ()s + d − s
+                       x    =   1   2      2      1 .        (14–10)
+                                     2()d − s1
+                These tend to be small rational numbers, and so are 
+            usually easily constructible (often purely by folding). The two 
+            cases for the test conﬁguration I’ve been using for illustration 
+            are shown in Figure 14.26. Note that in the case on the left, 
+            several of the vertices fall neatly on grid points. This type 
+            of pleasant coincidence happens fairly often. Note, too, that 
+            you don’t actually have to construct the creases between the 
+            highlighted crease and the corner; if you simply fold the corner 
+            underneath prior to precreasing, then the necessary creases 
+            will be formed in place when you fold the rest of the model 
+            through the resulting double layer of paper.
+                An example that illustrates extended Pythagorean 
+            stretches is shown in Figure 14.27. This is a simple Scarab 
+            Beetle, but because the extended Pythagorean stretches avoid 
+            gusset slivers, it can be folded well at relatively small size. 
+            Observe that this model, too, uses level shifters to selectively 
+            widen the body relative to the legs.
+
+                                                                                                     649
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,52 @@
+                                         the number of ﬂaps, their lengths, and how they are connected 
+                                         to each other. Using a term from graph theory, we will call such 
+                                         a stick ﬁgure the tree graph for a given (or postulated) uniaxial 
+                                         base, or just tree for short. A tree graph consists of edges (line 
+                                         segments) and nodes (ends of line segments).
+                                             We will also divide the nodes into two types: leaf nodes 
+                                         are nodes that come at the end of a single edge. Leaf nodes 
+                                         correspond to the tips of legs, wings, and other appendages. 
+                                         Nodes formed where two or more edges come together are called 
+                                         branch nodes. Similarly, a leaf edge is an edge that ends in at 
+                                         least one leaf node; a branch edge is an edge that ends in two 
+                                         branch nodes. These are illustrated in Figure 11.1.
+
+                                                             F                  H
+                                             leaf node                                branch node
+                                                                1            1
+
+                                                       A    1                    1    D
+                                                                  B    1   C
+
+                                                                1            1        edge
+
+                                                             E                  G
+            Figure 11.1.                     leaf edge                         branch edge
+            Parts of a tree graph.
+                                                                      weight
+
+                                             In the stick ﬁgure we drew in previous sections, the length 
+                                         of each segment was equal to the length of the ﬂap or connector 
+                                         that it corresponded to. In a tree, we will label each edge by a 
+                                         weight, which is the numerical length of the corresponding ﬂap. 
+                                         It is helpful to draw the tree with each edge length proportional 
+                                         to its weight, and so I will continue to do so. Thus, in the tree 
+                                         in Figure 11.1, each of the edges has weight 1, meaning that 
+                                         each corresponds to a ﬂap or connector of unit length.
+                                             Now, the deﬁnition of a uniaxial base was a base that 
+                                         could be oriented so that (a) all ﬂaps lie along a common line 
+                                         (the axis), and (b) the hinges between ﬂaps were perpendicular 
+                                         to the axis. The perpendicularity of the hinges is an important 
+                                         property; it allows the ﬂaps to be manipulated in three di-
+                                         mensions so that the edges of all ﬂaps lie in a common plane, 
+                                         as shown for a hypothetical base in Figure 11.2. We refer to 
+                                         this plane as the plane of projection. Put formally, the plane 
+                                         of projection of a base is a plane that contains the axis of the 
+                                         base and the axial edges of all ﬂaps, and that is perpendicular 
+                                         to the layers of the base.
+                                             This property allows another interpretation of the tree 
+                                         graph: It is the shadow cast by the base in a plane perpendicular 
+
+     402
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

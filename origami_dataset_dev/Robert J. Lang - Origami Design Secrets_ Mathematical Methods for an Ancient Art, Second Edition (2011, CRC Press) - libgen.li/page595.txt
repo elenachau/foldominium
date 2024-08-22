@@ -1,0 +1,37 @@
+            meet; and we then join the two meeting points with another 
+            ridge crease that is parallel to one of the sides. This is the 
+            classic rectangular sawhorse molecule. Examples of both types 
+            of pattern are shown in Figure 13.16.
+
+
+                                                                       Figure 13.16. 
+                                                                       Left: ridge creases for a square 
+                                                                       hinge polygon. 
+                                                                       Right: ridge creases for a rectan-
+                                                                       gular hinge polygon.
+
+                The crease pattern shown in Figure 13.14 contained 
+            only squares and a rectangle, and so we can ﬁll in its ridge 
+            creases very simply, as shown in Figure 13.17 (in which, and 
+            going forward, we have truncated the hinge polygons to the 
+            bounding square).
+
+
+                                                                       Figure 13.17. 
+                                                                       Ridge creases in the circle packing 
+                                                                       from Figure 13.14.
+
+                Every corner of a hinge polygon or hinge river gives 
+            rise to a ridge crease within; since every corner of one hinge 
+            polygon meets up with at least one other corner, the ridge 
+            creases connect up at their corners, and you can see in the 
+            ﬁgure that the ridge creases that cross reﬂex corners of rec-
+            tilinear rivers form a straight-line continuation of the ridge 
+            crease that emanates from the corner of the polygon tucked 
+            into said reﬂex corner.
+                The two patterns shown in Figure 13.16 work for all 
+            squares and rectangles. The interesting question, and indeed, 
+
+                                                                                                     583
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

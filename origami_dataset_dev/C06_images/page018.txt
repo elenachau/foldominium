@@ -1,0 +1,20 @@
+                                                Junhee Na, Ryan Hayward, 
+                                                Thomas Hull, Chris Santangelo
+
+ A more complicated fold
+
+• Origami octahedron-tetrahedron truss (invented by numerous origamists:  David 
+  Huffman, Ron Resch, Toshikazu Kawasaki, and others)
+                                                                B
+                                                        A
+                                                               C
+
+
+             A
+
+                           B
+
+
+                                         Mountain crease
+                C
+                                         Valley crease

@@ -1,0 +1,38 @@
+                                       ABF
+
+                       B
+
+         A
+                                                                  F
+               1       1               F
+
+                   F
+                           1
+             1                   C                                      C
+      E
+                                       E
+                     1
+                                                                 F
+                                               F
+                   D
+
+                                                        D
+
+ Figure 5.19. (Left) Tree for a base with 5 equal flaps. (Right) Pattern of terminal nodes and
+ active paths corresponding to this tree.
+ Now suppose we wanted to add one more point to the star. That would entail adding one more
+ terminal node — node G — to the active polygon network. On the tree graph, the new node
+ would be connected to node F as shown in figure 5.20. (If we connected it to one of the other
+ nodes that wouldn’t add another point; it would just lengthen an existing point.) Suppose the
+ point has a length l. Then since all the other edges are 1 unit long, the tree theorem tells us that
+the new terminal node must be separated from each of the other terminal nodes by a distance
+(1+l).
+
+We can visualize these constraints by imagining that each terminal node is surrounded by a circle
+whose radius is equal to the length of the edge attached to that node in the tree. That is, nodes A–
+E are surrounded by circles of unit radius, while node G is surrounded by a circle of radius l. The
+requirement that G be separated from the other nodes by at least a distance (1+l) is equivalent to
+the requirement that circle G not overlap with any other circle.
+
+
+                                 128

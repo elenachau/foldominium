@@ -1,0 +1,11 @@
+Isotropic Rigid Foldable
+Tube Generalization
+• Rigid Foldable Tube based 
+  on symmetry
+
+• Based on
+  – “Fold”
+  – “Elbow”
+
+= special case of
+  BDFFPQ Mesh

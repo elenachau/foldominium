@@ -1,0 +1,34 @@
+Although four of the flaps are middle
+flaps and will be trapped inside layers,
+it’s possible to squash-fold the raw-edged
+flaps attached to each node in such a way
+that a simply-stacked base is obtained.
+And clearly, the perimeter of this base
+exceeds the perimeter of the square by
+the factor (sec(15°)), or by about 3.5%.
+
+   3.4 Fracturing polygons
+
+Once you have completed an
+optimization, the simplest crease pattern
+that collapses into a base is produced by
+choosing Build Polys and Creases,
+which creates all creases using the
+“universal molecule” algorithm. You can
+also break up high-order active polygons
+into lower-order active polygons by
+adding new edges to existing nodes.
+When you create a new edge and scale it                3.3.8
+using Optimize selection, it will be
+ expanded until it forms typically three
+ new active paths.
+
+ This process will break any polygon of order 5 or higher into polygons of lower order. In
+ general, the lower the order of the active polygon, the simpler it is to fold, so this is often a
+ desirable process. However, if you try to break up a polygon of order 4 (a quadrilateral), unless it
+ happens to have a line of symmetry, you will form two triangles and another quadrilateral. Thus,
+ you cannot in general reduce a crease pattern to all triangles simply by adding new edges to
+ existing nodes.
+
+
+                                  52

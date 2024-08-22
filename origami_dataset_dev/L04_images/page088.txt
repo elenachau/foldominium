@@ -1,0 +1,10 @@
+Generalized Rigid Folding Constraints
+
+• If the loop surrounds no 
+  hole:
+   – constraints around each 
+    vertex
+• If there is a hole,
+   – constraints around each 
+    vertex
+   + 1 Loop Condition

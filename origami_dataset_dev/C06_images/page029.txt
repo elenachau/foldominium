@@ -1,0 +1,22 @@
+What is self-folding?
+
+To self-fold, each crease needs an actuator of some kind.
+
+
+                                                  
+Each actuator applies torque. 
+We call the collection of these torques 
+at all the creases the driving force of the 
+folding, which we can think of as a 
+vector ﬁeld on the conﬁguration space.
+
+
+                                                       
+In a separable driving force, each actuator only 
+knows its own folding angle.  I.e., 
+
+
+A conservative driving force is the gradient of a potential function:
+
+                    f~ =     U(~⇢ )
+For example, if we’re lucky wer could try the driving force:

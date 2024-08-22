@@ -1,0 +1,43 @@
+Vertex   mCreases            All creases that terminate on this vertex
+
+         mVertexOwner        node or path that owns this vertex
+Crease
+
+A Crease is a line in the crease pattern. There are three types of Creases: ValleyCrease,
+MountainCrease, and TristateCrease. The Crease inherits only from Part
+
+                             Part        Crease
+
+The references contained by a Crease are summarized below. Names in bold refer to inherited
+member variables.
+Object   References          What
+
+Crease   mVertices           2 vertices at each end of the crease
+
+         mCreaseOwner        poly or path that owns this crease
+Condition
+
+A Condition is a relationship between portions of the tree to implement symmetry, fixed
+angles, and other constraints on the crease pattern.
+
+          Part         Condition      ConditionEdgeLengthFixed
+                                      ConditionNodeFixed
+                                      ConditionNodeOnEdge
+                                      ConditionNodesCollinear
+                                      ConditionNodesPaired
+                                      ConditionNodeSymmetric
+                                      ConditionPathActive
+                                      ConditionPathAngleFixed
+                                      ConditionPathAngleQuant
+                                      ConditionNodeOnCorner
+                                     7.17
+
+Condition is a base class that defines the behavior for all possible conditions, which may
+establish and enforce relationships any other part of the tree. Before an optimization is
+performed, all Conditions associated with a Tree are polled and are allowed to apply
+mathematical constraints (equalities and inequalities) that enforce the condition.
+
+At present, there are 10 types of Condition on Nodes, Edges, and Paths.
+
+
+                                168

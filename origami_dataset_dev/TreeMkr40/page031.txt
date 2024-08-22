@@ -1,0 +1,42 @@
+The new scale is 0.36367, somewhat
+larger; so this configuration is more   4                                   5
+efficient than the last. However, it’s not       3                 4
+very elegant, because nodes 6 and 7 are           1.000             1.000
+close to a corner but are not precisely in                  2
+the corner. Option-drag each of those two                 1
+nodes into the corner as shown in figure                  1 0.600
+2.3.12.                                 2                                   2
+
+   •Note: you can put a node exactly
+                                                           2
+   into the corner by dragging it                          0.750
+   slightly beyond the corner. If you   3                                   3
+   drag a node beyond an edge, when
+   you let go, TreeMaker will snap the
+   node to the nearest edge. Drag it
+   beyond a corner and TreeMaker                           3
+   will snap it into the corner.                 5                 6
+                                                 1.000             1.000
+                                        6                                   7
+Now select Build Polys and Creases
+from the Action menu. Nothing happens.
+What’s wrong?                                         2.3.12
+TreeMaker cannot build polygons or
+creases if there are unpinned, or movable, terminal nodes that are inside what would be a
+polygon. What do we mean by pinned? A pinned node is one that cannot be moved in any
+direction without either violating a path constraint or going outside the square.
+
+Nodes aren’t the only things that are pinned; an edge whose length cannot be made larger
+without causing some path to be violated is also said to be pinned. A pinned edge is shown in a
+lighter blue than an unpinned edge (initially, all edges are unpinned). Looking at figure 2.3.12,
+you can see that all edges except edge number 1, and all terminal nodes except node 1, are
+pinned.
+
+An edge that isn’t pinned can be made longer without reducing the lengths of other edges, which
+means that the flap in the base that corresponds to the edge can be made longer. Sometimes
+lengthening a flap of the base is esthetically acceptable; sometimes it isn’t. For this example, if
+we lengthen the head flap, we’ll just have a bit more paper with which to make hair, facial
+features, et cetera. So we can, and will, length edge number 1.
+
+
+                                  31

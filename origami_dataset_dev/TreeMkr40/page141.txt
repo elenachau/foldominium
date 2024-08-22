@@ -1,0 +1,51 @@
+ Figure 5.35. Oru tree crease pattern with middle points.
+ Without the universal molecule one must arbitrarily add circles to the network of active paths
+ until every polygon is of order 4 or smaller. Since there is some choice about where circles are
+ added, the tree method solution for a base is not necessarily unique. The universal molecule,
+ however, is entirely determined. By applying the recursive universal molecule construction, any
+ network of active paths can be filled in with creases and collapsed into a uniaxial base. Thus, the
+ progession from tree graph to full crease pattern may be accomplished using a single
+ optimization.
+
+ There is another, subtler advantage to the universal molecule: it tends to shift paper away from
+ the plane of projection of the base, which simplifies collapsing the base and reduces the buildup
+ of layers where flaps join together. Although the flaps tend to be wider than those produced with
+ other algorithms, one can easily make points narrower by repeatedly sinking the corners of
+ collapsed polygons to narrow the flaps. This, of course, builds up layers of paper in the base,
+ which is to some degree unavoidable. The most equitable distribution of these extra layers comes
+ when the points are sunk along lines parallel to the plane of projection. Since the edges of the
+ inset polygons are parallel to the plane of projection in the folded base, these lines naturally form
+ lines along which to sink.
+
+ There are other polygon-filling algorithms beyond the universal molecule described above, and I
+ will mention two of them here. Toshiyuki Meguro — who coined the term “molecule” (bun-shi,
+ in Japanese) has developed a technique that makes use of overlapping circles, which in effect,
+ allows one to add new branches to the tree by adding nodes to the middle of existing edges. This
+ technique allows each new circle to touch four, rather than three, existing circles, and cuts down
+ on the number of circles that need to be added. I have extended and generalized Meguro’s
+ concept to apply to arbitrary polygons by introducing the concept of a “stub.” Also Fumiaki
+ Kawahata has developed a technique for filling in polygons that involves projecting hyperbolas,
+ rather than straight lines, inward from the edges of an active polygon, which results is bases
+ whose points can be narrower and more regular (if desired). No doubt there are yet other
+ algorithms lurking out there in the mathematical wilds.
+
+ Although the mathematical algorithms for origami design are rigorously defined, the actual
+ location of the nodes and creases can be computationally intensive. Computationally intensive
+ problems are best handled by computer and indeed, the procedures described above can be cast
+ in the mathematical and logical terms that lend themselves to computer modeling. The computer
+ program TreeMaker implements these algorithms. Using TreeMaker, I’ve solved for bases for a
+number of subjects whose solutions have eluded me over the years — deer with varying sizes
+and types of antlers, 32-legged centipedes, flying insects, and more. Using a computer program
+accelerates the development of a model by orders of magnitude; from the tree to the full crease
+pattern takes less than five minutes (although folding the crease pattern into a base may take two
+to three hours after that!) Not only does TreeMaker come up with the base initially, but it lets one
+incrementally iterate the design of the model, shifting paper from one part of the model to
+another to lengthen some points and shorten others, all the while keeping the entire model
+maximally efficient.
+
+One need not program a computer, of course, to use the techniques I’ve described to design
+origami — origami designers have used similar techniques for years. But I foresee a dramatic
+shift in the art as these techniques — what one might call “algorithmic” origami design —
+become more widespread. For years, technical folders concentrated on getting the right number
+
+                                 141

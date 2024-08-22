@@ -1,0 +1,44 @@
+                                                                        Figure 10.22. 
+                                                                        Crease pattern and folded form 
+                                                                        of the arrowhead molecule in a 
+                                                                        four-circle rhombus.
+
+                For symmetric circle patterns such as the six-circle pack-
+            ing, using an asymmetric molecule in a symmetric polygon will 
+            result in an asymmetric base. This may be undesirable for a 
+            symmetric subject.
+
+            10.6. Gusset Molecule
+            The arrowhead molecule is not the last molecule for quadrilat-
+            erals, however. The crease pattern shown in Figure 10.23 is a 
+            valid crease pattern for a molecule I call the gusset molecule 
+            that can be oriented to preserve the underlying symmetry.
+
+
+                                                                        Figure 10.23. 
+                                                                        Crease pattern and folded form 
+                                                                        for the gusset molecule. The 
+                                                                        folded molecule can have its 
+                                                                        ﬂaps oriented to be mirror-sym-
+                                                                        metric about either symmetry of 
+                                                                        the underlying polygon.
+
+                Like the arrowhead molecule, the gusset molecule can 
+            be constructed for any four-circle quadrilateral, but the gus-
+            set molecule has a couple of advantages over the arrowhead 
+            molecule. There are no interior creases that lie along the axis 
+            when it is folded, so it is a simple molecule. Simple molecules 
+            lead to bases that have fewer layers along the axis of the 
+            model.
+                The gusset molecule also has the advantage that it is 
+            symmetric when the underlying circle pattern is symmetric. 
+            For example, in the arrowhead molecule in Figure 10.22, the 
+            circle pattern has left-right symmetry, but the molecule does 
+            not have this symmetry. The gusset molecule in Figure 10.23 
+            has the same left-right symmetry as the quadrilateral.
+                The disadvantage is that the gusset molecule is a bit 
+            harder to construct than the arrowhead molecule. However, 
+
+                                                                                                     361
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,34 @@
+            analog of the arrowhead molecule. You might enjoy comparing 
+            the crease pattern in Figure 10.51 with the one in Figure 10.50 
+            and attempting to fold a model from both.
+
+
+            Figure 10.51. 
+            Crease pattern, base, and folded model of the Eupatorus gracil-
+            icornis.
+
+                Figure 10.51 is a packing consisting entirely of circles, but 
+            as we have seen, we can use molecules for packings of circles 
+            and rivers. Figure 10.52 shows a crease pattern for a Silverﬁsh 
+            that includes several rivers; nevertheless, all of the molecules 
+            are combinations of rabbit ear, gusset, and Waterbomb mol-
+            ecules. As practice, you might try identifying the axial, ridge, 
+            and gusset creases from the hints provided by the packing 
+            circles. A folding sequence is provided for this one at the end 
+            of the chapter.
+                The circle/river method of designing origami is extremely 
+            powerful. By packing circles and rivers into a square, you are 
+            guaranteed all the ﬂaps you need; by using molecular crease 
+            patterns to ﬁll in the axial polygons created by your packing, 
+            you are guaranteed a ﬂat-foldable base. Using these and similar 
+            techniques, origami artists have created designs of unbeliev-
+            able complexity. These techniques are at their best when the 
+            subject has many long, skinny appendages; insects, spiders, 
+            and other arthropods are prime candidates. The 1990s saw 
+            the ﬂowering of these techniques in both the West and Japan, 
+            and launched an informal trans-Paciﬁc competition known 
+            as the Bug Wars, in which at every origami exhibition, the 
+
+                                                                                                     383
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

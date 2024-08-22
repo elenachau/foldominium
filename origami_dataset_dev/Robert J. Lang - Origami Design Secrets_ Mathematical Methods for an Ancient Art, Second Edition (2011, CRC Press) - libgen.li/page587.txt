@@ -1,0 +1,50 @@
+                The circle and river represent the minimum amount of 
+            paper required for each ﬂap: leaf ﬂaps (represented by circles) 
+            and branch ﬂaps (represented by rivers). For polygon pack-
+            ing, we use analogs of these two shapes: closed polygons for 
+            leaf ﬂaps, polygonal rivers for branch ﬂaps. Both shapes are 
+            outlined by the hinge creases of the crease pattern. But what 
+            are the conditions that deﬁne those shapes?
+                We have already said that we want the boundaries of 
+            our polygons to run along “nice” angles. In principle, we can 
+            use any polygons we want, but it is convenient to group them 
+            into families according to the angles that their bounding 
+            creases are constrained to. The ﬁrst family is the analog of 
+            box pleating.
+                In circle packing, circles represent the minimum paper 
+            needed to create a ﬂap. In polygon packing, the polygons are 
+            shapes bounded by hinge creases, and they represent the actual 
+            paper used in each ﬂap. We will make them obey the “niceness” 
+            condition, that all hinge creases run at a nice set of angles, 
+            which will be multiples of 90°, in the case of box pleating. That 
+            sets the rules for a box-pleated hinge polygon: it is a polygon 
+            that fully encloses the circle whose radius is the length of the 
+            given ﬂap, and all of its sides run at multiples of 90°.
+                Why must it fully enclose the corresponding circle? Be-
+            cause the circle packing sets an absolute lower bound on the 
+            size of the polygon. Since the circle represents the minimum 
+            amount of paper required by the ﬂap, every point inside the 
+            circle must lie inside the hinge polygon. However, some ad-
+            ditional points outside the circle can also be part of the hinge 
+            polygon. That means that for a given ﬂap length, there are 
+            arbitrarily many polygons that can give rise to a ﬂap of that 
+            length. All that we require is that the polygon fully enclose 
+            the circle that deﬁnes the minimum extent, and that the poly-
+            gon’s edges run at multiples of 90°. Several such examples are 
+            shown in Figure 13.10.
+                Note that while a square satisﬁes the two conditions of 
+            fully enclosing the circle and angle-constrained boundary, 
+            there is no requirement that the polygon be a square, or a 
+            rectangle, or even convex; L-shaped or T-shaped, or even more 
+            complicated shaped polygons are possible. There is also no 
+            particular requirement that the polygon touch its enclosing 
+            circle on all sides. If the circle can be made larger, though, 
+            that is an indication that the resulting ﬂap could turn out 
+            to be longer than the minimum length set by the size of the 
+            enclosed circle.
+                For a given ﬂap size, though, there is a minimum poly-
+            gon, which is the angle-constrained polygon that encloses its 
+
+                                                                                                     575
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

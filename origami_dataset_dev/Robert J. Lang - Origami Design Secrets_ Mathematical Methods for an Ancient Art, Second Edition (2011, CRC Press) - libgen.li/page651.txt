@@ -1,0 +1,42 @@
+            boundaryboundary of of
+            gussetgusset
+            quadrilateralquadrilateral
+                                                                       Figure 14.15. 
+                                                                       Ridge crease for the two over-
+                                                                       lapping squares, which come 
+                                                                       from the gusset quadrilateral 
+                                                                       molecule.
+
+
+                        r2
+
+
+                 A                                            A′             B′
+                                                                        t
+                                                                 h
+                      A′                                  A                      B
+
+                    h
+            s2
+                                         r1
+                     t
+                              B′
+
+
+                         s1       B
+            Figure 14.16. 
+            Left: key distances in the gusset quadrilateral molecule for overlap-
+            ping squares. 
+            Right: the arrangement of vertices in the folded form. The axis is 
+            horizontal.
+
+            Then there is an inner rectangle, which is the bounding box 
+            of the gusset. The gusset fold itself is the diagonal crease of 
+            this inner rectangle, and the two ridges on either side of the 
+            gusset are rabbit ear folds (angle bisectors) of the two triangles 
+            formed by dividing this inner rectangle. The inner rectangle 
+            is inset from the other rectangle by some distance; if we had 
+
+                                                                                                     639
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

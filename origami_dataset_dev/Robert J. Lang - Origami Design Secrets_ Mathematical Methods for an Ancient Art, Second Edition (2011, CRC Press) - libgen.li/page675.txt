@@ -1,0 +1,35 @@
+            Figure 14.40. 
+            Fully assigned crease patterns for 1- and 2-unit hinge polygons and 
+            silhouettes of their folded forms. 
+            Left: uniaxial box pleating. 
+            Right: uniaxial hex pleating.
+
+            is noticeably narrower than its box-pleated equivalent. The 
+            minimum-length box-pleated ﬂap is as wide as it is long; the 
+            minimum-length hex-pleated ﬂap is only 1/√3 times as wide 
+            as it is long—about 58% of the length.
+                That means that hex-pleated ﬂaps are naturally narrower 
+            than their box-pleated kin. This may or may not be desirable. 
+            For insect legs, for example, one can almost never go too thin. 
+            But for the body segments, one typically would like those 
+            ﬂaps to be much wider. In that case, one will be working at 
+            a disadvantage with hex pleating, though of course, one may 
+            use level shifters to selectively widen ﬂaps, just as with box 
+            pleating, as we will shortly see.
+                In fact, because of this fundamental asymmetry between 
+            up/down and side/side that exists in hex pleating, there are two 
+            naturally different length scales that apply. When we design 
+            a uniaxial base using either box pleating or hex pleating, we 
+            must quantize the dimensions of the desired base in order to 
+            ﬁt them to the required grid. For box pleating, both lengths 
+            and heights are quantized to the nearest multiple of the same 
+            unit distance. But for hex pleating, while ﬂap lengths along 
+            the axis will be similarly quantized to a multiple of the basic 
+            unit, ﬂap widths will be quantized to multiples of a different 
+            amount, which is this fundamental width unit, and which is 
+            only 58% of the length quantization. So in hex pleating we can 
+            talk about the length unit and the (smaller) width unit.
+
+                                                                                                     663
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

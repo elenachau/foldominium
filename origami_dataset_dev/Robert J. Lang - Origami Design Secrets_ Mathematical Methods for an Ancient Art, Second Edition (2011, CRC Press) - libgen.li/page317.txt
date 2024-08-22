@@ -1,0 +1,43 @@
+            image of the right side. If we draw a line down the middle of a 
+            tarantula (or any bilaterally symmetric animal), legs and other 
+            appendages that come in pairs will lie wholly on one side or the 
+            other of this line, which we call the line of mirror symmetry 
+            of the model. On the other hand, most appendages that come 
+            singly—such as the head or abdomen—will be made from ﬂaps 
+            that lie directly upon the line of symmetry.
+                The ﬂaps of the base must show the same symmetry as 
+            the tarantula. The base should have a line of mirror symmetry; 
+            ﬂaps that become legs should lie wholly on one side of the line of 
+            symmetry or the other. Flaps that become a head or tail should 
+            lie directly on the line of symmetry. These relationships are 
+            illustrated in Figure 9.13.
+
+                                 paired appendages      paired flaps
+
+
+                                                                        Figure 9.13. 
+                                                                        Left: a tarantula and its line of 
+                                                                        symmetry. 
+                                                                        Right: a hypothetical tarantula 
+                                 appendage on           flap on
+                                 symmetry line          symmetry line   base and its line of symmetry.
+
+                If the subject has bilateral symmetry, then the base should 
+            have bilateral symmetry. And if the base has bilateral symme-
+            try, then the crease pattern must also have the same type of 
+            symmetry. Since each ﬂap can be identiﬁed with a particular 
+            circle in the crease pattern, we can’t use just any crease pattern 
+            with the right number of ﬂaps; we have to use a crease pattern 
+            in which each circle has the same relationship to the line of 
+            symmetry as does its corresponding ﬂap in the base.
+                If the crease pattern has a line of symmetry, then (usually) 
+            that line of symmetry must be one of the lines of symmetry 
+            of the unmarked square. A square has a total of four mirror 
+            lines of symmetry, which are illustrated in Figure 9.14. But in 
+            fact, there are only two different types of symmetry possible 
+            in a crease pattern. It can be symmetric about a line between 
+            the middle of the two sides, which we call book symmetry; or 
+
+                                                                                                     305
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

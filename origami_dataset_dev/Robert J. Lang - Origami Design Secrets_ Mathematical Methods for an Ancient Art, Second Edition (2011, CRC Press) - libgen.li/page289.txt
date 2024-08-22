@@ -1,0 +1,31 @@
+            Figure 8.52. 
+            Crease pattern, base, and folded model of the Periodical Cicada with 
+            a tiled crease pattern.
+
+            combinations of ﬂaps beyond those in the standard reper-
+            toire. While this approach can be used for many origami 
+            subjects, it is particularly effective with insects, whose many 
+            appendages, often of varying lengths, have historically 
+            provided great challenge to the origami designer. By 
+            building up bases from tiles, it is possible to achieve quite 
+            complex combinations of long and short flaps. In the 
+            Periodical Cicada shown in Figure 8.52, six isosceles right 
+            triangle tiles, four isosceles triangles and four scalene 
+            triangles come together to produce six legs, two long wings, a 
+            head, thorax, and abdomen.
+
+            8.8. From New Tile to New Base
+            There are many possible tiles. You can search through the ori-
+            gami literature and catalog them, then combine existing tiles 
+            in new ways to realize new bases. Or, you can seek to construct 
+            new tiles directly. A new type of tile can inspire a new design. 
+            Squares, rectangles, and triangles are not the only possible 
+            tiles. It’s possible to construct circles and rivers inside a paral-
+            lelogram as well, as shown in Figure 8.53.
+                Like a rectangle, a parallelogram can be stretched arbitrari-
+            ly; in this tile, stretching along the long direction can be taken 
+            up by increasing the width of the river running vertically.
+
+                                                                                                     277
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

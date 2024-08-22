@@ -1,0 +1,42 @@
+            tern satisﬁed the tangent point condition—the tangent points all 
+            come together automatically. With a quadrilateral, the situation 
+            is a bit more complicated. For any quadrilateral that is formed 
+            by connecting the centers of four touching circles, the bisectors 
+            of the four angles all meet at a point as shown in Figure 10.12, 
+            which suggests one way of collapsing a quadrilateral.
+
+
+            Figure 10.12. 
+            The bisectors of a quadrilateral deﬁned by four touching circles meet 
+            at a point, which permits the quadrilateral to be folded so that all of 
+            its edges lie on a single line.
+
+                We call this pattern the Waterbomb molecule, because the 
+            folded shape and the topology of the creases are those of the 
+            traditional Waterbomb.
+                Note, however, that not all quadrilaterals can be folded 
+            into a Waterbomb molecule; in fact, only those formed by four 
+            touching circles—called a four-circle quadrilateral—can be so 
+            folded. This property is fairly easy to demonstrate. As shown 
+            in Figure 10.13, if the four circles have radii a, b, c, and d, 
+            then the sides of the quadrilateral are, respectively, (a + b), 
+            (b + c), (c + d), and (d + a). The sum of the lengths of opposite 
+            sides are (a + b + c + d) for both pairs of sides. We call this 
+            relationship the Waterbomb condition: In a four-circle quadri-
+            lateral, the sums of opposite sides are equal.
+
+
+                                    b       c
+                                                 c
+                              b
+
+
+                                                    d
+                           a                                            Figure 10.13. 
+                                                                        For a four-circle quadrilateral, 
+                                                                        the sums of the lengths of 
+                                a            d                          opposite sides are equal.
+
+                                                                                                     355
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

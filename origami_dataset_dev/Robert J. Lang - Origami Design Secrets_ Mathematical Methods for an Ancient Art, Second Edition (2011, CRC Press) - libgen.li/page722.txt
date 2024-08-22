@@ -1,0 +1,31 @@
+                                         Figure 15.11. 
+                                         Crease pattern, base, and folded model of the Rabbit.
+
+                                         (which is why the grafted Kite Base is a family of bases, rather 
+                                         than a single base). The smaller the Kite Base is, relative to the 
+                                         full square, the more paper is available for other ﬂaps. Thus, in 
+                                         Figure 15.12, where I have drawn three different sizes, you can 
+                                         see that in the image on the left, the four circles at the top of 
+                                         the square (and thus their corresponding ﬂaps in the base) are 
+                                         relatively small compared to the lower ﬂaps; compare circles A, 
+                                         B, and C in Figure 15.12. Reducing the Kite Base relative to the 
+                                         larger square allows the four type A ﬂaps to enlarge, as you can 
+                                         see in the progression in the ﬁgure.
+
+
+                    A                             A
+                                                                              A
+
+
+           B                             B                             B
+
+
+                   C                             C
+                                                                               C
+
+                                         Figure 15.12. 
+                                         Three different ratio embeddings of the grafted Kite Base.
+
+     710
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

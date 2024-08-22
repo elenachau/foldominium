@@ -1,0 +1,8 @@
+                                       4.5.23
+
+Edge 7 has been strained (lengthened) by 44.9%, which now puts edge 7 in the corner of the
+paper. Now select the Build Polys command, Action menu, to construct polygons from the
+active paths, as shown in figure 4.5.24.
+
+
+                                  98

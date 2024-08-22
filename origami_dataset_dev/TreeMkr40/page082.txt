@@ -1,0 +1,44 @@
+    Edit treeÉ                          1J
+ Puts up the Tree Editor, which lets you alter attributes of the overall pattern, as shown in figure
+ 4.5.3.
+
+
+                                       4.5.3
+
+The fields of the Tree Editor are:
+
+Paper width — gives the width of the paper in dimensionless units. This value is normally set to
+1, no matter how big the screen or printout is. To change the actual size of the screen (or printed)
+image, select Set Paper Size… in the View menu.
+
+Paper height — gives the height of the paper in dimensionless units. This value is normally set
+to 1 for a square but you can change it to other values if you like. To work out designs on a
+rectangle, you can change either the width or height to a different value. (You can, if you like,
+change both to a different value, but it won’t make any difference.)
+
+Scale — this sets the relationship between the units of the tree (edge lengths) and the
+dimensionless size of the square. This quantity is determined when you invoke the Optimize
+Scale command. You will ordinarily not change this number, but if you are creating a very
+complicated tree, you might want to set it to a very small number to keep from cluttering up the
+screen with a lot of circles.
+
+Symmetry — on = define a line of symmetry. The line is defined by a point on the line and an
+angle. Two common lines of symmetry are the point (0.5, 0.5) and angle 45° (for a diagonal
+model) and the point (0.5, 0.5) and angle 90° (for a book-folded model). The two buttons
+immediately below the check box are preset for these values.
+
+diag — preset button for diagonal symmetry
+
+book — preset button for book-fold symmetry
+
+x = ___ — the x-coordinate of a point on the line of symmetry.
+
+y = ___ — the y-coordinate of a point on the line of symmetry.
+
+angle = ___ — the angle (in degrees) of the line of symmetry.
+
+Clicking on the disclosure triangle toggles to Expert Mode, which displays additional structural
+information about the Tree as shown in figure 4.5.4.
+
+
+                                  82

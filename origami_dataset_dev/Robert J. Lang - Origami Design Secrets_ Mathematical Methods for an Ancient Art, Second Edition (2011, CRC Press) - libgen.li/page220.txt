@@ -1,0 +1,32 @@
+                                             When the square has been released, there is a tiny Pre-
+                                         liminary Fold in the layers underneath. We then can sink the 
+                                         tip of the square, but only to the depth allowed by the edges of 
+                                         the Preliminary Fold.
+
+
+                                   9. Sink the tip.                   10. The tip is now sunk.
+
+                                         Figure 7.15. 
+                                         Now that the tip has been freed, it can be sunk.
+
+                                             Now this was just a single pleat. We can make an array 
+                                         of scales from an array of these pleats. An array of pleats is 
+                                         deﬁned by three quantities: the direction of the pleats, the width 
+                                         of each pleat, and the spacing from one pleat to the next. We 
+                                         have chosen the direction to be 45°. For a given pleat width, 
+                                         there is one degree of freedom left to choose: the spacing of 
+                                         the pleats relative to the pleat width. To make this choice, we 
+                                         should extract the structure of the pleat crossing, and use that 
+                                         as a basic element to be replicated. That structural element 
+                                         consists of the visible fold lines of the pleats (and, if you like, 
+                                         the hidden edges of the pleats), as shown in Figure 7.16.
+
+
+            Figure 7.16. 
+            Left: a single pleat. 
+            Right: the structural elements 
+            of the pleat crossing.
+
+     208
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

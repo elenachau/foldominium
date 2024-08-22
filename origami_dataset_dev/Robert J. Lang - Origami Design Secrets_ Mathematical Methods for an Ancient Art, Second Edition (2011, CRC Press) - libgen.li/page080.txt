@@ -1,0 +1,31 @@
+                                         Figure 4.15. 
+                                         Crease pattern, base, and finished model of Hummingbird, from a 
+                                         Frog Base.
+
+                                         4.5. Simple Variations on Bases
+                                         To move out of the conﬁnes of the standard bases, in what I 
+                                         will call the early exploratory period of origami, the 1950s and 
+                                         1960s, many folders experimented with alterations and com-
+                                         binations of the bases. A not-uncommon tactic was to fold half 
+                                         of the square as one base and the other half as another: thus, 
+                                         a half-Bird, half-Frog Base, for example. However, with only 
+                                         a handful of bases around to start with, one quickly exhausts 
+                                         the possibilities of this technique.
+                                             The 1960s and 1970s saw another variation that can also 
+                                         lead to new structures: Use the crease pattern of the original 
+                                         base, but distort it in some controllable way. The most common 
+                                         application of this second approach is to offset the base, that 
+                                         is, shift the nexus of creases that typically arises at the center 
+                                         of the paper away from the true center, either toward an edge 
+                                         or toward a corner. Since the amount of shift was something 
+                                         that could be continuously varied, this technique provides 
+                                         a greater range of possibility than discrete combinations of 
+                                         fractional bases.
+                                             As an example, the crease pattern of a Bird Base can be 
+                                         shifted in two distinctly different ways that preserve some 
+                                         symmetry, as shown in Figure 4.16. The crease pattern can be 
+                                         shifted toward a corner or an edge.
+
+      68
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

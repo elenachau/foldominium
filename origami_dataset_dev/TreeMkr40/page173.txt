@@ -1,0 +1,38 @@
+• Initial suite of Conditions includes 10 different types.
+
+• Introduced strain into edges
+
+• Replaced ConstrainedMinimax<> optimizers with optimizers based on CFSQP 2.5. Created
+supporting classes for same.
+
+• Introduced ToggleSizeDialog so that part flags are normally concealed.
+
+• Replaced all View objects with Grayscale classes.
+
+• Introduced strain minimization. Rewrote EdgeOptimizer to utilize strain as well.
+
+• Polys are no longer automatically built, but must be explicitly called.
+
+• Introduced TreeCleaner class to insure automatic cleanup after editing.
+
+• Added Condition menu to hold related commands.
+
+• Rearranged command-key equivalents in menus.
+
+• Introduced new file structure for future compatibility.
+
+   8.3 Sources
+
+For comments, suggestions, attaboys and whaps, please write to me at:
+
+Robert J. Lang
+7580 Olive Drive
+Pleasanton, CA 94588
+rjlang@aol.com
+
+For more information on CFSQP, check out the CFSQP web site at:
+
+http://www.isr.umd.edu/Labs/CACSE/FSQP/fsqp.html
+
+
+                                173

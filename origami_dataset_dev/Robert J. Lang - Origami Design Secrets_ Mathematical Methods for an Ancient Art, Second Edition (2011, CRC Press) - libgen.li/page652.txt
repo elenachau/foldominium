@@ -1,0 +1,57 @@
+                                         this inset distance, we could easily construct all of the other 
+                                         creases by simple geometry or folding.
+                                             Deﬁne the following parameters of the conﬁguration:
+
+
+                                             • Let s1 and s2 be the sides of the outer rectangle (the 
+                                             bounding box of the two circle centers).
+
+                                             • Let h be the inset distance of the inner rectangle 
+                                             from the outer one.
+
+                                             • Let t be the inset distance of the peak of the rabbit 
+                                             ear molecule from the outer rectangle.
+
+
+                                             • Let d = r1 + r2 be the minimum allowed distance 
+
+                                             between the two circles (of radii r1 and r2, respec-
+                                             tively).
+
+                                             Then a little bit of geometry and algebra gives the follow-
+                                         ing formulas for both h and t:
+                                                            ()s + s − d
+                                                   t      =  1   2       ,                   (14–1)
+                                                                2
+
+                                                            ()s + s − d   ()d − s ()d − s
+                                                     h    =  1   2     −       1         2    .      (14–2)
+                                                                2               2
+                                             With these two formulas, one can easily solve for the inset 
+                                         distances h and t, and can then construct the rest of the ridge 
+                                         creases.
+                                             In general, there will be a solution if and only if
+
+                                                                1
+                                                             f = ()cscα − 1
+                                                                2         ,                  (14–3)
+
+                                         that is, if and only if the diagonal of the outer bounding box 
+                                         is greater than or equal to the minimum spacing between the 
+                                         circle centers. This is just the circle-packing condition. Thus, 
+                                         there is a solution whenever the sides of the bounding box and 
+                                         their minimum spacing satisfy an inequality form of Pythago-
+                                         ras’ formula for right triangles. Because of this correspondence, 
+                                         I call these overlapping-square structures Pythagorean stretch-
+                                         es—Pythagorean because of the connection to right triangles, 
+                                         and stretches, because, like the gusset molecule, they arise 
+                                         by “stretching” diagonally opposite corners of a sawhorse (or 
+                                         Waterbomb) molecule. 
+                                             Even a little overlap between squares can kill a pure circle-
+                                         packed design that is otherwise highly efﬁcient, but introduc-
+                                         ing a Pythagorean stretch can make everything ﬁt just so. An 
+                                         example is shown in Figure 14.17, which is a Longhorn Beetle, 
+
+     640
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

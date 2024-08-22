@@ -1,0 +1,21 @@
+                 1. Fold the top of the flap down.      2. Fold the flap up so that its right  3. Pull out the loose edge as far as
+                                                        edge is aligned with the layer         possible.
+                                                        underneath.
+
+
+                 4. Squash-fold the edge and swing      5. Pull up the loose edge as far as    6. Outside-reverse-fold the white
+                 the flap over to the left on a vertical possible, releasing the trapped paper point.
+                 fold.                                  under the flap.
+
+
+                 7. Reverse-fold the flap through the   8. Reverse-fold the flap back to the         9. Finished ideal split.
+                 model. Turn the model over.            center line.
+                Figure 5.12. 
+                Folding sequence for the ideal split, after Montroll.
+                Splits can be used for more than point multiplication; as an 
+                auxiliary beneﬁt, by splitting the large central point with a 
+                Yoshizawa split, we can reduce its height while preserving the 
+
+                                                                                                                                  103
+                                                                                     Chapter 5: Splitting Points
+© 2012 by Taylor & Francis Group, LLC

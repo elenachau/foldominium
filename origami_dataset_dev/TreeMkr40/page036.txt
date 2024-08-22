@@ -1,0 +1,54 @@
+It is possible to narrow flaps by adding
+new nodes to the tree and inflating them                  5                 4
+to break up the active polygon. For
+example, in the tree shown above, if you                     4        3
+add a point to node 3, as shown in figure                    1.000    1.000
+3.1.4,
+                                                                3
+
+and then, making sure both the new edge                               5
+                          Optimize                             8
+and node are selected, choose                              2    1.000 1.000
+                                                                            6
+Selection. This will expand the new edge 7                 1.0009
+to its limit, creating new active paths that  6
+effectively break up the hexagon into          1.000  2
+smaller active polygons — in this case,
+two triangles and two quadrilaterals, as
+shown in figure 3.1.5.                        1        7
+                                               1.000    1.000
+
+                                        1                8
+
+                                                       3.1.4
+
+
+                                                          5        3        4
+
+                                                             4        3
+                                                    3
+                                                             1.000    1.000
+                                                            3               3
+                                                                3
+                                              2                8
+                                                              9 1.000-37.9%
+                                                         3            5
+                                                                   3  1.000
+                                                2          2
+                                                           1.000            6
+                                        7                    3
+                                              6
+                                               1.000  2
+                                                                     3
+
+                                        2                  2
+                                              1        7
+                                                               2
+                                               1.000    1.000
+
+                                        1       2        8
+
+                                                       3.1.5
+
+
+                                  36

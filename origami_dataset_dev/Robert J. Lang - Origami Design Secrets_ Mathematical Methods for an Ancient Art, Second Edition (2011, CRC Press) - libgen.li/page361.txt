@@ -1,0 +1,50 @@
+                In the search for underlying principles, one looks for un-
+            usual coincidences. Here, we have ﬁve different bases in which 
+            the crease patterns display the same set of behaviors. They are 
+            not just coincidences; they are general principles of the circle 
+            method of design.
+                We can use these concepts to ﬁll in the creases that go 
+            with an arbitrary circle-packing. There are three distinct sets 
+            of creases.
+                First, for any two circles that touch, there is an axial crease 
+            that runs between their centers. When the crease pattern is 
+            folded into a base, the axial creases are collinear—they  lie on 
+            top of each other. Additionally, the tangent points—the points 
+            where circles touch—all lie on top of each other along the axis 
+            in the folded base.
+                Second, there are hinge creases perpendicular to the axial 
+            creases, which emanate from the points of tangency.
+                Then there is a third set, which are creases that propagate 
+            inward from the corners of the axial polygons. In the folded 
+            form, these creases form the ridges of the folded shape. We’ll 
+            call them the ridge creases. The ridge creases bisect each of the 
+            angles at the corners of an axial polygon.
+                These three families are illustrated in Figure 10.6 for the 
+            Frog Base, with the three families of creases color-coded (red 
+            = ridge, green = axial, blue = hinge). Also shown is the folded 
+            form. All of the (green) axial creases run vertically and lie on 
+            the axis; all of the (blue) hinge creases run horizontally and so 
+            are perpendicular to the axis; the (red) ridge creases outline 
+            each of the ﬂaps off-axis.
+                In most origami instruction, the only information associat-
+            ed with a crease is its fold angle: mountain, valley, or unfolded. 
+            But here we see that we can associate a new bit of information 
+            with each crease: its structural role within the base. That new 
+            information is independent of the fold angle—you can see both 
+            folded and unfolded axial and hinge creases in the example of 
+            Figure 10.6. If we want to convey both the crease assignment 
+            and structural role graphically, we need to distinguish lines in 
+            some way other than weight (unfolded versus folded) or dash 
+            pattern (valley versus mountain). Color provides a convenient 
+            new dimension (with apologies to my color-blind readers). We 
+            will call this a structural coloring of the crease pattern.
+                The three families of creases shown in Figure 10.6 are 
+            closely related to the circles themselves. The hinge creases are 
+            conceptually the easiest to understand: They outline polygons 
+            that approximate the circles. So each polygon outlined by hinge 
+            creases, which we will call a hinge polygon, delineates the 
+            boundary of a single ﬂap of the base. We can see this by coloring 
+
+                                                                                                     349
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

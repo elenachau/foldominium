@@ -1,0 +1,41 @@
+    2.3  Tutorial 3: Changing edge lengths
+
+ In this tutorial, you will work through the design of a base that could be used for a human figure.
+ In the process, you will learn how to change the lengths of flaps.
+
+If you have quit TreeMaker, start it up
+again or select New from the File menu
+to create a new square. We will be                        1
+                                                                        5
+making a human figure, so using the
+                                                          1
+                                           4                     4
+techniques described in the previous                      1.000
+                                                  3              1.000
+tutorial, draw a stick figure of a human as        1.000  2
+shown in figure 2.3.1.
+
+Initially, all of the edges of the tree graph
+have the same length, which is defined to
+                                                          2
+be 1 unit. The length of the edge is                      1.000
+written near the middle of the edge. For
+many designs, it is desirable to change
+the lengths of some of the edges to make
+them longer or shorter than other edges.                  3
+For example, if you were making a                  5             6
+                                                   1.000          1.000
+grasshopper, you’d want the back legs to    6                            7
+be much longer than the front legs. In
+TreeMaker, you can choose the length of
+any flap. That’s what we’ll learn how to
+do now.                                                2.3.1
+Each edge of the tree has a set of
+attributes, one of which is its length. To change the length of the “head” (i.e., edge number 1),
+double-click on it. A dialog box will appear as shown in figure 2.3.2.
+
+
+                                      2.3.2
+
+
+                                  25

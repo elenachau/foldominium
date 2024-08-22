@@ -1,0 +1,52 @@
+                                       ABF
+
+                       B
+
+         A
+                                                                  F
+               1       1               F
+
+                   F                                   G
+                           1
+             1                   C                                      C
+      E                l
+                                       E
+                          G
+                     1
+                                                                 F
+                                               F
+                   D
+
+                                                        D
+
+ Figure 5.20. (Left) Tree with a new terminal node. (Right) One possible position for node G that
+ satisfies the tree theorem.
+ Figure 5.20 shows the circles around each node. As long as the circles do not overlap, the tree
+ theorem is satisfied. As l, the length of the new edge, is increased, the size of the circle around
+ node G must be increased as well. Eventually, circle G will swell until it is touching at least three
+ other circles, and at that point, shown in figure 5.21, the new point is as large as it can possibly
+ be.
+
+                      ABF
+
+
+                                                  F
+                                          F
+                      F
+
+                                      GF
+                                  F
+                                                        C
+                      EF
+
+                                                 F
+                               F
+
+                                        D
+
+Figure 5.21. Terminal node pattern with the largest possible circle around node G.
+Wherever circle G touches another circle, the two terminal nodes are spaced at their minimum
+ separation. Consequently, the paths between the nodes of touching circles are active paths.
+
+
+                                 129

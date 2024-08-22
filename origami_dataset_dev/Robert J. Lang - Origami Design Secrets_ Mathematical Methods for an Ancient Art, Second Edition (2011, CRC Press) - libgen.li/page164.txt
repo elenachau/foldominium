@@ -1,0 +1,22 @@
+            Figure 6.23. 
+            Embedded crease pattern for 
+            a border graft using four Fish 
+            Base points.
+
+                                         ﬂaps don’t have quite the same left-right symmetry, but in the 
+                                         essential crease pattern (the central light pentagon), each ﬂap 
+                                         has the same general structure as the ﬂap of the Tree Frog, as 
+                                         shown in Figure 6.24.
+                                             Each ﬂap is composed of four facets separated by al  -
+                                         ternating mountain and valley folds. In the Tree Frog, we 
+                                         split each ﬂap along its central mountain fold. In our lizard 
+
+
+                                         Figure 6.24. 
+                                         Left: crease pattern for the lizard base. 
+                                         Right: crease pattern for the Frog Base. Observe that the ﬂap in each 
+                                         case is composed of four wedges.
+
+     152
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

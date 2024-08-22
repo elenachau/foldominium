@@ -1,0 +1,33 @@
+                                         it can be constructed by folding, using the prescription shown 
+                                         in Figure 10.24. It can also be constructed numerically, by 
+                                         using analytic geometry to compute the creases shown in 
+                                         Figure 10.24, or as we will see in the next chapter, using the 
+                                         algorithms of tree theory.
+                                             In the basic gusset molecule, the baseline of the gusset 
+                                         (indicated by the hidden line in the ﬁnal step of Figure 10.24) 
+                                         is parallel to the axis. However, you can vary this angle by tip-
+                                         ping the gusset one way or the other. Several variations are 
+                                         also shown in Figure 10.25.
+                                             There is, as well, a version in which the gusset extends 
+                                         to both corners by addition of a crimp in its middle, as shown 
+                                         in Figure 10.26.
+
+
+            1. Begin with the four angle bisectors. 2. Connect the two points of intersection 3. Fold the crease you just made to lie
+            Draw lines from all four tangent points with a crease.     along two of the perpendiculars; crease
+            perpendicular to the edges until the pairs                 and unfold.
+            of perpendiculars adjacent to diagonally
+            opposite corners meet.
+
+
+            4. Repeat for the other two perpendiculars. 5. The finished crease pattern. 6. Collapse on the creases shown.
+
+
+                                         7. The finished gusset molecule.
+
+                                         Figure 10.24. 
+                                         Construction method for the gusset molecule.
+
+     362
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

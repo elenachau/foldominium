@@ -1,0 +1,36 @@
+    Select All                         1A
+ This command selects all visible nodes and edges. It’s most useful for deleting everything and
+ starting over and, with operations that are constrained to the selection (like Optimize Edges and
+ Fracture Poly), for giving the largest number of degrees of freedom possible.
+    Edit PartÉ                          1I
+ This command puts up a dialog, the Part Selector, that lets you select a part to edit by several
+ different criteria. This is useful if several parts are close together and you can’t easily click on the
+ one you want.
+
+
+                                       4.5.2
+
+The fields of the Part Selector are:
+
+Path by nodes — specifies a path according to the indices of the nodes at each end of the path
+
+Node by index — specifies a node according to its index
+
+Edge by index — specifies an edge according to its index
+
+Path by index — specifies a path according to its index
+
+Poly by index — specifies a poly according to its index
+
+Vertex by index — specifies a vertex according to its index
+
+Crease by index — specifies a crease according to its index
+
+This command is used to edit a node, edge, path, poly, vertex, or crease when you can’t easily
+double-click on it. I find that I use it most often to get access to a particular path when I know the
+nodes at each end of the path, so that’s the default selection criterion.
+
+After you close this dialog, an editor will be put up for the selected part.
+
+
+                                  81

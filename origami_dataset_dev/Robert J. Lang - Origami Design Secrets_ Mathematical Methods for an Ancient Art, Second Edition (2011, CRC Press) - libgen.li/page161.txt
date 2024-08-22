@@ -1,0 +1,33 @@
+                Now, as we’ve seen, there are several different ways to 
+            add toes to this lizard. We could split the leg points, albeit 
+            at a cost in length. We could do it with a border graft. And 
+            we could do it with a strip graft, in more than one way, as 
+            it turns out. But let’s ﬁrst look at trying a border graft, not 
+            because it works best, but because it doesn’t work very well at 
+            all. In origami design, understanding why a design technique 
+            doesn’t work can sometimes be more valuable than folding 
+            one that works.
+                Proceeding as with the bird’s feet of the previous section, 
+            let’s try adding a small Bird Base to the tip of each of the four 
+            legs as shown in Figure 6.21, which, reasoning by analogy, 
+            should give us four toes on each foot.
+
+
+            Figure 6.21. 
+            Left: adding four small bird bases to the feet of the lizard base. Right: 
+            the shape embedded in a larger square.
+
+                The ﬁrst thing that stands out from this construction is 
+            that we’ve added a whopping great quantity of nonessential 
+            paper to the pattern (in addition to the nonessential paper that 
+            was already there at three of the four corners). Basically, all of 
+            the colored region on the right in Figure 6.21 is nonessential. 
+            The second thing of importance—which doesn’t stand out, 
+            but can be ascertained from examination of the pattern—is 
+            that it turns out to be impossible to add creases to the colored 
+            region in any way that allows the four “toes” (the tips of the 
+            bird base) to come together.
+
+                                                                                                     149
+                                                                       Chapter 6: Grafting
+© 2012 by Taylor & Francis Group, LLC

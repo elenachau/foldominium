@@ -1,0 +1,63 @@
+If you built creases to make your paper
+look like figure 2.2.3, select Remove                      1
+Polygons from the Action menu and                2
+ make sure you are in Default View (in                             2
+                                        4                  1
+ the View menu). You’ll see that the                       1.000
+ paper now has a green line, which               3
+                                                                            5
+                                                  1.000            4
+ indicates the line of symmetry as shown                   2
+ in figure 2.2.6.                                                   1.000
+                                        2
+ Now we need to establish a relationship
+                                                           2          2
+ between individual nodes and the line of                  1.000
+ symmetry. A node can have one of two
+ possible relationships with the line of                   3
+ symmetry: it actually lie on the line of 3
+                                                                 3
+ symmetry (for example, the head or tail
+ of an animal) or it can be one of a pair of     5         6
+ nodes arranged symmetrically about the          1.000     1.000
+ line of symmetry. In our model, the head 6       3         7
+ lies on the symmetry line of the tree.
+ Thus, we need to force the node that
+ corresponds to the head (node 7) to lie on            2.2.6
+ the symmetry line of the square.
+
+ When we want to impose additional requirements on a tree, we are imposing conditions on the
+ various parts of the tree. We can impose conditions in several ways. The easiest is to simply
+ select node 1, and from the Conditions menu, select the command Node fixed to symmetry
+ line.
+
+ What we have done is impose a
+condition on node 1. The tangible                          1
+evidence of this is that the circle around       2
+node 1 has turned green, as shown in                               2
+                                        4                  1
+figure 2.2.7. Also, if you click on the                    1.000
+Conditions menu, you’ll see that the             3
+                                                                            5
+Node fixed to symmetry line                       1.000            4
+                          command                          2
+is now checked. (Don’t select the                                   1.000
+command again, or you’ll toggle off this 2
+condition.)
+                                                           2          2
+                                                           1.000
+   •Note that node 1 hasn’t moved and
+   isn’t on the symmetry line;                             3
+   conditions don’t take effect until   3
+                                                                 3
+   you perform another optimization.
+                                                 5         6
+Next, we need to tell TreeMaker that             1.000     1.000
+pairs of flaps should be mirror-
+                                        6         3         7
+symmetric. For example, nodes 4 and 5
+correspond to the left and right arms of
+the figure. Thus, each of nodes 4 and 5                2.2.7
+should be the mirror image of the other.
+
+                                  19

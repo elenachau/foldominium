@@ -1,0 +1,55 @@
+Click on node 9 to highlight it. Then
+click next to it to create a new node and                 1
+edge attached at node 9 as shown in
+figure 3.2.14.
+                                                          1
+                                        4                                   5
+                                                           1.000
+Apply a Node fixed to symmetry line              2                 3
+condition to node 10, then select edge 9          1.000             1.000
+and node 10 and choose the Optimize                         2
+selection command from the  Action
+                                                           7
+ menu. Again, you will create an active           10        0.500
+ path between nodes 1, 8, and the new                  9
+                                                            9
+ node, as shown in figure 3.2.15.                      1.000
+                                                           8
+                                                            0.500
+                                                            3
+
+                                                 4        6        5
+                                                  1.000    0.400+115.8%1.000
+                                        6                 8                 7
+
+                                                      3.2.14
+
+
+                                                          1
+
+                                                 2                 2
+                                                            1
+                                        4                                   5
+                                                            1.000
+                                                   2      2          3
+                                                   1.000             1.000
+                                                               2
+                                                          9
+                                        2                                   2
+                                                              7
+                                                          10  0.500
+                                        9                  9                9
+                                                          9  1.000-56.8%9
+
+                                        3                     8             3
+                                                          3   0.500
+                                                              3
+
+                                                  4        6        5
+                                                   1.000     0.400+115.8%1.000
+                                        6        3        8       3         7
+
+                                                      3.2.15
+
+
+                                  46

@@ -1,0 +1,6 @@
+Example 
+
+
+   • Constant Thickness Model
+      – the shape is locally defined
+      – cf: Slidable Hinge →

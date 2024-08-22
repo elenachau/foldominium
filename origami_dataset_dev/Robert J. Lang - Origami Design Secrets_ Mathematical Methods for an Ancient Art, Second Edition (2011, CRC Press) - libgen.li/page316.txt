@@ -1,0 +1,49 @@
+                                             A third approach is to set the problem up mathematically 
+                                         and use a computer to solve numerically for the optimum ar-
+                                         rangement. I will describe a numerical solution to the circle 
+                                         packing problem in the section on tree theory later in this 
+                                         book.
+                                             For small numbers of ﬂaps, you can usually ﬁnd the solution 
+                                         by doodling; for large numbers of ﬂaps, the frame-and-circle jig 
+                                         works well. While the number of models with more than eight 
+                                         equal-sized ﬂaps dwindles rapidly with increasing numbers of 
+                                         ﬂaps, it is interesting to ponder the question: What are the limits 
+                                         on the sizes and types of ﬂaps? One can show that as the number 
+                                         of ﬂaps N becomes very large, the length r of a ﬂap in the most 
+                                         efﬁcient crease pattern approaches a value of
+                                                                     1
+                                                              r=         .                   (9–3)
+                                                                     N  32
+                                             For 1000 ﬂaps, this limit takes the value r = 0.017; for a 
+                                         25-cm square, this would imply you could make a base with 
+                                         1000 ﬂaps, each of which is 0.42 cm long. Within this base, there 
+                                         will be at most four corner ﬂaps; there will be (4/r), or 235 edge 
+                                         ﬂaps, give or take a few, and the remaining 761 ﬂaps will be 
+                                         middle ﬂaps. The folding method for the base—as well as the 
+                                         choice of subject—is left as an exercise for the reader.
+
+                                         9.6. Symmetry
+                                         Circle packing allows one to go directly from a description of 
+                                         the ﬂap conﬁguration to the base. Each ﬂap is represented 
+                                         by a circle; by packing the circles into a square and overlay-
+                                         ing tiles, we can construct a crease pattern that folds into the 
+                                         desired base.
+                                             There is an important consideration, however, that we 
+                                         have thus far neglected: the symmetry of the subject. Not only 
+                                         must we match the number of appendages to the number of ﬂaps 
+                                         in the base and the number of circles in the circle pattern; we 
+                                         must also match the symmetry of the subject to the symmetry 
+                                         of the base and to the symmetry of the circle pattern.
+                                             Consider, for example, a ten-appendaged subject, such as 
+                                         a tarantula. (A tarantula, being a spider, has eight legs; it also 
+                                         has two prominent appendages at the head, called pedipalps, 
+                                         which are technically mouth parts, but that appear to be a tenth 
+                                         pair of legs.) The legs of a tarantula come in pairs, one on the 
+                                         right side, one on the left. Therefore, when we fold a base, all 
+                                         of its ﬂaps must also come in matched pairs.
+                                             Tarantulas, like most animals, are bilaterally symmetric, 
+                                         which is to say that the left side of a tarantula is the mirror 
+
+     304
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,45 @@
+                TreeMaker  431,  561, 569             W
+                tree theorem  407, 424, 427, 750
+                tree theory  8, 362, 401, 750         Walrus
+                triangle                               crease pattern, base, and folded 
+                 appearance in Classic Bases  61            model  114
+                 molecule  352                        washi  15
+                triangulation  423, 750               Waterbomb Base  56,   158, 323, 
+                Turtle  325                              356, 627, 751
+                 crease pattern, base, and folded      as a uniaxial base  245
+                      model  198                       as limiting case of rectangle tile  252
+                turtle base  242                       offset, use in Baby  69
+                                                      Waterbomb condition  355, 366, 751
+                U                                     Waterbomb molecule  355,   413, 
+                                                         416, 428, 751
+                Uchiyama, Kosho  48,  713              as limiting case of sawhorse 
+                 system of bases  58                            molecule  365
+                Uchiyama, Michio  713                 Water Strider
+                 system of bases  58                   contour map and folded model  643
+                Unamuno, Miguel de  713               wedge of creases in split point  110
+                unfold  750                           weight, of an edge  402
+                 as a type of fold  11                Western Pond Turtle
+                uniaxial base  7, 244, 294, 402,       crease pattern, base, and folded 
+                   705, 750                                 model  203
+                uniaxial box pleating  562, 573,      Windmill Base  57,  244, 751
+                   660                                 in Stealth Fighter  64
+                uniaxial hex pleating  660
+                universal molecule  424, 584, 590,    Y
+                   751
+                unryu  15                             Yoshino, Issei  48
+                unsink fold  39, 751                  Yoshizawa, Akira  713
+                                                       Crab  62,  326
+                V                                      diagramming symbols  4,   13
+                                                       optimum-length split  95
+                valency  301                           splitting technique  94
+                Valette, Guy  329                     Yoshizawa split  100, 751
+                valley fold  751
+                 deﬁnition of  11                     Z
+                vertices
+                 branch  409,  744                    zone of acceptability
+                 leaf  404, 747                        for overlapping polygons  638
+
+
+       758
+                              Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,57 @@
+                                         for which the reduced path inequality becomes an equality is, 
+                                         in analogy with active paths between nodes, called an active 
+                                         reduced path.
+                                             So for any distance h, we have a unique reduced polygon 
+                                         and a set of reduced path inequalities, each of which cor-
+                                         responds to one of the original path inequalities. We have 
+                                         already assumed that all of the original path inequalities are 
+                                         satisﬁed; thus, we know that all of the reduced path inequali-
+                                         ties are satisﬁed for the h = 0 case (no inset distance). It can 
+                                         also be shown that there is always some inﬁnitesimally small 
+                                         but positive value of h for which the reduced path inequalities 
+                                         are also satisﬁed. On the other hand, as we increase the inset 
+                                         distance, there comes a point beyond which one or more of the 
+                                         reduced path constraints is violated.
+                                             Suppose we increase h to the largest possible value for 
+                                         which every reduced path inequality remains true. At the 
+                                         maximum value of h, one or both of the following conditions 
+                                         will hold: 
+
+                                             • For two adjacent corners, the reduced path length 
+                                             has fallen to zero and the two inset corners are de-
+                                             generate; or
+
+                                             • For two nonadjacent corners, a path between inset 
+                                             corners has become an active reduced path.
+
+                                             These two situations are illustrated in Figure 11.30.
+                                             Again, one or the other (or both) of these situations must 
+                                         apply; it is possible that paths corresponding to both adjacent 
+
+
+                                                                 A    α
+                                                                   i   i
+                                                                    α      ′
+                                                                     i    Ai
+                                                ′− ′ =                             ′  ′   ′
+                                       A′   ′  Ai Aj  0                           A − A = ml
+                                        i  Aj                                      i  j   ij
+
+
+                                                                                            ′
+                                         h                                                 Aj
+                            α
+                             i                     α                              h           α
+                               α                 α  j                                       α  j
+                                i                 j                                          j
+                                                     A                                          A
+                           Ai                         j                                          j
+                                         Figure 11.30. 
+                                         Left: two corners are inset to the same point, which is the intersection 
+                                         of the angle bisectors. 
+                                         Right: two nonadjacent corners inset to the point where the reduced 
+                                         path between the inset corners becomes active.
+
+     426
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

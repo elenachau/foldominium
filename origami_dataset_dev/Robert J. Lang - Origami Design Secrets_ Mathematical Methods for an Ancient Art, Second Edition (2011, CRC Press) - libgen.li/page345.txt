@@ -1,0 +1,36 @@
+                                                                        Figure 9.47. 
+                                                                        Sequence for turning the base 
+                                                                        into a star.
+
+
+                Let’s look at the perimeter for several values of N: 
+                                                                        Table 9.2. 
+              N            2     3     4      5     6     7     8       Theoretical perimeter versus 
+                                                                        number of circles packed along 
+              Perimeter    4    4.5   5.33  6.25   7.20  8.17  9.14     one side.
+
+                In fact, as N, the number of points along one side, becomes 
+            large, the perimeter approaches N as its limiting value. Thus, 
+            the perimeter can be made arbitrarily large. We can also use 
+            this result to work backwards from the desired perimeter. For 
+            example, to fold a square postage stamp one inch on a side 
+            so that it has the same perimeter as—let’s take something 
+            small—the circumference of the world (24,000 miles), we would 
+            need to make N equal to about 1.5 billion; the resulting shape 
+            would have about 2 billion billion points, and each point would 
+            be about 17 microns long—about 1/5 the diameter of a human 
+            hair. Clearly, we’d need that special zero-thickness paper that 
+            exists in mathematicians’ imagination to fold such a thing! Not 
+            to mention a lot of patience.
+                Interestingly, several origami artists had created models 
+            on these principles that belied the conjecture of the Napkin 
+            Folding Problem years before it had even arisen in math-
+            ematical circles. My own Sea Urchin, which we saw back 
+            in Chapter 4 (Figure 4.8) utilizes such a square array of 25 
+            points, and the points, properly thinned and ﬂattened, give a 
+            star whose perimeter approaches a limit of 2 × (25) × (1/8) = 6.25. 
+
+
+                                                                                                     333
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

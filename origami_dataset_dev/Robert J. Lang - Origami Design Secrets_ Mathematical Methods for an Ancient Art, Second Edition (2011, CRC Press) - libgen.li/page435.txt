@@ -1,0 +1,35 @@
+            Figure 11.26. 
+            Left: a stub-divided quadrilateral. 
+            Middle: one version of the arrowhead molecule. 
+            Right: another arrowhead molecule.
+
+                Both solutions divide the quadrilateral into four triangles, 
+            and in general, any quadrilateral can be similarly divided. I 
+            call this process adding a stub to the tree. By repeatedly adding 
+            stubs to a uniaxial base crease pattern, any such crease pat-
+            tern can eventually be divided into axial polygons that are all 
+            triangles, whereupon they all can be ﬁlled in with rabbit-ear 
+            molecules. A crease pattern that has received this treat-
+            ment, i.e., consists entirely of rabbit-ear molecules, has been 
+            triangulated.
+                There is an interesting relationship between a quad-
+            rilateral that has been quartered using a stub and the ar-
+            rowhead molecule. Look at the quadrilateral crease pattern 
+            in Figure 11.26. By removing a few creases, it’s possible to 
+            transform this pattern into either version of the arrowhead 
+            molecule for this quadrilateral.
+                Another interesting observation about stub-divided 
+            quads: The crease pattern within a stub-divided quad is 
+            topologically equivalent to a Bird Base, and by changing the 
+            directions of some of the creases, it is possible to use the crease 
+
+
+                                                                        Figure 11.27. 
+                                                                        The crease pattern from a stubbed 
+                                                                        quadrilateral can be used to fold 
+                                                                        the quadrilateral into an analog 
+                                                                        of the Bird Base.
+
+                                                                                                     423
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

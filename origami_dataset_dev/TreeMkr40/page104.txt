@@ -1,0 +1,43 @@
+ — a checkbox if the x coordinate is to be fixed
+
+ — the desired value of the x coordinate
+
+ — a checkbox if the y coordinate is to be fixed
+
+ — the desired value of the y coordinate
+ Node fixed to corner
+
+                                       4.5.30
+
+This condition insures that a node lies on one of the four corners of the paper. It’s used to make a
+flap a corner flap. The fields are:
+
+— the index of the node
+Node fixed to edge
+
+                                       4.5.31
+
+This condition insures that a node lies on one of the edges of the paper. It’s used to make  flap an
+edge flap. The fields are:
+
+— the index of the node
+Node fixed to symmetry line
+
+                                       4.5.32
+
+This condition insures that a node lies on the symmetry line of the model. It’s used to make flaps
+that lie on the center line of a bilaterally symmetric subject. The fields are:
+
+— the index of the node
+Nodes paired
+
+                                       4.5.33
+
+This condition insures that two nodes are mirror images of each other about the symmetry line of
+the base. It’s used to make two identical flaps on the left and right sides of the model. The fields
+are:
+
+— the index of the first node
+
+
+                                 104

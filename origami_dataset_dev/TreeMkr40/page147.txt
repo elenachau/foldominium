@@ -1,0 +1,54 @@
+                            −       α −    −      α =
+                        ()ui,x uj,x cos ()ui,y uj,y sin 0
+
+                      +    −       α −    +    −        α =
+                   ()ui,x uj,x 2ai,x sin ()ui,y uj,y 2ai,y cos 0
+      Three nodes collinear
+
+Three nodes ui , u j , and uk  that are constrained to be collinear must satisfy the equation
+
+                        −       −−−−=
+                    ()uj,y ui,y ()uk,xuj,x()uk,yuj,y()uj,xui,x0
+       Edge length fixed
+
+ An edge ek  whose length is fixed must have its strain satisfy the equation
+
+                                     σ  =
+                                      k  0
+       Edges same strain
+
+ Two edge ej  and ek  that have the same strain must satisfy the equation
+
+                                   σ − σ  =
+                                    j   k  0
+       Path active
+
+ A path pij  between two nodes ui  and u j   that is constrained to be active must satisfy the
+ equation
+
+                        []+ σ    −      −    2+−2=
+                    m ∑  (1  k )lk  ()ui,x uj,x ()ui,yuj,y0
+                      ∈
+                     ekpij
+       Path angle fixed
+                                                                α
+ A path pij  between two nodes ui  and u j   that is constrained to lie at an angle  must satisfy the
+ equation
+
+                        ()u − u  cosα − ()u − u sinα = 0
+                          i,x j,x       i,y  j,y       .
+       Path angle quantized
+
+ A path pij  between two nodes ui  and u j   that is constrained to lie at an angle of the form
+                         180°
+ α = α  + k ⋅δα. where δα ≡   must satisfy the equation
+  k   0                   N
+
+
+                                −N/2  N−1
+       −          2          2                                     
+     2 N 1 ⋅ []()u − u +()u−u       ⋅∏[]()u −u   sinα − ()u − u cosα =0
+          i,x  j,x   i,yj,y           i,x  j,x   k    i,y j,y    k
+                                     k=0                             
+
+                                 147

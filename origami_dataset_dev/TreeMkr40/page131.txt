@@ -1,0 +1,49 @@
+                   EF
+
+                          BB
+
+                                   A
+
+
+                              BB
+
+
+                        CC
+
+
+                 GH
+                           CC
+
+
+                                    D
+
+Figure 5.23. Circles and contours for the six-pointed lizard base.
+If you’ve stuck with me so far, you’re now at the goal: an algorithm for finding a crease pattern
+to fold a base with any number of points from a square, rectangle, or any other shape paper. (In
+fact, this algorithm even works for circular paper!) To summarize the algorithm:
+
+   1. Draw a tree, or stick figure, of the base, labeling each edge with its desired length.
+
+   2. Find a pattern of terminal nodes on the square that satisfies the tree theorem, namely,
+   that the distance between any two nodes on the square is greater than or equal to their
+   separation on the tree.
+
+   3. Mark all of the active paths, paths whose actual length is equal to their minimum
+   length. Identify the active polygons.
+
+   4. For any active polygon with five or more sides, add a node and edge to the tree
+   attached at an internal node of the polygon and make the edge as large as possible,
+   thereby breaking up the active polygon into quads and triangles.
+
+   5. Fill in each active polygon with quad and triangle crease patterns.
+The good news is that using the algorithm described above, a base can be constructed for any tree
+— in fact, there are usually many distinctly different solutions for a single tree. The bad news is,
+as you might suspect from some of the above, constructing the crease pattern can be
+computationally intensive.
+
+(The worse news is that even when you have the crease pattern, folding it up into a base can be
+infuriatingly difficult; there is rarely a step-by-step folding sequence. More often than not, you
+need to precrease everything, then collapse the base all at once.)
+
+
+                              131

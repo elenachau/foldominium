@@ -1,0 +1,54 @@
+                                                     points of intersection between pairs of edges. Each line segment in the straight 
+                                                     skeleton is the angle bisector between two edges of the polygon.
+                                                     Stretched Bird Base (page 57): a form of the Bird Base in which two op-
+                                                     posite corners are pulled apart to straighten out the diagonal that connects 
+                                                     them.
+                                                     Strip graft (page 141): modifying a crease pattern as if you spliced in 
+                                                     one or more strips of paper running across a crease pattern in order to add 
+                                                     features to the base.
+                                                     Structural coloring (page 349): a representation of a crease pattern in 
+                                                     which lines are color-coded according to their structural role and elevation.
+                                                     Stub (page 423): a new edge added to the tree graph attached to a new 
+                                                     node introduced into the middle of an existing edge and associated creases 
+                                                     added to the crease pattern. Adding a stub allows four path conditions to be 
+                                                     simultaneously satisﬁed as equalities.
+                                                     Subbase (page 411): a portion of a base, usually consisting of a single axial 
+                                                     polygon.
+                                                     Subtree (page 411): the tree graph that is the projection of a subbase.
+                                                     Swivel fold (page 28): an asymmetric version of a squash fold in which the 
+                                                     two valley folds are not collinear.
+
+                                                     T
+                                                     Tangent points (page 347): points along axial polygons where circles (or 
+                                                     rivers) touch each other and are tangent to the hinge creases.
+                                                     Technical folding (page 48): origami designs that are heavily based on 
+                                                     geometric and mathematical principles.
+                                                     T-graft (page 486):  a type of graft used in box pleating that creates a ﬂap 
+                                                     at a designated spot along the edge of the paper.
+                                                     Tile (page 250): a portion of a crease pattern, usually consisting of one or 
+                                                     more axial polygons and decorated by circles and rivers, that can be assembled 
+                                                     into crease patterns by matching circle and river boundaries.
+                                                     Tree (page 402): short for tree graph.
+                                                     Tree graph (page 402): a stick ﬁgure that represents a uniaxial base, 
+                                                     in which each edge of the tree represents a unique ﬂap or connection  
+                                                     between ﬂaps.
+                                                     Tree theory (page 401): the body of knowledge that describes the quan-
+                                                     titative construction of crease patterns for uniaxial bases based on a cor-
+                                                     respondence between features of a tree graph and features in the crease 
+                                                     pattern.
+                                                     Tree theorem (page 407): the theorem that establishes that satisfying 
+                                                     the path conditions is both necessary and sufﬁcient for the construction of a 
+                                                     crease pattern for a given tree graph.
+                                                     Triangulation (page 423): the process of decomposing high-order axial 
+                                                     polygons in a crease pattern into smaller polygons that are all order-3, i.e., 
+                                                     triangles.
+
+                                                     U
+                                                     Unfold (page 11): removing a valley or mountain fold, leaving behind a 
+                                                     crease.
+                                                     Uniaxial base (page 244): a base in which all ﬂaps lie along a single axis 
+                                                     and all hinges are perpendicular to the axis.
+
+       750
+                              Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

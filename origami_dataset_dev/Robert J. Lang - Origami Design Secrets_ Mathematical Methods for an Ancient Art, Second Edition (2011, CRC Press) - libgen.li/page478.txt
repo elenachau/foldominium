@@ -1,0 +1,34 @@
+                                         Figure 12.5. 
+                                         Left: the crease pattern for a Frog Base. Suppose we move the center 
+                                         vertex upward. 
+                                         Right: the new ﬂat-foldable crease pattern. Note that every other 
+                                         interior vertex has also moved.
+
+                                         In fact, they only extend in one of four different orientations: 
+                                         up/down, left/right, diagonally upward, diagonally downward. 
+                                         And the creases don’t fall just anywhere: There is an underly-
+                                         ing grid, so that up/down and left/right creases run solely along 
+                                         grid lines, while diagonal creases always connect diagonal grid 
+                                         points. So the crease pattern is quite tightly constrained.
+                                             The constraint of the grid brings order to the crease pattern: 
+                                         It winnows the unimaginably vast space of possible patterns 
+                                         down to a manageable set. And most importantly, it limits the 
+                                         ways that different parts of the pattern can interact with each 
+                                         other. The problem with an old-style base like the Frog Base is 
+                                         not just that the central point interacts with the surrounding 
+                                         points: It’s that it interacts with each surrounding point in a 
+                                         different way. So one type of change creates several types of 
+                                         changes in its surroundings, which then create more changes 
+                                         in theirs, and so forth. This means that the complexity induced 
+                                         by a change quickly cascades as the change propagates away 
+                                         from the original perturbation. But in a box-pleated pattern, by 
+                                         contrast, where different parts of the crease pattern correspond 
+                                         to different parts of the model, all interact in the same basic 
+                                         way. And so, a fairly small tool kit of basic techniques can be 
+                                         combined and built up into quite complex structures.
+                                             The basic elements of this tool kit are visible in Mooser’s 
+                                         Train, the archetype for all the box-pleated models that fol-
+
+     466
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

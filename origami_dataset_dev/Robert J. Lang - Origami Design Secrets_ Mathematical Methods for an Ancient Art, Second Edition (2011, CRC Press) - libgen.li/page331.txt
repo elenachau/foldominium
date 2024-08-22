@@ -1,0 +1,33 @@
+            to be optimal. Thus, for the origami problem of folding a base 
+            with N equal-length ﬂaps, the optimum crease patterns are 
+            also known. The optimum circle patterns and lengths of each 
+            ﬂap (as a fraction of the side of a unit square) are given in 
+            Figure 9.29 for N = 1 through 9. I have only drawn that por-
+            tion of each circle that appears within the square.
+
+
+                  N = 1                   N = 2                    N = 3
+                  r = 1.000              r = 0.707                r = 0.518
+
+
+                  N = 4                   N = 5                    N = 6
+                 r = 0.500               r = 0.354               r = 0.300
+
+
+                  N = 7                   N = 8                    N = 9
+                 r = 0.270               r = 0.259                r = 0.250
+            Figure 9.29. 
+            Optimal packings for one through nine circles.
+
+                Because circle packing is a well-explored mathematical 
+            ﬁeld, it is possible to look to the mathematical literature for 
+            patterns that give rise to origami bases (as I have done here). 
+            In fact, as new circle packings are discovered, new origami 
+            bases will come right along with them. The nine circle packings 
+            shown in Figure 9.29 each have corresponding origami crease 
+            patterns, which are shown in Figure 9.30 superimposed on the 
+            circle packings.
+
+                                                                                                     319
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

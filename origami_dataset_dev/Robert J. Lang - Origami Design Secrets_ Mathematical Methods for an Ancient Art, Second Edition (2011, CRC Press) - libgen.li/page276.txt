@@ -1,0 +1,42 @@
+                                             For example, let’s take the isosceles triangle tile. There 
+                                         are several ways of narrowing the ﬂaps. Two of the more  
+                                         common are shown in Figures 8.32 and 8.33. One keeps the 
+                                         ﬂaps triangular while making them more acute; the other turns 
+                                         them into quadrilaterals.
+
+
+            Figure 8.33. 
+            Procedure to narrow a tile using 
+            sink folds parallel to the axis of Simple tile crease 1. Open-sink the 2. Narrowed folded tile
+            the folded tile.                 pattern        side corner of the and its crease pattern.
+                                                            folded shape.
+
+                                             Which of the two you use is primarily a matter of taste. 
+                                         The sequence in Figure 8.32 gives ﬂaps that taper evenly, but 
+                                         it is difﬁcult to form the closely spaced creases as they converge 
+                                         on the tip of the ﬂap. The sequence in Figure 8.33 distributes 
+                                         the layers more evenly but doesn’t taper smoothly to its tip. 
+                                         And there are many more possibilities than these: You can 
+                                         sink some ﬂaps and not others, and perform double, triple, 
+                                         and more complex sinks. The important thing is, this narrow-
+                                         ing can be performed after the base is folded, so you can do all 
+                                         your design using the simplest possible tiles, then go back and 
+                                         narrow them if desired.
+                                             You might have noticed that when we narrow a tile as in 
+                                         Figures 8.32 and 8.33, some of the creases created within the 
+                                         tiles end up lying along the axis in the folded form; that is, they 
+                                         are also axial creases. For example, the isosceles triangle tile 
+                                         narrowed with angular sinks has several new creases that lie 
+                                         along the axis in the folded form, as shown in Figure 8.34.
+
+
+            Figure 8.34. 
+            The narrowed isosceles tile 
+            with all axial creases colored 
+            green. It can be considered to 
+            be composed of three triangular 
+            tiles and their circles.
+
+     264
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

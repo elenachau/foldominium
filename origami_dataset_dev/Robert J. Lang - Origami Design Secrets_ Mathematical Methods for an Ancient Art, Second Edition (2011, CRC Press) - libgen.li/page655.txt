@@ -1,0 +1,33 @@
+                Aesthetically speaking, I ﬁnd the perfect Pythagorean 
+            stretch to be the most elegant form of this overlapping-squares 
+            structure, but Pythagorean triples are relatively rare among 
+            the small integers, and so it is good to know that there is a 
+            solution for any combination of rectangle and overlap. It’s also 
+            not necessary that the “perfection” be exact. If the computed 
+            height h is fairly small relative to a unit, then it’s often possible 
+            to simply “fudge” the excess paper out of existence, connecting 
+            the two rectangle corners directly and then slightly adjusting 
+            the rest of creases during the actual folding process.
+                This design pattern—letting the polygons overlap and 
+            then introducing a set of gusset ridge creases—is, like the 
+            level-shifting gadget, more than a mathematical curiosity; 
+            it is a very useful tool in box-pleated design, particularly 
+            around the corners of the square. Figure 14.20 shows a crease 
+            pattern and photograph of a Water Strider. The use of four 
+            Pythagorean stretches allows much longer and thinner legs 
+            to be obtained than a pure box-pleated solution would allow, 
+            but the overall pattern of box pleating makes the crease pat-
+            tern easily constructible and leads to overall alignment of the 
+            edges, permitting a relatively neat folded form. 
+                Now, the three parameters that deﬁne the structure of 
+            a Pythagorean stretch are the minimum distance d between 
+
+            the two relevant circle centers and the length and width s1 
+
+
+            Figure 14.20. 
+            Contour map and folded model for the Water Strider. 
+
+                                                                                                     643
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

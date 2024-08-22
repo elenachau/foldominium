@@ -1,0 +1,50 @@
+            way at many different angles and directions. Which pattern 
+            shows greater ﬂexibility: the constrained, uptown/downtown/
+            crosstown pattern of the Train, or the many-different-direction 
+            pattern of conventional origami? Clearly, the rules by which the 
+            Train was constructed were more restrictive than the rules of 
+            conventional origami. How could it be that a more restrictive 
+            set of rules leads to a less restrictive, more ﬂexible result?
+                Paradoxically, it is the very tightness of the constraints of 
+            box pleating that makes it possible to fold such complex designs. 
+            The reason it has always been difﬁcult to develop new origami 
+            bases is that a base is a gestalt, an inseparable whole; all parts 
+            of the pattern interact with other parts, so that it is very dif-
+            ﬁcult to make a substantial change in one part of the pattern 
+            without having to change all other parts. The resemblance of 
+            a crease pattern to a spider’s web is an apt analogy; pluck a 
+            single strand and it reverberates throughout the web. Perhaps 
+            a better analogy is a stack of apples: Move the wrong apple and 
+            the heap collapses. Move one circle in a circle-packing and the 
+            entire packing might need to rearrange. Change a single vertex 
+            in a crease pattern, and its effects propagate throughout the 
+            entire pattern.
+                And those effects may very well precipitate a descent 
+            into unfoldability. Let’s take a simple example: the Frog Base, 
+            shown in Figure 12.5. Suppose that for some reason we wished 
+            to move the vertex that corresponds to the central point. Move 
+            that vertex the tiniest amount away from the center, changing 
+            nothing else, and the crease pattern becomes unfoldable (or 
+            rather, un-ﬂat-foldable; it can no longer be pressed ﬂat without 
+            creating wrinkles). It is possible, however, to move other verti-
+            ces to return the base to ﬂat foldability, as shown on the right 
+            in Figure 12.5; but to do so requires that we shift the location 
+            of all the other interior vertices, resulting in moving nearly 
+            every crease in the pattern.
+                One seemingly innocuous change in the pattern forces 
+            changes throughout the design. And this was the result of an 
+            attempt to shift the location of a single point. We have not even 
+            added any points. In the early days of origami, design was in-
+            cremental, a change at a time. But if such a tiny change forces 
+            a complete redesign of the crease pattern, what hope has the 
+            designer of incrementally creating a fourteen-wheeled, three-
+            vehicled conveyance such as a train? How would a designer of 
+            a real steel-and-wood train fare if the most minor change—say, 
+            moving a door handle—forced an unpredictable change in every 
+            dimension of every part of the structure?
+                But in Mooser’s Train, some changes don’t cause so much 
+            trouble. In the Train, the creases don’t run every which way. 
+
+                                                                                                     465
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

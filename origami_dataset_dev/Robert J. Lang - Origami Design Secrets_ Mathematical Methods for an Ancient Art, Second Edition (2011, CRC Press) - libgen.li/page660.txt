@@ -1,0 +1,42 @@
+                                             There is more than one way to make an extended Py-
+                                         thagorean stretch; there is a range over which we can vary the 
+                                         geometry. The angle between the two ridge creases is ﬁxed by 
+                                         the laws of ﬂat foldability at 135°, but the orientation of the pair 
+                                         of creases as a unit is not ﬁxed (in the same way that the two 
+                                         ridge creases of a level shifter were ﬁxed in relative angle but 
+                                         not absolutely). We can pivot the pair as a unit freely, within 
+                                         a modest range, as shown in Figure 14.24. Beyond this range, 
+                                         you will shorten the ﬂap on one side or the other by cutting off 
+                                         its tip, but within this range, you can arbitrarily choose the 
+                                         position of the wedge of ridge creases.
+
+
+            Figure 14.24. 
+            The two ridge creases can be 
+            pivoted within the indicated 
+            range so long as they keep to a 
+            relative angle of 135°.
+
+                                             Quite often, one of the two extreme angles is going to be 
+                                         more desirable than an intermediate conﬁguration because it 
+                                         places one or the other crease on a grid point on the edge of the 
+                                         paper. We can analyze the general case by noting that, as shown 
+                                         in Figure 14.25, in all positions, there is a right triangle that 
+                                         circumscribes a circle of radius t, where t is the elevation of the 
+                                         apex of the ridge creases that was given by Equation (14–1).
+                                             We deﬁne the width and height of the extended rectangle 
+                                         to be x and y, respectively. Then we can choose either one and 
+                                         solve for the other. If we choose the value of x, then
+                                                            2t(y − t)
+                                                  x       =        ,                         (14–7)
+                                                             y − 2t
+
+                                         and if we set x = s1, so that one of the ridges hits the bottom 
+                                         right corner of the rectangle within the paper, then
+                                                           ()s + s − d ()s + d − s
+                                                    x     =  1   2      2      1  .          (14–8)
+                                                                  2()d − s1
+
+     648
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

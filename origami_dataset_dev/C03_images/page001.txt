@@ -1,0 +1,10 @@
+                             SODA 1996
+
+
+                Not All Equal
+                (NAE) clause
+
+crossover
+
+                split &
+  wire           turn

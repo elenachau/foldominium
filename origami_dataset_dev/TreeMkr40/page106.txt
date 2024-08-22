@@ -1,0 +1,48 @@
+ This condition is used to force a particular path to be active, i.e., to have its actual length equal to
+ its minimum length. This will insure that there is a crease between the two nodes that runs along
+ the axis of the model. The fields of this condition are:
+
+ — the index of the first node
+
+ — the index of the second node
+ Path angle fixed
+
+                                       4.5.38
+
+This condition is used to force a particular path to be both active and to lie at a given angle. It’s
+used to make a crease pattern more symmetric. Its fields are:
+
+— the index of the first node
+
+— the index of the second node
+
+— the angle that the path is forced to lie at
+
+Note: if you have very many path angle fixed or path angle quantized constraints, it is very easy
+to create incompatible constraints. Sometimes incompatible constraints can be relieved by
+performing a strain optimization; other times you will simply have to remove some conditions.
+Path angle quantized
+
+
+                                       4.5.39
+
+This condition is used to force a particular path to be active and to lie at one of a group of angles,
+which are integer divisions of 180°. It’s used to make a crease pattern more symmetric by
+requiring that major creases lie at “nice” angles. The fields are:
+
+— the index of the first node
+
+— the index of the second node
+
+— the integer divisor for the angle quantization
+
+— the first angle in the group
+
+By applying this condition to most or all of the active paths in a model and performing a strain
+optimization (which is usually necessary to satisfy all conditions), you can create a very
+symmetric crease pattern, which is usually necessary if you want a sequentially foldable design.
+
+The subsequent commands in the conditions menu apply and give the status of each of the types
+of conditions. These commands may have a mark next to them giving the status of the current
+
+                                 106

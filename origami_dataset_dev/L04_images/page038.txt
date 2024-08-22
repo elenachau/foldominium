@@ -1,0 +1,9 @@
+Mesh Modification
+Edge Collapse
+• Edge Collapse [Hoppe etal 
+  1993]
+
+• Maekawa’s Theorem 
+  [1983] for flat foldable 
+  pattern
+  M - V = ±2

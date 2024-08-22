@@ -1,0 +1,27 @@
+Before we continue we will make a small excursus about Elias stretches, with some simpler examples
+before we perform a rather extensive Elias stretch on the model at hand.
+The Elias stretch is a very important technique in box pleating, which generally is used for separating
+two flaps from each other.
+
+
+       Let’s start with an ...and add some     Now pleat    ...to get something
+          8 x 8 grid...    diagonals to it.    vertically...    like this.
+
+           We now want to perform an Elias stretch to
+           separate the bottom two corners. In the CP the
+           finished Elias stretch would look like this.
+           Note that all folds we are going to make are on
+           already existing creases (as is the case for most
+           steps in collapsing a box pleated base).
+
+
+   First we have to        Then we start by       Next we form the
+   stretch the layers     forming the shown     shown valley folds and
+  apart, which is easy     mountain folds.        pinch the corners.
+   in this example.
+
+
+      Elias stretch done.   Finish the Elias stretch by Pinch the corners further
+    We now have created        closing the model.       while forming the shown
+     two separate flaps.   The shown creases will form     mountain folds.
+                              mostly by themselves.

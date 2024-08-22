@@ -1,0 +1,13 @@
+             Flying Walking Stick
+
+
+             Mark the edges of a 74×74 square grid. Use the edge
+             markings to locate the interior vertices. All axis-
+             parallel creases are either axial or axial+1, but the
+             middle points (that form the wing covers) make the
+             collapse a bit challenging.
+
+
+     686
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

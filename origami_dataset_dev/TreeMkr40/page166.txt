@@ -1,0 +1,42 @@
+                          Part               Path
+                          VertexOwner
+                                     7.14
+
+The references contained by a Path are summarized below. Names in bold refer to inherited
+member variables.
+Object   References          What
+
+Path     mOwnedVertices      All vertices that occur along this path
+
+         mNodes              Ordered list of nodes from one end of path to the other
+
+         mEdges              Ordered list of edges from one end of path to the other
+
+         mFwdPoly            The polygon that this path belongs to, enumerated in
+                             the forward direction
+
+         mBkdPoly            The polygon that this path belongs to, enumerated in
+                             the backward direction
+
+         mPathOwner          poly or tree that owns this path
+Poly
+
+A Poly is a polygon of the crease pattern. The paper is divided into one or more polygons; each
+polygon may be further subdivided into one or more reduced polygons. Each polygon owns
+reduced nodes, reduced paths, and creases.
+
+                          Part                Poly
+                          PolyOwner
+                          CreaseOwner
+                                     7.15
+
+The references contained by a Poly are summarized below. Names in bold refer to inherited
+member variables.
+Object   References          What
+
+Poly     mOwnedNodes         All nodes owned by this poly; this is the distinct
+                             subset of mInsetNodes; i.e., every node in
+                             mInsetNodes appears exactly once in this list.
+
+
+                                166

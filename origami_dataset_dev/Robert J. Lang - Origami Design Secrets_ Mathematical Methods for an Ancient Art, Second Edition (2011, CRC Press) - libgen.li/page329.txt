@@ -1,0 +1,33 @@
+            9.8. Circles and Rivers
+            Thus far, we have considered bases derived from packing of 
+            circles only. In a circle-packed base, all of the ﬂaps emanate 
+            from a common point. But, you’ll recall, we were able to con-
+            struct bases from tiles that contained rivers, regions that 
+            translated into segments separating groups of ﬂaps. It is also 
+            possible to introduce rivers into a circle-packing in an analogous 
+            fashion. That is, we introduce a river between groups of circles 
+            that corresponds to a segment separating groups of ﬂaps. We 
+            can still construct a full crease pattern by superimposing tiles 
+            containing rivers on the pattern of axial polygons.
+                An example of this is illustrated in Figure 9.27, an insect 
+            with the Latin name Acrocinus longimanus. It contains four 
+            long ﬂaps (corresponding to the two long forelegs and antennae) 
+            and eight shorter ﬂaps (legs, head, abdomen). We introduce 
+            a river running around four of the legs, which introduces a 
+            segment between the two groups of ﬂaps. We can, however, 
+            still ﬁll in the axial polygons with tile crease patterns that 
+            incorporate the rivers; the result is a base with the desired 
+            ﬂap conﬁguration.
+
+
+            Figure 9.27. 
+            Crease pattern, base, and folded model of the Acrocinus longimanus.
+
+            9.9. Mathematical Circle Packings
+            The circle method gives us a technique for designing a base that 
+            has any combination of ﬂaps of different sizes by relating it to 
+            a simple geometrical construction. Speciﬁcally, the problem of 
+
+                                                                                                     317
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

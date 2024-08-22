@@ -1,0 +1,8 @@
+Loop Condition
+: Sufficient Condition
+loop condition for finite rigid 
+  foldability
+
+  → Sufficient Condition
+  : start from symmetric 
+  cylinder and fix 1 loop

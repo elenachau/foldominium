@@ -1,0 +1,45 @@
+                            Part              Node
+                            VertexOwner
+                                      7.12
+
+ The references contained by a Node are summarized below. Names in bold refer to inherited
+ member variables.
+ Object   References          What
+
+ Node     mOwnedVertices      The vertex associated with this node
+
+          mEdges              Edges connected to this node
+
+          mPaths              Paths that terminate on this node (not paths that
+                              contain this node)
+
+          mNodeOwner          Poly or tree that owns this node
+ Edge
+
+ A Edge is the data structure that represents an edge of the top-level planar graph. An Edge
+ connects two Nodes. Each Edge corresponds to a flap (or segment) of a base.
+
+                               Part         Edge
+                                      7.13
+
+ The references contained by an Edge are summarized below. Names in bold refer to inherited
+ member variables.
+ Object   References          What
+
+ Edge     mNodes              2 nodes at each end of this edge
+
+          mEdgeOwner          Tree that owns this edge
+ Path
+
+ A Path is an object that describes a particular relationship between two Nodes. Terminal paths
+ connect terminal nodes. A Path has associated with it a length, which is the minimum length
+ between two nodes of the graph.
+
+ A “tree path” is a path owned by the Tree. Tree paths have a list of edges and internal nodes
+that represents the path along the tree from which its length is derived.
+
+A “poly path” is a path owned by a Poly. Poly paths have their lengths computed by reducing
+the length of the original path from which it is derived.
+
+
+                                 165

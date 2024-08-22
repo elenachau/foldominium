@@ -1,0 +1,23 @@
+What is self-folding?
+
+A nice continuous folding           from a rigid folding             to           is  
+self-foldable by driving force             if for all                      the forward force 
+at             on the conﬁguration space is positive and takes on a local maximum 
+among the valid tangents at    .
+
+                                               ⇢1
+
+That is, you want the dot product of             and 
+to be positive.  It makes sense!
+                     ~⇢ (1)
+
+                                                   ~v+(s)
+                                                         f~(~⇢ (s))
+                                            ~⇢ (0)
+                                                               ⇢2
+
+
+We say that a nice continuous folding          is uniquely self-foldable if            is 
+the only nice continuous folding that is self-foldable by     . 
+ 
+ 

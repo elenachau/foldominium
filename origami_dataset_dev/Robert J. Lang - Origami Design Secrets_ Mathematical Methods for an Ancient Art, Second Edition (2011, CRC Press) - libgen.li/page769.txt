@@ -1,0 +1,62 @@
+                R                                     Scorpion HP  676                      string-of-beads method  430
+                                                       contour map and folded model  669    strip graft  750
+                Rabbit                                Sea Urchin, Lang’s  62, 333           structural coloring  349
+                 crease pattern, base, and folded     shadow of a uniaxial base  402        stub  423, 428, 750
+                      model  709                      Shafer, Jeremy  145                   subbase  411, 750
+                rabbit-ear fold  25, 749              shaft                                 subtree  411, 415, 750
+                rabbit-ear molecule  354, 413, 415,    in comb  676                         surjective mapping  404
+                           428                        Shiva                                 swivel fold  28, 750
+                Randlett, Samuel L.  713               crease pattern, base, and folded     symbols
+                 diagramming symbols  13                    model  273                        for actions  16
+                raw edge  15, 749                     side view  313, 749                     point of view  16
+                rectangle, in Mooser’s Train  461     silver rectangle, deﬁnition of  265     repetition of steps  17
+                reduced path  749                     simple molecule  360                    right angle  17
+                  inequality  425, 749                sink fold  33, 749                    symmetry
+                  length  425                          closed  36                             book  305, 744
+                reduced polygon  425                   different ways of making  38           diagonal  745
+                ReferenceFinder  561, 564,  571        double  35                             in circle-packed bases  304
+                reverse fold                           mixed  38,  747                        in computed bases  433
+                 hybrid  25, 746                       multiple  35                           left-right, in molecules  360
+                 inside  23, 747                       open  34, 748                          of a square  305
+                 outside  23, 748                     Solorzano Sagredo, Vicente  713
+                Rhoads, George                        Songbird 1                            T
+                 Bat  57                               crease pattern, base, and folded 
+                 Bug  326                                   model  138                      tangent circles  346
+                 use of blintzed Bird Base  64        Songbird 2                            tangent points  347, 348, 357, 
+                Richardson, John                       crease pattern, base, and folded        412, 750
+                 Hedgehog  204                              model  325                      Tarantula
+                ridge creases  349, 368, 416, 434,    split, ideal  747                       crease pattern, base, and folded 
+                           749                        splitting  748                              model  314
+                 crease assignment  368               spread sink fold  33, 749               symmetry of  304
+                rivers  257, 364, 749                 Spur-Legged Dung Beetle               technical folding  5, 9, 748, 750
+                 hinge  572                            contour map, base, and folded        thickness
+                 in circle/river packings  317, 412         model  678                        balancing by adding layers  632
+                Rohm, Fred  64,  464, 713             squash fold  27, 749                  three-legged animals  56, 97
+                Roko-an  135                          stability of a circle packing  325    three-step models  563
+                Roosevelt Elk                         standard bases  749                   tile  750
+                 crease pattern, base, and folded     Stephenson Rocket  562                  as element of pleated texture  209
+                      model  435                      stick ﬁgure  266, 291, 372, 375,        connection to circles  297
+                                                         384, 401                             dimensional relationships within  
+                                                       rules for construction  269                275
+                S                                     straight skeleton  352, 584             generic form  253
+                Salt Creek Tiger Beetle                deﬁnition  584                         matching rules  253
+                 contour map, base, and folded         in roof design  587                    methods of narrowing  264
+                      model  630                      stretch                                 of creases  250
+                sawhorse graph  416                    extended Pythagorean  647              parallelogram  277
+                sawhorse molecule  365,  413, 416,     offset Pythagorean  646                rectangle  252
+                           749                         perfect offset Pythagorean  646        subdivision of  265
+                scale  410, 749                        perfect Pythagorean  642               triangle  251
+                 of a circle packing  298              Pythagorean  640                     tiling  7, 412
+                scales, representation with pleats    stretched Bird Base  115, 158, 750    Train, Mooser’s  562
+                      206                             stretching                            tree  402, 750
+                Scarab Beetle                          a crimp or pleat  32                 Tree Frog
+                 contour map, base, and folded         a parallelogram molecule  277          crease pattern, base, and folded 
+                      model  666                       crossing pleats  206                       model  146
+                Schaer, Jonathan  329                  the simple box  470                  tree graph  402, 584, 750
+                Scorpion                               to form an open sink  34             Treehopper
+                 crease pattern, base, and folded      to form a spread sink  33              crease pattern, base, and folded 
+                      model  432                       to form a stretched Bird Base  57          model  158
+
+                                                                                                                                  757
+                                                                                                           Index
+© 2012 by Taylor & Francis Group, LLC

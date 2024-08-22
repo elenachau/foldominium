@@ -1,0 +1,23 @@
+                                                      Mathematical Methods in Origami Design
+
+
+     Figure 4 : Left: Square with creases transferred to the paper. Right: First stage of the collapse.
+
+“three easy steps: precrease, collapse, shape.” But in each case, the precreasing, the collapsing, and most
+especially, the shaping, may require several hours for each step.
+    In this ﬁgure, the collapse is relatively simple – only a few tens of creases are involved. (Truly advanced
+designs may have hundreds of creases participating in the single collapse step.) The result at the end of the
+collapse step is a ﬂat form: the origami base, shown in Figure 5. It doesn’t look like much—certainly, not
+like a scorpion—but it contains a ﬂap of exactly the right length, connected in exactly the right way, for every
+leg, arm, pincer, and body segment of the desired subject.
+
+
+              Figure 5 : Left: The collapse under way. Right: The fully collapsed base.
+
+    The ﬂaps have the right length and connectivity, but not the right width; in fact, most of them are much
+wider than their corresponding body part. As problems go, that’s a pretty good one to have; it’s a lot easier
+to make a fat ﬂap narrower than to make a narrow ﬂap wider, and with arthropods as subject matter, making
+ﬂaps narrower is the usual requirement. We will need to narrow all parts of this base so that they can better
+represent the skinny legs, arms, and tail of the scorpion. This is done with a series of what are called “sink
+
+                                          17

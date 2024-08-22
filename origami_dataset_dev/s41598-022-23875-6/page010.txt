@@ -1,0 +1,73 @@
+        www.nature.com/scientificreports/
+
+
+                                    results show the beneft of focusing on sparser tree branches for solving the inverse design problem than using 
+                                    the standard decision tree method.
+                                      In summary, this work establishes a novel inverse design method for functional origami structures using 
+                                    an interpretable machine learning method. First, the origami performance database can be populated using 
+                                    reduced-order simulation methods like the SWOMPS package. Afer populating the databases, the data points 
+                                    are classifed into two classes depending on whether they meet the specifed target performance, which casts a 
+                                    binary classifcation problem. Afer setting up the target performance, the decision tree-random forest method 
+                                    was trained to identify origami patterns and design features in origami structures that achieve a specifed target 
+                                    performance. Finally, origami design rules were computed by backtracking the splitting criteria associated with 
+                                    each tree branch and selecting the rules with the highest F-score.
+                                      To test the performance and versatility of the proposed method we built databases for four design scenarios, 
+                                    including: (1) Stifness of a single unit Miura-ori, (2) Stifness of origami metasheets, (3) Multi-physical perfor-
+                                    mance of electro-thermal origami grippers, and (4) Stifness and shape ftting of origami arches. We believe these 
+                                    four databases populated in this work can be reused for generating new designs or for testing the performance 
+                                    of other machine learning algorithms when applied to analyze origami related data.
+                                      Future research could explore and improve the reliability and performance of the proposed method by using 
+                                    other state-of-the-art training methods for decision trees (like the Generalized and Scalable Optimal Sparse 
+                                    Decision  Trees42 and the Optimal Classifcation  Trees43). In addition, it would be possible to make the origami 
+                                    performance database more representative by including data points generated with high fdelity FE simulations 
+                                    and/or experiments. Addressing potential shifs between the distribution of simulated and experimental data 
+                                    and assigning diferent weights to the simulated and experimental results are two interesting problems that 
+                                    would need further investigation. Moreover, the inverse design results presented in this work have not yet been 
+                                    experimentally verifed and tested. Physical experiments could be used to judge the performance of this inverse 
+                                    design framework under realistic engineering conditions.
+                                      As a concluding remark, we want to summarize the benefts of using this data science and interpretable 
+                                    machine learning based approach for origami inverse design when compared to using existing optimization-
+                                    based strategies. First, any generated database can be reused to compute new rules for diferent targets, or in 
+                                    other words to fnd appropriate designs for diferent scenarios. Second, the proposed method can simultaneously 
+                                    analyze the signifcance of design features for a given design target, which is not provided in optimization-based 
+                                    design methods. If a design feature is important for achieving a given performance target, a relatively tight thresh-
+                                    old of that feature will be identifed. Tird, the proposed method demonstrates the complex interaction between 
+                                    continuous variables and categorical variables. Identifying these interactions is necessary for designs where 
+                                    comparing diferent origami patterns will naturally introduce categorical variables that cannot be captured with 
+                                    continuous optimization-based design methods. Fourth, we show that the proposed method can handle multi-
+                                    objective design targets for active origami systems with multi-physical behaviors. Finally, we demonstrate that 
+                                    the proposed method can extend existing origami shape ftting algorithms to further design for non-geometrical 
+                                    performance of origami structures, which together enables a holistic framework for inverse design of functional 
+                                    origami. We envision that the proposed methodology can be used for designing active origami systems with 
+                                    superior performance for various applications in biomedical devices, sof robotics, metamaterials, deployable 
+                                    structures, and many more.
+                                    Methods
+                                    Origami simulation.    Tis work uses an open-access origami simulation package called SWOMPS 34. Tis 
+                                    origami simulator uses a common simulation technique called the bar and hinge model to represent the geom-
+                                    etry of origami systems. Tis simulator can explicitly model compliant origami creases (folds with distributed 
+                                    width) which makes it suitable for simulating the behaviors of practical origami structures 35. In addition, the 
+                                    simulator package integrates a state-of-the-art multi-physics model to capture the electro-thermal  actuation36 
+                                    important for active origami assemblages. Other origami simulation techniques may be used for capturing dif-
+                                    ferent performance of interest, and the reference 44 provides a summary of diferent origami simulation tech-
+                                    niques. Te implementation codes for building origami databases are thoroughly discussed in the Supplemen-
+                                    tary Materials and are available on the GitHub page: https:// github. com/ zzhuy ii/ Gener ateOr igami DataS et. A 
+                                    more detailed introduction of the underlying origami simulation method and how it is applied in each design 
+                                    example can be found in the Supplementary Text Sections S1 and S2.
+
+                                    Training the decision tree-random forest method.     Tis work uses an open-access package  sklearn36 
+                                    to train the decision tree-random forest machine learning method. More specifcally, the sklearn package imple-
+                                    ments a classical decision tree method, where the trees are trained using suboptimal greedy approaches. Other 
+                                    state-of-the-art tree methods (like the Generalized and Scalable Optimal Sparse Decision  Trees41 and the Opti-
+                                    mal Classifcation  Trees42) could be used in the future to further improve the performance. When training deci-
+                                    sion trees, an entropy-based criterion is used to identify the best splitting rules at branch nodes. Because the 
+                                    target class tends to contain only a small number of data (5% to 10%), the balanced class weight is used to tackle 
+                                    the imbalanced dataset. Te results computed in the main article are accomplished using the following hyperpa-
+                                    rameters: the cost-complexity-pruning alpha value is 0.001, the maximum depth of trees is 20, and the number 
+                                    of training trees is 100. Te details on the hold-out testing and hyperparameter selection can be found in the 
+                                    Supplementary Text Section S3.
+
+                                    Finding the inverse design rules.  Tis work shows that each tree branch for data points that meet the 
+                                    target performance can be treated as a design rule for an origami system. With this in mind, the work further 
+
+        Scientifc Reports |        (2022) 12:19277  | https://doi.org/10.1038/s41598-022-23875-6                                10
+Vol:.(1234567890)

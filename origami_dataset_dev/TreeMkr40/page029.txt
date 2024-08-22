@@ -1,0 +1,52 @@
+Then click OK. The node circles will
+have turned green, indicating that the
+nodes have conditions on them, as shown                   1              5
+in figure 2.3.8.
+                                         4                1       4
+                                                  3       1.000   1.000
+   •Note: if you make a mistake, or for           1.000    2
+   example, accidentally create the
+   wrong type of condition, select the
+   condition by clicking on it, and
+   then click the “Remove” button. If
+   you want to start over, click the                      2
+   “Remove All” button.                                    1.000
+
+Now we’ll optimize to find a base. Select
+Optimize Scale from the Action menu.
+When the run is complete, you should              5        3
+                                           6                     6
+have something that looks like figure              1.000          1.000  7
+2.3.9.
+
+The scale of this is 0.3388 and you can
+generate the crease pattern if you like by             2.3.8
+selecting Build Polys and Creases.
+However, it’s often possible to find a
+different crease pattern with possibly a                  1
+larger scale (which gives a larger base)           2            2
+for exactly the same tree and conditions.
+                                        4                 1                 5
+You can find other patterns by starting                   0.600
+                                                 3                 4
+from a different initial configuration of        1.000             1.000
+nodes.                                                     2
+
+In particular, whenever you have a large,
+many-sided polygon as we do here, it’s    2                              2
+often possible to get a larger crease
+                                                          2
+pattern if you drag one of the nodes                       0.750
+inside the polygon. In this case, node 1 is
+the obvious candidate. If you try to click  3                           3
+and drag directly, node 1 won’t move
+because it’s pinned, but you can always
+option-click and drag even a pinned                        3
+node. So, option-click on node 1 and                5          6
+                                                    1.000       1.000
+drag it down into the middle of the crease    6           3          7
+pattern, as shown in figure 2.3.10.
+                                                       2.3.9
+
+
+                                  29

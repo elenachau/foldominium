@@ -1,0 +1,50 @@
+due in large part to the development of a body of techniques for the design of origami models.
+Notable among these developments is the concept of a generalized base. Growing out of the four
+classic bases of origami — the bird, fish, frog, and kite bases — the concept of a base forms the
+foundation for nearly all sophisticated origami designs.
+
+What, exactly, do we mean by “a base?” A base is a geometric shape that contains flaps
+corresponding to all of the appendages of the origami model. For example, the base for a dog
+would have six flaps, corresponding to four legs, a head, and a tail. The base for a beetle would
+have nine flaps, corresponding to six legs, two antenna, and an abdomen. As origami subject
+matter has moved from relatively simple birds to complex insects with legs, wings, horns, and
+antennae, the advances that enabled this transition were the development of geometric and other
+mathematical techniques for the design of the underlying origami base.
+
+Fundamentally, TreeMaker is a program for designing origami bases. It calculates the crease
+pattern for a base that has any arbitrary number of points of arbitrary size and distribution.
+TreeMaker specializes in bases that can be represented by a tree graph, i.e., an acyclic (no loops)
+line graph (or stick figure) in which each segment is labeled with a specified length. Each
+segment of the tree corresponds to a flap of the base. TreeMaker will compute a crease pattern
+showing how to fold a square (or rectangle, for non-purists) into a multi-pointed base whose
+distribution of flaps match the lengths and connections of the tree.
+
+I have been working on TreeMaker for several years and have posted some earlier versions at
+public sites on the Internet, updating it as I discover or prove new algorithms and design rules.
+Earlier versions solved the fundamental design problem but only found a few of the creases. The
+current version, version 4.0 finds and fills in all of the creases for the full crease pattern.
+
+To use TreeMaker, you represent the subject as a tree, or stick figure, that defines all of its
+appendages and their relative lengths. You construct the tree using a simple graphical point-and-
+click interface to define the segments of the tree and to set the lengths of the flaps. You can also
+include constraints that enforce symmetry requirements among the appendages — for example,
+forcing the model to be bilaterally symmetric, or forcing particular points to come from a corner
+or edge of the square (to control thickness or to allow color-changes). After you have defined the
+stick figure, TreeMaker will find an optimally efficient arrangement of points on a square that
+correspond to the nodes of the tree and will identify the major creases of the base. The crease
+pattern so computed is guaranteed to be foldable into a flat base with the proper proportions and
+is in fact a locally optimum solution for the base. (“Locally optimum” means that for a given
+starting configuration, you get the largest possible base for a given square, but an entirely
+different starting configuration might give a different base.) You can subsequently add points to
+the tree to simplify the crease pattern (I’ll explain more about this later); when you have
+sufficiently simplified the pattern, a single command computes the rest of the creases. The full
+pattern can be printed (and cut out and folded) at arbitrary size or copied to the Clipboard and
+pasted into your favorite drawing program for further editing.
+
+While anyone can use TreeMaker to construct a crease pattern for a base, effectively using it
+takes some practice and understanding of the process of origami design. You should start by
+working your way through the tutorials, which will give you a feeling for the capabilities (and
+limitations) of TreeMaker.
+
+
+                                  5

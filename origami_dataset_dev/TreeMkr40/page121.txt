@@ -1,0 +1,43 @@
+ Now, there is conceivably an infinite number of polygons and a polygon can have any number of
+ sides, so we’re not out of the woods yet. We need to find a way to collapse an arbitrary polygon
+ into its corresponding subbase. Let’s look at a few simple cases.
+
+ We’ll start with triangles. A triangle has three sides and three corners. Recall that the corners of
+ active polygons are terminal nodes. Thus, the tree of a triangle must be a tree with three terminal
+ nodes and vice-versa. There is only one graph with three terminal nodes, which is shown in
+ figure 5.9. This tree corresponds to a uniaxial base with three flaps, whose lengths I have dubbed
+ a, b, and c.
+
+                       A                                  A
+
+                                                       a      a
+                       a
+                                                   D
+                                                                 D
+                     D
+                                               b
+              b             c                                       c
+
+       B
+                                 C       B                              C
+                                                  bcD
+
+Figure 5.9. (Left) The tree with three terminal nodes, corresponding to a subbase with flaps of
+length a, b, and c. (Right) The corresponding triangle polygon.
+Now, one of the assumptions we’ve made is that the sides of the active polygons are active paths.
+For a triangle whose three sides are active paths, that means we already know the lengths of the
+sides: they are, respectively, (a+b), (b+c), and (c+a). A triangle is uniquely specified by its
+sides, so if we are given the tree we know what the triangle is and vice versa. Given a triangle
+with sides defined above, is there a crease pattern that collapses this triangle into a subbase with
+flaps of the appropriate length?
+
+There is such a crease pattern and it is one familiar to every paper folder: the humble rabbit ear.
+It’s been known since Euclid that the three bisectors of a triangle intersect at a point, which
+enables one to form a rabbit ear from any triangle with all of the edges lying in the same plane
+(or if you flatten the rabbit ear, the edges all lie on a line). One can also show the converse; if
+three sides of a triangle are (a+b), (b+c), and (c+a), then the length of the flaps of the resulting
+rabbit ear are a, b, and c. So any triangle bounded by three active paths can be filled in with the
+ creases of a rabbit ear, as shown in figure 5.10.
+
+
+                                 121

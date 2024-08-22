@@ -1,0 +1,50 @@
+                                         more fundamental mathematical insight, comes from more 
+                                         complex rectilinear polygons. What do we use for an L-shaped 
+                                         polygon? A T-shaped polygon? An arbitrary polygon? In other 
+                                         words, what is a general solution for ridge creases in an arbi-
+                                         trary polygon for which the square and rectangular patterns 
+                                         are particular special cases?
+                                             The answer is a construction known to computational 
+                                         geometers as the straight skeleton, which is a construction 
+                                         that arises in various computational geometry problems but 
+                                         that was linked to the world of paper-folding by Professor Erik 
+                                         Demaine at MIT, when he showed that the straight skeleton 
+                                         was the key step in the solution of the famous one-straight-cut 
+                                         problem. That problem is: given a collection of straight-line 
+                                         geometric shapes on a piece of paper, fold the paper in such a 
+                                         way that one straight cut through all layers ends up cutting 
+                                         along all of the lines at the same time. The fold lines for the 
+                                         one-cut problem are provided by the straight skeleton construc-
+                                         tion. As it turns out, the universal molecule from origami circle 
+                                         packing provides another solution to the one-cut problem (at 
+                                         least for convex polygons); thus, there is a pleasant symmetry 
+                                         that the universal molecule of origami can solve certain one-cut 
+                                         problems, while the straight skeleton of the one-cut problem 
+                                         turns out to provide a key set of creases in polygon-packed 
+                                         origami design.
+                                             So what is this “straight skeleton” pattern? Let’s start with 
+                                         how it is created, which can serve as a deﬁnition of sorts.
+                                             We propagate each edge of the polygon toward the interior 
+                                         of the polygon at a constant velocity in the direction perpendicu-
+                                         lar to the edge, lengthening or shortening it so that it remains 
+                                         in contact with its neighbors, so that the polygon continuously 
+                                         shrinks. If two vertices of the polygon collide, they merge into a 
+                                         single vertex, and the intervening edge disappears. If a vertex 
+                                         of the polygon collides with a nonadjacent edge, the shrinking 
+                                         polygon splits in two and the process continues. The straight 
+                                         skeleton is the unique set of line segments produced by the paths 
+                                         of all of the shrinking polygon vertices. 
+                                             In graph theoretic terms, the straight skeleton forms a tree 
+                                         graph—that is, it is connected and contains no loops. The tree 
+                                         divides the polygon into smaller polygonal regions; each region 
+                                         touches exactly one edge of the polygon with the remaining 
+                                         boundary of the subregion formed by segments of the straight 
+                                         skeleton. The straight skeleton has the property that every 
+                                         point in each region is closer to the region’s part of the polygon 
+                                         edge than to any other region’s polygon edge.
+                                             This is not quite the whole truth, because when we say 
+                                         “closer” we have to measure distance in a special way. Basi-
+
+     584
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

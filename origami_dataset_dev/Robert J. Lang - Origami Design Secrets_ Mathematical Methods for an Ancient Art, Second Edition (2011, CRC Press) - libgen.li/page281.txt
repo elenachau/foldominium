@@ -1,0 +1,51 @@
+                The stick ﬁgure schematic is a useful tool because it doesn’t 
+            depend on the speciﬁcs of the creases within a tile, only upon 
+            the circles and rivers within the tile. But its utility extends 
+            beyond individual tiles; we can also use the stick ﬁgure to 
+            represent the structure of an entire base.
+                We can use the stick ﬁgure to sketch the structure of 
+            entire crease patterns by treating the entire pattern as one large 
+            collection of circles and rivers, using a few simple rules: 
+
+                • Each circle is represented by a line segment whose 
+                length is the radius of the circle. One endpoint of the 
+                segment corresponds to the center of the circle; the 
+                other corresponds to the boundary of the circle.
+
+                • Each river is represented by a line segment whose 
+                length is the width of the river. One endpoint of the 
+                segment corresponds to one bank of the river; the 
+                other corresponds to the other bank of the river.
+
+                • If two features (circles or rivers) touch anywhere, 
+                their corresponding lines are connected at correspond-
+                ing endpoints.
+
+                To see how this works, let’s construct the stick ﬁgures for 
+            the six bases we’ve been working with in this section.
+                The circle/river patterns within the crease patterns of the 
+            four Classic Bases consist only of circles, and so their stick ﬁgures 
+            consist only of lines emanating from a common point. Thus, in 
+            the folded bases, all of the ﬂaps emanate from a common location. 
+            The Lizard base (ﬁfth in the row) is a bit different, however; its 
+            circle pattern contains a river. The river gives rise to a segment 
+            that separates the two groups of points in the base.
+                Thus, the stick ﬁgure serves as a quick, shorthand de-
+            scription of both the lengths of the ﬂaps and the way they are 
+            connected to each other. You can design a crease pattern using 
+            just tiles with circles and rivers, and by drawing the stick ﬁgure, 
+            quickly ascertain whether the pattern gives rise to the neces-
+            sary combination of ﬂaps. Only after you’ve found a tile pattern 
+            that gives the right number of ﬂaps with suitable lengths do 
+            you need to ﬁll in the tiles with crease patterns.
+                Let’s look at an example. A square can be dissected into 
+            two rectangles plus two dissimilar squares, as shown in Fig-
+            ure 8.41. What would be the properties of a base constructed 
+            from these four tiles?
+                If we plug in four tiles—two squares containing four circles, 
+            plus two rectangles containing four circles and two rivers, we 
+            see that the circles in the upper square mate properly with the 
+
+                                                                                                     269
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

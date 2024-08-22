@@ -1,0 +1,42 @@
+                This example illustrates that a tile can sometimes be sub-
+            divided into smaller tiles; the isosceles triangle tile in Figure 
+            8.34 can be decomposed into three more triangle tiles, each with 
+            three circular arcs; and as the ﬁgure shows, the point where 
+            the three tiles come together can give rise to a tiny fourth ﬂap. 
+            If you fold an example and carefully examine the folded form, 
+            you will ﬁnd that fourth ﬂap buried within the layers in the 
+            interior of the shape.
+                Rectangular tiles can also be narrowed. A long, skinny 
+            rectangular tile can be narrowed with angled sinks as shown 
+            in Figure 8.35.
+
+
+                                                                        Figure 8.35. 
+                                                                        A simple rectangular tile, 
+                                                                        narrowed with sinks, becomes 
+                                                                        a more complex tile.
+
+                As with the narrowed triangle tile, some of the creases in 
+            the narrowed tile will lie along the axis of the folded form. But 
+            rather than dissecting the tile into smaller tiles, it’s better to 
+            think of this one as a simple tile with a few extra creases.
+                In a rectangle of high aspect ratio, the two angled sinks don’t 
+            interact. But if the rectangle is shortened relative to its length, 
+            the sink folds connect and introduce some new horizontal creases. 
+            For the so-called silver rectangle, whose width-to-length ratio is 
+            1 × √2 (this is the same proportion as European A4 letter paper, 
+            210 × 297 mm), the narrowed form of the tile has a particularly 
+            elegant crease pattern, shown in Figure 8.36.
+                The square, too, has a narrowed form. The simple tile for 
+            a square is, as we saw, the Waterbomb Base. The narrowed 
+
+
+                                                                        Figure 8.36. 
+                                                                        Left: simple tile for a silver 
+                                                                        rectangle. 
+                                                                        Right: narrowed form of the 
+                                                                        same tile.
+
+                                                                                                     265
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

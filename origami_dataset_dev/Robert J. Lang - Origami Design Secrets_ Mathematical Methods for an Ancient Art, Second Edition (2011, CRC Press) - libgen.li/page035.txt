@@ -1,0 +1,44 @@
+            to be unassigned. Not surprisingly, it can be far harder to fold 
+            an origami ﬁgure from an unassigned crease pattern than 
+            from an assigned one. The process of assigning creases can 
+            be thought of as labeling each of the fold lines with further 
+            information: namely, its fold direction. That’s the ﬁrst step in 
+            a much richer potential for labeling, and as we will eventu-
+            ally see, we can label creases with far more information, and 
+            far more signiﬁcant information, than their mere mountain/
+            valley status.
+                While all origami models are created entirely from moun-
+            tain and valley folds, they often occur in distinct combinations, 
+            combinations that occur often enough that they have been 
+            given names of their own.
+                The ﬁrst and simplest combination fold is the inside 
+            reverse fold, which is a fold used to change the direction of a 
+            ﬂap. While either a mountain or valley fold could usually be 
+            used in the same place, a reverse fold combines both mountain 
+            and valley and is usually more permanent, since the tension 
+            of the paper tends to keep the reverse fold together. A reverse 
+            fold always takes place on a ﬂap consisting of at least two lay-
+            ers of paper. In an inside reverse fold, the mountain fold line 
+            occurs on the near layer, a valley fold occurs on the far layer, 
+            and the “spine” above the fold lines is turned inside-out. It is 
+            indicated by a push arrow, since to form the reverse fold, the 
+            spine must be pushed and turned inside-out. If the far edges 
+            are visible, then the valley fold may be shown extending from 
+            the visible edge, as in Figure 2.21.
+
+
+                                                                       Figure 2.21. 
+                                                                       The inside reverse fold.
+
+                In the inside reverse fold, the tip of the ﬂap ends up 
+            pointing away from the spine; in Figure 2.21, the spine is 
+            the right side of the ﬂap, so the tip must point to the left. If 
+            you wanted it to point to the right, then you would use the 
+            other type of reverse fold, the outside reverse fold, which is 
+            illustrated in Figure 2.22. Again, there is a mountain fold 
+            and a valley fold, but in the outside reverse fold, the valley 
+            fold occurs on the near layers and the mountain fold on the 
+
+                                                                                                      23
+                                                                 Chapter 2: Building Blocks 
+© 2012 by Taylor & Francis Group, LLC

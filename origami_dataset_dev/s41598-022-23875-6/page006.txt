@@ -1,0 +1,74 @@
+        www.nature.com/scientificreports/
+
+
+                                    as 1 and the rest of the data as 0. Afer labeling, we can use the procedure in Fig. 2 to compute the design rules 
+                                    for this target. Te design rule with the best performance is shown in the lef column of Fig. 3b. We can then 
+                                    repeat the process for the other three target zones (Zone a2 to a4) by reusing the existing database. Te computed 
+                                    rules for all targets are shown in Fig. 3b, and this series of rules tells us how the preferred design for an origami 
+                                    metasheet changes as the target for axial stifness is increased. Interestingly, the machine learning method prefers 
+                                    changing the continuous variables to achieve the diferent axial stifness targets without paying much attention 
+                                    to the categorical features used to represent diferent origami patterns. More specifcally, the machine learning 
+                                    method suggests that controlling the thickness of creases (t c ) and the width of the creases (W  ) are more impor-
+                                    tant than other parameters because tighter thresholds are used for these two features. Two sample metasheet 
+                                    designs for target Zones a1 and a3 are shown in Fig. 3d. Te resulting performance of these designs indeed falls 
+                                    within the desired targets.
+                                      However, the design rules can be very diferent when we study the bending stifness at 90% extension. Simi-
+                                    larly, four design rules are computed for four diferent target zones as shown in Fig. 3c. Here, we set the targets 
+                                    to contain less data points in order to test out how well the proposed method performs when dealing with unbal-
+                                    anced databases, where the targets only contain around 5% of the total data. When we investigate the result of 
+                                    this series of design rules, we see that the machine learning method is paying more attention to the categorical 
+                                    features. As the target moves from one zone to another, the computed design rules change in a non-continuous 
+                                    manner because of the complex interactions between categorical variables and continuous variables. For example, 
+                                    when the target changes from Zone b2 to Zone b3 where we have a stifer target, the machine learning method 
+                                    indicates that increasing the thickness of the panel is sufcient to meet the target. However, when we further 
+                                    increase bending stifness requirement as we move from Zone b3 to Zone b4, the method suggests that it is bet-
+                                    ter to change the categorical features (number of cells) and the continuous features simultaneously. A similar 
+                                    categorical jump is also observed when the target moves from Zone b1 to Zone b2. Te proposed method can 
+                                    capture these complex interactions between the continuous features and categorical features, which cannot be 
+                                    done with optimization-based design methods.
+                                      To consider the infuence of material properties on the inverse design problem, we add two design features 
+                                    representing the Young’s moduli of creases and panels. Te inverse design results with this new database are 
+                                    demonstrated in Fig. 3e and f. Te results show that the proposed methodology can still handle the problem 
+                                    relatively well afer adding in the new material design features, and that there are still complex interactions 
+                                    between categorical and continuous features like those we found in Fig. 3c. Adding the material properties 
+                                    does not change the underlying mathematical formulations of this inverse design framework, so the proposed 
+                                    methodology is still applicable to the problem.
+                                    Multi-objective design for multi-physical functional origami
+                                    Handling multiple objectives is ofen necessary for designing functional origami structures because these systems 
+                                    exhibit multi-physical behaviors that need to be measured and compared using several diferent indices. Because 
+                                    such multi-objective problems are difcult to handle with standard optimization-based techniques, most existing 
+                                    functional origami systems were designed using trial-and-error approaches 4–6. In this section, however, we dem-
+                                    onstrate that the tree method can efectively handle multi-physical behaviors and can simultaneously consider 
+                                    multiple objectives. To this end, we present an example design for an electro-thermally actuated origami gripper 
+                                    where dynamics, power consumption, thermal behavior, and stifness are all of interest (see Fig. 4).
+                                      In this example, one of three origami gripper patterns can be selected to achieve the target gripping motion 
+                                    (closing the gripping tip to less than a 1 mm gap). We assume that the gripper is actuated at the creases using an 
+                                    electro-thermal bi-layer system demonstrated in Fig. 4a and discussed in detail  in7. Tis actuator contains two 
+                                    material layers with diferent coefcients of thermal expansion where one layer also serves as an electro-thermal 
+                                    heater (the top layer in this case). Joule heating causes diferential expansion in the two layers, local curvature at 
+                                    the crease, and global folding of the origami patterns. Design features for the gripper include one categorical vari-
+                                    able p used to describe the pattern, and seven continuous variables including the length (3.0 mm < L1 < 7.0 mm ) 
+                                    and width ( 2.0 mm < L2 < 4.0 mm ) of the gripper arm, the location of the frst hinge (0.2 < Ra < 0.6) , the 
+                                    width of the actuator creases (100 µm < W < 300 m ), the thickness of the two layers in the actuator design 
+                                    ( 0.15 µm< t1 < 0.25 µm and 0.6 µm < t2 < 1.0 µm ), and the thickness of the panels 10 (µ m < tp < 30 µm).
+                                      We use four indices to compare the multi-physical performance of the gripper, specifcally (1) the fundamental 
+                                    frequency ( freq ) of the gripper, (2) input heating power (Q  ) needed to close the gripping arm, (3) maximum 
+                                    crease temperature (T  ) during the gripping motion, and (4) stifness ( k ) of the gripper in resisting loads applied 
+                                    to pry it open. Te origami simulation package SWOMPS is used to simulate and fnd these four performance 
+                                    indices (see Supplementary Materials S2 for details).
+                                      To demonstrate how interpretable machine leaning can tackle multiple multi-physical objectives, sup-
+                                    pose we want to design an origami gripper to simultaneously match the following performance indices: 
+                                   10 rad/s < freq < 40 rad/s , heating power Q < 0.2 W , and maximum temperature T < 200 ◦C (Target 1). We 
+                                    label all data points that satisfy the performance targets to be Class 1 and label the rest of the data as Class 0. 
+                                    Ten, by computing the more representative decision rules for Class 1, we obtain design rules for a functional 
+                                    origami that will satisfy all three performance indices simultaneously. Figure 4b shows two design rules that 
+                                    have the highest F-score for this Target 1. Interestingly, both rules have high precision and are nearly identical 
+                                    except for small diferences in the selection of t1 and tp.
+                                      We can use the same method to simultaneously design for all four performance indices (Target 2: frequency 
+                                   10 rad/s < freq , heating power Q < 0.7 W, and maximum temperature T < 500 ◦C , and stifness 0.002 N/m < k ), 
+                                    with the result presented in Fig. 4c. If we compare the computed rules for Target 2 with those for Target 1, we can 
+                                    see that the machine learning method has picked another pattern afer adding in the minimum prying stifness 
+
+
+        Scientifc Reports |        (2022) 12:19277  | https://doi.org/10.1038/s41598-022-23875-6                                 6
+Vol:.(1234567890)

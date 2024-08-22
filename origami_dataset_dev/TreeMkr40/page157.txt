@@ -1,0 +1,53 @@
+ The inheritance relationships between the optimizer classes are shown below.
+
+             NewtonRaphson              StubFinder
+
+             Cpfsqp                     ScaleOptimizer
+                                        EdgeOptimizer
+             TreeOptimizer              StrainOptimizer
+
+                                        ScaleOptimizer_Objective
+                                         EdgeOptimizer_Objective
+                                         StrainOptimizer_Objective
+             DifferentiableFunction     OneVarFn
+                                         PathFn1
+                                         PathFn2
+                                         PathAngleFn1
+                                         PathAngleFn2
+                                         StrainPathFn1
+                                         StrainPathFn2
+                                         StrainPathFn3
+                                         StickToEdgeFn
+                                         StickToLineFn
+                                         PairFn1A
+                                         PairFn1B
+                                         PairFn2A
+                                         PairFn2B
+                                         CollinearFn1
+                                         CollinearFn2
+                                         CollinearFn3
+                                         BoundaryFn
+                                         QuantizeAngleFn1
+                                         QuantizeAngleFn2
+                                         LocalizeFn
+                                         MultiStrainPathFn1
+                                         MultiStrainPathFn2
+                                         MultiStrainPathFn3
+                                         CornerFn
+                                      7.3
+
+          User Interface Classes
+
+ The user interface of TreeMaker is implemented by a collection of PowerPlant object
+ descendants. In the following description, PowerPlant classes are in boldface type.
+
+             Application
+
+ The TreeApp is the application object that maintains interaction with the operating system, puts
+up and controls the menu bar, and dispatches commands and clicks to control objects.
+
+                         LApplication        TreeApp
+                                      7.4
+
+
+                                 157

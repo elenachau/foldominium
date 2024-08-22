@@ -1,0 +1,43 @@
+                                         several segments, taped together at the edges to form a somewhat 
+                                         larger rectangle. Having already resigned ourselves to using a 
+                                         rectangle, we can simply convert the taped rectangle into a new, 
+                                         slightly longer rectangle that is once again a single uncut sheet, 
+                                         as shown in Figure 12.14.
+
+
+                  1. The unfolded cut-and-taped model is a       2. So the model could be folded by starting
+                  flat sheet of paper.                           with an uncut sheet of the same size.
+                                         Figure 12.14. 
+                                         The unfolded model, and an uncut sheet that can be used to fold the 
+                                         longer box.
+
+                                             So the box can be made longer by adding more paper to the 
+                                         starting rectangle. We have changed its proportions, of course—
+                                         we started with a 3 × 2 (or equivalently, 6 × 4) rectangle; we 
+                                                         1
+                                         now are using a 3 /2 × 2 (or equivalently, 7 × 4) rectangle. But 
+                                         if you’re folding from a rectangle, one rectangle is nearly as 
+                                         good as another.
+                                             One might begin to suspect that this technique could be 
+                                         applied universally; everywhere you want to lengthen a point, 
+                                         you simply add a segment of paper to the folded model, then 
+                                         unfold it to get the new crease pattern. But this is not always 
+                                         possible; in fact, it is rarely possible with most traditional 
+                                         origami bases. As we saw with grafting, we were often forced 
+                                         to add paper that showed up in several different places. It’s 
+                                         difﬁcult to add a local graft in a radial-crease base, such as the 
+                                         kind we constructed with circle/river packing. To see why, let’s 
+                                         take the traditional Bird Base and try to lengthen just one of 
+                                         its points by the same grafting strategy.
+                                             As Figure 12.15 shows, it doesn’t work. You can certainly 
+                                         lengthen the point by cutting and inserting a section of paper, 
+                                         but the resulting shape, when unfolded, cannot be ﬂattened. 
+                                         Often in origami, we start with a ﬂat sheet of paper and try to 
+                                         make a model that folds ﬂat; here, we have the opposite prob-
+                                         lem: The model is ﬂat, but the sheet from which it springs is 
+                                         not! So one cannot willy-nilly use grafting as a means to change 
+                                         the proportions of a small portion of the model.
+
+     474
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

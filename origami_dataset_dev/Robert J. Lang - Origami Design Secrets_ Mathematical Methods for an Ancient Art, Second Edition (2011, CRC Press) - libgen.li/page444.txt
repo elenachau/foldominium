@@ -1,0 +1,32 @@
+                                         Figure 11.35. 
+                                         Crease pattern, base, and folded model of the Scorpion.
+
+                                         to the full crease pattern takes less than ﬁve minutes, although 
+                                         folding the crease pattern into a base may take many hours 
+                                         after that!
+                                             Computerized solution offers an additional beneﬁt: preci-
+                                         sion. It is possible to specify a different value for the length 
+                                         of every ﬂap individually. This is particularly desirable when 
+                                         there are many ﬂaps of unequal length in which the lengths 
+                                         must fall in some type of regular progression. An example 
+                                         requiring this is a scorpion. There are many scorpions in the 
+                                         origami literature; without exception, they all have legs the 
+                                         same length. But in the actual creature, the legs get longer 
+                                         from front to back; they are also spaced out along the body. By 
+                                         plugging in a tree with the appropriate leg lengths, it is pos-
+                                         sible to compute a base with the graduated distribution of legs, 
+                                         permitting a more realistic representation of the subject.
+                                             Computational techniques are also helpful in creating 
+                                         bases for extremely complicated subjects, such as those with 
+                                         many ﬂaps in varying sizes. A ﬂying grasshopper, for example, 
+                                         has six legs—two are much longer than the other four—along 
+                                         with antennae (of intermediate length), head and thorax (short) 
+                                         and abdomen (long). The legs, wings, and antennae account 
+                                         for six pairs of ﬂaps. There are many possible arrangements 
+                                         of circles representing those ﬂaps. One of the more symmetric 
+                                         and pleasing arrangements is the crease pattern shown in 
+                                         Figure 11.36, along with its base and the folded model. Can 
+
+     432
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

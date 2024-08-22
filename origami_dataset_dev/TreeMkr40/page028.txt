@@ -1,0 +1,9 @@
+                                     2.3.6
+
+You will have created three blank conditions. Fill in the fields with the indices of the nodes (1, 4,
+5, 6, and 7, respectively):
+
+
+                                     2.3.7
+
+                                 28

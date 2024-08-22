@@ -1,0 +1,54 @@
+                                                      Mathematical Methods in Origami Design
+
+
+                                               pincer         pincer
+                                           pincer                 pincer
+
+
+                                               claw          claw
+
+
+                                       leg 1                          leg 1
+
+
+                                       leg 2                          leg 2
+
+
+                                      leg 3            tail            leg 3
+
+
+                                            leg 4                leg 4
+
+    Figure 1 : Left: the stick ﬁgure superimposed over a photograph of the subject. Right: represen-
+    tation of the stick ﬁgure by circles and rivers.
+
+    We then transform the stick ﬁgure into geometric shapes that represent regions of the paper required by
+each ﬂap. These shapes are the light and dark regions in the ﬁgure. Flaps that are loose at one end, like the
+legs or pincers, are represented by circles (light), whose radius is equal to the length of the ﬂap. Flaps that
+are connected to other ﬂaps at both ends, like the body segments or the “arms,” are represented by constant-
+width curves called “rivers” (dark); the width of the river is equal to the length of the corresponding ﬂap.
+Each geometric shape—circle or river—represents the minimum amount of paper required for each of the
+ﬂaps. It is a remarkable fact that for any valid arrangement of circles and rivers that specify the minimum
+paper needed, there exists a crease pattern that works for that exact arrangement of circles and rivers.
+    And so, we must ﬁnd the most tightly packed arrangement of the circles and rivers within a square. The
+major rules that apply to this packing are:
+
+  • the circles and rivers must be as large as possible but maintain their same relative size to one another;
+  • they may not overlap;
+  • the circles do not have to be wholly inside the square, but their centers must be within the square;
+  • the incidences between the various circles and rivers must match the incidences of their corresponding
+    edges in the tree graph.
+
+    The larger the origami base is for a given size square, the more efﬁcient it is; the fewer the layers in
+each ﬂap; and, generally, the easier it is to fold. And so the ﬁrst stage of origami design consists of an
+optimization: ﬁnding the most efﬁcient packing of the circles and rivers. This can be done by hand (and it
+often is), but for this particular design, it is much faster to use TreeMaker, which has a nonlinear constrained
+optimization solver built in. (In the late 1990s, this process took seconds to minutes; with the 1000-fold
+increase in computing speed, it is now virtually instanteous.) To use TreeMaker, we start by drawing the
+stick ﬁgure, as shown in Figure 2 and then typing in the desired lengths of each ﬂap, shown as decimal
+numbers next to the lines of the stick ﬁgure.
+    The next step is to ﬁnd the optimum packing of circles and rivers so that all of the circle centers wind
+up inside the square. TreeMaker does this in a fraction of a second, giving the circle arrangement shown
+in Figure 2. (The rivers are not displayed by TreeMaker, but the reader can perhaps imagine them winding
+
+                                          13

@@ -1,0 +1,40 @@
+                If you fold these two patterns, you will see that the differ-
+            ence again lies in the width of the ﬂap and the number of layers, 
+            rather than the length or connectivity of the ﬂaps.
+                As a third example, recall that the Lizard base came in 
+            two forms: one with wide ﬂaps, one with narrow ﬂaps. First, 
+            let’s look at the wide-ﬂap (simpler) version of the crease pattern 
+            and base. I have colored the outlines of the axial polygons and 
+            have drawn in the circles and river on the tiles.
+                Observe that the river is meandering through the pattern 
+            in a way that illustrates its name.
+                Now, look at the actual crease pattern for the Lizard and 
+            its base. I have used the same outlines for the axial polygons.
+                The narrow form of the Lizard base uses the same tile 
+            outlines, circles, and rivers, but there are many more creases 
+            within each tile.
+
+            8.5. A Multiplicity of Tiles
+            Do we need to keep track of all possible crease patterns for 
+            every possible tile? Fortunately not. The more complicated 
+            crease patterns can often be derived from simpler patterns 
+            by narrowing the ﬂaps of the folded form of the tile in one of 
+            several different ways. The most common techniques for 
+            narrowing take the form of sink folds (which accounts, in part, 
+            for the prevalence of sink folds in complex origami designs). 
+            A simple tile with wide ﬂaps can have its ﬂaps narrowed by 
+            sinking one or more times. This sinking can give a much more 
+            complex crease pattern, but it should not distract you from 
+            understanding the essential simplicity of the underlying tile.
+
+
+               Simple tile crease 1. Open-sink the 2. Open-sink the 3. Narrowed folded tile
+               pattern        two flaps along remaining edge.    and its crease pattern.
+                              their angle
+                              bisectors.
+            Figure 8.32. 
+            Procedure to narrow a tile using angled sink folds.
+
+                                                                                                     263
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

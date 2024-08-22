@@ -1,0 +1,40 @@
+                                             With the notion of elevation now ﬁrmly in mind, let us 
+                                         now turn our attention back to the axial lines of a uniaxial 
+                                         box-pleated base.
+                                             In a uniaxial base, the axial creases are the lines of zero 
+                                         elevation, and in uniaxial box pleating they are the next stage 
+                                         in the construction of the crease pattern after the hinge creases 
+                                         (boundaries of hinge polygons and rivers) and the ridge creases 
+                                         (the straight skeleton of the hinge polygons and rivers). In 
+                                         circle-packed bases, the tips of all ﬂaps come from the circle 
+                                         centers and have zero elevation by deﬁnition and by design. In 
+                                         uniaxial box-pleated bases, though, we can relax this require-
+                                         ment for certain ﬂaps, namely, those that come from the corner 
+                                         or edge of the paper. For middle ﬂaps, however, in most cases, 
+                                         the tip of the ﬂap needs to touch the axis of the base.
+                                             For the moment let us assume that all of the ﬂaps in the 
+                                         base are axial ﬂaps, i.e., their tips touch the axis. For packing 
+                                         squares, that means that the center of the square lies on the 
+                                         axis, and so that point must lie on some zero-elevation contour 
+                                         line. Within each hinge polygon or river, contour lines are per-
+                                         pendicular to the boundaries of the polygon. That is enough 
+                                         information to precisely locate a set of axial contours: for every 
+                                         hinge line on the boundary of the hinge polygon, if there exists 
+                                         a line perpendicular to the hinge that passes through the circle 
+                                         center, that line must be an axial contour line.
+                                             And so, we must launch from the square center point one 
+                                         or more zero-elevation contour lines that propagate to the edges 
+                                         of the packing square; these will be the beginnings of the axial 
+                                         creases. Figure 13.23 shows this launch for the example prob-
+                                         lem whose ridge creases were shown in Figure 13.17.
+
+
+            Figure 13.23. 
+            Launch of the axials from the 
+            circle centers that then propa-
+            gate toward the bounding hinge 
+            creases.
+
+     592
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

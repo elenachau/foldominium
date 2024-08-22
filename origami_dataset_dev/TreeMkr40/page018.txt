@@ -1,0 +1,33 @@
+ This dialog gives information about the entire structure. It shows us the shape of the paper; the
+ default paper is a square whose width and height are both 1 unit, but you can also design for
+ rectangles by changing either the width or height. (But with TreeMaker’s capabilities for design,
+ why would you ever want to use anything but a square?) The third number is the scale, which is
+ the ratio between one unit on the tree and the size of the paper. (This is the same number that
+ appears at the top of the window.) In this example, we see that the scale is 0.277, which means
+ that a 1-unit edge on the tree will turn into a flap whose length is 0.277 times the side of the
+ square from which it is folded.
+
+    • Note: when we select the command Optimize Scale, TreeMaker tries to make the scale as
+   large as possible.
+
+The controls and fields on the right are the ones that interest us. The “Symmetry” check box lets
+us define a line of symmetry on the square. A line of symmetry is defined by the x and y
+coordinates of any point on the symmetry line and by the angle of the symmetry line with respect
+to the paper. A square has two natural lines of symmetry, that is, two different ways of dividing it
+into mirror-symmetric halves. If you crease the square along the diagonal, you get two mirror-
+symmetric triangles and the diagonal is the line of symmetry. If you book-fold the square, you
+get two mirror-symmetric rectangles and the book fold is the line of symmetry. The two buttons
+named “diag” and “book” are presets for these two symmetries. Click on the “book” button.
+You’ll see that the “Symmetry” check box is turned on, and we now have values entered for x, y,
+and the angle of the symmetry line as shown in figure 2.2.5.
+
+
+                                      2.2.5
+
+ Click “OK” to make the dialog box go away.
+
+    • Note: you can, if you like, enter your own values to either offset the line of symmetry
+    from the center of the paper or to create a line of symmetry for a rectangle.
+
+
+                                  18

@@ -1,0 +1,33 @@
+            Figure 9.14. 
+            Mirror symmetries of the square. 
+            Left: book symmetry. 
+            Right: diagonal symmetry.
+
+                                         it can be symmetric about a diagonal of the square, which we 
+                                         call diagonal symmetry.
+                                             From these symmetry considerations, we see a new rule 
+                                         for circle placement emerging: Not only should the number and 
+                                         diameter of circles match the number of ﬂaps on the base, but 
+                                         the distribution of the circles should also match the symmetry 
+                                         of the subject. There are two distinctly different types of circles: 
+                                         those that come in symmetric pairs, and those that lie directly 
+                                         upon the line of symmetry. Appendages that come in mirror-
+                                         image pairs correspond to circles that have mirror-image pairs 
+                                         on the square. Appendages that do not come in pairs, such as 
+                                         the head and tail, correspond to circles that should lie directly 
+                                         upon the symmetry line of the square.
+                                             If we wish to fold a ten-appendaged tarantula, we should 
+                                         choose a line of symmetry, divide the square into two regions 
+                                         along the line of symmetry, and then pack ﬁve circles into each 
+                                         region in mirror image of each other. This task is easily done, 
+                                         and my (conjectured) optimal solutions for the two possible 
+                                         lines of symmetry are illustrated in Figure 9.15.
+
+
+                                         Figure 9.15. 
+                                         Left: optimum ten-circle packing with book symmetry (r = 0.197). 
+                                         Right: optimum ten-circle packing with diagonal symmetry (r = 0.194).
+
+     306
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

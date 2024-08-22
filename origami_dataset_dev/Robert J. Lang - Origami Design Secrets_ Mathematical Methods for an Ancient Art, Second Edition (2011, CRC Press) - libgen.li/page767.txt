@@ -1,0 +1,63 @@
+                Five-Sided Square, Montroll’s  300    G                                     hex pleating  660
+                ﬁve-star graph  420                                                         hinge creases  348, 357, 746
+                ﬂap  745                              gadget                                  crease assignment  369
+                 corner  744                           level-shifting  629                    in molecules with rivers  416
+                 deﬁnition of  54                      level-shifting for box pleating      hinge polygons  349, 571
+                 edge  745                                  630                             hinge rivers  572, 651
+                 middle  747                          gaps                                  hinges  244, 746
+                Floderer, Vincent  714                 allocation of paper in splitting       in uniaxial bases  402
+                Flying Cicada                               points  99                      Honda, Isao
+                 crease pattern, base, and folded      delineation by circles  702            diagramming symbols  13
+                      model  315                       in multiple-point splits  110          use of cuts  94
+                Flying Grasshopper                    generic form  369, 746                Hulme, Max  48,   480, 562
+                 crease pattern, base, and folded      of a tile  253                       Husimi, Koji  352, 353, 357, 424
+                      model  433                      Georgeot, Alain  41                   hybrid base  699, 746
+                Flying Ladybird Beetle                 exhibition  1                        hybrid reverse fold  25, 746
+                 crease pattern, base, and folded     gestalt  465
+                      model  315                      Goldberg, Michael  329                I
+                Flying Walking Stick                  grafted Kite Base  708, 746
+                 contour map and folded model  625    grafting  7, 130, 746                 ideal split  100, 747
+                fold                                   along edges  146                       Montroll’s sequence for folding  
+                 3 types of  11                        border  135                                 102
+                 and unfold, symbols for  20           comparison of strip and border       inﬂation  302, 380, 580, 747
+                 closed sink  36                            142                               in tree theory  420
+                 crimp  31                             in box pleating  472                   of circles  310
+                 double rabbit-ear  26                 pleat  748                             selective  308
+                 double sink  35                       strip  141, 702, 750                 inscribed circle
+                 hybrid reverse  25                    strip, to create texture  197          in Waterbomb molecules  357
+                 inside reverse  23                   graph                                 insects  700
+                 mixed sink  38                        ﬁve-star  420                        inset distance
+                 mountain  747                         four-star  416                         in universal molecule  426
+                 mountain, symbols for  18             sawhorse  416                        inside reverse fold  23, 747
+                 multiple sink  35                    grasshopper                           instructions, verbal  14
+                 open sink  34                         choice of circles in design  307     irreducible complexity  563, 681
+                 outside reverse  23                  Grasshopper
+                 petal  28, 748                        crease pattern, base, and folded     J
+                 pleat  31, 748                             model  115
+                 rabbit-ear  25, 749                  gusset                                Japanese Horned Beetle
+                 reverse, crease patterns for  25      in a stretched pleat or crimp  32      crease pattern, base, and folded 
+                 sharpness of  12                     gusset creases                               model  158
+                 sink  33, 749                         crease assignment  369               jig
+                 spread sink  33, 749                 gusset molecule  361, 413, 416,         for circle packing  302, 374
+                 squash  27,  749                        427, 746                           Joisel, Eric  714
+                 swivel  28, 750                       in polygon packing  674                Pangolin  204
+                 unfolding, symbols for  19           gusset slivers  646                   Justin, Jacques  353, 357, 371, 
+                 unsink  39                                                                    424
+                 valley  751                          H
+                 valley, symbols for  18                                                    K
+                fold angle                            Harbin, Robert  713
+                 deﬁnition of  12                      diagramming symbols  13              Kamiya, Satoshi  48,  631
+                folded edge  15, 745                   naming of Preliminary Fold  57       Kasahara, Kunihiko
+                folded form  7, 21, 151, 209, 255,     symbol for repeated steps  17          Dragon  139
+                      349                              versions of stretched Bird Base      Kasahara-Neale Dragon  139
+                four-circle quadrilateral  355, 746         57                              Kawahata, Fumiaki  48,   352, 430
+                four-star graph  416                  Hayes, Barry  21                      Kawasaki, Toshikazu  352,  353, 424
+                Frog Base  54, 105, 142, 158,         Hedgehog, John Richardson’s  204      Kenneway, Eric  62
+                   242, 248, 292, 300, 323, 328,      Hercules Beetle                       Kite Base  54, 94, 111, 205, 242, 
+                   348, 349, 465, 707, 746             crease pattern, base, and folded        346, 747
+                 in Hummingbird  67                         model  275                        grafted  708
+                Fujimoto, Shuzo  48, 204
+
+                                                                                                                                  755
+                                                                                                           Index
+© 2012 by Taylor & Francis Group, LLC

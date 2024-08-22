@@ -1,0 +1,14 @@
+              0                 35  43                 78
+              17. Add a crease connecting bottom divisions 35 and    18. Make a crease that runs horizontally through
+              43 with the points where the creases you just made     the middle of the “X” formed by the creases.
+              hit the side edges.
+
+
+              19. Add five creases above and five below the crease   20. Add two more short creases above and below
+              you just made, all going through intersections of      the hexagonal grid; also make two horizontal creases
+              the grid.                                              at the top of the model.
+
+
+     228
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

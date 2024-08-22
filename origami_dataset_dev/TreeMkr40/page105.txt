@@ -1,0 +1,42 @@
+ — the index of the second node
+ Nodes collinear
+
+                                       4.5.34
+
+This condition is used to force three nodes to be collinear. It’s used to make crease patterns more
+symmetric. The fields are:
+
+— the index of the first node
+
+— the index of the second node
+
+— the index of the third node
+
+Note: a more effective way of making a crease pattern symmetric is to use the “Path Angle
+Fixed/Quantized” conditions.
+Edge length fixed
+
+                                       4.5.35
+
+This condition is used to force an edge to have zero strain in a strain optimization. The fields are:
+
+— the index of the edge
+Edges same strain
+
+                                       4.5.36
+
+This condition is used to force two edges to have the same strain in a strain optimization. The
+fields are:
+
+— the index of the first edge
+
+— the index of the second edge
+
+Note: you can force a group of edges to all have the same strain by binding each edge in the
+group to a common edge with this condition.
+Path active
+
+                                       4.5.37
+
+
+                                 105

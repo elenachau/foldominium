@@ -1,0 +1,34 @@
+            Figure 14.17. 
+            Contour map and folded model for the Longhorn Beetle. 
+
+            an update from the Cerambycid Beetle shown earlier. In this 
+            beetle, I have added rivers (to space the legs apart) and level 
+            shifters (to widen the abdomen). In a pure box-pleated design, 
+            the leg spacer rivers are squeezed between the front and hind 
+            legs, but the introduction of a Pythagorean stretch adds just 
+            enough extra space to make everything ﬁt neatly.
+                A fully assigned crease pattern and photograph of the 
+            ﬁnished model are given at the end of the chapter.
+                The most common location for a Pythagorean stretch is 
+            at the corners of the square, as in Figure 14.17, since that 
+            is the most common place where square packing leads to an 
+            inefﬁcient collision, but they can in fact be used anywhere. 
+            The Camel Spider shown in Figure 14.18 uses a total of eight 
+            Pythagorean stretches: one at each of the four corners and four 
+            more in the interior of the pattern, to obtain the greatest ef-
+            ﬁciency in the usage of paper for this long-legged creature.
+                This, too, has a fully assigned crease pattern and photo-
+            graph at the end of the chapter.
+                There is a special case of Pythagorean stretch that is par-
+            ticularly elegant, which is the limiting case of equality in the 
+            preceding equation. In this case the inset distance h vanishes 
+            and the corners of the gusset are located at the circle centers. 
+            This happens when the bounding rectangle and the minimum 
+            distance form a Pythagorean triple, that is,
+
+                                     2   2   2
+                       s1             + s2 = d  .              (14–4)
+
+                                                                                                     641
+                                                              Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

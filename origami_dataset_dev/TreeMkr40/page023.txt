@@ -1,0 +1,57 @@
+When you ran the optimization, you saw
+that the figure almost instantly became
+symmetric and the final pattern of
+terminal nodes is now symmetric.
+(Observe, though, that the internal nodes
+and edges are right where we left them.)
+If you select Creases Only (from the
+View menu) and   Build Polys and
+Creases (from the Action menu), you
+will see the full crease pattern, which is
+also mirror-symmetric, as shown in
+figure 2.2.13.
+
+Note the scale of the model (shown at the
+top of the window) is now 0.272 (it was
+0.277 with the asymmetric structure).
+The scale has dropped, meaning that the
+base folded from this pattern is slightly
+smaller than the asymmetric base. In
+general, when you add constraints to a
+pattern, you will reduce the scale and                2.2.13
+thus the size of the finished model.
+
+We can also try the other line of symmetry. Select Edit Tree… from the Edit menu to open the
+Tree Editor. Click on the “diag” button, which sets up a line of symmetry along one of the
+diagonals of the square and click OK. Also, put the square back into Default View if it wasn’t
+there already.
+
+Now the node pattern is still symmetric
+about the book fold and the conditions on                 1
+the nodes relating to symmetry haven’t
+                                                 2                 2
+changed, but we have moved the line of
+                                                          1
+symmetry; observe that the green line of 6                1.000             7
+symmetry in figure 2.2.14 is now along                    11
+                                                 5                 6
+the diagonal. Therefore, the conditions           1.000             1.000
+                                                 12        2      10
+we imposed are no longer satisfied.                  14       15
+Nothing has moved because conditions                  34
+aren’t enforced until we re-optimize.     2               1              2
+                                                           2
+Again select the command Optimize                           1.000
+Scale from the Action menu.                               2
+                                                          13 3
+Observe that, as shown in figure 2.2.15,     3                        3
+the nodes have moved to new positions                 8       9
+consistent with the new symmetry                     3         4
+conditions. Also, the polygons and                    1.000     1.000
+creases have disappeared. Whenever you          4         3        5
+change the node configuration by moving
+a node, the polygons that used to include
+that node are destroyed, as are any                   2.2.14
+creases that may have been associated
+
+                                  23

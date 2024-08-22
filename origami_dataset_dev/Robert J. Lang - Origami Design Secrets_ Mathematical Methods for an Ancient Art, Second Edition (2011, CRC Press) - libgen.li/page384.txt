@@ -1,0 +1,44 @@
+                                         to suit aesthetic purposes. While every such change alters the 
+                                         literal crease pattern, the generic crease pattern for such mi-
+                                         nor variants of a base remains unchanged. And so, I will often 
+                                         give only the generic form of the crease pattern for molecules 
+                                         and models that follow.
+
+                                         10.9. Putting It All Together
+                                         We now have all the building blocks necessary to build a custom-
+                                         made base from scratch, starting with the desired number, 
+                                         lengths, and connections among ﬂaps. Let’s work through such 
+                                         a model in detail. We’ll choose an orchid blossom, which offers 
+                                         some interesting challenges but isn’t too complicated.
+                                             Orchids come in an enormous variety. I’ll pick a fairly 
+                                         common form. Figure 10.35 shows a sketch of an orchid blos-
+                                         som. Orchids typically have six petals plus a stem, but in 
+                                         many species, one of the petals is heavily modiﬁed. In the 
+                                         variety I’ve chosen, the bottom petal grows two distinct pro-
+                                         trusions partway out the sides of the petal, and we’ll include 
+                                         these as distinct ﬂaps in the desired base. We can represent 
+                                         the desired conﬁguration of ﬂaps by a stick ﬁgure, as shown 
+                                         on the right.
+                                             Now, let’s count the ﬂaps. There are ﬁve similarly-sized 
+                                         ﬂaps for the ordinary petals, a sixth ﬂap for the stem, then three 
+                                         smaller ﬂaps that make up the composite petal. Those ﬂaps are 
+                                         separated from the others by a short segment. Thus, our crease 
+                                         pattern will be made up of six large circles, three smaller circles, 
+                                         and a relatively narrow river, as shown in Figure 10.36.
+                                             Now comes the fun part: How can we pack these items into 
+                                         a square in an efﬁcient way? Recall that (a) the centers of all 
+                                         circles must be conﬁned to the square and (b) circles and rivers 
+                                         must be connected in the same way that they are connected in 
+                                         the stick ﬁgure, which is to say that two circles may only touch 
+                                         in the crease pattern if their corresponding sticks touch at a 
+                                         node. If you like something concrete, you can cut out circles 
+
+
+            Figure 10.35. 
+            Left: an Orchid. 
+            Right: its representation as a 
+            stick ﬁgure.
+
+     372
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

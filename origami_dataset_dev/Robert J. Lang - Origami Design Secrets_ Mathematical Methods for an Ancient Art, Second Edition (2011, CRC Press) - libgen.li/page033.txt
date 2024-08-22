@@ -1,0 +1,33 @@
+                                                                       Figure 2.18. 
+                                                                       Mountain-fold and unfold is 
+                                                                       indicated by a double-headed 
+                                                                       arrow that combines the 
+                                                                       “mountain fold” and “unfold” 
+                                                                       arrowheads.
+
+            formation than the sequence of folding instructions, because it 
+            shows the entire model (or folded form) at once. The simplest 
+            form of the crease pattern simply shows all creases as crease 
+            lines, as in Figure 2.19, which shows the crease pattern for 
+            the traditional Japanese ﬂapping bird.
+
+
+            Figure 2.19. 
+            Crease pattern, base, and folded model of the traditional Japanese 
+            ﬂapping bird.
+
+                Knowing just the location of the creases, however, is not as 
+            useful as it could be; it is far more useful to know the directions 
+            of the creases, i.e., whether they are valley or mountain folds.
+                (“More useful” is a bit of an understatement. In 1996, 
+            Marshall Bern and Barry Hayes proved that ﬁguring out 
+            crease directions from a generic crease pattern is computation-
+            ally part of a class of problems known as “NP-COMPLETE.” As 
+            such problems grow in size, they quickly outstrip the abilities 
+            of any computer to solve.)
+                Thus, it is more helpful to give the direction—or crease 
+            assignment—of the creases: mountain, valley, or crease (that 
+
+                                                                                                      21
+                                                                 Chapter 2: Building Blocks 
+© 2012 by Taylor & Francis Group, LLC

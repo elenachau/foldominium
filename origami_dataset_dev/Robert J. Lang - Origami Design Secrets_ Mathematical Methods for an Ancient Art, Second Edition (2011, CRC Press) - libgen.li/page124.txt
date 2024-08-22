@@ -1,0 +1,44 @@
+                                             However, since we’ll want the mountain folds at the edges 
+                                         of the wedge group to line up with the raw edges of the square, 
+                                         it’s clear that we’ll need a crease to bring those two lines to-
+                                         gether. That forces the two valley folds shown in Figure 5.24, 
+                                         each of which necessarily bisects the angle between the raw 
+                                         edge of the paper and the boundary of the wedge group.
+
+
+                                                                        A
+
+
+                                                                                      B
+
+
+                                         Figure 5.24. 
+                                         Left: the wedge group, superimposed on a kite ﬂap. 
+                                         Right: add two valley folds to make the raw edges line up with the 
+                                         edges of the wedge group.
+
+                                             The points where the valley folds hit the original kite 
+                                         folds—marked A and B in Figure 5.24—mark the transition 
+                                         region between the creases of the kite ﬂap and the creases of 
+                                         the point group. The kite creases don’t propagate any farther 
+                                         toward the tip of the paper than these two intersections. Still 
+                                         more creases are required to allow the crease pattern to fold 
+                                         ﬂat, however. While it’s possible to calculate the remaining 
+                                         creases necessary, it’s far easier to simply fold the model with 
+                                         the creases known so far and force it ﬂat; the necessary creases 
+                                         will fall into just the right place, giving the ﬁnal crease pattern 
+                                         shown in Figure 5.25.
+                                             This can be generalized to larger numbers of points, but 
+                                         you will ﬁnd that with ﬁve or more points, you will have to 
+                                         use narrower wedges (with an apex angle of 30° rather than 
+                                         45°) in order to put the outermost points on the raw edge of 
+                                         the paper and not cut off some of the inner points, as shown 
+                                         in Figure 5.26.
+                                             Extending these creases to connect to kite ﬂap creases is 
+                                         left as an exercise for the reader. Here’s another exercise: Can 
+                                         you use this technique on a Frog Base to create a frog with four 
+                                         toes on the forelegs and ﬁve on the back legs?
+
+     112
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,12 @@
+                        Tree Theory Review
+
+
+ Traditional
+
+
+                                                                                  31
+Review of Tree Theory thought process
+1) Start with object
+2) Draw tree
+3) Change tree into uniaxial base
+4) Shape uniaxial base

@@ -1,0 +1,50 @@
+            5.0 The Tree Method of Origami Design
+
+ This section describes the mathematical ideas that underly the tree method of origami design —
+ and technical origami, or origami sekkei — in particular. The Japanese art of origami, though
+centuries old, has undergone a renaissance in the last few decades from new advances in origami
+design. The simple stylized birds, flowers, and fish of old have been replaced by incredibly
+complex replicas of insects, crustacea, mammals, amphibians, dinosaurs, humans, objects, and
+just about everything under the sun. The explosion of subject matter was driven in part by new
+discoveries in design techniques. One of the most significant of these discoveries was a series of
+mathematical algorithms for designing origami bases in terms of the number, size, and
+arrangement of their points. This document section some of those algorithms.
+
+Even before mathematics came into the picture, the concept of “points” — flaps that become
+appendages of an origami model — and their number, length, and connections have figured
+heavily in the origami designer’s approach to creating new folds. Over the past few years, I and
+several folders have been formulating mathematical techniques for designing origami models on
+the basis of their points. We have discovered several general algorithms for design, algorithms
+that enable one to compute the crease pattern for a base containing any number of points of
+arbitrary complexity. A complete description of such algorithms and all of their nuances would
+fill a book — in fact, I am working on that very task — but the basic technique can be quickly
+outlined and may be of interest to folders interested in exploring new bases and symmetries.
+
+I am going to describe an algorithm using terminology and concepts that I developed in my own
+research. However, I should acknowledge major contributions from other mathematical folders.
+In any scientific endeavor, the rate of progress is vastly accelerated through the interaction and
+cross-fertilization of ideas among several investigators and those who have contributed to this
+theory are many: they include Jun Maekawa, Fumiaki Kawahata, Toshiyuki Meguro, Alex
+Bateman and Tom Hull, with additional insights from John Montroll, Peter Engel, Issei Yoshino,
+Brian Ewins, Jeremy Shafer, and Martin and Erik Demaine. My thanks and acknowledgment to
+these, as well as the many more folders whose works formed both inspiration and guide for my
+work over the years.
+
+And now, on with design.
+
+The name “technical folding” has come to be applied to origami designs that, whether
+intentionally or not, display a strong geometrical elegance and sophistication. The target concept
+for much of technical folding is the base. A base is simply a geometric shape that resembles the
+subject to be folded — usually, a shape having the same number and length of flaps as the
+subject has appendages. For example, a base for a bird might have four flaps, corresponding to a
+head, tail, and two wings. A slightly more complicated subject such as a lizard would require a
+base with six flaps, corresponding to the head, four legs, and a tail. And an extremely
+complicated subject such as a flying horned beetle might have six legs, four wings, three horns,
+two antennae and an abdomen, requiring a base with sixteen flaps. You needn’t stop there, either.
+Throw in mouthparts and a separate flap for the thorax, if you like, for a total of nineteen flaps.
+The number of flaps required in a model depends on the level of anatomical accuracy desired by
+the designer. Historically, much origami design was performed by trial and error — manipulating
+a piece of paper until it began to resemble something recognizable. However, for a complex
+subject, trial and error is a highly inefficient approach, since one is unlikely to stumble upon a
+
+                                 112

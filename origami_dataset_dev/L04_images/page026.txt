@@ -1,0 +1,20 @@
+Objective of the Study
+
+1.     freeform
+       –   Controlled 3D form
+       –   Fit function, design context, 
+           preference, ...
+
+2.     origami
+       utilize the properties
+       –   Developability
+             →  Manufacturing from a sheet material
+                 based on Folding, Bending
+       –   Flat-foldability
+             →   Folding into a compact configuration
+                 or Deployment from 2D to 3D
+       –   Rigid-foldability
+             →   Transformable
+                 Structure
+       –   Elastic Properties
+       ...

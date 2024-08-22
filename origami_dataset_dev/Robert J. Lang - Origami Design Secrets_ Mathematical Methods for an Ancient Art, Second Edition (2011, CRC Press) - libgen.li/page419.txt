@@ -1,0 +1,60 @@
+            this into mathematical language, we arrive at the fundamen-
+            tal theorem of the tree method of design (which I call the tree 
+            theorem for short): 
+
+                Deﬁne a simply connected tree T with leaf nodes Pi, 
+
+                i = 1, 2,…N. Deﬁne by lij the dis-tance between nodes 
+
+                Pi and Pj as measured along the edges of the tree; that 
+
+                is, lij is the sum of the lengths of all the edges between 
+
+                nodes Pi and Pj. For each leaf node Pi, deﬁne a leaf 
+                                            ∈         ∈
+                vertex ui in the unit square ui,x [0,1], ui,y [0,1]. Then 
+                a crease pattern exists that transforms the unit square 
+                into a uniaxial base whose projection is T if 
+
+
+                   (a)  |ui–uj| ≥ lij for every i,j; 
+
+                   (b)  every leaf vertex belongs to a polygon whose 
+                      boundary is composed of segments, each of 
+                      which is either on the convex hull of the leaf 
+
+                      vertices or is a line along which |ui–uj| = lij; 
+
+                   (c)  the projection of a path around each polygon 
+                      follows a simple path around some subset of 
+                      the tree that does not cross any edge of the tree 
+                      more than twice. 
+
+
+                Furthermore, in such a base, Pi is the projection of ui 
+                for all i.
+
+                Although the proof of the tree theorem is beyond the scope 
+            of this book, we will proceed to use it. The tree theorem tells 
+            us that if we can ﬁnd a set of leaf vertices within a square for 
+            which the distance between any two is greater than or equal 
+            to the distance between their corresponding leaf nodes on the 
+            tree, then a crease pattern exists that can transform that pat-
+            tern of vertices into a base.
+                Thus, for example, the tree in Figure 11.1 has six leaf nodes; 
+            there are ﬁfteen possible pairs of leaf nodes to worry about. The 
+            distance from node A to node E is 2 units; thus, the leaf vertices 
+            on the square that correspond to nodes A and E must be at least 
+            2 units apart. Similarly, to get from node A to node D on the 
+            tree, you must travel 3 units; and so the distance between leaf 
+            vertices A and D on the square must be at least 3 units as well. 
+            And so on, for the other thirteen possible pairs.
+                For a given tree, there are often several possible arrange-
+            ments of leaf vertices that satisfy the tree theorem, each of 
+            which yields a different base. For our six-pointed base, a little 
+            doodling with pen and paper will reveal that the pattern of 
+            nodes shown in Figure 11.7 satisﬁes all such conditions if the 
+
+                                                                                                     407
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,30 @@
+                                         contour line is shifted by the gadget between the two axial+1 
+                                         contours down to axial+0 (that is, plain old axial) elevation. 
+                                         And clearly, it is possible to use the same gadget to go the other 
+                                         direction as well.
+                                             In box pleating, ridges can propagate at two angles with 
+                                         respect to incident axial contours: 45° and 90°. There are level-
+                                         shifting gadgets for both situations, and the two possibilities 
+                                         are shown in Figure 14.7.
+
+
+            Figure 14.7. 
+            The two level-shifting gadgets 
+            for box pleating.
+
+                                             As an illustration of this technique, Figure 14.8 shows a 
+                                         contour map for a Salt Creek Tiger Beetle that is somewhat 
+                                         similar to the generic beetle base of the previous chapter, but 
+
+
+                                                                       12 012
+
+
+                                         Figure 14.8. 
+                                         Contour map, base, and folded form for the Salt Creek Tiger Beetle. 
+                                         Note that the abdomen is widened by use of level shifters inserted 
+                                         into the body.
+
+     630
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

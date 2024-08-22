@@ -1,0 +1,37 @@
+                                                            4 1
+
+                                                             1
+                                                           4 1  1
+                                                             1
+                                                          6  1  1
+
+                                                         8   2
+
+                                                             4
+
+
+                                                                               Figure 13.34. 
+                                                                               Packing with squares expanded 
+                                                                               into rectangles and extra squares 
+                                                                               added to “soak up” extra space.
+
+
+                                                            4 1
+
+                                                             1
+                                                           4 1  1
+                                                             1
+                                                          6  1  1
+
+                                                         8   2
+
+                                                             4
+
+
+                                                                               Figure 13.35. 
+                                                                               Ridges added to all polygons and 
+                                                                               rivers.
+
+                                                                                                                 603
+                                                                  Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,50 @@
+            is an axial crease, ridge crease, or hinge crease, than to know 
+            whether it is speciﬁcally mountain or valley. Given the hints on 
+            folding direction provided by the dashing pattern, the generic 
+            form alone is often sufﬁcient information to ﬁgure out how to 
+            fold the entire base.
+                Molecules do not occur in isolation, of course; they are 
+            agglomerated into tiles and entire crease patterns. In such 
+            macro-structures, molecules are joined edge-to-edge by axial 
+            creases that must also have their parity assigned. Usually—
+            but again, not always—the axial creases are mountain folds, 
+            and so, in the structural representation, they will always be 
+            drawn that way.
+                The exception to the “axial = mountain” rule arises when 
+            molecules completely surround a vertex in the interior of the pa-
+            per; then it will be necessary to change one of the axial creases 
+            to a valley fold or, equivalently, assign two of the axial creases 
+            to be unfolded creases. This follows from a relatively famous 
+            formula witin origami derived independently by Maekawa and 
+            Justin, which states: 
+                 
+                                   V – M = ± 2.                               (10–3)
+
+                That is, around any ﬂat-folded interior vertex, the differ-
+            ence between the number of mountain folds (M  ) and valley 
+            folds (V ) is ±2, with the choice of sign being made based on 
+            whether the folded vertex is concave (+2) or convex (–2) from 
+            the viewpoint of the observer.
+                If N molecules come together at an interior vertex, each 
+            contributes one ridge and one axial crease. The N ridges must 
+            all be valley folds, which means that of the N axial creases, 
+            N – 2 must be mountain folds and 2 must be unfolded, or 
+            N – 1 are mountain folds and 1 is a valley fold.
+                It is helpful to deﬁne a generic form for entire crease pat-
+            terns, just as we do for individual molecules, in which all axial 
+            creases are shown as mountain folds, whether they connect 
+            to interior vertices or not. A generic form crease pattern for a 
+            uniaxial base has all axial creases assigned as mountain folds; 
+            all gusset creases are mountain folds; all ridge creases are 
+            valley folds; and all hinge creases are unfolded creases. While 
+            such a crease pattern is not, as a rule, ﬂat-foldable, all that is 
+            needed to make it ﬂat-foldable is to change the assignment of 
+            a handful of creases; no new creases are added. I ﬁnd that in 
+            working out a design, the generic form of the crease pattern 
+            actually conveys the assembly of the base more clearly than 
+            the literal crease pattern would, for in the process of folding, 
+            one tends to ﬂip the ﬂaps back and forth and rearrange layers 
+
+                                                                                                     371
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

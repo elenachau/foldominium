@@ -1,0 +1,43 @@
+                Here, the pattern with the line of symmetry parallel to a 
+            side is slightly more efﬁcient than the one in which the line of 
+            symmetry is along the diagonal. Consequently, the correspond-
+            ing base would have longer ﬂaps, and the resulting model would 
+            be more efﬁcient. Not by much, however. The difference is only 
+            about 1%.
+                The diagonal pattern is not a stable pattern; that is, 
+            we could allow two pairs of ﬂaps to become somewhat larger 
+            without shrinking anything else. The two ﬂaps that can grow 
+            are the two in the upper right corner of Figure 9.15. Can you 
+            see why?
+                A pattern that is almost as efﬁcient is the twelve-circle 
+            packing shown in Figure 9.16, which gives twelve paired ﬂaps 
+            with diagonal symmetry or ten paired ﬂaps, and two on the sym-
+            metry line, if you use book symmetry. Even if you only need ten 
+            ﬂaps, since the major crease lines of this pattern all run at 45° 
+            or 90° to one another, it might be simpler to make a base from 
+            this pattern than from the preceding two. With the twelve-circle 
+            pattern, the slight loss in efﬁciency would be offset by the ease 
+            of folding and the cleanliness of the lines of the model.
+
+
+                                                                        Figure 9.16. 
+                                                                        A diagonal-symmetry twelve-
+                                                                        circle packing (r = 0.177).
+
+                The mathematical study of circle packings has tended to 
+            concentrate upon packings of identical circles, corresponding to 
+            bases with circles all the same size. However, in origami, we often 
+            are seeking to construct bases in which the ﬂaps do not have the 
+            same length. In a grasshopper, for example, the two back legs are 
+            much longer than the other four legs. When we try to ﬁnd a circle 
+            packing for a grasshopper, we should use two large circles for the 
+            back legs and four smaller ones for the front legs (and perhaps 
+            a medium-sized circle for the body and another short one for the 
+            head). Ordinarily, one would choose circle dimensions that cor-
+            respond precisely with desired ﬂap lengths. However, by judicious 
+            selection of circle size, we can produce particularly elegant and 
+            symmetric crease patterns, as we will see.
+
+                                                                                                     307
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

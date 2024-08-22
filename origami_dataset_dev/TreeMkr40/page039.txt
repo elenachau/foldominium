@@ -1,0 +1,56 @@
+If you set up the tree and symmetry line
+and run an optimization, you will arrive                  1
+at the arrangement of nodes shown in
+                                                 2                 2
+figure 3.2.1.
+                                                          1
+                                        4                                   5
+Select Build Polygons and Creases                         1.000
+         Action                                  3                 4
+from the        menu, followed by                1.000             1.000
+Creases Only from the View menu to                         2
+get the crease pattern shown in figure
+3.2.2.                                    2                              2
+
+Now the problem with this crease pattern                  2
+is that if you fold it up into a side view                 1.000
+base, there is only one layer on the top,    3                        3
+and if you try to squash-fold the layer to
+spread the arms and legs to either side                    3
+and make a plan view base, you’ll find               5         6
+that the base of the squash fold reduces             1.000     1.000
+                                                6         3        7
+the effective length of the legs
+considerably.
+                                                       3.2.1
+That’s because we have overlooked an
+important requirement for making a plan
+view base. The way you make a side
+view base into a plan view base is to
+open the model along the line of
+symmetry, which means that all of the
+paper along the line of symmetry must lie
+in the same plane to form the “hinge” of
+the base. Put differently, the line of
+symmetry of the paper must lie in the
+plane of projection of the base. This
+means that to make a plan view base, the
+line of symmetry of the square must
+consist entirely of active paths (since
+active paths are the only parts of the base
+that lie in the plane of projection of the
+base).
+
+So we need to get active paths running
+along the line of symmetry. But since
+active paths only run between nodes of
+the tree and there is currently only one
+node on the line of symmetry (the head),               3.2.2
+we need to add more nodes to the tree
+solely for the purpose of creating active paths. These nodes don’t correspond to features of the
+model; they’re only there to make the base a plan view base. In particular, we need to add a node
+to the bottom of the square so that there is a terminus on the bottom edge of the square for the
+active paths that are to run along the line of symmetry.
+
+
+                                  39

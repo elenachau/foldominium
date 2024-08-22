@@ -1,0 +1,51 @@
+                                                      Mathematical Methods in Origami Design
+
+    A nice feature of this framework is that it is relatively easy to incorporate additional requirements
+into the basic optimization; for example, one can impose mirror symmetry on the crease pattern by adding
+additional equality constraints on the coordinates of the affected vertex pairs.
+    This type of constrained optimization is one that has been studied for decades within computer science.
+In my ﬁrst few implementations of TreeMaker, I wrote my own constrained optimizer using the Augmented
+Lagrangian method [11]. On a 68K-based Macintosh (with no ﬂoating-point coprocessor), this took several
+minutes to converge to a solution, and so to make the wait more tolerable, I wrote code that updated the screen
+after each iteration, so I could watch the circles jostle around and expand, which offered entertainment value,
+if nothing else. For TreeMaker 4, I replaced it with a Feasible Sequential Quadratic Programming (FSQP)
+algorithm developed by Andre Tits at the University of Maryland [12], which turned out to be about a
+hundred times faster than my relatively crude code, but it also occasionally sent the evolving solution off
+into distant corners of feasible solution space—a behavior I was willing to tolerate, given the incredibly
+improved speed.
+    But there was another factor at work at the same time; throughout the 1990s, the most effective way to
+speed up code is often “wait for a faster processor.” From the ﬂoating-point-in-software 68K Mac to current
+Intel processors, ﬂoating-point processing sped up by a factor of about a thousand, and so for TreeMaker 5,
+I went back to my hand-rolled ALM code, which was slow, but numerically efﬁcient (and could be made
+open-source). On a modern PC, even this far-from-optimum code still converges almost instantaneously
+to a high-quality local optimum. Which is not necessarily the global optimum. Artistically, this is a good
+behavior: it lets the artist ﬁnd several candidate arrangements by starting from different initial positions, and
+then choosing the local optimum that best ﬁts other aesthetic criteria.
+
+    Whatever algorithm is used, at the end of the optimization, one has the positions of the vertices Vi and
+the scale factor m. That is sufﬁcient to construct the circle centered on each vertex, as shown in Figure 2
+(right). When two circles and all intervening rivers touch, it is an indication that the associated inequality
+constraint is, in fact, an equality. In the language of constrained optimization, that constraint is said to be
+active, and so we say that the path between the two nodes is active as well. It turns out that active paths
+always correspond to crease lines in the crease pattern associated with a circle packing. These creases turn
+out to lie along the axis of the folded shape, and so we also call them axial paths. They form the framework
+upon which the rest of the crease pattern is constructed.
+
+                                    3  The Creases
+
+Once we have found the axial paths, it is possible to mathematically construct all of the other folds in the
+desired shape (which we call a “base”)—again, a process that takes a fraction of a second in TreeMaker, this
+time because no optimization is needed; the construction is a straightforward polynomial-time geometric
+algorithm. TreeMaker color-codes the creases according to their structural role: there are axial creases
+(green), which all wind up along the centerline of the folded model, hinge creases (blue), that run along
+the junctions between ﬂaps, and ridge creases (red), that deﬁne how wide each ﬂap is. These are shown
+in Figure 3. The creases outline regions of the paper, called facets; the collection of all facets and their
+intervening creases gives the crease pattern needed to fold the square into the origami base.
+    The structural information indicated by color tells the designer where in the folded form a given crease
+lies and provides some hint for how the folded shape goes together, but ultimately, we need to determine
+whether each crease is a mountain or valley fold. To do this, TreeMaker computes the “stacking order” of all
+of the layers of paper, which is encoded by a graph on the facets that deﬁnes how the layers stack. Once we
+know the stacking order of the layers of paper, we can determine whether each fold is a mountain fold (solid
+black), valley fold (dashed colored), or is unfolded, or ﬂat (solid gray). The full crease pattern, as computed
+
+                                          15

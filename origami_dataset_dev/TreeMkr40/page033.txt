@@ -1,0 +1,30 @@
+Now, all edges are pinned and we can
+proceed with the construction of the
+creas pattern. Select Build Polys and
+Creases from the   Action menu to
+construct the crease pattern and select
+Creases Only from the View menu to
+show just the creases, as shown in figure
+2.3.13.
+
+You now know how to set up a crease
+pattern for a base with an arbitrary
+number of flaps and how to change the
+lengths of the flaps. You’ve also seen in
+this tutorial how to set up and enforce
+bilateral symmetry in the base. This gives
+you 90% of what you need to know to
+compute crease patterns with TreeMaker,
+and I encourage you at this point to go
+off and experiment. To keep things
+simple (and to keep the optimization
+times down), I have kept to small                     2.3.13
+examples with a small number of flaps.
+But you can try much more complicated
+bases with much more complicated assemblies of flaps with TreeMaker; you are limited only by
+the computer memory and speed (and of course, your own patience!). The next section will
+address some of the subtler issues of origami design using TreeMaker. You can continue
+working through it, or go off, experiment, and then come back when you’re ready.
+
+
+                                  33

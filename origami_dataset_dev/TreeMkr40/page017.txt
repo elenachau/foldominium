@@ -1,0 +1,45 @@
+This is rather surprising; the node pattern
+is less symmetric than the tree from
+which it is derived. The tree has bilateral
+symmetry — that is, the left side is the
+mirror image of the right side. However,
+the node pattern does not have bilateral
+symmetry. We’ll see this in the crease
+pattern as well. Select Build Polygons
+from the  Action menu; then Build
+Creases from the Action menu. Then
+convert to Creases Only view from the
+View menu. You will see that the
+resulting crease pattern has no line of
+symmetry at all (figure 2.2.3.)
+
+This is an example of a phenomenon
+called “spontaneous symmetry-
+breaking,” in which a system that is
+fundamentally symmetric at high energy
+settles into an asymmetric state at lower
+energy. (In the analogy, a larger scaling              2.2.3
+factor corresponds to a lower energy.) In
+this case, a slightly larger base is
+obtained for an asymmetric distribution of nodes than is obtained for a symmetric distribution of
+nodes. While symmetry-breaking is a wonderful phenomenon for generating Ph.D. theses, it can
+be very undesirable in origami design. The crease pattern in figure 2.2.3 can indeed be folded
+into the tree we started with and left and right flaps will have the same lengths, but they will have
+different widths and different distributions of layers, so the base will not have mirror symmetry.
+
+An asymmetric base is not necessarily a bad thing. It depends on the position of the subject. If
+you were making a running human, for example, in which the left and right arms and legs were
+in different positions, it might not matter if paired flaps had different numbers of layers. But in a
+lot of models, it does matter, and in this case at least, we would like the folded base and therefore
+the underlying crease pattern to have the same bilateral mirror-symmetry as the subject.
+
+Fortunately, TreeMaker offers us this option. The first thing to do is to define a line of the
+symmetry for the square. This need provides us with the opportunity to meet the Tree Editor
+dialog, which lets us change settings that affect the entire structure. Select Edit Tree… from the
+Edit menu, which brings up the dialog shown in figure 2.2.4.
+
+
+                                      2.2.4
+
+
+                                  17

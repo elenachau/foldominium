@@ -1,0 +1,40 @@
+            square in each direction. We do this by cutting out both a verti-
+            cal and horizontal strip.
+                Because we’ve cut paper out, the ﬂaps that fold toward 
+            each other in the handles now overlap. It is desirable to avoid 
+            such overlaps; we can eliminate them by adding a few extra 
+            reverse folds as shown in Figure 12.17.
+
+
+                                                              2. Now fold the box in the same way
+                                                              as before. Note that the two side flaps
+                          1. Cut out the shaded cross-        overlap one another.
+                          shaped region.
+
+
+                                           3–4
+
+
+            3. Reverse-fold the 4. Reverse-fold 5. Repeat steps 3–4 6. Fold the flaps 7. Finished box.
+            corner so that the the other corner on the near flaps. out to the sides.
+            raw edge lines up in the same way.
+            with the far vertical
+            edge.
+
+            Figure 12.17. 
+            Folding a smaller box.
+
+                The extra reverse folds add a few new folds to the crease 
+            pattern. They, too, are predominantly vertical and horizontal. 
+            If you cut out a section of this box (the shaded region in Fig-
+            ure 12.18), you will come back to the original 3 × 2 box exactly 
+            half the size of the original pattern (with somewhat longer 
+            handles).
+                Comparing steps 4 and 5 shows that the difference between 
+            a shallow box and a deeper box is precisely the shaded region 
+            in step 2. Thus, we can make a box wider or longer by adding 
+            simple strips of paper, and by adding a more complicated shape, 
+
+                                                                                                     477
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

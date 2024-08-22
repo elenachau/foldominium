@@ -1,0 +1,16 @@
+Hinge Shift Approach
+
+•  Main Problem
+    – non-concurrent edges →6 
+      constraints (overconstrained)
+•  Symmetric Vertex:
+    – [Hoberman 88]
+    – use two levels of thickness
+    – works only if the vertex is 
+      symmetric (a = b, c=d=π-a)
+•  Slidable Hinges
+    – [Trautz and Kunstler 09]
+    – Add extra freedom by allowing 
+      „slide“
+    – Problem: global accumulation of 
+      slide (not locally designable)

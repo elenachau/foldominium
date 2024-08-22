@@ -1,0 +1,37 @@
+                                                               10Molecules
+
+                               e have seen that new bases can be con-
+                               structed from tiles, pieces of old bases. By 
+                               inscribing circular arcs within tiles and 
+                               mating them according to a few simple 
+                               matching rules, we can build new bases 
+            with new arrangements of ﬂaps. However, assembly of tiles to 
+            build new bases can be a hit-or-miss proposition: You are lim-
+            ited to working with those tiles you have previously cataloged, 
+            and there is no guarantee than a given assembly of tiles will 
+            ﬁt efﬁciently into a square of paper.
+                In the previous chapter, we saw how one can use circle 
+            packings to ﬁnd a pattern of points within a square (or any 
+            other shape of paper) that is guaranteed to be foldable into 
+            an origami base that has a speciﬁed length and distribution 
+            of ﬂaps. When the conﬁguration of circles happens to match 
+            the circles (and, if needed, rivers) of known tiles, then we can 
+            ﬁll in the crease pattern with the tile creases, and the paper 
+            can be collapsed into a base. However, a problem arises if the 
+            circle pattern matches none of the tiles we know so far. With 
+            the addition of just a few more patterns, however, we can ﬁnd 
+            ﬂat-foldable crease patterns for any circle/river packing—and 
+            for a great deal more besides.
+                This process is not as difﬁcult as you might think, be-
+            cause there aren’t that many different types of patterns that 
+            are needed. Most of the time, the polygons created by circle/
+            river packings are triangles (as they have been in most of the 
+            examples we’ve seen thus far). More complicated bases may 
+            have quadrilaterals, pentagons, or higher-order polygons. All 
+            can be collapsed so that their edges lie on a line and they align 
+            with one another properly. What makes the problem of design-
+            ing a base tractable is that, to a large degree, each polygon can 
+
+                                                                                                     345
+
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,61 @@
+                                     ABH      F                      ABH       F
+
+                          B
+
+              A      I               H      I               F        H      I               F
+                                     F                               F
+                             G
+                    H                               G                               G
+                       F                                         C                               C
+                                 C
+            E                        E                               E
+
+                                                           F                               F
+                                            F                               F
+                      D
+                                                    D                               D
+                                         Figure 11.24. 
+                                         Left: a stub added to node A’s edge that satisﬁes four path equalities. 
+                                         Middle: active (axial) paths. 
+                                         Right: full structural form crease pattern.
+
+                                      ABF                             ABF
+
+                           B
+
+               A                                            F                               F
+                           I          F         I                     F         I
+                              G
+                                                  G                               G
+                        F H
+                                                                 C                               C
+                                 C
+             E                        E                               E
+
+                                                           F                               F
+                                             F                              F
+                       D
+
+                                                    D                               D
+                                         Figure 11.25. 
+                                         Left: a second solution, adding the stub to node G’s edge. 
+                                         Middle: active (axial) paths. 
+                                         Right: full structural form crease pattern.
+
+                                             There is a way, however, of adding a fourth degree of free-
+                                         dom. We can add a new branch node along one of the existing 
+                                         edges of the tree and add a new edge and new leaf node to the 
+                                         new branch node. There are now four degrees of freedom: the 
+                                         two coordinates of the new leaf vertex, the length of the new 
+                                         edge, and the distance along the existing edge where the new 
+                                         branch node is placed.
+                                             With four degrees of freedom, it is, in principle, possible to 
+                                         satisfy four path equalities simultaneously. In the tree graph 
+                                         we have been working on, it turns out that we can add our new 
+                                         branch node to either of two edges, those connected to leaf nodes 
+                                         A and G. Both give solutions that satisfy the path conditions, 
+                                         as shown in Figures 11.24 and 11.25.
+
+     422
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

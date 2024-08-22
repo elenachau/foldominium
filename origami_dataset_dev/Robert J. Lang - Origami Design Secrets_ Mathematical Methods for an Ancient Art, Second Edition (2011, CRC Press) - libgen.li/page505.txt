@@ -1,0 +1,32 @@
+                It is illustrative to consider how different patterns scale 
+            with large numbers. Suppose, for example, that you wanted 
+            to make a shape with 100 ﬂaps (a centipede or sea urchin, 
+            perhaps). The centipede would be doable from a long rectangle; 
+            you’d just keep adding to the length to add each pair of legs. 
+            But suppose you wanted to make your ﬁgure from a square? 
+            In that case, although you could keep adding edge ﬂaps to 
+            make the square larger and larger, all of those pleats crossing 
+            in the center would be effectively unused, wasted paper. But 
+            middle ﬂaps constructed by box pleating are tileable, like the 
+            pattern grafts of scales that we explored in Chapter 7. One 
+            could, for example, create a two-dimensional array of such 
+            ﬂaps, joining them edge-to-edge, as in the 2 × 2 array shown 
+            in Figure 12.35. 
+
+
+            Figure 12.35. 
+            Left: crease pattern for a 2 × 2 array of 2-unit-long ﬂaps. 
+            Right: the folded form.
+
+                With middle ﬂaps, one can tile them into arbitrarily 
+            large arrays. Folding such arrays, however, can be quite the 
+            challenge! In general, there is no simple folding sequence for 
+            arrays of middle ﬂaps, as the intermediate stages of each ﬂap 
+            require the paper around it to become highly convoluted, so 
+            that the convolutions of the layers from one ﬂap interfere with 
+            those of its surroundings. Still, one can imagine possibilities; 
+            instead of simply making shallow, overlapping scales as in the 
+
+                                                                                                     493
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

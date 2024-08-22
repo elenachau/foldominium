@@ -1,0 +1,31 @@
+            Figure 13.43. 
+            Crease pattern, base, and folded model of the Bull Moose. 
+
+                You will ﬁnd folding instructions for the Cerambycid 
+            Beetle in the references for this chapter; step-by-step fold-
+            ing instructions for the Bull Moose are at the end of the 
+            chapter.
+                Uniaxial box pleating is conceptually a bit more compli-
+            cated than circle/river packing, due to the presence of multiple 
+            elevations and the complications of bouncing axial creases. 
+            It is extremely powerful, though, and best of all, requires no 
+            sophisticated computation; one can design, construct, and fold 
+            arbitrarily complicated ﬁgures using nothing more than some 
+            colored pencils and graph paper.
+                This chapter has outlined the basic concepts of uni-
+            axial box pleating—which is itself just a single variety of the 
+            broader family of polygon packing. While I’ve covered a lot of 
+            ground up to this point, there are still many variations and 
+            modiﬁcations of the basic theory that one can use to create a 
+            better match between the base and the requirements of the 
+            subject, and perhaps more interesting, one can use techniques 
+            that are not “pure” uniaxial box pleating but are a hybrid of 
+            other possibilities. Some of the most interesting—level shift-
+            ing, Pythagorean stretches, and hex pleating—and further 
+            generalizations of polygon packing, will be addressed in the 
+            next chapter.
+
+
+                                                                                                     609
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

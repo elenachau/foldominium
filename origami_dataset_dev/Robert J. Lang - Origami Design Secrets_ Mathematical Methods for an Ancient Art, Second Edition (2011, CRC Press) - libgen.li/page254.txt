@@ -1,0 +1,50 @@
+                                             Yet more variety in added features comes when we 
+                                         realize that the existing crease patterns are not indivisible; 
+                                         we can cut them up and insert strip grafts throughout their 
+                                         structure. Strip grafts create points and ﬂaps along edges just 
+                                         as border grafts do, but they also create extra points in the 
+                                         interior of the paper without diminishing the size of adjacent 
+                                         ﬂaps. As an expansion of strip grafts, we can graft in pleats 
+                                         to create extra edges running across a face, and weave cross-
+                                         ing groups of pleats to create scales, bristles, and other tex-
+                                         tural elements. Although they all start with an existing crease 
+                                         pattern, strip and pleat grafts are much more versatile than 
+                                         point-splitting and border grafts and come in many more varia-
+                                         tions. Strip and pleat grafting possess this great versatility 
+                                         because they are based on dissected crease patterns, and there 
+                                         are usually many different ways to dissect a given pattern.
+                                             Once we’ve taken the step to incorporate grafting into 
+                                         dissected crease patterns, an enormously richer variety of ori-
+                                         gami structures becomes accessible. When grafting in strips of 
+                                         paper, we can vary the width, length, direction, and location 
+                                         of the strips; we can insert multiple strips; and we can create 
+                                         branching networks of strips, all to place additional points and/
+                                         or textural elements into the basic design.
+                                             In the models to which we’ve applied grafting—the Song-
+                                         bird, the Lizard, the Turtle—our grafts have taken the form of 
+                                         fairly narrow strips. These are still relatively small perturbations 
+                                         to a preexisting model. The precursor to the songbird was still a 
+                                         bird; the lizard with toes began life as a lizard without toes; and 
+                                         the turtle with a patterned shell was still recognizably a turtle 
+                                         when its shell was smooth. But grafts can be made much larger 
+                                         and more complex and can be used to create new bases so dif-
+                                         ferent from their predecessors that they hardly seem related at 
+                                         all. We will expand our palette of design techniques by exploring 
+                                         further the concept of dissection and reassembly. Thus far, we 
+                                         have treated bases and grafts as two distinctly different types of 
+                                         objects; we start with a base, then we add a graft. In this chapter 
+                                         we will learn to decompose both bases and grafts into the same 
+                                         underlying structures, which can be reassembled in an inﬁnite 
+                                         variety of ways. We will also learn to distill origami bases down 
+                                         to simple stick ﬁgures; we will then use these stick ﬁgures as 
+                                         tools for the design of new bases.
+
+                                         8.1. Uniaxial Bases
+                                         Let’s look at several of the bases that I’ve shown so far. First, 
+                                         we have the Classic Bases: Kite, Fish, Bird and Frog Bases; 
+                                         to these, we add two new bases, those used for the Lizard and 
+                                         the Turtle. All six are shown in Figure 8.1.
+
+     242
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

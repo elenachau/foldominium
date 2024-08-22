@@ -1,0 +1,22 @@
+                                         again, outside the world of traditional origami. However, once 
+                                         those techniques merged into the rapidly expanding world of 
+                                         origami in the late 20th century, there was a great leap forward 
+                                         in the origami art, and the works of Elias, Hulme, and others 
+                                         testify to its power.
+                                             But there was still one more step to take. With all its 
+                                         power, classic box pleating as I have described in this chapter 
+                                         still has limitations: it worked especially well for designs from 
+                                         arbitrary rectangles but the job gets much tougher if we take the 
+                                         constraint of folding from a square. The development of circle 
+                                         packing and tree theory showed that it was possible to create 
+                                         highly complex forms from a square (or any other shape), but 
+                                         there was a price to pay, in complexity, irregularity, and folding 
+                                         difﬁculty. Wouldn’t it be wonderful, though, if the regularity of 
+                                         box pleating could be combined with the universality of circle 
+                                         packing, tree theory, and molecules? It can be; it is wonderful; 
+                                         and that will be the subject of the next chapter.
+
+
+     508
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,42 @@
+                        Base        Triangles       Flaps
+                        Frog           16             5
+
+                So the Frog has ﬁve, rather than eight, ﬂaps, as the simple 
+            pattern would suggest. And the Sea Urchin really messes 
+            things up: 
+
+                        Base        Triangles       Flaps
+                       Urchin         128            25
+
+                You might ﬁnd it an interesting experiment to fold the 
+            crease patterns that lie between the Frog and Sea Urchin 
+            into bases and count the number of long ﬂaps in each (Hint: 
+            start with a blintzed Bird Base and blintzed Frog Base, but 
+            you will have to perform some additional manipulations to 
+            free the ﬂaps).
+                So, there isn’t a simple relationship between the number 
+            of triangles and the number of ﬂaps. But there is a relationship 
+            nonetheless. Let us draw an arc of a circle in the triangular 
+            unit; then draw each arc in the unit as it appears in the crease 
+            pattern of the base.
+
+
+            (a)              (b)                 (c)                 (d)                (e)
+            Figure 4.9. 
+            (a) The triangle unit, with inscribed circle. (b) Kite Base. (c) Fish 
+            Base. (d) Bird Base. (e) Frog Base.
+
+                The basic triangle unit contains 1/8 of a circle. When the 
+            units are combined, however, the circular arcs combine with 
+            each other to form quarter-, half-, and whole circles. If we 
+            count the number of distinct circular pieces, we get in the Kite 
+            Base, one quarter-circle; in the Fish Base, two quarter-circles; 
+            in the Bird Base, four quarter-circles; and in the Frog Base, 
+            four quarter-circles plus one whole circle, making ﬁve sections 
+            in all. One, two, four, and ﬁve circles—these are the same 
+            numbers as the number of long ﬂaps in each of the Classic 
+            Bases. (If we do the same to the Urchin pattern, we will ﬁnd 
+
+                                                                                                      63
+                                                                Chapter 4: Traditional Bases
+© 2012 by Taylor & Francis Group, LLC

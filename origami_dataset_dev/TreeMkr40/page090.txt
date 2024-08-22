@@ -1,0 +1,22 @@
+ interrupt the calculation. Figure 4.5.12 shows a typical configuration before and after “Scale
+ Everything.”
+
+
+                                       4.5.12
+
+If you interrupt the calculation, you will be presented with the following dialog:
+
+
+                                       4.5.13
+
+Similarly, if the optimizer runs into problems, it may also interrupt the calculation and present
+you with a dialog of explanation. You have the choice of continuing with the nodes in their
+present positions or reverting to the state the nodes were in before the calculation. Even if you
+revert, any creases you may have generated are irretrievably lost, but they are easily
+reconstructed.
+   Scale Selection                     12
+ This command is used to remove degrees of freedom in a pattern after a Optimize Scale
+ command. By selecting unpinned nodes (shown in gray) and unpinned edges (shown in darker
+
+
+                                  90

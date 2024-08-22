@@ -1,0 +1,35 @@
+Solve Non-linear Equation
+
+The infinitesimal motion satisfies:
+   ∂G  ∂G ∂G 
+           
+    ∂  ∂ ∂ρ  ∂θ 
+    X   θ              kv    ∂θijk 1
+    ∂  ∂ ∂                   = − bT
+ F    F F  ∂X  G =2π −∑ θ = 0  ij
+CX =  X =   X= 0 v     i   ∂xi ij
+            ∂          i=0
+    ∂X  ∂θ ∂ρ ρ      kv
+                             ∂θijk 1 1
+   ∂H  ∂H ∂                  =bT + bT
+           H ∂X   Fv = ∑sgn()i θi = 0 ij  jk
+                           ∂x j ij jk
+    ∂X   ∂θ ∂ρ  i=0
+                               ∂θijk 1 T
+For an arbitrarily given (through GUI) = − b jk
+                               ∂xk jk
+ Infinitesimal Deformation ∆X0
+
+                               Euler Integration
+
+                              +
+                             −CCX ∆ 0
+
+                               +
+                          ∆    − C r
+       +        +          X0
+∆X = − C r +() I3N − C C ∆ X0 ∆X
+             v           r= r Calculated Trajectory
+
+                           r= 0
+                           Ideal Trajectory

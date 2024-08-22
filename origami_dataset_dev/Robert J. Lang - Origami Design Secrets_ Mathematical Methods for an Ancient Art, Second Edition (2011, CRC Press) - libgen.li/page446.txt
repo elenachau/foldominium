@@ -1,0 +1,16 @@
+                                         Figure 11.37. 
+                                         Crease pattern, base, and folded model of the Alamo Stallion.
+
+                                         creases of the adjacent triangles; among other things, this 
+                                         choice forces equality between the length of the tail and the 
+                                         length of the hind legs. You can see the effect of this choice on 
+                                         the ease of folding; the full folding sequence for this model is 
+                                         given at the end of the chapter.
+
+
+                                         Figure 11.38. 
+                                         Crease pattern, base, and folded model of a Roosevelt Elk.
+
+     434
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

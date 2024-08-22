@@ -1,0 +1,57 @@
+                Active paths on the square lie in the plane of projection 
+            of the square, but the plane of projection is where the vertical 
+            layers of paper in the base are connected to each other. In other 
+            words, since the paper on both sides of the path lies above the 
+            path in the folded base, there must be a fold along the path. 
+            This must be true for every active path. Thus, active paths are 
+            not only edges of the base; they are major creases of the base. 
+            And not just any creases; since the plane of projection contains 
+            the axial edges of the ﬂaps, these creases must be axial creases 
+            (which is why I used green for their color in Figure 11.7).
+
+                         Active paths become axial creases.
+
+                So now we have the rudiments of the crease pattern for 
+            the base. We know that the points on the square that corre-
+            spond to leaf nodes of the tree become the tips of the ﬂaps of 
+            the base, and we know that active paths on the square become 
+            axial creases of the base.
+                We can construct further correspondence between ele-
+            ments of the tree and the crease pattern, namely, the branch 
+            nodes. The axial creases in the crease pattern map onto paths 
+            on the tree graph, so any point on the tree corresponds to one or 
+            more points along axial creases. Speciﬁcally, we can locate the 
+            points along each axial crease that correspond to each branch 
+            node, points we will call branch vertices.
+                If our hypothetical bookworm travels from one leaf vertex 
+
+            to another, encountering branch vertices at distances d1, d2, 
+
+            d3, and so forth along the way, then when we draw the crease 
+            pattern, we can identify each of the branch vertices at the 
+            same distances along the active path connecting the two leaf 
+            vertices as they were spaced out along the tree path. Thus, 
+            we can add all of the branch vertices to our budding crease 
+            pattern. In Figure 11.8, I’ve identiﬁed all of the vertices, both 
+
+                                        EF
+                    A
+
+                     1                         B     A       B
+            E              F
+               1        1
+                  B                               B      B
+                     1
+
+                  C                           C              C          Figure 11.8. 
+               1        1                                               Left: tree with all nodes let-
+            G              H                                            tered. 
+                     1                 GH
+                                                CC                      Right: crease pattern with leaf 
+                                                                        vertices, branch vertices, and 
+                    D
+                                                      D                 active paths.
+
+                                                                                                     409
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

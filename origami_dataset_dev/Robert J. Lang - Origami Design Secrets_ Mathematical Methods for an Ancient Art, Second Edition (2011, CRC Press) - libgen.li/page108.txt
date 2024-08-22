@@ -1,0 +1,40 @@
+                                                      A
+
+
+                                          7. Grasp flap A, and pull it lower 8. The maximum length pair of
+            Figure 5.3.                   while expanding the spread-sunk points.
+                                          corners. Flatten when the two
+            Construction of the maximum-
+                                          spread-sunk triangles meet in the
+            length pair.                  middle of the paper.
+
+
+            Figure 5.4. 
+            First fold for the optimum-
+            length pair.
+
+                                         points possible extending from that baseline. Examination of 
+                                         the geometry of the point pair shows that, with a few precreases, 
+                                         we can go straight to the optimum-length fold, as shown in 
+                                         Figure 5.5.
+                                             Even in the optimum-length case, the two ﬂaps you end 
+                                         up with are much shorter than the original ﬂap you started 
+                                         with. The ratio of their lengths can be worked out using a bit 
+                                         of trigonometry.
+
+                                                        short flap tan 33.75°
+                                                                 =           ≈ 0.277.         (5–1)
+                                                         longflap   tan67.5°
+                                             Each of the short ﬂaps is 28% of the length of the long 
+                                         ﬂap; in other words, we’ve given up almost a factor of four in 
+                                         length. This seems unnecessarily wasteful. One might think 
+                                         that the length of a long ﬂap could somehow be divided up when 
+                                         we split the ﬂap; one might think we should be able to divide 
+                                         a long ﬂap of length 1 into two ﬂaps of length 1/2, or three of 
+                                         length 1/3, and so forth.
+                                             And in fact, we can do better than the Yoshizawa split. 
+                                         This procedure is quick and (relatively) simple, and it’s 
+
+      96
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

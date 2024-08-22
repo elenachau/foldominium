@@ -1,0 +1,29 @@
+            Figure 15.1. 
+            The four wings of a butterﬂy are roughly triangular; each can be 
+            folded from a square region of paper.
+
+            of the four corners of the square as in Figure 15.2. The rest of 
+            the paper between the four wing ﬂaps is then available to create 
+            head, thorax, abdomen, antennae, and legs.
+
+
+                         wing                        wing
+
+
+                                     unassigned
+
+
+                                                                        Figure 15.2. 
+                                                                        The four wings can be obtained 
+                         wing                        wing               by placing the four wing-squares 
+                                                                        in the four corners of the pa-
+                                                                        per.
+
+                Now, having assigned the four corner regions to become 
+            wings, what to do with the rest of the paper? We will need 
+            ﬂaps, of course; but just as important, we need gaps. The four 
+            triangular wings of a butterﬂy are joined to each other only at 
+
+                                                                                                     701
+                                                                  Chapter 15: Hybrid Bases
+© 2012 by Taylor & Francis Group, LLC

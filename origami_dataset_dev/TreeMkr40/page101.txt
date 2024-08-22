@@ -1,0 +1,8 @@
+                                       4.5.26
+
+The origami design is complete. This view is very busy because it shows all of the sub-structure
+of the design. Select Creases Only command, View menu, to display only the crease pattern,
+shown in figure 4.5.27.
+
+
+                                 101

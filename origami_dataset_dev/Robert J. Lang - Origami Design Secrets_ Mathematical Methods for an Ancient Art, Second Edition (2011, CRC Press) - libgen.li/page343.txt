@@ -1,0 +1,40 @@
+                            Divide by 4                               Divide by N
+
+            Figure 9.44. 
+            Left: sinking in fourths narrows the ﬂaps. 
+            Center: sinking a larger number of times thins the layers further.
+            Right: the limiting case with zero thickness ﬂaps.
+
+                The crease and circle pattern for the Bird Base is shown in 
+            Figure 9.43. The Bird Base consists of four corner ﬂaps (modeled 
+            by the four corner circles) and one middle ﬂap, which is provided by 
+            the single middle circle. Each of the four corner ﬂaps is one quarter 
+            of the perimeter of the square, so if the ﬂaps were splayed out into a 
+            star shape, the perimeter of the star would be, at most, equal to the 
+            perimeter of the square. But the middle ﬂap is an extra ﬂap. Thin-
+            ning the entire base so that the middle ﬂap can stick out creates 
+            extra perimeter. Thinning the base further, as shown in Figure 9.44, 
+            removes some of the overlap from the center, allowing the perimeter 
+            to get slightly larger as the thinned base approaches its limit, where 
+            each ﬂap has zero thickness, and the perimeter approaches a value 
+            of 4.414.
+                It was the creation of a middle ﬂap that allowed the perimeter 
+            to exceed the conjectured limit of 4 units. But by creating more 
+            middle ﬂaps, we can increase the perimeter even further. In fact, 
+            rather astonishingly, there is no upper limit to the perimeter of 
+            a ﬂat fold—at least, one made with mathematically ideal (zero 
+            thickness) paper. You can start with as small a sheet as you 
+            like. From a postage stamp, you can theoretically fold a shape 
+            whose perimeter is the perimeter of the galaxy.
+                How can we do this? Circle-packing gives the key. Suppose 
+            we pack an N × N array of circles into a unit square, as shown 
+            in Figure 9.45.
+                Each of the circles has a radius 
+                                         1
+                                   r =        .                  (9–4)
+                                      2(N −1)
+
+
+                                                                                                    331
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,44 @@
+                                             There is a trick, however, to using this approach: the num-
+                                         ber of quadrilaterals with integer sides is relatively few. With 
+                                         respect to Figure 14.53, we notice that the triangle in the left 
+                                         subﬁgure whose right side is the x-ray line is a right triangle 
+                                         that must have all three sides as integers; in other words, it 
+                                         must be a Pythagorean right triangle. (In Figure 14.53, it is a 
+                                         6–8–10 right triangle.)
+                                             We saw Pythagorean triples not too long ago: they cropped 
+                                         up as a special case when we were considering overlapping 
+                                         polygons in box pleating as a special case of a general technique 
+                                         based on the gusset molecule. Might there be a similar general 
+                                         technique here as well?
+                                             In fact, there is, and it, too, relies on the gusset molecule. 
+                                         Let’s go back to the problematic hinge polygon of Figure 14.52. 
+                                         It is clear which contours around the edges we’d like to have 
+                                         line up; they’re very close to what the original straight skeleton 
+                                         gives. We can indicate which pairs of contours should be con-
+                                         nected to one another by drawing circles between the contours 
+                                         on adjacent edges, and curves of constant width joining contours 
+                                         we’d like to match that cross the quadrilateral, as shown in 
+                                         Figure 14.54.
+
+
+            Figure 14.54. 
+            The black curves connect con-
+            tours that we would like to 
+            match up when we ﬂatten this 
+            hinge polygon.
+
+                                             Hmmm…circles…constant-width curves—like rivers—
+                                         and forcing edges to lie on a line so that selected points on the 
+                                         edges line up. Sounds like molecules. In fact, this is precisely 
+                                         the problem created by the set of constraints that were placed 
+                                         on a quadrilateral molecule. These new circles that connect cor-
+                                         responding axial contours are exactly like the packing circles 
+                                         of a quadrilateral molecule, whose edge crossing points must 
+                                         also be aligned with one another when the polygon is ﬂattened. 
+                                         And we already know how to solve that problem: we can achieve 
+                                         the desired alignment by constructing the gusset molecule that 
+                                         corresponds to this circle/river packing. The gusset molecule 
+
+     674
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

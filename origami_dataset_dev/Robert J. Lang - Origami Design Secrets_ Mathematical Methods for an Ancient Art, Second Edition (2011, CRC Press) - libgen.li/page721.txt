@@ -1,0 +1,42 @@
+                The concept of the grafted Kite Base is illustrated in Fig-
+            ure 15.10. The basic structural form is the Kite Base, whose 
+            crease pattern is embedded in the square. The central triangle 
+            of the Kite Base will be preserved in the ﬁnal model, giving 
+            a large, ﬂat region from which to form the body. Instead of 
+            running the axis of the model down the center of the square, 
+            we can treat the perimeter of the preserved triangle as con-
+            sisting of axis; we then use conventional techniques, such as 
+            circle/river packing, to create ﬂaps from the region outside 
+            the preserved triangle.
+
+                                                                        added paper
+
+
+            Figure 15.10. 
+            Left: Kite Base. 
+            Middle: crease pattern for the Kite Base. 
+            Right: Kite Base embedded within a larger square.
+
+                Not all of the theory carries over; the molecular crease 
+            patterns we constructed were based on the assumption that all 
+            axial creases wind up collinear in the folded model. This will 
+            assuredly not be the case if we keep the colored triangle from 
+            folding ﬂat. However, we can still use circles to allocate paper 
+            to the ﬂaps that will lie along the creases.
+                We can also incorporate portions of the colored triangles 
+            into ﬂaps, by allowing our circles to partially overlap the tri-
+            angle; however, these ﬂaps will not be axial ﬂaps. That may 
+            not be a problem; in fact, it may be quite desirable. Thus, for 
+            example, in the Rabbit shown in Figure 15.11, the two bottom 
+            corners of the embedded triangle become the rear legs of the 
+            animal. Obviously, they are not axial ﬂaps, but for this ﬁgure, 
+            axial ﬂaps would not be very useful as the rear legs. On the 
+            other hand, axial ﬂaps work very well for the head and ears, and 
+            the four-circle-packing—and the crease pattern that results—
+            should, by now, be very familiar to you.
+                The ratio between the size of the embedded Kite Base and 
+            the original square is a design variable that changes continuously 
+
+                                                                                                     709
+                                                                  Chapter 15: Hybrid Bases
+© 2012 by Taylor & Francis Group, LLC

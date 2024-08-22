@@ -1,0 +1,36 @@
+                                                               Circle 9Packing
+
+                         n the last chapter, we saw how new bases can 
+                         be constructed by assembling tiles composed of 
+                         crease patterns in ways that allow the individual 
+                         tiles to fold ﬂat. By decorating the individual 
+                         tiles with circles and rivers, we created matching 
+            rules for the tiles; if two tiles mate so that their circles and riv-
+            ers line up, then the union of the two tiles can fold ﬂat without 
+            creating any new creases.
+                Furthermore, we are able to use the pattern of circles and 
+            rivers to divine the structure of the resulting base: how many 
+            ﬂaps there are, how long they are, how they are connected to 
+            one another. While a given polygon may give rise to tiles with 
+            different crease patterns that have different widths of ﬂaps, any 
+            two tiles with the same pattern of circles and rivers necessarily 
+            gives rise to the same ﬂap conﬁguration. We can represent this 
+            common conﬁguration by a stick ﬁgure, in which each segment 
+            corresponds to a distinct ﬂap.
+                When we have built a valid tiled crease pattern, the circu-
+            lar arcs of mating tiles align, creating partial or full circles. A 
+            contiguous segment of a circle in the tiled pattern corresponds 
+            to a distinct ﬂap in the folded base. Why, you might wonder, is 
+            this so? Why use circles? The choice of circles to create match-
+            ing rules is not arbitrary; there is a deep geometric connection 
+            between ﬂaps and circles. The use of circles to represent ﬂaps 
+            is a powerful tool within origami, and so we shall investigate 
+            it a bit further.
+
+            9.1. Three Types of Flap
+            As we have already seen, in origami there are three different 
+            types of ﬂaps: corner ﬂaps, edge ﬂaps, and middle ﬂaps. These 
+
+                                                                                                     291
+
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,32 @@
+                                         Figure 10.44. 
+                                         Generic form crease pattern, base, and folded model of the Cock-
+                                         roach.
+
+                                             Figure 10.44 shows one more insect design and a small 
+                                         challenge. This Cockroach, like the Ant, contains six legs and 
+                                         antennae, but I’ve added two more rivers (which create gaps 
+                                         between the pairs of legs) and varied the leg length. Can you 
+                                         reconstruct the stick ﬁgure from which this design is derived? 
+                                         Second, can you identify the axial creases and the types of 
+                                         molecules I used? And last, given the structural crease pattern 
+                                         here, can you ﬁgure out the crease assignment and fold the 
+                                         base? (If not, references with folding instructions for both this 
+                                         model and the Ant are given in the References.)
+
+                                         10.10. Higher-Order Polygons
+                                         We now have molecules for triangles, which are common, 
+                                         and quadrilaterals, which are occasional. What about higher- 
+                                         order polygons? Might we ever see a pentagon, hexagon, 
+                                         heptagon, or larger?
+                                             Yes indeed; in fact, we have already seen one such example. 
+                                         If we choose to design a base with ﬁve equal ﬂaps and require 
+                                         that all ﬂaps come from the edge of the paper, we will arrive at 
+                                         the circle packing shown in Figure 10.45. Connecting the centers 
+                                         of touching circles with axial creases yields a single primary 
+                                         polygon with ﬁve sides. And had we desired six edge ﬂaps, we 
+                                         would have ended up with a six-sided polygon. So we do indeed 
+                                         need to worry about molecules for higher-order polygons.
+
+     378
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,38 @@
+                                         designing a base with N equal-length ﬂaps can be solved by 
+                                         ﬁnding a distribution of N nonoverlapping circles whose centers 
+                                         all lie within a square.
+                                             In origami, packings of unequal circles arise more often 
+                                         than equal circles because origami bases are more often com-
+                                         posed of ﬂaps of differing lengths. When all of the ﬂaps are 
+                                         the same length, however, then all of the circles are the same 
+                                         diameter. This problem turns out to have some interesting 
+                                         mathematical connections, so we will digress brieﬂy to explore 
+                                         them. The problem of packing N nonoverlapping circles with 
+                                         their centers inside of a square is equivalent to the problem of 
+                                         packing N nonoverlapping circles entirely inside of a somewhat 
+                                         larger square; Figure 9.28 shows how the same pattern solves 
+                                         both problems.
+
+
+                                         Figure 9.28. 
+                                         A solution for an origami circle packing is equivalent to a circle 
+                                         packing in which the circles must lie completely inside the square.
+
+                                             The similarity between the two problems would be only 
+                                         a curiosity but for one thing; the problem of packing equal 
+                                         nonoverlapping circles entirely inside a geometric ﬁgure is 
+                                         a well-researched ﬁeld in mathematics. This correspondence 
+                                         between the origami design problem and the mathematics of 
+                                         circle-packing is fortunate, because many of the solutions to 
+                                         circle-packing problems have already been enumerated in the 
+                                         open mathematical literature. Instead of rederiving a solu-
+                                         tion (not an easy task, depending upon the number of ﬂaps), 
+                                         one can merely look up the optimum circle pattern for a given 
+                                         number of circles.
+                                             For the mathematical problem of packing N equal nonover-
+                                         lapping circles into a square, the optimum solutions for N = 1 
+                                         through 10 are known and have been mathematically proven 
+
+     318
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,32 @@
+                                             What I would like to do is to compare the crease patterns 
+                                         of the ﬁrst and last steps of this model, emphasizing the con-
+                                         tour lines (where I have taken the bottom edge of the folded 
+                                         shape as the axis). First, we have the original shape, as shown 
+                                         on the left in Figure 14.4. It consists of a series of concentric 
+                                         contour lines, with the lowest elevation, axial (green) around 
+                                         the outside and in the center, axial+1 inside of that (brown), 
+                                         and the highest elevation, axial+2 inside of that (violet). Then, 
+                                         on the right, we have a contour map of the result.
+
+
+                                         Figure 14.4. 
+                                         Top left: contour map of the test structure before sinking. 
+                                         Bottom left: the folded form. 
+                                         Top right: the contour map after sinking. 
+                                         Bottom right: the folded form.
+
+                                             We have, of course, added some diagonal folds in red 
+                                         (which correspond to ridge creases). But the important thing 
+                                         to observe is that the second line down in the middle, which 
+                                         used to be axial+2, is now just plain axial. We have shifted the 
+                                         elevation of this crease.
+                                             The folds that created the shifting were the creases along 
+                                         the diagonal ridge crease on each side of the former ridge. 
+                                         Let’s focus on just one side of this structure. This pattern of 
+                                         creases, created by the spread-sink, when isolated, becomes a 
+                                         tool for shifting the elevation of an axis-parallel fold, as shown 
+                                         in Figure 14.5.
+
+     628
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,17 @@
+Model
+
+• Triangular Mesh (triangulate 
+  quads)
+                              x1 
+• Vertex coordinates           
+  represent the configuration  y1 
+   – 3N variables, where N is the # of  z1 
+      v           v            
+    vertices              X =   
+                             x 
+                              Nv 
+                              yNv 
+                               
+• The configuration is        zNv 
+  constrained by developability, 
+  flat-foldability, …

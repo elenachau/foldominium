@@ -1,0 +1,12 @@
+Developability
+
+ Engineering Interpretation
+  →  Manufacturing from a sheet material
+     based on Folding, Bending
+
+• Global condition
+  – There exists an isometric map to a plane.
+  (if topological disk)
+• Local condition
+⇔–  Every point satisfies
+    • Gauss curvature = 0

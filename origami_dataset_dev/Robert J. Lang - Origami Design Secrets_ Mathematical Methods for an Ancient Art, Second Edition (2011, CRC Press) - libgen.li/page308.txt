@@ -1,0 +1,50 @@
+                                         single ﬂap. If two circles overlapped, the paper shared between 
+                                         the circles would be included in each of the two different ﬂaps, 
+                                         which is obviously impossible. Thus, we can generalize: 
+
+                                             In any valid circle pattern corresponding to an origami 
+                                             base, the circles corresponding to two distinct ﬂaps 
+                                             may not overlap.
+
+                                             This condition must hold for any origami base—not just 
+                                         for the Classic Bases and not just for tiled bases. No matter 
+                                         how many ﬂaps the base may have, the circles in the circle pat-
+                                         tern for the base cannot overlap. Although this property seems 
+                                         pretty innocuous, it is in fact both restrictive and useful. Put 
+                                         one way, it is an interesting property of existing bases: Unfold 
+                                         any origami base and draw a circle for each ﬂap of the base, 
+                                         each circle centered on the point that maps to the tip of the 
+                                         ﬂap. No two circles will overlap. This relationship can become 
+                                         a useful tool for origami design, for the converse is also true: If 
+                                         you draw N nonoverlapping circles on a square, it is guaranteed 
+                                         that the square can be folded into a base with N ﬂaps whose 
+                                         tips come from the centers of the circles.
+                                             If you have a pattern of N circles on a square, it’s quite 
+                                         evident that it’s necessary that they not overlap to fold into a 
+                                         base with N ﬂaps. It’s not at all obvious that this condition is 
+                                         sufﬁcient; but it is, and we will see why in later chapters. This 
+                                         is an incredibly powerful result. No matter how many ﬂaps you 
+                                         want to achieve in your base, all you need to do is draw a set of 
+                                         nonoverlapping circles, and the centers of the circles map out 
+                                         the tips of each and every ﬂap in the base.
+                                             Using this fact, we can replace a somewhat abstract prob-
+                                         lem (design an origami base with N ﬂaps of a given length) by 
+                                         a simpler, geometric, more easily visualized and more easily 
+                                         solved problem (draw N nonoverlapping circles whose centers 
+                                         lie inside a square). By representing each ﬂap in the model by 
+                                         a circle and placing all of the circles on the square, we ensure 
+                                         that we have allocated sufﬁcient paper to construct each ﬂap. 
+                                         The problem of placing circles so that they don’t overlap re-
+                                         sembles the packing of cylindrical cans into a box; we call such 
+                                         a pattern a circle packing.
+                                             The circles need not be the same size. If we use different-
+                                         sized circles, we’ll get different-length ﬂaps (recall that the length 
+                                         of the resulting ﬂap is the radius of the corresponding circle). So 
+                                         merely by shufﬂing circles around on a square, you can construct 
+                                         an arrangement of points that can be folded into a base with the 
+                                         same number of ﬂaps, no matter how complex. For that matter, 
+                                         by choosing different arrangements of circles, you can devise 
+
+     296
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

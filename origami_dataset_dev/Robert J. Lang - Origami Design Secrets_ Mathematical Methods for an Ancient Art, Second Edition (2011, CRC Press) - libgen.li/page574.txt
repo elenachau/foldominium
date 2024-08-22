@@ -1,0 +1,50 @@
+                                         ﬁnd folding sequences to locate individual folds or lines, but 
+                                         this is an incredibly tedious process with a circle-packed design 
+                                         if there are tens of points and/or lines to be found.
+                                             It is not surprising, then, that artists have found variations 
+                                         on circle packing that lead to far more tractable (and therefore 
+                                         foldable) designs. One of the most powerful and versatile is also, 
+                                         surprisingly, one of the oldest toolkits of technical design: box 
+                                         pleating, which we met in the previous chapter.
+                                             The term “box pleating,” as it is used now, actually takes 
+                                         in two distinct sets of techniques. In one form of box pleating, 
+                                         one creates three-dimensional structures in which the walls 
+                                         meet at right angles to form boxes and partial boxes (hence the 
+                                         ﬁrst part of the name). This form of box pleating is inherently 
+                                         three-dimensional; examples are to be found in Mooser’s Train 
+                                         and in the 3D works of Max Hulme and Neal Elias, such as the 
+                                         former’s “Stephenson Rocket” and the latter’s “Dump Truck.” 
+                                             The other form of box pleating results in ﬂat shapes with 
+                                         arbitrary ﬂap combinations, often incorporating the design 
+                                         pattern we now call the “Elias stretch.”  Both styles of folding 
+                                         have most major folds running at multiples of 90° and lying on 
+                                         a grid, with secondary creases at multiples of 45°, and it is in 
+                                         fact difﬁcult to distinguish from a crease pattern whether the 
+                                         model is 3D or ﬂat without careful examination or even trial 
+                                         folding. For this reason, it has become common to call any fold 
+                                         in which most creases lie on a square grid a “box-pleated fold.” 
+                                         Many of the designs from the “golden age of box pleating” in the 
+                                         late 1960s and 1970s used both 3D and ﬂat box-pleated forms 
+                                         as part of their structure.
+                                             Since I have already written about box formation, I’ll focus 
+                                         now on the subset of box pleating in which the major creases lie 
+                                         on a square grid, the secondary creases run at multiples of 45°, 
+                                         and the base folds entirely ﬂat. This subset of box pleating can 
+                                         be further subdivided into uniaxial bases—bases in which all 
+                                         ﬂaps lie along a common line and all hinges are perpendicular 
+                                         to the line—and, shall we say, everything else (which takes 
+                                         in a lot). Despite it being only a subset of the broader world 
+                                         of box pleating, the set of box-pleated structures that are also 
+                                         uniaxial bases is broad and useful. I call this subset uniaxial 
+                                         box pleating.
+                                             Within the world of uniaxial box pleating, one can design 
+                                         bases using a process very much like circle packing, with one 
+                                         big difference: while a complex circle-packed design can be 
+                                         extremely irregular and practically impossible to construct 
+                                         without a computational device, even the most complex and 
+                                         ornate uniaxial box-pleated base can be constructed with no 
+                                         more tools than a pencil and square-grid paper. Because it is so 
+
+     562
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,18 @@
+Basic Idea
+
+      Origamize Problem
+               ↓
+      Lay-outing Surface 
+      Polygons Properly
+               ↓             Polygons
+      Tessellating Surface   Edge-Tucking
+      Polygons and “Tucking  Molecule
+                             Vertex-Tucking
+      Molecules”             Molecule
+               ↓
+      Parameter everything by 
+      Tucking Molecule:
+       – Angle θ (i, j)
+       – Distance w (i, j)
+       θ (j, i) = −θ (i, j)
+       w(j, i) = w(i, j) + 2λ(i, j) sin(0.5θ (i, j))

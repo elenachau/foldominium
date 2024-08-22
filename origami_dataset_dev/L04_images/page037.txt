@@ -1,0 +1,17 @@
+Freeform Origami
+
+                               3D
+Get A Valid Value
+•  Iterative method to calculate 
+   the conditions
+                                                      Developed
+•  Form finding through User 
+   Interface
+Implementation
+•  Lang                                              Flat-folded
+    – C++, STL
+•  Library
+    – BLAS (intel MKL)
+•  Interface
+    – wxWidgets, OpenGL
+To be available on web

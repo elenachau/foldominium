@@ -1,0 +1,42 @@
+                                         shown all creases as generic creases in the ﬁgure to emphasize 
+                                         this commonality.
+                                             Two of these isosceles triangles can be assembled into a 
+                                         square, yielding the Kite Base. Four give the Fish Base. Eight 
+                                         give the Bird Base. Sixteen give the Frog Base. The pattern 
+                                         is clear. We could easily go to 32, in which case we would end 
+                                         up with the blintzed Bird Base. There’s no need to stop there, 
+                                         and origami designers haven’t. In the mid-20th century Akira 
+                                         Yoshizawa devised a Crab based on the blintzed Frog Base, with 
+                                         64 copies of the triangle; more recently, the crease pattern for 
+                                         my own Sea Urchin (Figure 4.8), which incorporates 128 copies 
+                                         of this triangle, creates a base with 25 equal-length ﬂaps.
+
+
+            Figure 4.8. 
+            Crease pattern and folded form 
+            of Sea Urchin.
+
+
+                                             The repeating pattern of triangles—ﬁrst observed by Eric 
+                                         Kenneway in his column in British Origami magazine, “The 
+                                         ABCs of Origami”—is more than a geometrical curiosity. As we 
+                                         increase the number of triangles, we also increase the number 
+                                         of long ﬂaps in the resulting base. The ﬁrst three crease pat-
+                                         terns suggest a simple relationship between the numbers of 
+                                         triangles and long ﬂaps: 
+
+                                                     Base        Triangles        Flaps
+                                                      Kite           2              1
+                                                      Fish           4              2
+                                                      Bird           8              4
+
+                                         These three crease patterns suggest that the number of long 
+                                         ﬂaps is half the number of triangles in the base. But small 
+                                         numbers can be deceiving. A small number of examples can 
+                                         masquerade as many possible sequences—for the very next 
+                                         base breaks the pattern: 
+
+
+      62
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

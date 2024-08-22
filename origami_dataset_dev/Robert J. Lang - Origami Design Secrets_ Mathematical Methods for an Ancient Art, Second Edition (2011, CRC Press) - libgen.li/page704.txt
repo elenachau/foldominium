@@ -1,0 +1,14 @@
+             Cicada Nymph
+
+
+             Mark the edges of a 19×19 square grid; then use the
+             edge markings to locate interior vertices. Note that
+             here the “axial” contours are not located on the center
+             line; this gives the base one extra unit of width. The
+             extra creases near the top should be precreased before
+             the collapse.
+
+
+     692
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

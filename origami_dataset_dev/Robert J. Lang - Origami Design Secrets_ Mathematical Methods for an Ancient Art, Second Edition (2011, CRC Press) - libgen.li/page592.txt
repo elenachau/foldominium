@@ -1,0 +1,33 @@
+                                         Figure 13.14. 
+                                         Left: a nearly full packing. Space can be entirely ﬁlled by expanding 
+                                         one of the packing squares into a rectangle. 
+                                         Right: the completed packing. Boundaries of the hinge polygons 
+                                         become hinge creases.
+
+                                         closest edge. What we are doing, instead, is putting more layers 
+                                         of paper into the ﬂap. However, if a square is “loose” enough 
+                                         in the packing that it can be expanded in both directions, then 
+                                         we truly can lengthen the associated ﬂap.
+                                             I call this process inﬂation, because we are indeed making 
+                                         each hinge polygon larger. But, unlike the inﬂation of circle 
+                                         packing in which all circles increase in size at the same rate 
+                                         (and result in longer ﬂaps), in this version of inﬂation, we ex-
+                                         pand individual squares at different rates, and often in only a 
+                                         single direction.
+                                             In many cases, it is possible to soak up all of the excess pa-
+                                         per by expanding squares into rectangles and possibly shifting 
+                                         the positions of some rectilinear rivers by moving the locations 
+                                         of their right-angle bends. You may ﬁnd, however, that a few 
+                                         small holes are left that can’t be plugged simply by expand-
+                                         ing rectangles and/or moving rivers. Those small holes can be 
+                                         plugged by adding additional squares and/or rectangles, which 
+                                         of course then add ﬂaps to the base, just as in circle packing we 
+                                         were able to add circles that broke high-order polygons up into 
+                                         lower-order polygons by creating additional ﬂaps.
+                                             But what is really remarkable is that we can further ex-
+                                         pand the rectangles, extruding rectilinear lobes to form more 
+                                         complex, irregular, rectilinear polygons. This is somewhat 
+
+     580
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

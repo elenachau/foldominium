@@ -1,0 +1,18 @@
+ Uniaxial Bases
+
+
+ 1. in z≥0 half plane
+ 2. intersection with z=0 plane = projection onto the 
+ plane
+Traditional
+ 3. partition of faces into ﬂaps, each projecting to a line 
+ segment
+ 4. hinge crease shared by two ﬂaps project to a point
+ 5. graph of ﬂap projections as edges is a tree
+ 6. only one point of paper folds to each leaf
+                                         32
+Previous deﬁnition of uniaxial bases
+(6) not necessary but convenient
+Why would it be useful to have the end of a leaf node map to more than one point on 
+paper? Ans: ﬂap thickness at end
+What does this really mean?

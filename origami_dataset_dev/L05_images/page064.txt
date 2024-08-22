@@ -1,0 +1,18 @@
+        Useful Features in TreeMaker
+ Conditions 
+  • axis of symmetry conditions
+  • force paths to be active or at speciﬁc angles
+  • force nodes to edge/corner/speciﬁc locations
+ Tree manipulation
+  • adding local strain (Menu/Action/Scale Selection/)
+  • triangulation (Menu/Edit/Stub/Triangulate Tree/)
+ Views
+  • Menu/View/Show View Settings/ very useful
+  • Can view just locus of hinge creases by turning off 
+  all but (Creases/Minor Creases) and (Creases/Lines)
+
+                                         46
+Symmetry (book/diagonal)
+Identifying/ﬁxing unconstrained nodes with local strain
+Triangulation of creasepattern (need three degrees of freedom)
+View Settings

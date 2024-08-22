@@ -1,0 +1,4 @@
+Degree 6, symmetric vertex
+
+Amazingly, this actually works in experiments!  Tomohiro made a physical 
+model with loaded springs to model the two different valley torque strengths.

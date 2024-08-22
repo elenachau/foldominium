@@ -1,0 +1,32 @@
+ Like the Node Editor, the Edge Editor displays the index of the edge as well as the indices of the
+ nodes at each end of the edge. The fields of the Edge Editor are:
+
+ label — an optional label for the edge, which you can use any way you want
+
+ length — the desired length of the edge, relative to all the other edges
+
+ strain — the current strain of the edge, i.e., deviation from its desired length
+
+ stiffness — the stiffness of the edge, i.e., how resistant it is to being strained
+
+ There is also a set of controls for adding conditions to the edge. Again, look at the description of
+ the Edit Conditions… command, Conditions menu, for a description of these controls.
+
+At the lower left corner, clicking on the disclosure triangle toggles between normal and Expert
+Mode as shown in figure 4.4.4.
+
+
+                                       4.4.4
+
+As with nodes, the information shown in Expert Mode isn’t really necessary, but you might find
+it interesting.
+
+      Paths
+
+If you double-click on a path, the Path Editor is put up as shown in figure 4.4.5.
+
+   •Note: most paths are not visible, but you can call up the editor for any path (or any other
+   part) using the Select Part… command, Edit menu.
+
+
+                                  74

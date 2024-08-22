@@ -1,0 +1,48 @@
+                                         ﬂaps mess up the contour spacing along the sides. However, 
+                                         by introducing half-unit-wide meanders at selected places, we 
+                                         can straighten out the contour elevations, limiting the axial+1/2 
+                                         folded contours to just a few hidden locations.
+
+
+                                              ?
+
+
+                                              ?
+            Figure 14.32. 
+            A packing of rivers and rect-
+            angles that gives rise to a seg-
+            mented ﬂap like the one on the    ?
+            right. Rivers are highlighted. 
+            On the left, the pattern of ridge 
+            creases breaks the alternation of 
+            elevations. On the right, selected 
+            meanders ﬁx the problem.
+
+                                             The left side of the packing in Figure 14.32 shows a 
+                                         straightforward packing of 1-unit-tall rectangles and simple 
+                                         rivers. (I have highlighted the hinges and rivers to help distin-
+                                         guish them.) If we come in from the top with alternating axial 
+                                         and axial+1 contours, though, the pattern of ridges forces pairs 
+                                         of same-elevation creases to be one unit apart; furthermore, 
+                                         there is no way to assign the creases marked with “?” without 
+                                         creating further elevation errors. On the right side, however, 
+                                         by selectively introducing half-unit meanders into three of the 
+                                         rivers, we can compensate for this problem so that the creases 
+                                         running down the side similarly alternate axial/axial+1. 
+                                             There’s often more than one way to solve a design prob-
+                                         lem, and sometimes very slight changes in the design can be 
+                                         met by very different solutions. Shifting all of the 1-unit ﬂaps 
+                                         downward by 1/2 unit barely changes the crease pattern and 
+                                         doesn’t alter the underlying problem of forced contours at the 
+                                         same elevation. However, with this shift, an elegant application 
+                                         of level shifters reveals itself; although one could, in principle, 
+                                         use the symmetric level shifters of Figure 14.7, the asymmetric 
+                                         version of Figure 14.9 permits a particularly simple and elegant 
+                                         solution to getting alternating elevation down the sides, as in 
+                                         Figure 14.33.
+                                             I have used both of these techniques in several designs to 
+                                         realize segmented body portions. One example is illustrated 
+
+     654
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

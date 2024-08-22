@@ -1,0 +1,45 @@
+            thagorean stretches in a very different way from the straight 
+            skeleton, it turns out that even in Pythagorean stretches, the 
+            ridge creases are the straight skeleton of the underlying hinge 
+            polygons, no matter how irregular they may be.
+
+            14.5. Tight Meanders
+            Back when I was setting out the rules for polygon packing, I 
+            said that while hinge polygons could be as large as possible, 
+            hinge rivers had to be precisely the width of their correspond-
+            ing ﬂap. While that is indeed the case, there is a way of ap-
+            parently fattening rivers selectively along their length, using 
+            a technique devised by Toshiyuki Meguro. 
+                We don’t really fatten the rivers, though; the constancy 
+            of their width is truly a law of polygon packing. What we do 
+            is make them extremely tightly wound to increase their ap-
+            parent width. Hinge rivers in uniaxial box pleating bend at 
+            right angles, and if two bends come in immediate succession, 
+            then the river can actually double back on itself, in a shape 
+            I call a meander. Figure 14.28 illustrates this process for a 
+            1-unit-wide river with successively tighter meanders.
+
+
+                                                                       Figure 14.28. 
+                                                                       1-unit hinge rivers. Top: a simple 
+                                                                       river. 
+                                                                       Upper middle: a single meander. 
+                                                                       Lower middle: the meander with 
+                                                                       the gap on the bottom closed up. 
+                                                                       Bottom: a string of successive 
+                                                                       meanders.
+
+                The bottom subﬁgure shows a sequence of such meanders 
+            in which the gaps, both top and bottom, are entirely closed. 
+            The result is, effectively, a 1-unit river that widens to two 
+            units for a portion of its length.
+                Note that while the gap outside of the two banks of the 
+            river has completely closed up, we still have the 1-unit-high 
+            hinge creases on both top and bottom; these interdigitated 
+            “teeth,” and the associated ridge creases, are what preserve 
+            the 1-unit width of the river. You can think of these hinge 
+            “teeth” as inﬁnitesimally thick peninsulas extending into the 
+
+                                                                                                     651
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

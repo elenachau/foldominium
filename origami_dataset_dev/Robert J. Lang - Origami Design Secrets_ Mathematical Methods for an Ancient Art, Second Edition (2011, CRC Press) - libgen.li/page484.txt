@@ -1,0 +1,43 @@
+                                         variations of itself to yield remarkably complex objects. Let’s 
+                                         run through a few of the simplest possible variations.
+                                             The ﬁrst variation stems from the fact that there are two 
+                                         ways to fold the same box. If you fold steps 1–6 the same, but 
+                                         at step 7, wrap the vertical edges around to the other side, 
+                                         you get a similar, but slightly different, structure as shown in 
+                                         Figure 12.11.
+
+
+                     7. Wrap the raw edges to the 8. Fold the side flaps down. 9. Finished Box.
+                     inside, turning valley folds into
+                     mountain folds and vice versa.
+
+                                         Figure 12.11. 
+                                         A different ﬁnish for the box from a 3 × 2 rectangle.
+
+                                             The two versions of the box differ slightly in the handles. 
+                                         In the ﬁrst, the handles are white; in the second, they are col-
+                                         ored. But there is a more important difference: In the second 
+                                         form of the box, the raw edges of the paper are exposed on the 
+                                         top side of the box. We’ll make use of this a bit later.
+                                             Next, we can change its proportions. We can make it lon-
+                                         ger, wider, or taller, or any combination of the three. We can 
+                                         approach all three by way of a little thought experiment. Sup-
+                                         pose we wished to make it longer (i.e., shift the handles farther 
+                                         from each other). If the paper were made of rubber, we could 
+                                         simply stretch it, as shown in Figure 12.12.
+                                             But since paper can’t stretch, we need another approach. 
+                                         Suppose we wanted to make the box 50% longer, that is, half 
+                                         again as long as it is now. An approach that doesn’t require 
+                                         stretching is to cut the model in two and add more paper where 
+                                         we need it, as shown in Figure 12.13.
+                                             At this point, origami purists are howling in protest: Origami 
+                                         is the art of folding, not cutting and taping paper! How can this 
+                                         be called origami? For it to be pure origami, we would have to fold 
+                                         this box from an uncut sheet of paper. But this is nothing more 
+                                         than grafting, which we did in Chapters 6 and 7. If you construct 
+                                         a box according to the prescription in Figure 12.13 and then un-
+                                         fold it, you will wind up with a ﬂat sheet of paper composed of 
+
+     472
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

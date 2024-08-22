@@ -1,0 +1,52 @@
+            frequently becomes necessary to show multiple views of the 
+            model to fully convey what is going on. In such cases, a small 
+            stylized eye indicates the vantage point from which a subse-
+            quent view is taken.
+                                                                       Figure 2.8. 
+                                                                       An eye with a dotted line 
+              View Viewfrom  fromthis  vantagethis vantage point point. indicates the sightline used to 
+                                                                       specify a new point of view.
+
+                The next symbol indicates one of the most dreaded 
+            instructions in all of origami: repetition. You have worked 
+            through a long, tortuous sequence of folds, you think you’re 
+            coming to the end, and there it is: “repeat steps 120–846 on 
+            the other 7 ﬂaps.” The bad news is usually conveyed in words, 
+            but for those who fold from the diagrams alone, repetition 
+            is conveyed by a symbol as well. Harbin, the great Western 
+            popularizer of origami, devised an arrow with hash marks to 
+            indicate repetition; however, this symbol is unnecessarily am-
+            biguous, and I have preferred to use a boxed leader enclosing 
+            the range of steps to be repeated, as shown in Figure 2.9.
+                                                                       Figure 2.9. 
+                                                                       A range of steps to be repeated 
+                    Repeat a range of steps.        23–24
+                 Repeat a range of steps                               is indicated by a boxed sequence 
+                                                                       of the numbered steps to be 
+                                                                       repeated.
+
+                Lastly, it frequently arises that a fold is to be made at 
+            90° to another fold or to a folded edge. When this takes place 
+            and it is not obvious that the fold is at 90°, I will indicate it 
+            by a small right-angle symbol next to (and aligned with) the 
+            relevant intersection.
+                                                                       Figure 2.10. 
+                                                                       A right angle is indicated by 
+                    Right angle
+                  Right angle                                          the geometer’s symbol of a 
+                                                                       right angle located next to the 
+                                                                       relevant corner.
+            2.2. Basic Folding Steps
+            Now we turn to the basic folds of origami—single folds, or 
+            combinations of a few folds that occur over and over in ori-
+            gami ﬁgures. Most of these combinations date back hundreds 
+            of years in Spain and Japan as concepts, if not as recognized 
+            steps. These are, however, the building blocks from which 
+            nearly all origami models arise. The names are of much 
+            more recent vintage and vary from country to country, but in 
+            English-speaking countries, the names given here are widely 
+            accepted.
+
+                                                                                                      17
+                                                                 Chapter 2: Building Blocks 
+© 2012 by Taylor & Francis Group, LLC

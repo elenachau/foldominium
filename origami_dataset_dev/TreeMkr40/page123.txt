@@ -1,0 +1,49 @@
+ If the triangle has two sides that aren’t active paths, a similar modification will still collapse it
+ appropriately.
+
+ Another case that we should consider is a triangle graph that has one or more internal nodes
+ along its edges, which may or may not be due to a kink in the subgraph. For example, the two
+ side subgraphs in figure 5.8 each have three terminal nodes, but in each graph, one of the edges
+ has an internal node because the subgraph has a kink at that point. We can still use the rabbit ear
+ construction to find most of the creases, but wherever we have an internal node along an active
+ path, we need a crease radiating inward from the internal node to the mountain fold that forms
+ the “spine” of the subbase.
+
+ We might wonder which creases are valley and mountain folds. All of the creases that form the
+ spine of the subbase are always mountain folds. Most of the creases corresponding to active
+ paths are valley folds; however, for terminal nodes that fall in the interior of the paper, there is a
+ mathematical requirement that the number of mountain and valley folds that come together at a
+ point differ by 2; consequently, for any terminal node that lies in the interior of the square, one of
+ the active paths must be converted to a mountain fold.
+
+ The other type of creases we will encounter are those creases that radiate inward from internal
+ nodes; they can be mountain folds, valley folds, or no folds at all, depending on which way we
+ lay the flaps when we flatten the uniaxial base. Since any such fold has three possible states, I
+ call them tri-state folds. To give some indication which way the folds go, I’ll draw all of the
+ active paths as valley folds (even though a few of them may actually turn out to be mountain
+ folds) and draw all of the tri-state folds as x-ray lines (since they can go either way).
+
+ Using the rabbit-ear crease pattern, we can fill in three of the four active polygons of the six-
+ legged base as shown in figure 5.12. Using similar patterns, we can fill in the crease patterns for
+ any triangle in any network of active polygons. Let us now turn out attention to the next case:
+ four-sided active polygons.
+
+                           EF
+                                BB
+                                       A
+
+                                   BB
+
+                               CC
+
+                          GH
+                                 CC
+
+                                       D
+
+Figure 5.12. Crease pattern for the six-legged base with triangles filled in.
+Just as a triangular polygon corresponded to a tree with three terminal nodes, a four-sided
+polygon, or quadrilateral, has a tree with four terminal nodes. There are two distinct types of
+trees with four terminal nodes, shown in figure 5.13. I call these two graphs the “4-star” and the
+
+                                 123

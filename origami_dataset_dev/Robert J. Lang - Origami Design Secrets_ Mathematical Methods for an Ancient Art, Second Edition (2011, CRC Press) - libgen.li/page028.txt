@@ -1,0 +1,49 @@
+                                             Actions are indicated by arrows that show the motion of 
+                                         the paper as a fold is made and sometimes show manipulations 
+                                         of the entire model. An open hollow arrow is used to show the 
+                                         application of pressure (usually in connection with a reverse or 
+                                         sink fold). See Figures 2.21–2.23 and 2.40–2.47 for examples.
+
+            Figure 2.5. 
+            A hollow arrow indicates to          PushPush  herehere.
+            “push here.”
+
+                                             An arrow that incorporates a loop indicates to turn the 
+                                         paper over—either from side to side (like turning the pages of a 
+                                         book) or from top to bottom (like ﬂipping forward or backward 
+                                         on a wall calendar), with the direction speciﬁed by the orienta-
+                                         tion of the arrow.
+
+
+                                                  TurnTurn the the paper paper over over from 
+                                                  sidefrom to side.side to side
+
+
+            Figure 2.6. 
+                                                  TurnTurn the the paper paper over over from 
+            A looped arrow indicates to           top to bottom.
+            turn the paper over.                   from top to bottom
+
+
+                                             If the model is to be rotated in the plane of the page, that 
+                                         is indicated by a fraction enclosed in two arrows showing the 
+                                         direction of rotation. The number inside the arrows is the frac-
+                                         tion of a circle through which the rotation takes place. “1/2” 
+                                         is a half turn, i.e., the top becomes the bottom and vice-versa; 
+                                         “1/4” indicates a quarter-turn. Sometimes the amount of rota-
+                                         tion is not a simple fraction; rather than putting something 
+                                         unwieldy like “21/34” in the arrows, I’ll usually round it to the 
+                                         nearest quarter-turn and you can use the subsequent diagram 
+                                         to pin down the orientation precisely.
+            Figure 2.7. 
+            A fraction inside a circle            Rotate the paper.
+            formed from two arrows              Rotate the paper          1/4     1/4
+            indicates to rotate the paper.
+
+                                             Most origami is folded ﬂat at every step. When a model 
+                                         becomes three-dimensional, however, either because the ﬁnal 
+                                         model is 3-D or one or more intermediate steps are 3-D, it 
+
+      16
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,35 @@
+                                                                        Figure 8.3. 
+                                                                        Two bases that are not uniaxial. 
+                                                                        Left: the Windmill Base has two 
+                                                                        crossed axes. 
+                                                                        Right: Montroll’s Dog Base has 
+                                                                        two parallel axes.
+
+            remarkably versatile, they are not the magic solution for all 
+            origami problems.
+                Montroll’s Dog Base, in particular, highlights a limitation 
+            of uniaxial bases; for a given model, they may not provide the 
+            most efﬁcient structure. However, uniaxial bases are read-
+            ily constructed and quite versatile, and we will explore them 
+            thoroughly.
+                It should also be noted that whether or not a base is uniaxi-
+            al may depend on the orientation of the base. In the six example 
+            bases I’ve shown, the axis lies along a line of mirror symmetry. 
+            This is usually, but not always, the case. For example, in the 
+            Waterbomb Base, if we attempt to draw the axis along the line 
+
+
+                                                                        Figure 8.4. 
+                                                                        Top: crease pattern for the 
+                                                                        Waterbomb Base. 
+                                                                        Lower left: the Waterbomb 
+                                                                        Base is not uniaxial with respect 
+                                                                        to an axis along the symmetry 
+                                                                        line. 
+                                                                        Lower right: it is, however, 
+                                                                        uniaxial if we draw the axis 
+                                                                        along the raw edges of the base.
+
+                                                                                                     245
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

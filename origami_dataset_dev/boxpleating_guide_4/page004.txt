@@ -1,0 +1,14 @@
+Now, after this extended Elias stretch, let’s lean back for a bit and take a look at the CP to check our
+progress. We’re only interested in the shaded part for now.
+
+
+            Current CP                               Intended CP
+
+
+The two shaded areas still need some fixing. In the square packing those two areas are divided by a
+continuous horizontal line. As I explained in the last part a division like this means that those two areas
+can be folded independently from each other. The Elias stretch we just made separated those two areas
+from each other.
+In general when folding a box pleated CP you should attempt a Divide-and-Conquer approach like this
+working from the symmetrie line outwards instead of trying to collapse everything at once.
+In the next part we’ll see how to finish the two shaded areas.

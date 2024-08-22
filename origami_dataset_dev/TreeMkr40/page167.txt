@@ -1,0 +1,50 @@
+         mOwnedPaths         All paths owned by this poly, which are one of the
+                             following:
+
+                             (1) paths that connect two owned nodes, i.e., ring or
+                             cross paths or the ridge path
+
+                             (2) paths from the outer poly to owned nodes, i.e.,
+                             spoke paths
+
+         mOwnedPolys         All subpolys of this poly
+
+         mOwnedCreases       All creases that connect the edges of this poly to the
+                             edges of its subpolys
+
+         mRingNodes          The nodes that form the vertices of this polygon
+
+         mRingPaths          The paths that form the edges of this polygon, i.e., an
+                             ordered list of paths that connect consecutive vertex
+                             nodes.
+
+         mCrossPaths         All other paths that connect the mRingNodes, i.e.,
+                             those paths connecting non-consecutive
+                             mRingNodes.
+
+         mInsetNodes         Mapping from ring nodes to inset nodes. Note that
+                             several ring nodes may map to the same inset node,
+                             i.e., this list may have duplicate entries.
+
+         mSpokePaths         Paths that connect ring nodes to inset nodes for this
+                             poly.
+
+         mRidgePath          If the poly has exactly two distinct inset nodes, this is
+                             the path that connects them. We need this path
+                             because some creases may terminate on it.
+
+         mPolyOwner          Poly or tree that owns this poly
+Vertex
+
+A Vertex is a point where two or more creases come together. The Vertex inherits only from
+Part.
+
+                            Part         Vertex
+                                     7.16
+
+The references contained by a Vertex are summarized below. Names in bold refer to inherited
+member variables.
+Object   References          What
+
+
+                                167

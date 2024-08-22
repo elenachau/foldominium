@@ -1,0 +1,54 @@
+                                                     Branch edge (page 402): in a tree graph, an edge that is connected to two 
+                                                     branch nodes.
+                                                     Branch ﬂap (page 575): a ﬂap that is connected to other ﬂaps at both ends. 
+                                                     A branch ﬂap is represented by a branch edge in a tree graph.
+                                                     Branch node (page 402): in a tree graph, a node connected to two or more 
+                                                     edges.
+                                                     Branch vertex (page 416): a point in the crease pattern that corresponds 
+                                                     to a branch node on the tree graph.
+                                                     Book symmetry (page 305): the symmetry of a crease pattern that is 
+                                                     mirror-symmetric about a line parallel to an edge and passing through the 
+                                                     center of the paper.
+                                                     Border graft (page 135): modifying a crease pattern as if you added a 
+                                                     strip of paper along one or more sides of the square in order to add features 
+                                                     to the base.
+                                                     Box pleating (page 459): a style of folding characterized by all folds run-
+                                                     ning at multiples of 45°, with the majority running at multiples of 0° and 
+                                                     90° on a regular grid.
+
+                                                     C
+                                                     Circle/river method (page 368): a design technique for uniaxial bases 
+                                                     that constructs the crease pattern by packing nonoverlapping circles and 
+                                                     rivers into a square.
+                                                     Circle packing (page 296): placing circles on a square (or other shape) so 
+                                                     that they do not overlap and their centers are inside the square.
+                                                     Classic Bases (page 54): the four bases of antiquity (Kite, Fish, Bird, and 
+                                                     Frog) that are related by a common structure.
+                                                     Closed sink fold (page 36): a sink fold in which the point to be sunk must 
+                                                     be popped from convex to concave; it cannot be entirely ﬂattened.
+                                                     Comb (page 676): a structure in uniaxial bases consisting of a series of 
+                                                     ﬁlaments spaced out along a longer shaft.
+                                                     Composite molecule (page 360): a molecule that contains axial creases 
+                                                     in its interior.
+                                                     Contour (page 589): a line in the crease pattern that lies at a constant 
+                                                     elevation from the axis in the folded form. It may or may not be folded.
+                                                     Contour map (page 589): a pattern of lines in a uniaxial base in which 
+                                                     the different axis-parallel lines are distinguished by their elevation, e.g., by 
+                                                     color.
+                                                     Corner ﬂap (page 105): a ﬂap whose tip comes from one of the corners of 
+                                                     the square.
+                                                     Crease (page 11): a mark left in the paper after a fold has been unfolded.
+                                                     Crease assignment (page 21): determination of whether each crease is a 
+                                                     mountain fold, valley fold, or ﬂat (unfolded) crease. Also called crease parity.
+                                                     Crease pattern (page 21): the pattern of creases left behind on the square 
+                                                     after a model has been unfolded.
+                                                     Crimp fold (page 31): a fold formed by two parallel or nearly parallel 
+                                                     mountain and valley folds on the near layers of a ﬂap with their mirror im-
+                                                     age folds formed on the far layers.
+                                                     Crystallization (page 308): the process of ﬁxing the locations of circles 
+                                                     in a circle packing by enlarging some of the circles until they can no longer 
+                                                     move.
+
+       744
+                              Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

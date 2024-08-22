@@ -1,0 +1,43 @@
+                First of all, there is the triangular tile that makes up the 
+            four Classic Bases. It comes in three distinct forms, depending 
+            on the orientation of the ﬂaps (see Figure 8.10).
+                These three forms are only distinguished from one 
+            another by the location of the mountain fold in the crease 
+            pattern and the positions of the ﬂaps in the folded form. In 
+            the crease pattern within each triangle there are four folds—
+            one mountain fold and three valley folds—extending from the 
+            crease intersection to the corners and edges. Note that in all 
+            three cases, all edges of the triangle lie along a single line; the 
+            polygonal tile is uniaxial.
+                The Lizard and Turtle bases are also composed of triangles, 
+            but different ones: an isosceles triangle from the Lizard, and an 
+            equilateral triangle from the Turtle, as shown in Figure 8.11. 
+            These, too, are uniaxial.
+
+
+            Figure 8.11. 
+            Left: the triangle tile from the Lizard base, crease pattern and folded 
+            form. 
+            Right: the equilateral triangle tile from the Turtle base.
+
+                Every such triangular tile has three possible folded forms, 
+            just like the isosceles right triangle tile shown in Figure 8.10. 
+            The creases within each tile are the three angle bisectors from 
+            each corner (which always meet at a common point) as valley 
+            folds, and a mountain fold that extends from the intersection 
+            point perpendicularly to one of the three edges. Since there are 
+            three edges, there are three possible choices for the mountain 
+            fold. When we enumerate tiles, it’s not necessary to show all 
+            three forms for every triangle; you should keep in mind that 
+            for any triangle, all three ﬂap arrangements are possible. The 
+            three tiles shown here are not the only possible triangular tiles, 
+            either. In fact, it can be shown that every triangle can be turned 
+            into such a tile by constructing the three angle bisectors as 
+            valley folds and dropping a perpendicular mountain fold from 
+            their intersection to an adjacent edge.
+                Are the only such tiles triangles? Clearly not; look again 
+            at the grafted crease pattern in Figure 8.9. The strip graft is 
+
+                                                                                                     251
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

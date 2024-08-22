@@ -1,0 +1,15 @@
+                                     2.2.9
+
+The (empty) scrolling list is a list of all conditions that apply to node 6. It’s empty because there
+are no conditions on node 6. The popup menu at the right is for adding conditions. If you click on
+the popup menu it will give you a list of conditions to choose from. Select Nodes paired about
+symmetry line. A new condition will appear in the scrolling list, as shown in figure 2.2.10.
+
+
+                                    2.2.10
+
+You see that a condition has been added to the scrolling list. You need to fill in which node is
+paired with node 6. Type a 7 into the field and click OK.
+
+
+                                 21

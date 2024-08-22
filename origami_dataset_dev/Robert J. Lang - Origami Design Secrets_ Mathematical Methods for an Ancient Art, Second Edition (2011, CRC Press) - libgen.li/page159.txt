@@ -1,0 +1,33 @@
+            the appendages. But for sake of illustration, let’s assume that 
+            we wanted to add some paper to the four legs to obtain feet.
+
+
+            Figure 6.19. 
+            Crease pattern, base, and folded model for the lizard.
+
+                Now, before we dive into slicing and dicing this or any 
+            crease pattern, let me point out that the simpler the crease 
+            pattern is, the easier it is to visualize the structure of the 
+            resulting base. It is therefore worthwhile to eliminate as 
+            many unnecessary creases as possible from the pattern you 
+            start with. The pattern in Figure 6.19 (as is the case with all 
+            crease patterns I show) doesn’t show every single crease in the 
+            model, which would be far too cluttered, but only the creases 
+            used to fold the base (which, in the case of the lizard, is step 
+            36 of the folding sequence).
+                The base is obviously not an entire lizard, but it has all 
+            of the essential features: the head, tail, body, and four legs. 
+            Even so, the crease pattern is still quite busy with creases, 
+            which is because by step 36, we have made all the points fairly 
+            narrow and introduced a lot of creases in the process.
+                If we look even earlier in the folding sequence, we see 
+            another version of the base that still captures all of the es-
+            sential elements (it has the same number and length of ﬂaps 
+            as the skinny version) but has a much simpler crease pattern, 
+            shown in Figure 6.20.
+                One other thing I’ve done in simplifying the crease pat-
+            tern is to ignore those parts of the square that aren’t essential 
+
+                                                                                                     147
+                                                                       Chapter 6: Grafting
+© 2012 by Taylor & Francis Group, LLC

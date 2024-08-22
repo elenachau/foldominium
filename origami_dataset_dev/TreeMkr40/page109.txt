@@ -1,0 +1,43 @@
+Check mark: the three nodes currently have this condition applied to them. Selecting the
+command removes the condition.
+   Remove selected Node conditions
+This command removes all conditions that apply specifically to this node. It does not affect Edge
+conditions or path conditions.
+   Remove all Node conditions
+This command removes all conditions that apply to all nodes. It does not affect edge conditions
+or path conditions.
+   Edge length fixed
+This command applies/removes a “Edge length fixed” condition to the selected edge(s). It is
+enabled if at least one edge is selected. The command has the following marks and effects:
+
+No mark: none of the selected edges have this condition. Selecting the command applies a
+condition to each of the selected edges.
+
+Diamond mark: some of the selected edges have this condition. Selecting the command applies a
+condition to all of the selected edges.
+
+Check mark: all of the selected edges have this condition. Selecting the command removes this
+type of Condtion from each of the selected edges.
+   Edges same strain
+This command applies/removes a “Edges same strain” condition to a selected pair of edges. It is
+enabled only if you have selected exactly two edges . The command has the following marks and
+effects:
+
+No mark: neither of the selected edges has this condition. Selecting the command applies a
+condition binding the two edges together.
+
+Diamond mark: one or both of the selected edges have this condition but not with each other.
+Selecting the command removes the existing pair conditions and applies a condition binding the
+two edges together.
+
+Check mark: the two edges currently have this condition applied to them. Selecting the command
+removes the condition.
+   Remove selected Edge conditions
+This command removes all conditions that apply specifically to this edge. It does not affect node
+conditions or path conditions.
+   Remove all Edge conditions
+This command removes all conditions that apply to all edges. It does not affect node conditions
+or path conditions.
+
+
+                                109

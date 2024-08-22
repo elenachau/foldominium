@@ -1,0 +1,51 @@
+                                         but illustrate some basic principles of origami design that are 
+                                         worth identifying: 
+
+                                               Generally, the more long points a model has, the 
+                                               more complex its folding sequence must be.
+
+                                               Generally, the more long points a model has, the 
+                                               smaller the ﬁnal model will be relative to the size 
+                                               of the square.
+
+                                             These principles were widely known in the origami world 
+                                         of the 1960s and 1970s, but it was not until the 1980s and 
+                                         1990s that they could be quantiﬁed. Those two decades saw 
+                                         the appearance of a new type of origami, the “technical fold.” 
+                                         It is hard to deﬁne precisely what constitutes technical fold-
+                                         ing; technical folding tends to be fairly complex and detailed, 
+                                         encompassing insects, crustaceans, and other point-ridden 
+                                         animals. It is often geometric, as in box-pleated models and 
+                                         polyhedra. The early practitioners of what we call technical 
+                                         folding—Neal Elias, Max Hulme, Kosho Uchiyama, and a 
+                                         handful of others—were joined by a host of other folders—
+                                         Montroll, Engel, and myself in the U.S., Fujimoto, Maekawa, 
+                                         Kawahata, Yoshino, Kamiya, Meguro, and many others in 
+                                         Japan—an expansion of the art that continues today. In fact, tech-
+                                         nical folding has its own name in Japan: origami sekkei. It is difﬁ-
+                                         cult to pin down a unique characteristic of a model that deﬁnes it 
+                                         as origami sekkei, but I have a candidate criterion: A fold is a tech-
+                                         nical fold when its underlying structure shows clear evidence of 
+                                         intentional design.
+                                             The ﬁrst steps of design, however, do not require use of 
+                                         any specialized techniques or mathematical theorems. Anyone 
+                                         who can fold origami can design origami. In fact, if you folded 
+                                         one of the three elephant designs, you were calling upon your 
+                                         design skill. A sequence of folding diagrams—no matter how 
+                                         detailed—can still only provide a set of samples of what is a 
+                                         continuous process. In following a folding sequence, the reader 
+                                         must interpolate; he must connect the steps in his mind to form 
+                                         a continuous process. Depending on the amount of detail into 
+                                         which the steps are broken down, this process can be easy, as 
+                                         in Figure 3.6, or it can be difﬁcult, as in Figure 3.7.
+                                             A good origami diagrammer, balancing the needs of 
+                                         brevity and clarity, strives to match the level of detail to the 
+                                         complexity of the fold and to the intended audience. In this 
+                                         book, I have aimed for a middle ground, along the lines of 
+                                         Figure 3.8.
+                                             When you begin following diagrams, you require each 
+                                         instruction to be broken down into the smallest possible steps. 
+
+      48
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

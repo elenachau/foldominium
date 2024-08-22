@@ -1,0 +1,44 @@
+                                                                       Figure 13.19. 
+                                                                       The straight skeleton for an ir-
+                                                                       regular hinge polygon. Each ridge 
+                                                                       is connected to the two polygon 
+                                                                       edges for which it is the angle 
+                                                                       bisector.
+
+            pairs joined by a horizontal or vertical ridge crease (depend-
+            ing on the orientation of the rectangle), again as previously 
+            noted. But now we can see that these are just special cases of 
+            the general straight skeleton, and we can construct a straight 
+            skeleton for even a very irregular hinge polygon.
+                The straight skeleton shows up in interesting and di-
+            verse ways in computer science and in the world at large. 
+            Peter Engel, origami artist and architect, pointed out to me 
+            that for a nonconvex structure like Figure 13.19, the straight 
+            skeleton is the pattern of ridges in a roof of constant pitch on 
+            an irregular building. 
+                Although we can construct the ridge creases individually 
+            for each hinge polygon and rectilinear river in isolation, when 
+            all ridge creases are drawn, they all connect up to one another 
+            to form a network of creases. These are the complete set of 
+            ridge creases, exactly analogous to the ridge creases that one 
+            encounters in circle packing. So we have the hinge creases 
+            (the hinge polygon boundaries) and now the ridge creases 
+            (the straight skeletons of the hinge polygons). Continuing the 
+            analogy with circle packing, there must be analogs of axial and 
+            gusset creases as well. And so there are; but the construction 
+            of axial creases has some surprises in store for us.
+
+            13.5. Axis-Parallel Creases and Elevation
+            Let us now consider the axial creases. As a reminder, these 
+            are the creases in a circle-packed base that are shown in green 
+            in Figure 13.20. I have also highlighted the gusset creases (in 
+            gray), because they are similar to the axials in an important 
+            way.
+                In uniaxial bases, axial creases are always perpendicu-
+            lar to hinge creases, and that is the case whether the base is 
+            circle-packed or uniaxial box-pleated. In circle-packed bases, 
+            the axial creases and hinge creases can run at arbitrary 
+
+                                                                                                     587
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

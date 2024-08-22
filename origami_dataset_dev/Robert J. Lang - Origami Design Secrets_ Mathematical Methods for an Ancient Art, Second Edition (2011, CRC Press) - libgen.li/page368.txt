@@ -1,0 +1,44 @@
+                                                                 B   F   C
+
+                                                            B                 C
+
+
+                                                                                 D
+            Figure 10.14.                                A
+            Drop perpendiculars from the 
+            bisector intersections to all four 
+            sides.
+                                                               A     E    D
+
+                                             Now, let’s see if the converse is true. In a four-circle quadri-
+                                         lateral, one whose opposite sides sum to equal values, construct 
+                                         the angle bisectors from all four corners. The two bisectors on 
+                                         the left must meet at a point; similarly, the two on the right 
+                                         must also meet at a point (which may or may not be the same 
+                                         point). Suppose they are two different points. Drop perpendicu-
+                                         lars from the two bisector intersections to the adjacent sides, 
+                                         as shown in Figure 10.14.
+                                             We label the lengths of distinct segments along the edges 
+                                         A–F as shown; since each is a distance, all six quantities are 
+                                         greater than or equal to zero. If this is a four-circle quadrilat-
+                                         eral, then the sums of opposite sides must be equal; that is,
+
+                                               (A + B) + (C + D) = (A + E + D) + (B + F + C). (10–1)
+
+                                             This means that
+
+                                                                  E = F = 0.                               (10–2)
+                                              
+                                             And this, in turn, implies that the distance between the 
+                                         two bisector intersections is zero, i.e., that they are the same 
+                                         point. Thus, any quadrilateral that satisﬁes the Waterbomb 
+                                         condition has its angle bisectors meet at a point and can be 
+                                         folded into an analog of the Waterbomb Base.
+
+
+                                         Figure 10.15. 
+                                         Three identical polygons formed by four different circles.
+
+     356
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

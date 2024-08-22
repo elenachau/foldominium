@@ -1,0 +1,47 @@
+                               1                1                  1                   1     2
+                                                                         2
+                                                                                                 3
+                                                     2
+                                                                           3
+                                                                                                 4
+
+
+                                         Figure 5.19. 
+                                         Split points with the point tips identiﬁed.
+
+                                         but the presence of a gap between them. If we examine the 
+                                         crease patterns for the two-, three-, and four-point patterns, 
+                                         we see a common wedge of creases that appears in every pat-
+                                         tern. Figure 5.20 shows one instance shaded in each of the 
+                                         three patterns.
+
+                                              1                   1                    1     2
+                                                                        2
+                                                                                                 3
+                                                    2
+                                                                           3
+                                                                                                 4
+
+
+                                         Figure 5.20. 
+                                             The three patterns with the common wedge of creases.
+
+                                             If we cut out just this wedge from any one of the patterns 
+                                         and fold it up, we get the structure shown in Figure 5.21.
+
+
+            Figure 5.21. 
+            Left: the crease pattern on the 
+            wedge. 
+            Right: the folded structure.
+
+                                             Two points have one copy of this wedge, three points have 
+                                         two, four points have three. Crease patterns with progres-
+                                         sively larger numbers of points include progressively larger 
+                                         numbers of copies of a basic element. This is not particularly 
+                                         surprising. What is interesting, and perhaps just a bit unex-
+                                         pected, is that the basic unit of replication is not a single ﬂap; 
+
+     110
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,34 @@
+         How to fold Box Pleated CPs
+                         Part 1II - Collapsing 1
+
+Before we start the collapsing, we’re going to take another look at the structure of the CP which still
+holds some information that can help us a lot in the collapsing process.
+
+
+The first thing to note is the symmetrie line of the
+CP.
+Since most box pleated CPs are symmetric this will
+be the centre line of the square in most cases.
+If the CP is not symmetric you will have to find a
+line that separates the CP logically in two halves.
+You will want to choose a line that goes through the
+centre of a lot of flaps because that makes the folding
+process easier.
+
+
+The other thing to note are lines in the square packing
+perpendicular to the symmetry line that go all the
+way from one side to the other side of the square.
+Those lines separate the CP into parts that can be
+collapsed more or less independent from the other
+parts of the CP.
+
+
+For each of the steps that will come now I will display a partial CP that shows all the creases necessary
+for getting a collapsed stage at this point, as well as the full CP greyed out as comparison to see the
+progress. The new or changed creases for each step will be displayed thicker.
+For now we will focus on the top part of the CP that will become head and fore legs.
+
+
+                                                      Guide by Gerwin Sturm (2007/01)
+                                      Porcupine 1.2 designed by Gerwin Sturm (2007/01/23)

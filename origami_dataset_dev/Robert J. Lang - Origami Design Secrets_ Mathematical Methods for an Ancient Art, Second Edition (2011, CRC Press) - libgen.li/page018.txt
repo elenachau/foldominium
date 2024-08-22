@@ -1,0 +1,50 @@
+                                         that on the surface apply to rather mundane aspects of fold-
+                                         ing, for example, the most efﬁcient arrangements of points in a 
+                                         base, are actually linked to deep mathematical questions. Just 
+                                         a few of the subjects that bear on the process of origami design 
+                                         include the obvious ones of geometry and trigonometry, but also 
+                                         number theory, coding theory, the study of binary numbers, 
+                                         and linear algebra as well. Surprisingly, much of the theory is 
+                                         accessible and requires no more than high school mathematics 
+                                         to understand. I will, on occasion, bring out deeper connections 
+                                         to mathematics where they are relevant and interesting, and I 
+                                         will provide some mathematical derivations of important con-
+                                         cepts, but in most cases I will refrain from formal mathematical 
+                                         proofs. My emphasis throughout this work will be upon usable 
+                                         rules rather than mathematical formality.
+                                             As with any art, ability comes with practice, whether the 
+                                         art is origami folding or origami design. The budding origami 
+                                         designer develops his or her ability by designing and seeing the 
+                                         result. Design can start simply by modifying an existing fold. 
+                                         Make a change; see the result. The repeated practice builds 
+                                         circuits in the brain linking cause and effect, independent of 
+                                         formal rules. Many of today’s origami designers develop their 
+                                         folds by a process they often describe as intuitive. They can’t 
+                                         describe how they design: “The idea just comes to me.” But 
+                                         one can create pathways for intuition to take hold by starting 
+                                         with small steps of design. The great leap between following a 
+                                         path and making one’s own path arises from the development 
+                                         of an understanding of why: Why did the designer do it that 
+                                         way? Why does the ﬁrst step start with a diagonal fold rather 
+                                         than a square fold? Why do the ﬁrst creases hit the corners? 
+                                         Why, in another model, do the ﬁrst creases miss the corners 
+                                         only by a little bit? Why does a group of creases emanate from 
+                                         a spot in the interior of the paper? If you are a beginning 
+                                         designer, you should realize that no design is sacred. To learn 
+                                         to design, you must disregard reverence for another’s model, 
+                                         and be willing to pull it apart, fold it differently, change it and 
+                                         see the effects of your changes.
+                                             Small ideas lead to big ideas; the concepts of design build 
+                                         upon one another. So do the chapters of this book. In each 
+                                         chapter, I introduce a few design principles and their associ-
+                                         ated terms. Subsequent chapters build on the ideas of earlier 
+                                         chapters. Along the way you will see some of my own designs, 
+                                         each chosen to illustrate the principles introduced in the chap-
+                                         ter in which it appears.
+                                             Chapter 2 introduces the fundamental building blocks of 
+                                         origami: the basic folds. If you have folded origami before, you 
+                                         may already be familiar with the symbols, terms, and basic 
+
+      6
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

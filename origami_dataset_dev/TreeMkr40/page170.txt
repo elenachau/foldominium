@@ -1,0 +1,48 @@
+ If you have any suggestions or comments, please send them to me at the address given at the end
+ of this document.
+
+    8.2 Version History
+
+ (1.0) 05-01-93. Original TreeMaker program. Edits nodes and edges and finds optimum
+distribution of nodes but no creases. Written in Symantec's THINK Pascal 5.0 using the THINK
+Class Library, v. 1.1.
+
+(2.0) 08-06-93. Added CPath object and an editor for same. You can now individually change
+the length of a path, as well as control its angle and/or its collinearity with another node.
+Numerous small changes in user interface. Version 2.0 documents are incompatible with version
+1.0 application and vice versa.
+
+(2.0.1) 03-11-94. Changed the scale box to display 5 digits of accuracy.
+
+(2.0.2) 03-31-94. Added “Show All Paths” to the Action menu so you can toggle paths on and
+off with a keystroke.
+
+(3.0a1) 03-01-95. Complete from-the-ground-up rewrite in C++, using Metrowerks CodeWarrior
+and the Metrowerks PowerPlant class library. Completely restructured mathematical model,
+improved scale optimization routines, added secondary optimization, many new constraints, text-
+based file format, computation of molecule creases, and other stuff too numerous to mention.
+(3.0b1) 06-25-95. First beta version.
+
+• Added universal molecules and removed computation of tristate creases for compatibility with
+universal molecules.
+
+• Added “diag” and “book” preset buttons to Tree Editor.
+(3.0) 08-18-95 released.
+
+• Fixed bug in computation of inset creases for nearly-parallel lines.
+
+• Increased weight on “Stick to Edge” and “Collinear Node” constraints, which improves
+optimizations when many nodes are present.
+
+• Finished documentation and uploaded for distribution to origami-L archives.
+(3.5) 12-22-95 released.
+
+• Generally improved consistency of dialogs and validation:
+
+• In all dialogs, controls and edit fields are disabled and blanked if they’re not appropriate (e.g.,
+symmetry-related controls are disabled if the tree doesn’t have a symmetry line defined).
+
+• All editors now use a common syntax (“FillDialog”) for initializing the dialog.
+
+
+                                 170

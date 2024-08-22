@@ -1,0 +1,36 @@
+Lang
+
+
+    Figure 3 : Left: The computed crease pattern with structural coloring. Right: Final crease pattern
+    with mountain-valley assignment.
+
+by TreeMaker, is shown in Figure 3. Now, it’s time to fold.
+
+                                      4  Folding
+
+The design is only half the battle of creating an origami ﬁgure. Actually, it’s even less than half. First, we
+have to fold the crease pattern into the base; then we have to turn the base into the ﬁnished form. All we
+are guaranteed from the algorithm is that the ﬂaps will be of the right number, have the right length, and be
+connected to each other in the way we originally speciﬁed. But there are no guarantees on the ﬂap width,
+cross section, arrangement of layers, or much of anything else. And at this point in the process, we don’t
+even have a base: we just have the crease pattern for it.
+    And so, that’s what we start with: folding the crease pattern into the base. To accomplish this, we must
+ﬁrst transfer the crease pattern from the design to the actual square1. This is done by measuring the positions
+of a few key points, and then forming all of the other creases based on those initial measurements, as shown
+in Figure 4.
+    Most complex origami bases have the property that you can’t fold them one crease at a time; instead,
+you must bring all of the creases together at once. That is the case here, so we bring all of the edges of
+the square together in a single motion. This process is called “the collapse” in origami, because we are
+“collapsing” the square down to the folded base, as shown in Figures 4–5.
+    “Collapse”-type folds had appeared in origami occasionally throughout the years, but its ubiquity in
+complex algorithmic designs came as something of a surprise in the origami world. Published origami
+designs almost always consisted of a sequence of relatively simple steps, leading smoothly from the initial
+square to the ﬁnished form with no individual step requiring more than three or four creases to happen at
+once. But complex modern designs are not like that; in fact, it is relatively rare that such a simple folding
+pattern exists for a complex crease-pattern-based design. Instead, they almost always require all creases to
+be brought together at once—a process my colleague Brian Chan has dubbed (somewhat mischeviously)
+
+  1The paper here is a 40 cm square of abaca/hemp paper made by Michael LaFosse, a master papermaker (http://www.
+origamido.com) and origami artist whose handmade papers are prized by origami insect folders around the world.
+
+                                          16

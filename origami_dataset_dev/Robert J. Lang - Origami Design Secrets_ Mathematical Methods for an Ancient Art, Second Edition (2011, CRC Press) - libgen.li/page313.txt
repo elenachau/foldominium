@@ -1,0 +1,39 @@
+            in the Five-Sided Square, the four edge ﬂaps and the corner 
+            ﬂap go in the same direction and can easily be made to appear 
+            identical. (This was the original rationale for Montroll’s design; 
+            the shape on the far right resembles a Preliminary Fold with 
+            one extra ﬂap). This is an aesthetic tradeoff between efﬁciency 
+            and effect; it’s worth a slight reduction in size to obtain the 
+            similarity in appearance for all ﬁve ﬂaps.
+                Efﬁcient circle packings also tend to require simpler tiles. 
+            At the moment, the only tiles we have at our disposal are tri-
+            angles, rectangles, and parallelograms. Thus, it is most desir-
+            able to use the circles themselves to create a packing in which 
+            the induced tiles are triangles or quadrilaterals. This object is 
+            accomplished by maximizing the number of points of contact 
+            among circles; on average, the more circles touched by each 
+            circle—a number called the valency of the circle—the lower the 
+            number of sides in the surrounding polygons.
+                You can see this relationship at work in the three regular 
+            circle packings in Figure 9.9. In the triangular packing, each 
+            circle touches six others and the polygons are all triangles; in the 
+            square packing, each circle touches four others and the polygons 
+            are all quadrilaterals; and in the hexagonal packing, each circle 
+            touches only three others and the polygons are hexagons.
+
+
+            Figure 9.9. 
+            Circle packings of varying density and valency.
+
+                As the number of neighbors declines, the amount of empty 
+            space around the circles rises. The most space-efﬁcient pack-
+            ings are characterized by circles with many neighbors, which 
+            also give polygons with relatively few sides.
+
+            9.5. The Circle Jig
+            A useful conceptual model for ﬁnding an efﬁcient base using 
+            circle packing is: Represent each point by a circle whose center 
+
+                                                                                                     301
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

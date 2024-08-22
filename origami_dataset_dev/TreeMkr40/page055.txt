@@ -1,0 +1,60 @@
+The process can be repeated essentially
+infinitely; you can make the quad smaller                  2
+and smaller, but you’ll never get rid of it!
+Figure 3.4.5 continues the process, but         1
+there is still one quadrilateral.       3
+                                                    1
+There is a fundamental reason for this         1                  1
+                                                  7      1
+                                             1
+limitation: breaking up an arbitrary quad      1    1         1
+                                        1     9
+into four triangles requires the formation   1    1
+                                                  8 1   6
+of four active paths. But when you add a          1         1
+new edge to an existing node, you only               1
+have three degrees of freedom: the x and
+y coordinates of the new node and the                                       5
+length of the edge. To create four active
+paths, you need a fourth degree of
+                                                            1
+freedom.
+
+If we add the new edge to a newly-
+                                        4
+created node formed by splitting an edge,
+we have a fourth degree of freedom,
+namely, the location of the split along the            3.4.5
+edge. There is a special command for
+adding a node that forms four active
+paths by splitting an edge; it is the Fracture Poly… command in the Action menu. This
+command lets you break up an active polygon by splitting one of the edges in such a way as to
+form four active paths.
+
+To use this command, you need to build
+the polygons and select the one to be                      2
+fractured. Select the Build Polys
+command from the   Action menu, as              1
+shown in figure 3.4.6.                  3                   1
+                                                             0.600
+                                                  2               1
+This builds all of the polygons for the            0.400 6
+crease pattern. There are two kinds of           7            1
+polygons: “top-level” polygons, which   1          10
+                                                   2  1
+are formed from the nodes of the tree,                 311
+                                                             9      4
+and “subpolygons,” which are smaller                                 0.800
+polygons located inside of the top-level         8
+polygons. In the figure, the largest              3                         5
+polygon — the quadrilateral — is a top-            1.000
+level polygon. The two small triangles
+                                                            1
+are sub-polygons, which are fully
+enclosed by the top-level polygon.
+                                        4
+
+                                                       3.4.6
+
+
+                                  55

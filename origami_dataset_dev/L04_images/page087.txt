@@ -1,0 +1,14 @@
+Generalized Rigid Folding Constraints
+
+• For any closed loop in 
+  Mesh 
+
+  TTT0,1 k− 2, k − 1 k − 1,0 = I
+
+  where Ti,j is a 4x4 
+  transformation matrix to 
+  translate facets coordinate 
+  i to j
+• When it is around a 
+  vertex: T is a rotation 
+  matrix.

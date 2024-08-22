@@ -1,0 +1,49 @@
+                                         the widest possible ﬂap—and thus, the most width to work with. 
+                                         And even if a ﬂap is not wide enough initially, techniques such 
+                                         as strip grafting can be used to make a ﬂap wider.
+                                             Third, the vertices are at arbitrary locations, and creases 
+                                         run at arbitrary angles. This is, perhaps, the most signiﬁcant 
+                                         drawback of “pure” circle packing. There is no easy way to 
+                                         transfer an irregular crease pattern onto the paper to be folded. 
+                                         There is a strong aesthetic within origami to ﬁnd all refer-
+                                         ence points by folding alone (no measuring and marking), and 
+                                         there is a substantial ﬁeld of origami-mathematics devoted to 
+                                         ﬁnding both exact and approximate methods for locating refer-
+                                         ence points. But even with a tool such as my ReferenceFinder 
+                                         (which can give a pure folding sequence for any point or line 
+                                         in a small number of folds; see the References), a circle-packed 
+                                         design can be overwhelming, with tens or hundreds of points 
+                                         to be located. Even if you fall back on measure-and-mark, the 
+                                         process of transferring key vertices to the square is mind-
+                                         numbingly tedious.
+                                             Circle-river packing is not the only game in town, however. 
+                                         We have seen that with box pleating, all of the creases fall on 
+                                         regular grids and run at just a few angles. We can introduce 
+                                         ideas from box pleating into circle packing to realize techniques 
+                                         closely related to circle packing that produce much more easily 
+                                         foldable bases that are far more geometrically regular, with 
+                                         only a slight penalty in efﬁciency. These regular patterns are 
+                                         not only more easily folded; they are more easily designed, 
+                                         and in fact usually require nothing more than a pencil and 
+                                         grid paper to construct. Before going into them, however, I 
+                                         would like to work through a real example design problem, 
+                                         which will illustrate some of the problems associated with 
+                                         circle packing and will also introduce some concepts essential 
+                                         to their resolution.
+
+                                         13.2. A Circle-Packed Beetle
+                                         Let me start with a real problem, of the sort that inspired much 
+                                         of the development of circle packing: an insect. To be speciﬁc, 
+                                         I will design a beetle—a rather generic beetle, with just the 
+                                         basic appendages: three sets of legs and antennae, spaced out 
+                                         along a three-segment body (head, thorax, abdomen). The ﬁrst 
+                                         step in the creation of this beetle is to create the tree graph, 
+                                         the stick ﬁgure, and to assign lengths to all the ﬂaps. These 
+                                         parts are shown in Figure 13.1.
+                                             The absolute lengths that one assigns to a ﬂap are entirely 
+                                         arbitrary; what matters is their length relative to one another. 
+                                         To make this simple, I have chosen all of the ﬂap lengths to 
+
+     564
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

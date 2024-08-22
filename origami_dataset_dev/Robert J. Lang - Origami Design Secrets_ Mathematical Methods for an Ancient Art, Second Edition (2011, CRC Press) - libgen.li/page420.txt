@@ -1,0 +1,54 @@
+                                                       E                            F
+
+                                                              2      A      2
+
+            Figure 11.7. 
+            Node pattern that satisﬁes the                   3                3
+            tree theorem for the six-legged 
+            tree. Dotted lines are lengths 
+            that exceed their minimum 
+                                                      G                            H
+            value; solid green lines have                     2             2
+            lengths equal to their minimum 
+            value.
+                                                                     D
+
+                                         square has side length 2√((121 + 8√179)/65) ≈ 3.7460, in which 
+                                         case the distances drawn in solid green lines are equal to their 
+                                         minimum values, and all other paths (indicated by dashed lines) 
+                                         are greater than the minimum length.
+                                             The tree theorem is an existence theorem; it says that a 
+                                         crease pattern exists, but it doesn’t tell us what this supposed 
+                                         crease pattern actually is. It does provide a strong clue, how-
+                                         ever. The tree theorem says that the leaf vertices become the 
+                                         tips of the ﬂaps on the folded base. Are there any other features 
+                                         on the square that we can identify on the base?
+                                             Consider the inequality in the tree theorem. Two leaf verti-
+                                         ces must be separated on the square by a distance greater than or 
+                                         equal to the distance between their corresponding nodes on the 
+                                         tree. In the special case where equality holds, we can uniquely 
+                                         identify the line between the two vertices. We will call a line on the 
+                                         square that runs between any two leaf vertices a path. Every path 
+                                         has a minimum length, which is the sum of the lengths of edges of 
+                                         the tree between the two leaf nodes that deﬁne the path. (In the 
+
+                                         symbolism of the tree theorem, lij is the minimum length of path 
+                                         ij.) The actual length of a path is given by the distance between 
+                                         the vertices of the crease pattern that correspond to the leaf nodes 
+
+                                         as measured upon the square (|ui – uj| in the tree theorem). Any 
+                                         path for which its actual length in the crease pattern is equal 
+                                         to its minimum length as deﬁned by the tree graph is called an  
+                                         active path.
+                                             In the base, the only route between two ﬂap tips that is 
+                                         equal to the distance between the leaf nodes lies in the plane of 
+                                         the projection. Thus, any active path between two leaf vertices 
+                                         on the square becomes an edge of the base that lies in the plane 
+                                         of projection. Consequently, we have another important result: 
+
+                                             Any active path between leaf vertices forms an edge of the 
+                                             base that lies in the plane of projection of the base.
+
+     408
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

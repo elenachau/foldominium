@@ -1,0 +1,51 @@
+The result is shown in figure 2.2.11.
+After the dialog box is closed, you’ll see                 1
+that the circles for nodes 6 and 7 circle        2
+have turned green.
+                                        4                 1        2
+                                                           1.000
+   • Note: if you haven’t defined a line         3
+                                                 1.000             4        5
+   of symmetry, the symmetry-related                       2
+   conditions have no effect.                                      1.000
+                                        2
+   • Note: terminal nodes are the only
+                                                           2          2
+   nodes you can set conditions on.                         1.000
+   You don’t have to set up any
+   conditions on internal nodes (and in                     3
+   fact any conditions you might set    3
+   up on them are ignored) since the                             3
+   position of internal nodes in the tree        5         6
+   are irrelevant to the final crease             1.000     1.000
+   pattern.
+                                        6         3         7
+Now we have set up the conditions that
+enforce symmetry. As mentioned above,                 2.2.11
+the conditions don’t take effect until we
+re-optimize the pattern. Select Optimize
+Scale           Action
+       from the       menu to re-                         1
+optimize the crease pattern taking the
+new conditions into account. Figure              2                 2
+2.2.12 shows the result.                                  1
+                                        4                 1.000             5
+                                                 3                 4
+                                                 1.000     2       1.000
+
+                                          2                              2
+                                                           2
+                                                            1.000
+
+                                                            3
+                                             3                        3
+
+                                                     5         6
+                                                      1.000     1.000
+
+                                                6         3        7
+
+                                                      2.2.12
+
+
+                                  22

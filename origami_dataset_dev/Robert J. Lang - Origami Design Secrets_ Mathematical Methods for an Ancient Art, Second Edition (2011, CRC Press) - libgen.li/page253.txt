@@ -1,0 +1,37 @@
+                                                                              8Tiling
+
+                               hile there are many different approaches 
+                               to origami design, the ones that I’ve 
+                               shown thus far can be arranged in a rough 
+                               hierarchy of complexity. We started with 
+                               some simple structures—the traditional 
+            bases. Then, we modiﬁed these bases by various distortions—
+            offsetting the crease pattern from the center of the square or 
+            distorting the entire pattern. Both types of modiﬁcation leave 
+            the number of ﬂaps unchanged; they only alter the lengths and 
+            widths of the ﬂaps.
+                Then we increased the number of ﬂaps by subdividing 
+            some ﬂaps into smaller ﬂaps using the various point-splitting 
+            techniques. While in principle any number of ﬂaps can be at-
+            tained, point-splitting is inherently a process of reduction; 
+            the ﬂaps you end up with are always smaller than what you 
+            started with. Thus, there are deﬁnite limits on what you can 
+            accomplish by point-splitting.
+                We can escape those limitations by using grafting, by ef-
+            fectively adding paper to an existing crease pattern in such a 
+            way that the paper remains square after the graft. Grafting 
+            allows you to add features to an origami base without taking 
+            anything away from features that are already present. The 
+            simplest grafts are border grafts, which consist of adding paper 
+            around one or more edges of the square, but this method, too, 
+            has its limits. You can only add paper—and thus features—to 
+            ﬂaps that are made from a raw edge, i.e., corner and edge ﬂaps. 
+            Another limitation is that when you are border grafting, edge 
+            ﬂaps don’t offer quite the same freedom of point creation that 
+            corner ﬂaps did; a border graft that can create four points at 
+            a corner ﬂap only creates two points of the same size at an 
+            edge ﬂap.
+
+                                                                                                     241
+
+© 2012 by Taylor & Francis Group, LLC

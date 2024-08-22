@@ -1,0 +1,23 @@
+Background 2: Applied Origami
+•  Static:
+    –  Manufacturing
+        • Forming a sheet
+        • No Cut / No Stretch                                 Dome (Ron Resch)
+        • No assembly
+    –  Structural Stiffness    Table
+                               (T. Tachi and D. Koschitz)
+•  Dynamic:
+    –  Deployable structure
+        • Mechanism
+
+        • Packaging                  Deployable Solar panels
+    –  Elastic Plastic Property      (K. Miura)
+        • Textured Material
+        • Energy Absorption
+•  Continuous surface
+
+Potentially useful for
+    –  Adaptive Environment
+    –  Context Customized Design
+    –  Personal Design
+    –  Fabrication Oriented Design

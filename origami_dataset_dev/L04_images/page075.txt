@@ -1,0 +1,24 @@
+Developability and Flat-Foldability
+
+• Developed State:
+   – Every edge has fold angle 
+    complementary fold angle to 
+    be 0°
+                          3
+                            dev
+                        ∑σ()i  θi = 0 4CF or2 F+ 2 CF
+                         i=0
+                             3
+                        
+                          2π−∑ θi = 0              4F
+• Flat-folded State:       i=0
+   – Every edge has fold angle 
+    complementary fold angle to 
+                          3
+    be ±180°                ff
+                        ∑σ()i θi = 0 4F  or  2 F+ 2 CF
+                         i=0
+                             3
+                        
+                         2π−∑  θi = 0            4CF
+                           i=0

@@ -1,0 +1,15 @@
+Architectural Origami                      Pattern
+                                           - 2D Pattern
+
+•  Origami Architecture
+    Direct application of Origami for Design - Static Shape
+    – Design is highly restricted by the symmetry 
+      of the original pattern
+    – Freeform design results in losing important 
+      property (origami-inspired design)     Design    Apply
+•  Architectural Origami
+   Origami theory for Design               Conditions
+   –  Extract characteristics of origami   - 3D shape in motion
+   –  Obtain solution space of forms from  - Behavior
+      the required condition and design 
+      context

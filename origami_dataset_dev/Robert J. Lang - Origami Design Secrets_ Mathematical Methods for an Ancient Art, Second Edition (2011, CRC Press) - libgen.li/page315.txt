@@ -1,0 +1,30 @@
+                                                                        Figure 9.11. 
+                                                                        Make two L-shaped arms with 
+                                                                        scales along their inner edges.
+
+            square and not a rectangle by making sure that the inside 
+            edges always meet at the same points on the scale. Set the 
+            frame down over your array of circles and shrink the square 
+            by bringing the two pieces of the frame toward each other 
+            as shown in Figure 9.12. The inside edges will catch on the 
+            protruding thumbtacks, thus insuring that all of the circles 
+            keep their centers inside the square. As you shrink the frame 
+            and move the circles around, you will reach a condition in 
+            which most or all of the circles are touching each other and the 
+            two halves of the frame are held apart by a rigid network of 
+            touching circles. This pattern corresponds to the optimum 
+            circle packing for your particular model. By pressing a sheet of 
+            paper down over the thumbtacks, you can transfer the centers 
+            of all the circles to another sheet and can then, using compass 
+            and straightedge, reconstruct the optimum circle pattern 
+            for folding.
+
+
+                                                                        Figure 9.12. 
+                                                                        Close the two L brackets toward 
+                                                                        each other, trapping the thumb-
+                                                                        tacks in the middle.
+
+                                                                                                     303
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

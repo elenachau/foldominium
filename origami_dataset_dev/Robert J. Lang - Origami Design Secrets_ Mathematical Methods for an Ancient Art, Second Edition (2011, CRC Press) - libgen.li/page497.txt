@@ -1,0 +1,34 @@
+            sults in a triangular ﬂap of the same dimensions, is shown 
+            in Figure 12.26.
+                Now, one way of thinking of the folded result is: “a big ﬂat 
+            region in which we’ve grafted in a ﬂap.” So, let’s identify the 
+            graft, using the ideas from Chapter 6. We can identify three 
+            distinct regions of the paper: the ﬂap itself, the background 
+            in the folded form, and the excess paper that’s needed to keep 
+            the post-grafted crease pattern lying ﬂat. These regions are 
+            identiﬁed in Figure 12.27.
+
+
+            Figure 12.26. 
+            Left: crease pattern for a simple triangular ﬂap. 
+            Right: the folded ﬂap.
+
+
+                        background
+
+
+            excess
+
+
+             flap
+
+
+                         excess
+            Figure 12.27. 
+            Left: the crease pattern can be divided up into three types of regions: 
+            the ﬂap, the background, and excess paper. 
+            Right: the folded form, showing the lines of division.
+
+                                                                                                     485
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

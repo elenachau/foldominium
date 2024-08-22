@@ -1,0 +1,40 @@
+                                      3.4.7
+
+ Only top-level polygons can be fractured in this version of TreeMaker. Click inside the largest
+ polygon (but outside of the two sub-polygons) to select it. Then select Fracture Poly… from the
+Action menu, which puts up the dialog shown in figure 3.4.7.
+
+There is frequently more than one way to fracture a poly. This dialog lists all possibilities in a
+popup menu, cataloged by which edge is split and what the length of the new edge would be.
+Below the popup menu is listed the location of the new node and the distance that the split is
+from one of the nodes along the edge. Choose edge 3 from the popup and click OK.
+
+Enter the index of the polygon to
+fracture. (Since we only have one active                   2
+polygon in this figure, its index is 1.)
+Then click OK. The result is shown in           1
+figure 3.4.8.                           3                   1
+                                                             0.600
+                                                  2               1
+Observe that the former edge 3 has been            0.4001
+                                             1
+split into two with a new node at the                         1
+                                        1
+junction. A new edge — called a “stub”          6   6      4
+— has been attached to the node with                       0.223
+                                                     6   6          3
+another new node at its end. The new    6          7   6
+                                                      0.184 1        0.800
+node makes active paths with all four of         6
+the corners of the original quadrilateral,                                  5
+thereby breaking it into four active            5
+triangles.
+                                                0.777       1
+                                                       6
+
+                                        4
+
+                                                       3.4.8
+
+
+                                  56

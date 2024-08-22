@@ -1,0 +1,7 @@
+                                       4.5.25
+
+Now select Build Creases, Action menu, to construct the crease pattern, as shown in figure
+4.5.26.
+
+
+                                 100

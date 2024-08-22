@@ -1,0 +1,11 @@
+                                      4.5.7
+  Show Creases and Circles            1U
+Show the crease pattern plus circles around terminal nodes. This group of settings shows some of
+the structure of the base superimposed over the crease pattern. It’s a good compromise between
+showing just the crease pattern but also giving some indication of where paper goes into flaps.
+Here is an example shown in figure 4.5.8.
+
+
+                                      4.5.8
+
+                                 85

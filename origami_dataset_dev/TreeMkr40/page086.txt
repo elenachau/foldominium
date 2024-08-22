@@ -1,0 +1,25 @@
+    Custom ViewÉ                       1G
+ puts up the View Editor, which lets you change how the image is displayed on the screen and
+ display any combination of settings, as shown in figure 4.5.9.
+
+
+                                       4.5.9
+
+The View Editor is a movable dialog and its settings take effect immediately so you can see what
+the results of your settings are.
+
+There are four buttons for preset combinations of settings:
+
+Default — show the default view, which displays both the tree, node circles, polygons, and
+creases.
+
+Tree — show just the tree (stick figure)
+
+Creases — show just the crease pattern.
+
+All — show everything. For all but the simplest figures, this is too busy to be useful (see figure
+4.5.10), but if you ever wanted to see all the “guts” of a TreeMaker design, this is the closest
+thing to it.
+
+
+                                  86

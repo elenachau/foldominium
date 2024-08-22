@@ -1,0 +1,54 @@
+                                                                    ABF
+
+                                                        B
+                                                                                  B′
+                                            A                              A′              F
+                                                                    F
+
+                                                     F                                  C′
+                                                              C            E′                   C
+                                          E                         E
+            Figure 11.31.                                                          D′
+            Left: ﬁve-ﬂap tree.                                                           F
+                                                                           F
+            Right: generic form crease pat-         D
+            tern for its universal molecule.
+                                                                                   D
+
+                                         molecule directly using the universal molecule construction, as 
+                                         shown in Figure 11.31. The pentagon ABCDE is inset, form-
+                                         ing pentagon A′B′C′D′E′; the inset distance is chosen so that 
+                                         reduced path E′B′ becomes active. This becomes a mountain 
+                                         fold, and splits the reduced polygon into two distinct polygons, 
+                                         triangle A′B′E′ and quadrilateral B′C′D′E′. Repeating the 
+                                         insetting process on each of these reveals that in each case, 
+                                         the new polygon can be inset to a common point, yielding the 
+                                         rabbit-ear molecule in the former and the Waterbomb molecule 
+                                         in the latter.
+                                             A remarkable feature of the universal molecule is that all 
+                                         of the simple molecular crease patterns that have been previ-
+                                         ously enumerated are just special cases of it, including the 
+                                         rabbit-ear molecule, the gusset quad, and both sawhorse and 
+                                         Waterbomb quads. So the universal molecule well deserves its 
+                                         name; it is the only molecule needed to turn any tree method 
+                                         uniaxial base into a folded base.
+                                             Unfortunately, for polygons of higher order than quad-
+                                         rilaterals, there is generally no easy way to construct the 
+                                         universal molecule by folding alone; in most cases, it must be 
+                                         computed.
+                                             Faced with an axial polygon with ﬁve or more sides, you 
+                                         can do one of three things: 
+
+                                             • Add a circle (equivalent to adding an edge to an 
+                                             existing node of the tree), which creates three or more 
+                                             new active paths.
+
+                                             • Add a stub to the tree (equivalent to adding an edge 
+                                             and a new node to an existing edge of the tree), which 
+                                             creates four or more new active paths.
+
+                                             • Construct a universal molecule.
+
+     428
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

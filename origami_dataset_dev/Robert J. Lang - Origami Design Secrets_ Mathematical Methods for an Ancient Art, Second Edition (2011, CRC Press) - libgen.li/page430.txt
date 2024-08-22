@@ -1,0 +1,57 @@
+                                                                        CCD      C
+                                                            D
+                                                       D      CD
+
+                                                                                    CBC
+                                                   DDA
+                                                                          ′
+                                                               D′        C
+
+            Figure 11.17.                       ADA                                    BBC
+            Construction of the gusset quad                  A′            B′
+            for a quadrilateral ABCD. Inset 
+            the quadrilateral a distance h;                             h
+            then drop perpendiculars from 
+            the new corners to the original 
+            sides.                                                                         B
+                                              A            AAB               BAB
+
+
+                                                                        CCD     C
+                                                            DCD
+                                                       D
+
+                                                                                   CBC
+                                                   DDA
+                                                              D′           C′
+                                                                D′′   B′′
+                                                ADA                                    BBC
+                                                                              B′
+                                                            A′
+            Figure 11.18. 
+            On the inner quadrilateral, con-                           h
+            struct the bisectors of each tri-
+            angle to ﬁnd points B′′ and D′′.  A
+                                                          AAB               BAB            B
+
+                                             Let us suppose we found a solution for equation (11–4). The 
+                                         diagonal A′C′ divides the inner quadrilateral into two triangles 
+                                         as shown in Figure 11.18. Find the intersections of the bisectors 
+                                         of each triangle and call them B′′ and D′′. (If the second equation 
+                                         gave the solution, you’d use the opposite diagonal of the inner 
+                                         quadrilateral and ﬁnd bisector intersections A′′ and C′′.)
+                                             The points A′, B′′, C′, and D′′ are used to construct the 
+                                         complete crease pattern by dropping perpendiculars to the four 
+                                         sides, as shown in Figure 11.19. The perpendiculars at A′ and 
+                                         B′ are construction lines only, of no particular signiﬁcance. The 
+                                         newly constructed lines from B′′ and D′′, however, are hinge 
+                                         creases (or, if the adjacent side is not an active path, they could 
+                                         be pseudohinge creases).
+                                             You can construct an equation for the distance h in terms 
+                                         of the coordinates of the four corners and the distances; it’s a 
+                                         rather involved quadratic equation. However, it can be solved 
+                                         directly, algebraically.
+
+     418
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

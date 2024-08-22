@@ -1,0 +1,9 @@
+and lengths of points to the near-exclusion of other folding considerations such as line, form, and
+character. With algorithmic origami design, point count comes automatically and is no longer the
+overwhelming consideration in technical origami design. In the past, origami art and origami
+science have often been at odds, but with algorithmic origami design, the technical designer,
+freed from the need to expend his or her energies on the number of appendages, can focus on the
+art of folding, secure in the knowledge that the science will take care of itself.
+
+
+                                142

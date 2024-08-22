@@ -1,0 +1,57 @@
+                                                                                    www.nature.com/scientificreports
+
+
+             OPEN           Harnessing interpretable machine 
+                            learning for holistic inverse design 
+                            of origami
+                            Yi Zhu1,2* & Evgueni T. Filipov1,2
+
+                            This work harnesses interpretable machine learning methods to address the challenging inverse 
+                            design problem of origami-inspired systems. We established a work fow based on decision tree-
+                            random forest method to ft origami databases, containing both design features and functional 
+                            performance, and to generate human-understandable decision rules for the inverse design of 
+                            functional origami. First, the tree method is unique because it can handle complex interactions 
+                            between categorical features and continuous features, allowing it to compare diferent origami 
+                            patterns for a design. Second, this interpretable method can tackle multi-objective problems for 
+                            designing functional origami with multiple and multi-physical performance targets. Finally, the 
+                            method can extend existing shape-ftting algorithms for origami to consider non-geometrical 
+                            performance. The proposed framework enables holistic inverse design of origami, considering 
+                            both shape and function, to build novel reconfgurable structures for various applications such as 
+                            metamaterials, deployable structures, soft robots, biomedical devices, and many more.
+
+                            Origami, the art of folding paper, provides a method to build novel 3D engineering structures from fat 2D 
+                             surfaces1,2. Tese origami structures can be used in a variety of applications such as biomedical  devices3,4, micro/
+                            sof  robots5–7, frequency selective  surfaces8,9,  metamaterials10,11, aerospace structures 12,13, and many more. Over 
+                            the years, there have been a number of inverse design methods proposed for origami  systems14–17, but these 
+                            methods and algorithms only solve kinematic design problems like ftting origami to arbitrary shapes and geom-
+                            etries. Designing functional origami structures for general engineering applications is still difcult because these 
+                            active origami systems can have highly nonlinear motions, variable properties, and unintuitive multi-physical 
+                            behaviors. Properly addressing a generic inverse design problem of origami requires considering the interaction 
+                            between categorical and continuous features and handling formulations with multiple multi-physical objectives. 
+                            Tese problems are difcult to handle with existing optimization-based inverse design methods for origami shape 
+                            ftting so new solutions are needed.
+                              Machine learning has proven to be a versatile and powerful method to solve physical science  problems18, 
+                            fnancial  problems19, biomedical  problems20, E-sport  games21, etc. Moreover, a large number of diferent machine 
+                            learning methods like neural  network22, rule  list23,  boosting24, random  forest25, and others have been developed 
+                            to solve problems of diferent size, complexity, and nature. Because of the broadness and diversity of these meth-
+                            ods, one key challenge on using machine learning is to select the appropriate method for a given problem. For 
+                            origami type problems, machine learning techniques have been used to predict chaotic dynamic  responses26 and 
+                            to solve for origami folding  motions27. In addition, interpretable machine learning techniques were also used 
+                            for handling design problems for metamaterials systems that have diferent input data types when compared 
+                            to  origami28. However, no prior work has tackled the inverse design problem for origami using interpretable 
+                            machine learning techniques.
+                              In this work, we show that an interpretable machine learning method called the decision tree method and its 
+                            ensemble version called random  forest25,29 are particularly suitable for the inverse design of functional origami. 
+                            Figure 1 summarizes the fundamental idea of this work. Te design of origami can be thought of as building a 
+                            nonlinear function f  to calculate the performance indices of the system (such as stifness, Poisson’s ratio, mate-
+                            rial cost, etc.) based on given design features (such as the number of origami cells, the thickness of materials, 
+                            sector angles of the origami pattern, etc.). Usually, numerical simulations are used to represent this function f  
+                            because it is too complex to be expressed in a closed form. In a traditional setting, designing origami structures 
+                            is accomplished through plotting and observing the relationships between the features and the performance 
+                            using nonlinear simulation methods 30,31. To extend this traditional design method to an inverse design setup, 
+
+                            1Department of Civil and Environmental Engineering, University of Michigan, Ann Arbor, USA. 2Department of 
+                            Mechanical Engineering, University of Michigan, Ann Arbor, USA. *email: yizhucee@umich.edu
+
+Scientifc Reports |        (2022) 12:19277  | https://doi.org/10.1038/s41598-022-23875-6                                 1
+                                                                                                                     Vol.:(0123456789)

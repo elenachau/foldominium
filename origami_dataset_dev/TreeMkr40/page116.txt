@@ -1,0 +1,37 @@
+                            Foreleg
+
+
+                                          Tail
+
+
+Figure 5.5. The trail of the ant. The path of the ant might wander around on the square once
+you’ve unfolded it, but there is no way that the path can be shorter on the square than the path
+was on the base. Thus, the distance between two nodes on the square must be at least as large as
+the distance between the two nodes measured along the edges of the tree.
+This illustrates an extremely important property of any mapping from a square to a base: the
+distance between any two points on the square must be greater than or equal to the distance
+between the two corresponding points on the base. And in particular, this relationship must hold
+for any two points on the base that correspond to nodes on the tree. Now while this condition
+must hold for any pair of points on the base, it turns out that if it holds for any pair of terminal
+nodes, it will hold for every pair of points on the base. That is, if you identify a set of points on
+ the square corresponding to terminal nodes of a tree and the points satisfy the condition that the
+ distance between any pair of points on the square is greater than or equal to the distance between
+ the points as measured on the graph, then it is guaranteed that a crease pattern exists to
+ transform the square into a base whose projection is the tree.
+
+ This is a remarkable property. It tells us that no matter how complex a base is sought, no matter
+ how many points it may have and how they are connected to one another, we can always find a
+ crease pattern that transforms the square (or any other shape paper, for that matter) into the base.
+ Putting this into mathematical language, we arrive at the fundamental theorem of the tree method
+ of design (which I call the “tree theorem” for short):
+
+    Define a simply connected tree P with terminal nodes Pi, i=1, 2,…N. Define by lij  the
+   distance between nodes Pi and Pj as measured along the edges of the tree; that is, lij  is the
+   sum of the lengths of all the edges between nodes Pi and Pj. Define a set of points ui in
+                   ∈        ∈
+   the unit square ui,x [0,1], ui,y [0,1]. Then a crease pattern exists that transforms the unit
+    square into a uniaxial base whose projection is P if and only if |u i–uj|≥ lij  for every i,j.
+   Furthermore, in such a base, Pi is the projection of ui for all i.
+
+
+                                 116

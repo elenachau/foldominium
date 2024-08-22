@@ -1,0 +1,48 @@
+                                         angle bisector is indeed the boundary between the regions clos-
+                                         est to one or the other edges on either side of the bisector.
+                                             Before they get too far, though, some pair of angle bisec-
+                                         tors will collide. What happens then gets interesting. Let’s 
+                                         label each bisector by the two edges whose angle it bisects. If 
+                                         we have three consecutive edges, call them A, B, and C, then 
+                                         eventually angle bisector AB collides with angle bisector BC, 
+                                         as shown in Figure 13.18. What happens then?
+
+
+                                                                    A C
+
+                                                          A                     C
+
+            Figure 13.18.                                       A B
+            Schematic of three consecutive                                B C
+            edges and their angle bisec-
+            tors.                                                    B
+
+                                             Well, the points on the left side of bisector AB are closer to 
+                                         side A; the points on the right side are closer to side B. Similarly, 
+                                         the points on the left side of bisector BC are closer to side B, 
+                                         while the points on the right are closer to side C; so the points 
+                                         inside the triangle are all of the points closer to side B, while 
+                                         the points on the outside are closer to side A or C. There must 
+                                         be a new boundary line between the points closer to side A and 
+                                         C; and this line is, in fact, the bisector between sides A and C. 
+                                         So from the intersection of bisectors AB and BC we launch a 
+                                         new line, which is a segment of bisector AC—the bisector of 
+                                         the angle between two nonadjacent sides. In the process, we’ve 
+                                         “cut off” side B; it will play no further role in the construction 
+                                         of the straight skeleton.
+                                             And then we continue this procedure. We continue extend-
+                                         ing bisectors, keeping track of which two edge regions each 
+                                         bisector divides. When two adjacent bisectors collide, we drop 
+                                         the excluded edge region and continue with the bisector be-
+                                         tween the two remaining regions. Eventually, this process must 
+                                         terminate, and at that point, we will be left with the straight 
+                                         skeleton. A more complicated straight skeleton constructed by 
+                                         this process is illustrated in Figure 13.19.
+                                             For uniaxial box pleating, this process is relatively simple, 
+                                         because all bisectors run at multiples of 45°. For squares, this 
+                                         algorithm will give the two crossing diagonals as previously 
+                                         noted. For rectangles, this algorithm gives the two diagonal 
+
+     586
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

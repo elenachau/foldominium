@@ -1,0 +1,38 @@
+www.nature.com/scientificreports/
+
+
+                            Figure 2.  Computing interpretable design rules for origami assemblages. (a) Te problem setup for the single 
+                            unit Miura-ori cell. Te axial stifness is computed for the folded origami with supports on the lef and axial 
+                            loads on the right. (b) A database of Miura-ori design features and resulting axial stifness performance is 
+                            populated using a physics-based origami simulator. Data points are labeled based on whether they meet the 
+                            target performance or not (axial stifness k < 6000 N/m). (c) A number of decision trees are trained to classify 
+                            the database. (d) Design rules are gathered by collecting the splitting criteria in each branch of the decision tree 
+                            (following the gray lines in the sub-fgure (C)). (e) Representative rules are selected based on the precision, the 
+                            recall, and the number of data points satisfying the rules. In this case, the rule 1 (blue dot) is better than the rule 
+                            2 (orange box) and the rule 3 (pink cross) because it has high precision and recall. (f) A fnal design rule with 
+                            the highest F-score is picked. Te box chart contains the full range for all features, while the shaded regions 
+                            indicate the fnal design rule for the target performance. A Miura-ori design that follows the fnal rule is shown 
+                            (indicated with dark lines in the box chart).
+
+                             SWOMPS34 (step 2 in Fig. 2b). Te SWOMPS package is used in this paper because it is computationally efcient 
+                            and can capture multi-physical behaviors important for many origami designs 35,36 (see Materials and Methods). 
+                            Tis simulation package is based on a bar and hinge mechanics representation of origami systems and contains 
+                            a reduced-order model for electro-thermally actuated creases. Te simulation results of this package have been 
+                            verifed against both FE simulations and physical experiments 35,36 so the generated database is representative of 
+                            realistic behaviors in active origami structures. Based on the simulated performance of each data point, we assign 
+                            class labels depending on if the design can achieve the target performance or not (step 3 in Fig. 2b). Data points 
+                            that meet the target ( k < 6000 N/m ) are assigned a label of 1 while the remaining samples are assigned a label of 0.
+                              Next, we use the design features and the class labels to set up a supervised learning problem that can be solved 
+                            using the decision tree-random forest method. Te method is trained to diferentiate designs that meet the target 
+                            performance (with label 1) from those that do not (with label 0) based on the design feature values. Figure 2c 
+                            shows a sample decision tree for the design problem of the Miura-ori unit cell. To determine the class of a data 
+                            point, we send the data point into the tree from the top. Each time the data point encounters a branch node, 
+                            a simple criterion is checked to determine if the point should go to the lef branch or to the right branch. For 
+                            example, a datapoint with tp = 1.1 mm at the frst node of the sample decision tree (shown on Fig. 2c) will be sent 
+                            to the lef branch because tp = 1.1 mm < 2.1 mm . Afer a series of judgments, the data point will be sent to a leaf 
+                            node, where no more branching occurs, and a class label is predicted. For example, the datapoint listed in column 
+                            one of the Table in Fig. 2b will follow the gray arrow (marked as “Rule 1”) downward and be judged as a Class 
+                            1 data. Tis means the machine learning algorithm thinks that this feature design (t c = 0.78 mm , tp = 1.1 mm , 
+
+Scientifc Reports |        (2022) 12:19277  | https://doi.org/10.1038/s41598-022-23875-6                                 3
+                                                                                                                     Vol.:(0123456789)

@@ -1,0 +1,36 @@
+             1. The crease pattern for the small 2. Cut out the shaded region ... 3. And we’re back to the original
+             box.                                                            3 × 2 box pattern, but with longer
+                                                                             handles.
+
+
+                                   4. The crease pattern      5. The crease pattern
+                                   from step 1 folds this.    from step 3 folds this.
+
+                                         Figure 12.18. 
+                                         The crease pattern for the smaller box.
+
+                                         as shown in step 2 of Figure 12.18, we can make the box deeper 
+                                         as well. Thus, it is possible, using basically the same structure, 
+                                         to make any length, width, or depth, box.
+                                             But this is still only a single box. We quickly exceed the 
+                                         interest level of a single box. However, another nice property 
+                                         of box-pleated designs is that if you are careful to keep track 
+                                         of the raw edges of the paper, you can easily join structures in 
+                                         a way very similar to the way we expanded them.
+                                             Figure 12.19 shows how two boxes can be joined at their 
+                                         edges to make a double-box, which can, in turn, be folded from 
+                                         a single 4 × 12 rectangle.
+                                             It was possible to join the two boxes because the raw edge 
+                                         along one side of the paper lay along a single line in the folded 
+                                         form of the model. That raw edge could therefore be mated to 
+                                         a similarly aligned edge.
+                                             It isn’t necessary, however, that the raw edges lie on a 
+                                         single line for two shapes to be joined. The raw edge can actu-
+                                         ally take on any three-dimensional path whatsoever, as long 
+                                         as the mating part takes on the same path. This next structure 
+                                         (Figure 12.20) mates boxes and partial boxes to realize a fully 
+                                         enclosed box.
+
+     478
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

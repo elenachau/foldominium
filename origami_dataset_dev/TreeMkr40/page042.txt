@@ -1,0 +1,51 @@
+The new node — node 8 — is now on
+the bottom of the square. The darker blue                 1
+of its edge tells you that it isn’t pinned.      2                 2
+Choose Select all from the Edit menu,
+then Optimize selection from the Action 4                 1                 5
+                                                          1.000
+menu. This will expand the edge to its           3                 4
+maximum possible length.                         1.000             1.000
+                                                           2
+So now we have nodes 1 and 8 at the top
+                                        2                                   2
+and bottom of the symmetry line — but
+there is still no active path between them.
+                                                          2
+The reason is that the distance between                    1.000
+nodes 1 and 8 is larger than the minimum 3                                  3
+allowed path length between them. To
+get active paths in place, we need to add                  3
+another node to the symmetry line                5        7        6
+somewhere between 1 and 8 to “soak up”           1.000     0.400+115.8%1.000
+                                        6        3        8       3         7
+this excess length. The longer the new
+node, the more excess length it will
+require. For this new node, we don’t                   3.2.6
+know how large it must be, so we’ll use
+the Optimize Selection command to
+optimize its size. Add a new node                         1
+connected to node 3 and apply a Stick to
+symmetry line condition (which by now,
+you know how to do). The result is
+                                        4                 1                 5
+shown in figure 3.2.7.                                    1.000
+                                                 3                 4
+Then select both the node and edge and           1.000             1.000
+select Optimize Selection from the                         2
+Action menu to optimize the position of
+the node and the length of the edge.
+                                                          2
+                                                        9
+                                                           1.000
+                                                         8
+                                                         1.000
+                                                           3
+                                                 5        7        6
+                                                 1.000     0.400+115.8%1.000
+                                        6                 8                 7
+
+                                                       3.2.7
+
+
+                                  42

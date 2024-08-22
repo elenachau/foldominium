@@ -1,0 +1,49 @@
+                                         eliminating folds composed of many layers, it allows the layers 
+                                         to stack neatly, giving a cleaner folded model.
+                                             When you are designing, it’s both reasonable and com-
+                                         mon to fold many layers together in order to put creases into 
+                                         the right place. Once you know where the creases are, you 
+                                         can search for alternate folding sequences that permit a more 
+                                         sequential assembly; such a sequence for the Tree Frog of 
+                                         Figure 6.18 is shown at the end of the chapter.
+
+                                         6.3. More Complicated Grafts
+                                         Thus far we’ve used grafting to add paper to one or more corners 
+                                         of a square. We can do this in two ways: by adding a border graft 
+                                         (a strip of paper running all or partway around the square), 
+                                         or by adding a strip graft (a strip of paper cutting across the 
+                                         crease pattern). The strip graft necessitates that we cut the 
+                                         crease pattern into two or more pieces to insert the strip. It may 
+                                         seem vaguely disquieting to cut up the origami square, but you 
+                                         should get used to the idea: more complicated cuts, instigated 
+                                         by more complicated grafts, are shortly to come.
+                                             In any event, all we’ve looked at so far is adding features 
+                                         to the corners of a square, but since there are only four corners 
+                                         on a square, it’s pretty easy to enumerate all possible ways of 
+                                         using border and strip grafts to augment corners. However, 
+                                         it’s also possible to use grafting to add paper in the middle of 
+                                         an edge.
+                                             Why might we want to do this? Well, for one thing, not all 
+                                         models derive their ﬂaps from the corners of the paper. One 
+                                         of the most straightforward applications of grafting is to add 
+                                         extra paper to the end of a ﬂap, as we’ve done for toes, for ex-
+                                         ample. If the tip of the ﬂap in question comes from the edge of 
+                                         the paper, rather than the middle, then we should add paper 
+                                         in the middle of the edge.
+                                             There is much more variety in adding paper to a spot 
+                                         along the edge of the square, since there are an inﬁnite num-
+                                         ber of locations along the square where we might perform our 
+                                         surgery. And it will be surgery of the strip-grafting sort; as we 
+                                         will see, border grafts are far more limiting than strip grafts 
+                                         when it comes to adding paper along edges of preexisting crease 
+                                         patterns.
+                                             As a concrete example and to have something to work with, 
+                                         let’s take the simple lizard shown in Figure 6.19 (and whose 
+                                         folding sequence is given at the end of the chapter). This model 
+                                         ﬁts together quite neatly; it’s questionable whether one should 
+                                         even try to add feet. What you give up in aesthetics may very 
+                                         well not be compensated by what one gains in adding paper to 
+
+     146
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

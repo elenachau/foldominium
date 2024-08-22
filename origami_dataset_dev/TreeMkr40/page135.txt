@@ -1,0 +1,24 @@
+Figure 5.26. In a triangle, all three corners are inset to the same point, which is the intersection
+of the angle bisectors. This gives the rabbit ear molecule.
+
+
+Figure 5.27. The four possible universal molecules for a quad. If all four corners are inset to the
+same point, the result is the Husimi molecule (top left). If adjacent pairs of corners are inset to
+two points, the Maekawa molecule is obtained (top right). If the inset polygon is a triangle, it is
+filled in with a rabbit ear molecule, which also results in a Maekawa molecule (bottom left).
+Finally, if the inset polygon is a quad crossed by an active reduced path, the result is the gusset
+quad.
+These examples are just the tip of the iceberg; beyond four sides, the possibilities rapidly
+explode. But this explosion doesn’t matter; there is a unique universal molecule for every
+possible active polygon that satisfies the tree theorem.
+
+An alternative design approach that blends aspects of the circle method and tree methods has
+been described by Kawahata2 and Maekawa3. It has been called this the “string-of-beads”
+
+
+2Fumiaki Kawahata, Fantasy Origami, pub. by Gallery Origami House, Tokyo, Japan, 1995 [in Japanese].
+
+3Jun Maekawa, Oru magazine, also in Proceedings of the Second International Conference on Origami Science and
+Technology, 1994 [in Japanese]
+
+                                 135

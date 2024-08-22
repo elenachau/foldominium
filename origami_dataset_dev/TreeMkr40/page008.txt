@@ -1,0 +1,52 @@
+If exactly one node is selected and you
+click somewhere else, a new node will be
+placed at the click location with a line
+connecting the nodes. The line between
+the two nodes is called an edge. We’ll do
+this now. Make sure the node is selected
+(click once on it so that it is highlighted)
+and then click once above the node; you
+have now created an edge connecting the
+two nodes. Note that the new node is
+now selected (highlighted), as is the
+edge, as shown in figure 2.1.2.
+
+The edge displays two numbers near its
+midpoint: the index, which serves to
+identify the edge, and another number
+below it, which is the desired length of
+the edge. The length of the edge is the
+same as the length of the corresponding
+flap on the base.
+                                                       2.1.2
+   • Note: all lengths on the tree are
+   defined relative to each other, not
+   relative to the size of the square.
+
+All edges start out with a length of 1.000 by default; later you’ll learn how to change the length
+of an edge. Note too that the displayed length of the edge doesn’t change when you drag nodes
+and edges around; the displayed length is not the actual length of the drawn line; it’s the desired
+length of the corresponding flap.
+
+Note that each node has a circle around it. That’s because they are terminal nodes. Terminal
+nodes are nodes that have only one edge attached to them, and they correspond to the tips of
+flaps of the base.
+
+As mentioned earlier, if you click on an existing node, it becomes selected. If you hold down the
+mouse button after clicking you can drag the node around on the square. If exactly one node is
+already selected and you click elsewhere in the square, you create a new node at the click
+location and create a new edge connected to the selected node. (If zero or two or more nodes are
+selected and you click elsewhere, everything gets deselected.) You can also click on edges and
+drag them; dragging an edge drags the nodes at each end. You can extended the selected (select
+more than one node or edge at a time) by holding down the shift key when you click on nodes or
+edges. The collection of selected nodes and edges is called the selection.
+
+The following are all the things you do with clicks:
+
+• Click on a node or edge to select it and deselect everything else
+
+• Shift-click on a deselected node or edge to add it to the selection
+
+• Shift-click on a selected node or edge to remove it from the selection
+
+                                   8

@@ -1,0 +1,37 @@
+            Figure 13.26. 
+            What happens when a contour line hits a ridge crease depends on 
+            the angle. Left: a 45° incidence results in a 90° turn. Middle: hit-
+            ting a junction of two creases reﬂects the contour line back the way 
+            it came, but offset. Right: hitting a junction of two ridge creases 
+            directly terminates the contour line at the junction.
+
+            a contour line crosses a Y junction of ridge creases? Which 
+            line does it reﬂect across? In fact, it must reﬂect across every 
+            possible line at the junction, which means that although one 
+            contour line comes into the junction, two contour lines come 
+            out, as illustrated in Figure 13.27.
+
+
+                                                                       Figure 13.27. 
+                                                                       If a contour line hits a Y junction 
+                                                                       of ridge lines, it reﬂects across all 
+                                                                       of the lines at the junction, and so 
+                                                                       can emit more contour lines than 
+                                                                       the one that entered.
+
+                Once we launch a set of axial contour lines, we must follow 
+            them wherever they go, as they propagate across the crease 
+            pattern, reﬂect across ridge lines, split at junctions, and in 
+            general, keep going. For any given strand of contour line, if 
+            we follow it along, it will eventually do one of three things:
+
+                • run off the edge of the paper (in which case, it can 
+                be considered to have terminated);
+
+                • reﬂect back on itself (also a termination); or
+
+                • keep going forever. (This would be bad.)
+
+                                                                                                     595
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

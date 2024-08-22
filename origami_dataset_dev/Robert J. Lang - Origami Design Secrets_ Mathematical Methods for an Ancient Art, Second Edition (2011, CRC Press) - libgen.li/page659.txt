@@ -1,0 +1,25 @@
+            Figure 14.23. 
+            Top left: a representative Pythagorean stretch that has a gusset 
+            sliver (highlighted). 
+            Top right: we remove the creases that make up the gusset sliver 
+            and lie between it and the corner. 
+            Bottom left: a new axis-parallel crease is added at unit distance. 
+            Bottom right: more creases are added that are the mirror image of 
+            the main pattern.
+
+            from the apex of the ridges is equal to the unit of width. Last, 
+            we create new creases that are the mirror image of those on the 
+            opposite side of the new gusset crease. (These are the creases 
+            that would have resulted if we folded the paper underneath on 
+            the new crease, and then made all of the other folds through 
+            all layers together.) As you can see from the dotted lines in 
+            the two bottom subﬁgures, what we are doing is, effectively, 
+            creating a perfect Pythagorean stretch in a somewhat larger 
+            quadrilateral that extends outside of the original paper. Since 
+            we are extending the quadrilateral of the stretch beyond the 
+            boundaries of the paper, I call this variation an extended Py-
+            thagorean stretch. 
+
+                                                                                                     647
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

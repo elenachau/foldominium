@@ -1,0 +1,52 @@
+Let’s work through an example. Create a
+new document and construct the six-                      4
+legged tree as shown in figure 3.5.1.
+                                                        3
+Now, select Optimize Scale from the                     1.000
+ Actions menu to create the first iteration
+                                                                7        8
+                                                6       3
+ of the design.                          7                      1.000
+                                                 1.000
+                                                       2
+                                                        1.000
+
+                                                        2
+
+                                                        1
+                                                         1.000
+                                                 4       1     5
+                                                  1.000         1.000
+
+                                           5                           6
+
+
+                                                       3.5.1
+
+
+                                                          4
+
+                                                 3                 3
+                                                        3
+                                        7                1.000              8
+                                               6                 7
+                                                1.000   3         1.000
+
+                                              3                       3
+                                                       2
+                                                        1.000
+
+                                                        2
+                                                    2           2
+                                                        1
+                                                         1.000
+                                               4                 5
+                                                1.000     1       1.000
+                                                 2                 2
+
+                                        5                                   6
+
+                                                       3.5.2
+
+
+                                  59

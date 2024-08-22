@@ -1,0 +1,52 @@
+          Vector<T>
+
+ Vector<T> is a template class for vectors (not the same as the STL vector<T> class) that
+ supports arithmetic operations and various vector operations.
+
+          Matrix<T>
+
+ Matrix<T> is a template class for matrices that supports arithmetic operations and various
+ matrix operations.
+
+          LinearAlgebra
+
+ LinearAlgebra contains a class, Ludecomp<T>, that perform various linear algebra
+ operations, including LU decomposition, matrix inversion, and solution of linear systems. It also
+ includes a class NewtonRaphson<T> that solves systems of nonlinear equations.
+
+          Cpfsqp
+
+ Cpfsqp is a C++ interface to the CFSQP library for performing nonlinear constrained
+ optimization. It is particularly suited for embedded applications where constraints are regularly
+ added or removed or where the number of constraints are not known beforehand. Cpfsqp
+ contains two classes, Cpfsqp, which takes over some of the housekeeping for problems with a
+ large number of constraints, and DifferentiableFunction, which is a base class for a
+ function of a vector that has a defined gradient function.
+
+          ListOf<T>
+
+ ListOf<T> is a template class based on the (stand-alone) LArray class in PowerPlant. It
+ provides type-safe arrays, support for PowerPlant’s LArrayIterator class for iterating
+through mutable arrays, and supports two independent notations for accessing arrays: a Pascal-
+style (1-based) notation, and a C-style (0-based) notation. It also adds routines for treating arrays
+as sets, supporting intersection and union of lists. (It’s my “general-purpose list” class.)
+
+         Ref<T>, RefList<T>
+
+The Reference classes are classes that provide the equivalent of a “smart” pointer-to-T; when the
+object of a Ref<T> is deleted, the Ref<T> sets itself to zero no matter where it is. This
+eliminates dangling pointers (or at least transforms them into NULL pointers, which are easier to
+catch). In addition, it’s possible to configure the objects being referenced in such a way that they
+delete themselves when the number of references drops below a preset value (automatic garbage
+collection). (I don’t use this latter capability in TreeMaker.)
+
+      TreeMaker Classes
+
+TreeMaker classes are the classes unique to the TreeMaker application. They are grouped in 3
+sets: Tree Classes, which support and maintain the internal structure of the Tree; they are nearly
+platform-independent. Optimizer Classes perform calculations and implement algorithms that act
+upon the Tree. They, too, are nearly platform-independent. User Interface Classes provide the
+user interface, support display and editing of Tree objects, interaction with the OS and the file
+
+
+                                 154

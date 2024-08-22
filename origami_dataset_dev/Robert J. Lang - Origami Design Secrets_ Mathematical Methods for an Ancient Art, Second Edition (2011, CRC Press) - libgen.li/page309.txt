@@ -1,0 +1,50 @@
+            many different folding sequences giving many different bases, 
+            even though they have the same number of ﬂaps.
+                While such a circle pattern is guaranteed to be foldable into 
+            a base, a guarantee is not the same as a blueprint. But here is 
+            where we can apply the tiles from the previous chapter. If the 
+            circle pattern can be cut into tiles so that the circles within 
+            each tile match up with known tiles, then we can assemble the 
+            complete crease pattern from these same tiles.
+
+            9.3. Connections to Tiles
+            Consider, for the moment, those tiles we have seen that con-
+            tain only circles (no rivers). They are of two types: triangles 
+            and square (the Waterbomb Base tile). In both types of tile, 
+            the inscribed circles touched each other along the tile edges, 
+            which, you’ll recall, were axial creases. In fact, the only places 
+            that circles touched each other were along axial creases. This is 
+            more than coincidence; it can be shown (and we will do so later) 
+            that there exist axial creases in any circle packing wherever 
+            any two circles touch. The newly created axial creases divide 
+            the square into axial polygons; if we are fortunate enough that 
+            the axial polygons are recognizable as known tiles, we can ﬁll 
+            them in with the creases associated with each tile and use the 
+            resulting creases to fold the shape ﬂat.
+                Thus, the six simple bases we used to illustrate tiling could 
+            have been derived directly from circle packings based on their 
+            desired number of ﬂaps. We represent each desired ﬂap by a 
+            circle; pack the circles into the square, and then construct axial 
+            creases that outline the tiles.
+                The circle diagrams also allow us to address the problem 
+            of folding efﬁciency. By representing each ﬂap of a model by the 
+            appropriately sized circle and drawing the circles on a square, 
+            you can easily ﬁnd the arrangement of points on the square 
+            that gives the most efﬁcient base containing those ﬂaps and, 
+            as often as not, it will be an elegant base as well.
+                And since the length of a ﬂap is equal to the radius of 
+            the corresponding circle, if we design the base by laying out 
+            points on a square and represent each ﬂap by a circle, the most 
+            efﬁcient base will come from that layout in which the circles 
+            representing the ﬂaps are as large as possible. In accordance 
+            with what we’ve shown above, the circles are to be placed ac-
+            cording to the following rules: 
+
+                • Each ﬂap in the model is represented by a circle.
+
+                • The radius of each circle is equal to the length of 
+                the corresponding ﬂap.
+
+                                                                                                     297
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

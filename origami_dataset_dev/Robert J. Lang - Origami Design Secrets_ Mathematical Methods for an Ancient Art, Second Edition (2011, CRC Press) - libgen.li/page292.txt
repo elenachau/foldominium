@@ -1,0 +1,37 @@
+                                             While any parallelogram can be turned into a circle/river 
+                                         tile that covers the plane, only particular proportions and tilt 
+                                         angles give evenly spaced legs. You might ﬁnd it an interesting 
+                                         challenge to work out the relationship between parallelogram 
+                                         dimensions, leg length, body segment length, and the number 
+                                         of rows and columns of parallelograms and trapezoids. After 
+                                         you’ve done that, you might try your hand at working out how 
+                                         to make multilegged centipedes using only rectangle and tri-
+                                         angle tiles.
+                                             Whether you use triangles, parallelograms, or trapezoid 
+                                         tiles, by using more rows and columns, you can increase the 
+                                         number of legs arbitrarily; in fact, it’s possible to make a 
+                                         hundred-legged centipede from a square. The use of tiles gives 
+                                         a remarkably efﬁcient centipede. The length of the folded model 
+                                         is about two-thirds of the side of the square, and surprisingly, 
+                                         for a constant ratio between leg length and body segment, the 
+                                         length turns out to be about the same no matter how many 
+                                         legs it has.
+                                             Origami design by tiling can be a powerful technique 
+                                         for discovering new bases from which to fold new designs. 
+                                         However, there is still a bit of trial-and-error to it, in that 
+                                         the way we’ve approached it has been to assemble tiles into a 
+                                         pattern and see what kind of base arises. If you have built up 
+                                         a collection of many different types of tile, then for a particular 
+                                         subject, you can try ﬁtting together different tiles compris-
+                                         ing the required number of circles and rivers. But it’s still an 
+                                         indirect way of designing a model. The concepts within the 
+                                         tiling method, however—circles, rivers, and most importantly, 
+                                         the uniaxial base—are fundamental. We can build off these 
+                                         concepts to construct several algorithms for a directed design: 
+                                         “I need this many ﬂaps; here’s how to get them.” In the next 
+                                         chapter, we’ll encounter the ﬁrst of these algorithms.
+
+
+     280
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,27 @@
+                                                                   Smith ScholarWorks 
+
+Computer Science: Faculty Publications                                        Computer Science 
+
+8-1-2015 
+
+Lang’s Universal Molecule Algorithm 
+
+John C. Bowers 
+University of Massachusetts Amherst 
+
+Ileana Streinu 
+Smith College, istreinu@smith.edu 
+
+
+Follow this and additional works at: https://scholarworks.smith.edu/csc_facpubs 
+
+   Part of the Computer Sciences Commons 
+
+Recommended Citation 
+Bowers, John C. and Streinu, Ileana, "Lang’s Universal Molecule Algorithm" (2015). Computer Science: 
+Faculty Publications, Smith College, Northampton, MA. 
+https://scholarworks.smith.edu/csc_facpubs/305 
+
+
+This Article has been accepted for inclusion in Computer Science: Faculty Publications by an authorized 
+administrator of Smith ScholarWorks. For more information, please contact scholarworks@smith.edu 

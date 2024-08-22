@@ -1,0 +1,53 @@
+                I
+                Ideal split (page 100): a technique for splitting a Kite Base ﬂap, which 
+                gives the longest possible pair of ﬂaps.
+                Inﬂation (page 308): the process of adding circles to a crease pattern (cor-
+                responding to adding ﬂaps to a base) and expanding the circle (lengthening 
+                the ﬂap) until it touches three or more others. In box pleating, inﬂation 
+                enlarges hinge polygons without necessarily making their corresponding 
+                ﬂaps longer.
+                Inside reverse fold (page 23): a method of changing the direction of a ﬂap, 
+                wherein the moving layers are inverted and tucked between the stationary 
+                layers.
+
+                K
+                Kite Base (page 54): the simplest of the Classic Bases, formed by folding 
+                two adjacent edges of a square to the same diagonal.
+
+                L
+                Leaf edge (page 402): in a tree graph, an edge connected to at least one 
+                leaf node.
+                Leaf ﬂap (page 575): a ﬂap in a uniaxial base that is connected to the base 
+                at one end and is free at the other end. Leaf ﬂaps are represented by leaf 
+                edges in the tree graph.
+                Leaf node (page 402): in a tree graph, a node connected to only a single 
+                edge.
+                Leaf vertex (page 404): a point in the crease pattern that corresponds to 
+                a leaf node on the tree graph.
+                Level shifter (page 626): a pattern of creases in a uniaxial polygon-packed 
+                design that replaces one or more segments of ridge crease in order to shift the 
+                elevation of a crease on one side of the ridge relative to that of the other.
+
+                M
+                Meander (page 651): a pattern within a river in which one bank of the 
+                river contacts itself, so that the river appears to be wider than its designated 
+                width.
+                Middle ﬂap (page 105):    a ﬂap whose tip comes from the interior of the 
+                square. A middle ﬂap has twice as many layers as a same-sized edge ﬂap 
+                and four times as many as a corner ﬂap.
+                Mixed sink fold (page 38): a sink fold containing aspects of both open and 
+                closed sinks.
+                Molecule (page 352): a crease pattern which, when folded ﬂat, has its 
+                perimeter lie along a common line and for which speciﬁed points along the 
+                perimeter (the tangent points) become coincident in the folded form.
+                Mountain fold (page 18): a crease that is concave downward. Usually 
+                indicated by a dot-dot-dash line (black line in crease patterns).
+
+                N
+                Node (page 402): in a tree graph, an endpoint of a line segment. See leaf 
+                node, branch node.
+
+
+                                                                                                                                  747
+                                                                                                        Glossary
+© 2012 by Taylor & Francis Group, LLC

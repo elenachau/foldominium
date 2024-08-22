@@ -1,0 +1,31 @@
+If you Build Polygons and Creases you
+will get the crease pattern shown in
+figure 3.5.3.
+
+The creases in this design don’t precisely
+fall on standard angles. We’ll modify it
+so that they do. We do this by putting a
+“Path angle quantized” condition on all
+of the paths that correspond to major
+creases.
+
+Put the model back into Default View
+and select the Kill Polygons command,
+Actions menu, to put in back into the
+configuration shown in figure N. In this
+case, only the polygon paths are shown.
+Select the Select all polygon paths
+command,  Edit menu. Then select Path
+angle quantized… from the Conditions
+menu. This puts up the dialog shown in
+figure 3.5.4.                                          3.5.3
+
+
+                                      3.5.4
+
+ This will place a condition that forces each of the selected paths to be active (so it will be a major
+ crease) and to lie at an angle that is a multiple of 180°/N, where N is an integer. Common values
+ of N and the corresponding angle are:
+
+
+                                  60

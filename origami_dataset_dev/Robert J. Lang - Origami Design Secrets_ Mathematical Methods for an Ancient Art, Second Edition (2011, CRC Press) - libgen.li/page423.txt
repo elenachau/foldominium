@@ -1,0 +1,49 @@
+                                                                (11–1)
+                                |ui − uj| ≥ mlij
+
+            for a scale factor m. We call the set of all such equations the 
+            path conditions for the given tree graph.
+                In this way, the scale factor becomes a quantitative mea-
+            sure of the efﬁciency of the crease pattern, and the search for 
+            the most efﬁcient crease pattern can be expressed formally as 
+            an optimization problem: Given a tree that deﬁnes a base, op-
+            timize the scale factor while varying the coordinates of the leaf 
+            vertices, subject to the constraints that (a) the path conditions 
+            are satisﬁed, and (b) all leaf vertices lie within a unit square.
+
+            11.4. Subtrees and Subbases
+            It can be shown that active paths cross each other only at leaf 
+            vertices. Since active paths become axial creases, the pattern 
+            of axial creases breaks up the square into axial polygons. In 
+            some of the polygons, all of their sides are active paths (like 
+            the inverted-kite-shaped quadrilateral in the center of Fig-
+            ure 11.8). If one of the sides of a polygon lies on the edge of a 
+            square, it may or may not be an active path (in Figure 11.8, 
+            each triangle has one side on the edge of the square that is not 
+            an active path). Each axial polygon has the property that all 
+            of its sides map to the plane of projection of the base when the 
+            square is folded into a base. Consequently, to ﬁnd a crease pat-
+            tern that collapses the square into the base, it is necessary to 
+            ﬁnd a crease pattern that maps the network of axial polygons 
+            onto the plane of projection of the base.
+                That problem should sound familiar; this sounds like a job 
+            for molecules. Recall that the tree is the projection of the base, 
+            which is folded from the complete square. Each polygon on the 
+            square corresponds to a portion of the overall base, and if you 
+            collapse any polygon into a section of the base—which I call a 
+            subbase—the projection of the subbase is itself a portion of the 
+            projection of the complete base, i.e., a portion of the original 
+            tree graph. The tree graph of a subbase is called a subtree. For 
+            example, Figure 11.10 shows the polygons for our six-legged 
+            base and the corresponding subtrees for each subbase. Note 
+            that since all of the corners of an axial polygon must be leaf 
+            vertices, the triangles at the bottom corners of the square are 
+            not axial polygons and, in fact, do not contribute to the base in 
+            a signiﬁcant way.
+                One requirement of axial polygons that we saw in previous 
+            sections was that if two axial polygons share a common side and 
+            that side is an axial path, any crease pattern that collapses the 
+
+                                                                                                     411
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

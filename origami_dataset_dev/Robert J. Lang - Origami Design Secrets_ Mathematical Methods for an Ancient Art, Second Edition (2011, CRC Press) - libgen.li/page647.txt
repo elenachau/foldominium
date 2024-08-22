@@ -1,0 +1,50 @@
+            them—an “axial+1/2” contour. And so that part of the fold, 
+            and anything that that folded contour connects to, will be half 
+            a unit wide, a potentially undesirable outcome.
+                Note that while we chose the elevation assignments of the 
+            contour lines along the top and bottom edges of the polygon, the 
+            contour lines along the sides were forced by their bouncing off 
+            of the ridge creases inside the polygon. So one might consider 
+            that, perhaps with a different shaped polygon—one with a dif-
+            ferent pattern of ridge creases inside it—the bouncing might 
+            work out the way we want. And things might well work for a 
+            different hinge polygon, but wouldn’t it be nice to know how to 
+            pick one? Or, at least, how not to pick the wrong one?
+                Figure 14.11 is a good example of a wrong polygon. With-
+            out even working out the ridge creases and bouncing creases 
+            inside the polygon, we could have determined we were in 
+            trouble from a simple parity argument. There must be some 
+            contour line at every grid point on the boundary of the hinge 
+            polygon that is perpendicular to the polygon boundary (be-
+            cause the contours are axis-parallel, the polygon boundaries 
+            are hinges, and axis-parallel creases are perpendicular to 
+            hinges). So we could just move around the outside, alternating 
+            in parity. We are forced to have two consecutive contours of the 
+            same parity somewhere along the way because the semiper-
+            imeter of the polygon is an odd number of units in length.
+                And so, the ﬁrst rule of packing is clear: if we want to 
+            avoid folded contours that create half-unit-width ﬂaps, we 
+            should make sure that the distance between any two points 
+            on the polygon boundary that are required to be axial is an 
+            even number of units, measuring around the boundary of the 
+            polygon.
+                This even/odd condition on the boundary is necessary; 
+            alas, it is not sufﬁcient. It is possible to satisfy the even-
+            semiperimeter condition for a speciﬁc polygon but to still 
+            have bouncing in the interior cause problems with the desired 
+            alternation of contours. Figure 14.12 shows a slightly more 
+            complex polygon whose straight skeleton induces a collision 
+            of contours.
+                Now, you might notice a feature in each of these poly-
+            gons that is a bit out of the ordinary: in both of them, the 
+            straight skeleton contains vertices that don’t lie on the grid. 
+            And those non-grid vertices are, in fact, the nasty beasties of 
+            both of these patterns. At vertices where ridge creases come 
+            together, some additional axis-parallel creases must arise. If 
+            we force those points to lie on grid points, then we can insure 
+            that those additional creases are well behaved on-grid axis-
+            parallel creases.
+
+                                                                                                     635
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,41 @@
+    Path active                         1,
+ This command applies/removes a “Path active” condition to the selected path(s). It is enabled if
+ at least one path is selected. The command has the following marks and effects:
+
+ No mark: none of the selected paths have this condition. Selecting the command applies a
+ condition to each of the selected paths .
+
+ Diamond mark: some of the selected paths have this condition. Selecting the command applies a
+ condition to all of the selected paths .
+
+ Check mark: all of the selected paths have this condition. Selecting the command removes this
+ type of Condtion from each of the selected paths.
+    Path angle fixedÉ
+ This command applies/removes a “Path angle fixed” condition to the selected path(s). It is
+ enabled if at least one path is selected. The command has the following marks and effects:
+
+ No mark: none of the selected paths have this condition. Selecting the command applies a
+ condition to each of the selected paths. It puts up a dialog for the path angle shown in figure
+ 4.5.41.
+
+
+                                       4.5.41
+
+Diamond mark: some of the selected paths have this condition. Selecting the command applies a
+condition to all of the selected paths. It also puts up the dialog for the path angle.
+
+Check mark: all of the selected paths have this condition. Selecting the command removes this
+type of Condtion from each of the selected paths.
+   Path angle quantizedÉ               1\
+ This command applies/removes a “Path angle quantized” condition to the selected path(s). It is
+ enabled if at least one path is selected. The command has the following marks and effects:
+
+ No mark: none of the selected paths have this condition. Selecting the command applies a
+ condition to each of the selected paths. It puts up a dialog for the path angle quantization shown
+ in figure 4.5.42.
+
+
+                                       4.5.42
+
+
+                                 110

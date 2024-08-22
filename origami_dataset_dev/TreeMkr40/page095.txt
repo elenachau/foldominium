@@ -1,0 +1,28 @@
+                                       4.5.20
+   Remove Polygons                     1B
+ This command removes all polygons. If you are working with arranging nodes, the presence of
+ polygons can be a distraction; this command gets rid of them all.
+    Build Creases                      1B
+ Build all of the creases in the crease pattern. Creases will only be built for existing polygons, so
+ you need to have built all polygons prior to calling this routine.
+
+ A typical sequence of commands after defining the tree might be:
+
+ 1. Optimize Scale to maximize the scale and get the largest possible base.
+
+ 2. Select All followed by Optimize Selection to maximize any unpinned edges.
+
+3. Build Polygons.
+
+4. Triangulate Tree (optional)
+
+5. Build Creases.
+
+By the time you are done, the main window is likely to be rather cluttered, so it’s a good idea to
+select Creases Only to display just the crease pattern. The figures below illustrate this entire
+sequence.
+
+First, draw the initial tree as shown in figure 4.5.21.
+
+
+                                  95

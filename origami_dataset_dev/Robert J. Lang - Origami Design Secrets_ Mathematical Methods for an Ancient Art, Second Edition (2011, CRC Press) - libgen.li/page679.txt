@@ -1,0 +1,12 @@
+             Figure 14.45. 
+             Left: axial+1 contours added. 
+             Right: an axial+2 contour added via level shifters. The level-shifted 
+             contour is highlighted.
+
+
+             Figure 14.46. 
+             Contour map and folded model of the Scarab Beetle HP.
+
+                                                                                                                 667
+                                                                       Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

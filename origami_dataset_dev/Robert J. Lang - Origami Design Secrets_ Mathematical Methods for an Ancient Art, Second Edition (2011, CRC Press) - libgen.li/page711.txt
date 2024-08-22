@@ -1,0 +1,37 @@
+                                                            15Hybrid Bases
+
+                          ox pleating is a specialization of the circle/river 
+                          method of ﬂap generation and uniaxial bases, 
+                          but as we saw in Chapter 12, it is also a way of 
+                          extending them; it allows one to easily combine 
+                          two-dimensional ﬂaps and three-dimensional 
+            objects in the same model. It also illustrates a general principle 
+            of origami design: that one can mix and match different styles 
+            and techniques in the same model, using particular design ele-
+            ments where they are needed. Many—perhaps most—origami 
+            designs are of this hybrid type. Circle packing, box pleating, 
+            hex pleating, and polygon packing techniques are powerful, 
+            but focusing solely on ﬂap generation can be limiting; there are 
+            only so many subjects out there with 23 pairs of appendages. 
+            Nearly all of the techniques I’ve shown so far are based on the 
+            concept of a uniaxial base, but there are many potential origami 
+            subjects that do not ﬁt into the stick-ﬁgure abstraction that is 
+            part and parcel of the uniaxial base.
+                When faced with a subject that does not ﬁt into the uniaxial 
+            mold, rather than starting over from scratch, one can often 
+            adapt elements of uniaxial bases and combine them with other 
+            folding techniques to form a hybrid base, one that provides 
+            both a better representation of the chosen subject and a more 
+            visually interesting physical structure.
+                The question then arises: In a hybrid structure, for what 
+            should we use packing methods? All of these techniques are good 
+            for generating ﬂaps, particularly long, skinny ones. A subject 
+            that is composed primarily of long, skinny appendages is a per-
+            fect candidate for a pure circle/river- or polygon-packed  design. 
+            But then the counter-question also arises: For what should 
+            we NOT use packing? And the answer is, anything that isn’t 
+            approximated reasonably well by a stick ﬁgure. Most notably, 
+
+                                                                                                     699
+
+© 2012 by Taylor & Francis Group, LLC

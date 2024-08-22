@@ -1,0 +1,26 @@
+                                       4.4.11
+
+There are no editable fields of a crease and you can’t apply conditions to one. However, the
+Crease Editor does tell you the index and the type of crease (mountain, valley, or tristate).
+
+The disclosure triangle toggles to Expert Mode, which shows some of the structural information
+about the crease, as shown in figure 4.4.12.
+
+
+                                       4.4.12
+
+These editors are brought up by double-clicking on a visible part, but they can also be called up
+for any part (visible or invisible) by selecting the Edit Part… command, Edit menu (see below).
+
+   4.5   Menu commands
+
+This section summarizes all of the menu commands of TreeMaker. TreeMaker has five menus:
+Apple, File, Edit, View, Actions, and Conditions. The commands in each menu are given
+below.
+
+    Apple Menu
+    About TreeMakerÉ 
+ Shows you the version and credits for the program as shown in figure 4.5.1.
+
+
+                                  78

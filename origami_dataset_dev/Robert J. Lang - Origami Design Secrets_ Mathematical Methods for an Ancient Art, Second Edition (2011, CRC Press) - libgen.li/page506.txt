@@ -1,0 +1,37 @@
+                                         Scaled Koi, one could use this technique to make a dense array 
+                                         of arbitrarily long ﬂaps. Overlapping feathers, perhaps?
+                                             This technique of creating middle ﬂaps essentially takes 
+                                         a ﬂat sheet and “embeds” a ﬂap, or several, at a ﬁxed position 
+                                         within that ﬂat sheet. One could then take that sheet and 
+                                         embed the created structure within yet another ﬂap, creating 
+                                         a hierarchy of branched, tree-like structures. As long as the 
+                                         crease pattern keeps pleats perpendicular to the edges of its 
+                                         bounding rectangle, the result will be tileable, which leads to 
+                                         some interesting possibilities.
+                                             In most of the examples shown so far, there has been a 
+                                         gap between each ﬂap and its neighbors. That makes it easy 
+                                         to visualize and easy to keep the pleats resulting from each 
+                                         ﬂap separate, but including gaps certainly isn’t necessary. One 
+                                         could butt several ﬂaps up against one another, as shown in 
+                                         Figure 12.36, which shows the pleats of four contiguous middle 
+                                         ﬂaps. 
+
+
+            Figure 12.36. 
+            Tiling four 5-unit middle ﬂaps 
+            with no gaps between them.
+
+                                             The crease assignment shown here is not perfectly correct; 
+                                         because all of the ﬂaps are superimposed with one another, 
+                                         some of them must be wrapped around the others, which will 
+                                         change the parity of some of the creases. Once we have the basic 
+                                         structure, though, we can start to modify it in other ways. In 
+                                         the folded form, the edges of the central square line up with 
+                                         each other in the same way that the edges of a Bird Base do; 
+                                         we can replace that central square with the creases of a Bird 
+                                         Base to realize what is, essentially, a Bird Base extruded from 
+                                         the middle of the paper.
+
+     494
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

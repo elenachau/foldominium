@@ -1,0 +1,19 @@
+            Figure 10.42. 
+            Left: circle/river pattern for an ant. 
+            Right: pattern with axial creases added.
+
+                There is no particular symmetry that would favor the 
+            gusset molecule, and the arrowhead molecule allows us to shift 
+            some extra paper toward the ﬂap that eventually becomes the 
+            abdomen, so I chose the arrowhead molecule in my own design. 
+            (You might wish to try both yourself and see which you prefer.) 
+            The generic form crease pattern, resulting base, and a model 
+            folded from this base, are shown in Figure 10.43.
+
+
+            Figure 10.43. 
+            Generic form crease pattern, base, and folded model of the Ant.
+
+                                                                                                     377
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

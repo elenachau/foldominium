@@ -1,0 +1,42 @@
+            river can (temporarily) be absorbed into one of the circles. The 
+            crease pattern is the same as that for the three-circle triangle: 
+            the creases of a rabbit ear. The only difference is that because 
+            of the boundary between the river and circle, we have an extra 
+            set of tangent points along the ﬂap and a set of hinge creases 
+            that denote the boundary in the folded molecule.
+                The situation is much the same in a quadrilateral when the 
+            river connects two adjacent edges, as in Figure 10.28. Just as 
+            in the triangle, the river can be absorbed into the circle it cuts 
+            off, and the crease pattern that collapses the quad is exactly 
+            the same as the pattern for the pure circle-packed version of 
+            the quadrilateral, with the addition of hinge creases to denote 
+            the boundary of the river.
+
+
+                                                                                        tangent points
+            Figure 10.28. 
+            Left: a quadrilateral deﬁned by four circles plus a river between 
+            adjacent edges. 
+            Middle: crease pattern for a gusset molecule. 
+            Right: folded form with two sets of tangent points.
+
+                I leave it as an exercise for the reader to construct the 
+            arrowhead molecule for this quadrilateral.
+                The situation is entirely new, however, if the river cuts 
+            across the quadrilateral, connecting two opposite sides, because 
+            now the river cannot be absorbed into a single circle. In fact, a 
+            new crease pattern arises.
+                The simplest pattern, shown in Figure 10.29, occurs when 
+            the quadrilateral and its circles satisfy some special condi-
+            tions.
+                This pattern, which we will call the sawhorse molecule, 
+            was described by Meguro and Maekawa; it can be folded from 
+            any quadrilateral quite simply, as shown in the sequence in 
+            Figure 10.30.
+                The Waterbomb molecule can be considered a special case 
+            of the sawhorse molecule—the limit when the central river 
+            goes to zero width.
+
+                                                                                                     365
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

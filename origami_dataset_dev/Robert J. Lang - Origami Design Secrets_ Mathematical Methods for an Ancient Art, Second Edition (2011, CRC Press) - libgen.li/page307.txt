@@ -1,0 +1,37 @@
+                One of the goals of all scientiﬁc endeavors is the concept of 
+            uniﬁcation: describing several disparate phenomena as differ-
+            ent aspects of a single concept. Rather than thinking in terms 
+            of quarter-circles, half-circles, and full-circles for different kinds 
+            of ﬂaps, we can unify our description of these different types 
+            of ﬂaps by realizing that the quarter-circles, half-circles, and 
+            full circles are all formed by the overlap of a full circle with 
+            the square, as shown in Figure 9.6. The common property of all 
+            three types of ﬂaps is that the paper for each can be represented 
+            by a circle with the center of the circle lying somewhere within 
+            the square. With middle ﬂaps, the circle lies wholly within the 
+            square. However, with corner and edge ﬂaps, part of the circle 
+            laps over the edge of the square. The center of the circle still 
+            has to lie within the square, though. Thus, any type of ﬂap can 
+            be represented by a full circle whose center, which corresponds 
+            to the tip of the ﬂap, lies somewhere within the square.
+
+
+            Figure 9.6. 
+            All three types of ﬂaps can be represented by a circle if we allow the 
+            circle to overlap the edges of the square.
+
+            9.2. Overlaps
+            You might have noticed an interesting feature of the circle 
+            pattern for any base; the circles corresponding to individual 
+            ﬂaps touch, but do not overlap. In tiled crease patterns, this 
+            is, of course, by design; no circles overlapped within the tiles 
+            we started with, so no circles will overlap in the assembled 
+            crease pattern.
+                However, in any base, if we represent distinct ﬂaps by 
+            circles, they can never overlap, whether the crease pattern was 
+            constructed from a tiling or not. A moment’s reﬂection will reveal 
+            why this must be so. Each circle encloses the paper used in a 
+
+                                                                                                     295
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

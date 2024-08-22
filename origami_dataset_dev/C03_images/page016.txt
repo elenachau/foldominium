@@ -1,0 +1,6 @@
+Disk Packing for Origami Design
+
+
+         Packing given disks into a 
+         given square is NP-hard
+         [Demaine, Fekete, Lang 2010]

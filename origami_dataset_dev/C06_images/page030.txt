@@ -1,0 +1,21 @@
+What is self-folding?
+
+A nice continuous rigid folding           from a rigid folding           to            is an 
+arc-length parameterized piecewise         curve in a conﬁguration space.  At 
+each point there will be at most two tangent vectors: 
+ 
+ 
+ 
+The set of all such tangent vectors for all nice continuous rigid foldings passing 
+through a conﬁguration point projected onto the unit sphere is called the set of 
+valid tangents. 
+ 
+We deﬁne the constrained forces along a nice continuous rigid folding          to 
+be                                                    (the forward force) and         ⇢   1                
+ 
+                                                        (the backward force). ~⇢ (1)
+
+                                                      ~v+(s)
+                                                           f~(~⇢ (s))
+                                                 ~⇢ (0)
+                                                                ⇢2

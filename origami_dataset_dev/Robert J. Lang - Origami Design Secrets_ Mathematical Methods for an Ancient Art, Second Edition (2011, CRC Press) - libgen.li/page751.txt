@@ -1,0 +1,58 @@
+             Toshikazu Kawasaki, “On the relation between mountain–creases and 
+             valley–creases of a ﬂat origami [unabridged, in Japanese],” Sasebo 
+             College of Technology Report, Vol. 27 1990, pp. 55–80.
+
+             Toshikazu Kawasaki, “R(gamma) =1,” Origami Science and Art: Pro-
+             ceedings of the Second International Meeting of Origami Science and 
+             Scientiﬁc Origami, K. Miura ed., Otsu, Japan 1997, pp. 31–40.
+
+             Toshikazu Kawasaki and Masaaki Yoshida, “Crystallographic ﬂat 
+             origamis,” Memoirs of the Faculty of Science, Kyushu University, 
+             Series A, vol. 42, no. 2, 1988, pp. 153–157.
+
+             J. Koehler, “Folding a strip of stamps,” Journal of Combinatorial 
+             Theory, vol. 5, 1968, pp. 135–152.
+
+             W. F. Lunnon, “A map–folding problem,” Mathematics of Computation, 
+             vol. 22, no. 101, 1968, pp. 193–199.
+
+             W. F. Lunnon, “Multi–dimensional map folding,” The Computer 
+             Journal, vol. 14, no. 1, 1971, pp. 75–80.
+
+             Jun Maekawa, “Evolution of origami organisms,” Symmetry: 
+             Culture and Science, vol. 5, no. 2, 1994, pp. 167–177.
+
+             Jun Maekawa, “Similarity in origami (abstract),” Abstracts for the 
+             Second International Meeting of Origami Science and Scientiﬁc Ori-
+             gami, Otsu, Japan 1994, pp. 65–66.
+
+             Koryo Miura, “A note on intrinsic geometry of origami,” Proceedings 
+             of the First International Meeting of Origami Science and Technology, 
+             op. cit., pp. 239–249.
+
+             Koryo Miura, “Folds—the basis of origami,” Symmetry: Culture and 
+             Science, vol. 5, no. 1, 1994, pp. 13–22.
+
+             Koryo Miura, “Fold—its physical and mathematical principles,” 
+             Origami Science and Art: Proceedings of the Second International 
+             Meeting of Origami Science and Scientiﬁc Origami, K. Miura (ed.), 
+             Otsu, Japan 1997, pp. 41–50.
+
+             Ileana Streinu and Walter Whiteley, “The spherical carpenter’s rule 
+             problem and conical origami folds,” Proceedings of the 11th Annual 
+             Fall Workshop on Computational Geometry, Brooklyn, New York, 
+             November 2001.
+
+             Kunio Suzuki, “Creative origami ‘snowﬂakes’: some new approaches 
+             to geometric origami (abstract),” Abstracts for the Second Interna-
+             tional Meeting of Origami Science and Scientiﬁc Origami, Otsu, 
+             Japan 1994, pp. 37–38.
+
+             The program TreeMaker runs on Macintosh, Linux, and Windows 
+             computers and is available with documentation at: http: //www.
+             langorigami.com/treemaker.htm.
+
+
+                                                                                                                 739
+                                                                                        References
+© 2012 by Taylor & Francis Group, LLC

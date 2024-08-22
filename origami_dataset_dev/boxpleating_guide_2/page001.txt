@@ -1,0 +1,32 @@
+         How to fold Box Pleated CPs
+                          Part 1I - Precreasing
+The first step in precreasing for a box pleated CP is do precrease the whole grid. This might not be
+necessary for all models but in general it is easier to prefold all creases instead of determining which
+creases are necessary.
+What we need to know first is the size of the grid, so (if this information is not given along with the
+CP) we’ll just have to count the number units across one side of the CP.
+For my Porcupine model the grid is 32 x 32 units.
+The creases will be alternating valley and mountain folds. When you are using duo-colour paper, with
+the colour-side down the outermost creases have to be valley folds for a coloured model. The next
+picture shows this for an 8 x 8 units grid.
+
+
+Now if the grid size is of the form 2n, like 32 for my Porcupine, the precreasing is quite trivial.
+Let’s look at how to fold an 8 x 8 grid as example.
+
+
+       Fold in half      Fold edges to         Add valley folds  Grid complete.
+        both ways.         the centre.           between the
+                                              mountain creases.
+So for divisions of 2, 4, 6, 16, 32, 64 etc. the precreasing is easy to do. But what are we supposed to
+do with divisions like 24, 40, 56, etc.
+To solve this problem we first have to go back to elementary maths and make a prime factorization
+of the number we need.
+                                 24 = 2*2*2*3
+                                  40 = 2*2*5
+                                 56 = 2*2*2*7
+That means that for a 24 x 24 grid, we first need to divide the paper in thirds and then subdivide the
+thirds into eigths (2*2*2=8), which is easy once we have the thirds.
+
+                                                      Guide by Gerwin Sturm (2007/01)
+                                      Porcupine 1.2 designed by Gerwin Sturm (2007/01/23)

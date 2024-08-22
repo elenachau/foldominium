@@ -1,0 +1,49 @@
+            has extra width in the abdomen. This extra width is obtained 
+            by inserting two of the 90°-incidence level shifters into the ab-
+            domen, which connects an axial contour to an axial+2 contour. 
+            (Can you ﬁnd this connection in the contour map?)
+                A fully assigned crease pattern is given at the end of the 
+            chapter.
+                The symmetric gadgets of Figure 14.7 are not the only 
+            possible level-shifting gadgets; there are asymmetric versions 
+            as well. You can discover these by, for example, spread-sinking 
+            the corner in Figure 14.3 at some angle other than the sym-
+            metric angle. You can also construct them graphically. The 
+            angle at the tip of the triangle is ﬁxed: 45°, in the 90° angle 
+            level shifter on the left in Figure 14.7. (In general, the angle 
+            at the tip is equal to the angle between the ridge crease and 
+            an incident axial). You can imagine keeping that angle ﬁxed 
+            and swinging the two lines back and forth from side to side 
+            to orient the level shifter more closely toward one axial fold 
+            or the other, as illustrated in Figure 14.9.
+
+
+             45°                                                       Figure 14.9. 
+                                                                       Left: one can swivel the level 
+                                                                       shifter back and forth about its 
+                                                                       tip so long as the angle between 
+                                                                       the two lines is ﬁxed. 
+                                                                       Right: an asymmetric level shift-
+                                                                       er whose vertices all lie on grid 
+                                                                       lines.
+
+
+                One particularly interesting and useful level shifter is 
+            shown on the right in Figure 14.9, which is a pattern I learned 
+            from Japanese artist Satoshi Kamiya. A small perturbation in 
+            angle puts all four vertices of the level shifter on grid points, 
+            making it easy to construct in a grid-based box-pleated de-
+            sign.
+                Other versions of level shifter apply when a contour hits 
+            a junction of several ridge creases. Special cases can often be 
+            found simply by drawing just the region of paper around the 
+            junction with contour lines and the original ridge creases and 
+            then spread-sinking to make the contour lines wind up in the 
+            right place. And I should point out that just as the spread-
+            sink has been around a very long time, the use of structures 
+            like this can be found in many crease patterns for advanced 
+            complex designs. Like box pleating, level shifting itself is not 
+
+                                                                                                     631
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

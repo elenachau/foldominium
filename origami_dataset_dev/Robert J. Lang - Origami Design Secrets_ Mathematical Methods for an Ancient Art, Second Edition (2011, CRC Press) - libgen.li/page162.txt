@@ -1,0 +1,45 @@
+                                             How, you may ask, can one be so sure of impossibility? By 
+                                         a small thought experiment: an imaginary manipulation of the 
+                                         base, as if such a base actually existed. If we had such a base 
+                                         (the same as the lizard base, but with all four toes together at 
+                                         the tip of the feet) then we would be able to manipulate the 
+                                         ﬂaps in the same way as the ﬂaps of the original lizard base. 
+                                         In particular, we should be able to manipulate the ﬂaps into 
+                                         the same arrangement as step 19 of the folding sequence for 
+                                         the Lizard. This arrangement is shown in Figure 6.22.
+
+
+                                                             A
+                               hind leg     A,A  A*
+
+                                                          A*
+
+                                      B                            B
+
+
+                                            C
+                                tail                        C
+
+
+                                         Figure 6.22. 
+                                         Left: a conﬁguration of the ﬂaps of the lizard base. 
+                                         Right: a possible partial crease pattern.
+
+                                             Now, the image on the left in Figure 6.22 shows one pos-
+                                         sible arrangement of the base, with one of the triangles in the 
+                                         crease pattern indicated by its corners A, B, and C. The base 
+                                         might not look exactly like this, of course; the extra paper we’ve 
+                                         added might create more layers that cover up or conceal the 
+                                         original lizard base ﬂaps, but somewhere inside the extended 
+                                         base, we’d have the original lizard base. And in this folded 
+                                         conﬁguration, triangle ABC, which is part of the original base, 
+                                         is ﬂat.
+                                             Let’s ask a question: How far is it from point C (the tail) 
+                                         to point A (tip of the leg/one of the toes)? The answer is evident 
+                                         from the ﬁgure; since triangle ABC is ﬂat in both the crease 
+                                         pattern and the folded base, the distance is equal to the length 
+                                         of line segment AC. Call this distance x.
+
+     150
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

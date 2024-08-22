@@ -1,0 +1,29 @@
+                1. Begin with the four angle bisectors. 2. Draw lines from the intersection back 3. Draw two more lines each from the
+                Draw lines from two adjacent tangent   out to two diagonally opposite corners. corners making equal pairs of angles at
+                points perpendicular to the edges until                                       the two corners.
+                they meet at the bisector.
+
+
+                4. Bisect the remaining paper at each of 5. Add a crease connecting two crease 6. Add two creases emanating from the
+                the diagonal corners.                  intersections.                         intersection and perpendicular to the two
+                                                                                              creases shown.
+
+
+                7. Connect the crease intersections with 8. Assign creases to complete the crease 9. Using these creases, collapse the shape.
+                the tangent points.                    pattern.
+
+
+                                                       10. Finished arrowhead molecule. Note
+                                                       that now all four tangent points come
+                                                       together.
+                Figure 10.19. 
+                Construction of the arrowhead molecule.
+
+                by folding. A drawback of the arrowhead molecule is that 
+                when folded, more edges than just the outer edges lie along 
+                the axis of the base. In fact, the creases marked in green on 
+                the left in Figure 10.21 also lie along the axis as well as the 
+
+                                                                                                                                  359
+                                                                                         Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

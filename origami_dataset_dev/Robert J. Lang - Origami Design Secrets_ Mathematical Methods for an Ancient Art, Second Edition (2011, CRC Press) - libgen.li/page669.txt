@@ -1,0 +1,46 @@
+            deﬁne the left boundary of the pattern to be 0 and the right 
+            boundary to be 1. We can then plot the transfer function of the 
+            pattern: that is, make a plot of the position where a contour 
+            line exits the pattern as a function of where it entered.
+
+                                                      f(x)
+                                                      1
+
+
+                                                      0                   x
+            01x                        1 – x           0               1
+                                         
+             a – xx  x              a – x + 1         g(x)
+            01a
+                                                      1
+
+
+                                                      a
+                                                      0                   x
+                                                       0  a            1
+            Figure 14.36. 
+            Top left: the upper portion of the crease pattern. 
+            Top right: transfer function for a bouncing contour line. 
+            Bottom left: the lower portion of the crease pattern. 
+            Bottom right: transfer function for a bouncing crease pattern.
+
+                The top half of the pattern is quite easy to analyze, as 
+            shown in the upper half of the ﬁgure. If a crease enters the 
+            pattern at position x, it exits the pattern at position 1 – x. If 
+            we deﬁne f(x) as the output position for a given input position 
+            x, we have
+
+                                  f (x) =   1  −    x .      (14–11)
+
+                The analysis of the bottom half is a bit more complicated; 
+            there is a discontinuity at horizontal position x = a. If the 
+            contour enters somewhere below x = a, then it comes out at 
+            position a – x, but if it enters anywhere above x = a, then it 
+            comes out at position a – x + 1. We can express this behavior in 
+            a single function, which we will call g(x), which is given by
+
+                       g(x)           = ()a − x  mod 1.      (14–12)
+
+                                                                                                     657
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

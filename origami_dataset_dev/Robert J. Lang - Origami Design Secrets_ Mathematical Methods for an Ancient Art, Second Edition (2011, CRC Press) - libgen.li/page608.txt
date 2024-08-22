@@ -1,0 +1,39 @@
+                                             For reasonably well-behaved crease patterns, all of the 
+                                         contours eventually run off the paper or terminate, so that we 
+                                         end up with a complete map of all of the axial contour lines. 
+                                         That map for our test problem is illustrated in Figure 13.28, 
+                                         here highlighted.
+
+
+            Figure 13.28. 
+            Complete pattern of axial con-
+            tour lines for the sample prob-
+            lem.
+
+                                             The terminology that we use is to say that the axial contour 
+                                         line “bounces” off of the ridge creases (in analogy with a ball 
+                                         bouncing off of a wall, although a bouncing ball returns on the 
+                                         same side of the wall while a bouncing contour continues on the 
+                                         opposite side of the crease). Since the network of ridge creases 
+                                         can be rather complex, a single axial contour can bounce around 
+                                         for quite a long time, as shown in the more complicated pat-
+                                         tern of Figure 13.29 (which is the contour map for a real model, 
+                                         Snack Time, which is one praying mantis eating another).
+                                             Axial contours can propagate and bounce for quite a long 
+                                         time indeed. Every single point along that network must, in 
+                                         the folded form, have zero elevation, and so must be located 
+                                         somewhere along the axis of the base.
+                                             One of the surprising results of Erik Demaine’s work on 
+                                         the one-cut problem was that for certain patterns of cut lines, 
+                                         some of the folds (which undergo a similar bouncing construc-
+                                         tion, from which we have taken the “bouncing” terminology) 
+                                         can bounce literally forever—they never stop bouncing, creating 
+                                         networks of parallel folds that get ever closer together without 
+                                         ever coming to join. We will see in a bit how this can happen, 
+                                         but however it does, it would obviously be highly undesirable 
+                                         in an origami base! The problem of inﬁnite bouncing is a seri-
+                                         ous matter, but it has a simple solution, in the origami world, 
+
+     596
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

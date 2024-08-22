@@ -1,0 +1,36 @@
+            Figure 5.8. 
+            The optimum tip-to-tip path. 
+            Top: path in the folded model. 
+            Bottom: path through the paper. 
+            The creases (and the exact 
+            shape of the folded model) are 
+            not yet speciﬁed.
+
+                                             Now, we have two points with a gap between them, and 
+                                         the shortest bookworm path on the crease pattern is also the 
+                                         shortest bookworm path on the folded model. This strikes 
+                                         precisely the right balance between paper devoted to the ﬂaps 
+                                         and paper devoted to the gap. The paper saved from the gap 
+                                         can go into making longer ﬂaps. And indeed, a comparison of 
+                                         the folded and original ﬂap in Figure 5.10 shows that the two 
+                                         ﬂaps are indeed longer than in the simpler split.
+                                             The ratio of the lengths of the new and original ﬂaps is 
+                                                         short flap  tan 45°
+                                                                  =         ≈ 0.414,          (5–2)
+                                                         longflap   tan67.5°
+                                         which is almost 50% longer than that obtained by simply sink-
+                                         ing and spread-sinking the corners. This is, in fact, the longest 
+                                         possible pair of ﬂaps that can be made from a standard Bird 
+                                         Base corner ﬂap, and so I call it an ideal split.
+                                             One quibble you may have: In this form, the two ﬂaps over-
+                                         lap each other while the Yoshizawa-split ﬂaps have daylight 
+                                         between them. So the structures are not perfectly comparable. 
+                                         It is possible to further sink and squash the ideal split to put 
+                                         a gap between the two ﬂaps (at the cost of a slight reduction of 
+                                         gap depth). But if you fold the two pairs in half (as one might, 
+                                         for example, in making a pair of ears), then the two arrange-
+                                         ments can be compared directly, as shown in Figure 5.11.
+
+     100
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

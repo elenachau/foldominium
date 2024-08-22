@@ -1,0 +1,39 @@
+            Figure 14.39. 
+            Hex-pleating hinge polygons 
+            with forced axial contours.
+
+                                             Since axial creases are perpendicular to hinge creases, 
+                                         and hinge creases can run in three directions, axial creases, 
+                                         too, can run in three directions, which are the directions of 
+                                         the hinge creases rotated by 90°. There are no vertical hinge 
+                                         creases, as we have seen (with this grid); therefore, there are 
+                                         no horizontal axial creases, and that matters for the orienta-
+                                         tion of the base. Remember that we have seen that for a plan 
+                                         view base, there must be a continuous chain of axial creases 
+                                         running up the middle of the crease pattern from bottom to 
+                                         top. This chain forms the spine of a booklet that is opened ﬂat 
+                                         into the base. If there must be some vertical axial crease, then 
+                                         the hinge creases that it crosses must all be horizontal and we 
+                                         must use the grid orientation of these last few ﬁgures, i.e., the 
+                                         grid lines must include a horizontal set.
+                                             Note, too, that the axial creases do not run along grid lines 
+                                         (as they did in box pleating). Since the axials are perpendicu-
+                                         lar to the hinges, and the hinges run along grid lines, no axial 
+                                         crease (or axis-parallel crease) can ever run along a line of the 
+                                         triangular grid. Instead, axials and axis-parallel creases run 
+                                         along lines of a separate grid that shares vertices with the hinge 
+                                         crease grid. You can draw this grid, if you like; I will not display 
+                                         it in the drawings here to keep them (relatively) uncluttered.
+                                             Another difference between uniaxial box pleating and 
+                                         uniaxial hex pleating arises in the proportions of the generated 
+                                         ﬂaps. This becomes evident by considering the dimensions of 
+                                         the smallest possible ﬂap in either system.
+                                             Figure 14.40 shows the 1- and 2-unit hinge polygons for 
+                                         box pleating and hex pleating for two same-size circles and the 
+                                         resulting ﬂaps for comparison.
+                                             If we deﬁne both grids so that our “unit” gives the length 
+                                         quantization, then for the same length ﬂap, the hex-pleated ﬂap 
+
+     662
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

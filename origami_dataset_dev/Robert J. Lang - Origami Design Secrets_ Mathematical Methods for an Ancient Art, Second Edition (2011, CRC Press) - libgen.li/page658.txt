@@ -1,0 +1,52 @@
+                                             This is simple to evaluate, and for closely overlapping 
+                                         circles, tends to give small, rational, easily constructed fractions 
+                                         for the distance h. For the example shown in Figure 14.21, we 
+
+                                         have s1 = 4, s2 = 6, d = 7, and thus h = 1/4.
+                                             I call this type of structure an offset Pythagorean stretch. 
+                                         Like the ordinary stretch seen above, there is a particularly 
+                                         elegant conﬁguration when the “gusset” runs from corner to 
+                                         corner, which would be a perfect offset Pythagorean stretch. 
+                                         It arises when
+
+                                                             2   2    2
+                                                   s1          + s2 = d +1,                  (14–6)
+
+                                         or just one off from the ordinary Pythagorean condition.
+                                             The construction  of the other creases in the offset Pythago-
+                                         rean stretch is a bit more involved, since the various creases 
+                                         involved run at angles other than axis-parallel. I will leave 
+                                         those as an exercise for the reader.
+                                             Pythagorean stretches provide a nice, efﬁcient compromise 
+                                         between the pure regularity of polygon packing (which can be 
+                                         inefﬁcient) and the maximal efﬁciency of circle/river packing 
+                                         (which can be quite irregular). However, the regular (non-
+                                         offset) form sometimes exhibits a phenomenon I call gusset 
+                                         slivers, when the axis-parallel folded contours are spaced very 
+                                         closely to the gusset fold of the stretch. You can see examples 
+                                         of both of these in the Longhorn Beetle of Figure 14.17 and the 
+                                         Camel Spider of Figure 14.18. Gusset slivers are aesthetically 
+                                         undesirable in the crease pattern, and they can be difﬁcult to 
+                                         fold neatly. The unit of ﬂap width sets a natural minimum fea-
+                                         ture size for the crease pattern, since the vast majority of the 
+                                         creases are spaced by this width. When one is folding a ﬁgure 
+                                         from small paper (for small ﬁnished size), we would really like 
+                                         to avoid having parallel creases spaced more closely than this 
+                                         minimum feature size.
+                                             As you can see in the examples, though, the most common 
+                                         place to ﬁnd Pythagorean stretches is near the corners of the 
+                                         paper; the Pythagorean stretch is used to “cut the corner.” A 
+                                         complete Pythagorean stretch mates cleanly to axial contours 
+                                         on all four sides of its bounding rectangle, but if we don’t care 
+                                         what happens on two of the sides, we can wipe out many of 
+                                         the creases and replace them with a new set that respects our 
+                                         desired minimum feature size, most straightforwardly by using 
+                                         the procedure illustrated in Figure 14.23.
+                                             The process starts by erasing the problematic gusset 
+                                         crease, and all creases between it and the corner of the paper, 
+                                         and extending the two ridge creases to the edges of the paper. 
+                                         Next, we add an axis-parallel crease, but one whose spacing 
+
+     646
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

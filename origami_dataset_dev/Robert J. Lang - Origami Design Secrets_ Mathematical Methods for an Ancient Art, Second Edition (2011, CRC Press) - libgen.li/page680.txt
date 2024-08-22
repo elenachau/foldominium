@@ -1,0 +1,52 @@
+                                         its length. A fully crease-assigned crease pattern is shown at 
+                                         the end of the chapter.
+                                             How does hex pleating compare to box pleating? There 
+                                         are pluses and minuses. One of the pluses is purely aesthetic; 
+                                         I ﬁnd hex-pleated crease patterns to be more interesting than 
+                                         box-pleated patterns. There’s enough repetitiveness and sym-
+                                         metry to make them beautiful, but there’s more variation in 
+                                         angle than in box pleating which, to be honest, can start to 
+                                         look a little boring after a while. On the downside, though, it 
+                                         is much harder to precrease a pattern that is on a hexagonal 
+                                         grid as compared to a square grid (as our origami tessellation 
+                                         friends are well aware).
+                                             In fact, there is a signiﬁcant issue with hex pleating that 
+                                         I have not yet mentioned but that you will quickly discover 
+                                         once you start playing around with it. While box-pleated grids 
+                                         ﬁt naturally onto a square, since the “length” unit and “width” 
+                                         unit of an equilateral triangular grid differ by an irrational 
+                                         multiple, there is no possibility that a hex-pleated grid can ﬁt 
+                                         precisely onto a square with all four corners of the square on 
+                                         grid vertices.
+                                             The grid in Figure 14.46 looks pretty close, however. That 
+                                         is because there are certain “magic” combinations of grid dimen-
+                                         sions that come so close to a square that the difference can be 
+                                         ignored. The ﬁrst few magic combinations* are:
+
+            Table 14.1. 
+                                                   Height     7      15     97     209
+            Magic dimensions for a grid of 
+            equilateral triangles.                 Width      6      13     84     181
+
+                                             Looking back at Figure 14.46, you can see that the implied 
+                                         grid is 15 units high and 13 units wide. This is not a perfect 
+                                         square, but it is extremely close; if we made the paper 13 grid 
+                                         units wide exactly and 15 grid units high exactly, then the ratio 
+                                         of height:width would be 1:1.00074; certainly there would be 
+                                         no harm in rounding it to 1:1.
+                                             The “magic” dimensions are pretty far apart, though, so 
+                                         we got lucky with this particular design. In general, if you are 
+                                         folding from a square, the square will not ﬁt the paper exactly. 
+                                         But what you can do is scale either the height or width to ﬁt 
+                                         the grid exactly; you will then have a little bit of excess paper 
+                                         in the other dimension that can be folded over and tucked away 
+                                         inside the model. That little bit of excess paper is not entirely 
+                                         wasted, either; a folded edge is more resistant to tearing than 
+
+                                         * For those of a mathematical bent, these ratios are the convergents of the 
+                                         continued fraction expansion of the width-to-height ratio of an equilateral 
+                                         triangle, 2/√3.
+
+     668
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

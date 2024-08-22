@@ -1,0 +1,37 @@
+            ﬂap would approach a quarter-circle. In all cases, the polygonal 
+            segment is inscribed by a circular segment, which represents 
+            the limiting case of an inﬁnitely narrow ﬂap. Thus, a circle is 
+            the minimum possible boundary of the region of the paper con-
+            sumed by the ﬂap. A corner ﬂap of length L, therefore, requires 
+            a quarter-circle of paper, and the radius of the circle is L, the 
+            length of the ﬂap.
+
+
+                                                                      L        L
+
+
+            Figure 9.2. 
+            Folding a corner ﬂap of length L from a square.
+
+
+                 L        L                                 L       L
+
+
+            Figure 9.3. 
+            Left: making a narrower ﬂap makes the boundary a quarter of a 
+            hexadecagon. 
+            Right: the limit of the boundary as the ﬂap becomes inﬁnitely thin 
+            approaches a quarter circle.
+
+                Therefore, all of the paper that lies within the quarter-
+            circle is consumed by the ﬂap, and the paper remaining is ours 
+            to use to fold the rest of the model.
+                Now, suppose we are making a ﬂap from an edge. For ex-
+            ample, if we fold the square in half, then the points where the 
+            crease hits the edge become corners, and we can fold a corner 
+            ﬂap out of one of these new corners, as shown in Figure 9.4. 
+            If we fold and unfold across the ﬂap to deﬁne a ﬂap of length 
+
+                                                                                                     293
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

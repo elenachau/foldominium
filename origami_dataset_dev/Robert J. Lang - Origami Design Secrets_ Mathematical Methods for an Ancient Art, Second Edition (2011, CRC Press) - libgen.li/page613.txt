@@ -1,0 +1,45 @@
+                One of the great advantages of designing with uniaxial 
+            box pleating is that the tools needed are minimal; an entire 
+            base can be designed with nothing more than a pencil and 
+            graph paper (or unlined paper, if you are a good artist). For 
+            myself, I usually do my designs using a computer drawing 
+            program—not because the computer is inherently needed, but 
+            because it’s faster, in the same way that a computer word pro-
+            cessor is faster than longhand writing. In recent years, most 
+            of my own complex designs have been based on box pleating, 
+            because it’s fast, it gets the job done of creating ﬂaps, and I 
+            can put my creative energies into the artistic aspects of the 
+            folded work, rather than the mundane work of getting the 
+            right number of ﬂaps.
+                In this section, I’ve used simple structures and a simple, 
+            contrived problem to illustrate all the concepts of uniaxial box 
+            pleating. But now it’s time to put things to the test, and try 
+            out a real example.
+
+            13.6. A Box-Pleated Beetle
+            So far, everything I’ve described has been purely theoretical. 
+            I would now like to show polygon packing and uniaxial box 
+            pleating in action. I will take as my example the same generic 
+            beetle that I used to illustrate circle packing at the beginning 
+            of this chapter.
+
+
+                                                      4 1
+
+                                                      1
+                                                    4 1  1
+                                                      1
+                                                    6 1  1
+
+                                                   8  2
+
+                                                      4
+
+
+                                                                      Figure 13.32. 
+                                                                      The stick figure and packing 
+                                                                      circles for a box-pleated base.
+
+                                                                                                     601
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

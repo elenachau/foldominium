@@ -1,0 +1,10 @@
+                        43. Add one more pair of reverse folds, both diagonal.
+                        Note that both hit the folded edge at the existing crease.
+
+
+                        44. Flatten the model completely, squaring up and
+                        aligning all the layers of the pleats.
+
+                                                                                           525
+                                                         FoldingChapter Instructions: 12: Box  OrganistPleating
+© 2012 by Taylor & Francis Group, LLC

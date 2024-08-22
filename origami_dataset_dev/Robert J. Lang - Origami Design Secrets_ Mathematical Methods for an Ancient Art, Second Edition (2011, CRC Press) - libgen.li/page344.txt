@@ -1,0 +1,36 @@
+            Figure 9.45. 
+            An N × N circle packing.
+
+                                             Using our circle-packing and tiling techniques—ﬁlling in 
+                                         the axial creases, adding smaller circles to break up quadri-
+                                         laterals into triangles—we can add creases to this pattern to 
+                                         collapse it into a base with N 2 total ﬂaps.
+
+
+            Figure 9.46. 
+            Crease pattern for the N × N 
+            circle packing. Only the upper 
+            left portion is ﬁlled in.
+
+                                             The result after folding this crease pattern will be a base 
+                                         with N2 points, each of length 1/(2(N–1)). Using standard ori-
+                                         gami techniques of sinking, the points can be made arbitrarily 
+                                         thin. Once the points are thinned, they can be reverse-folded out 
+                                         in all directions, making a star with N 2 points. This sequence 
+                                         is shown in Figure 9.47.
+                                             Now, although the points overlap each other somewhat 
+                                         at their base, they can be made arbitrarily thin by making the 
+                                         sink folds arbitrarily close together. So the total perimeter of 
+                                         the star shape approaches the value
+                                               2 × (number of points) × (length of each point),    (9–5)
+                                         where the extra factor of 2 comes from the fact that each point 
+                                         contributes two sides to the perimeter. Thus, the total perim-
+                                         eter is
+                                                                   N 2
+                                                                       .                      (9–6)
+                                                                  N −1
+
+
+     332
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

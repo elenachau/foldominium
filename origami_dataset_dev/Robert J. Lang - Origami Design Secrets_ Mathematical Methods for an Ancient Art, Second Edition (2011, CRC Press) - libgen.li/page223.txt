@@ -1,0 +1,51 @@
+                A concern with all pattern grafts is efﬁciency: How much 
+            paper is consumed by the pattern? This concern can be quanti-
+            ﬁed as the ratio between the area of the pleated structure and 
+            the original paper. This ratio can be calculated by comparing 
+            the areas of the entire array or, equivalently, from a single 
+            tile. Figure 7.21 gives the dimensions of the folded form and 
+            crease pattern. The dimensions are relative, of course; I have 
+            picked a convenient dimension to be 1 “unit” from which all of 
+            the other dimensions follow.
+
+
+                          1+√2           1+√2
+
+                           2+√2
+                        1                    √2
+                                           2+3√2                        Figure 7.21. 
+                                                  √
+                                 2 + 3√2        1+ 2                    Comparison of the tile sizes for 
+                                      ≈1.83
+                                  2 + √2                                the folded and unfolded tile.
+
+                This comparison shows that the unfolded tile is about 
+            83% larger in linear size (hence about 3.3 times the area) of 
+            the folded tile. That means that on average, there are two to 
+            three layers of paper everywhere in the pattern—quite a bit 
+            of thickness for folding. But that’s the average; individual re-
+            gions of the pattern can be considerably thicker, as shown in 
+            Figure 7.22, which lists the number of layers in each region of 
+            the basic tile.
+
+
+                                        1
+                                    3      3
+                                       5
+                                 1       13    1
+                                       5
+                                     3     3                            Figure 7.22. 
+                                                                        The number of layers of paper 
+                                        1
+                                                                        in each region of the tile.
+
+                This shows that there are as many as 13 layers in the 
+            pattern, which means that any subsequent folding that goes 
+            on will require folding through quite thick layers.
+                But there’s nothing particularly special about this pat-
+            tern tile. There is much variety possible in creating sinks and 
+            rearrangements of layers around two crossed pleats. A bit of 
+
+                                                                                                     211
+                                                                Chapter 7: Pattern Grafting
+© 2012 by Taylor & Francis Group, LLC

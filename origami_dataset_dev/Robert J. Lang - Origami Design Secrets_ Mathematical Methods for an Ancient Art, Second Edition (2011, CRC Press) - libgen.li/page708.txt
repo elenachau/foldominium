@@ -1,0 +1,14 @@
+             Euthysanius Beetle
+
+
+             Mark the edges of a 76×76 square grid. Use the edge
+             markings to locate interior vertices. Note that the
+             antenna folds at the top are not aligned to the grid;
+             instead, the lines are tilted at a slope of 1:8. You
+             should precrease the extra creases shown in the middle
+             before collapsing the base.
+
+
+     696
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

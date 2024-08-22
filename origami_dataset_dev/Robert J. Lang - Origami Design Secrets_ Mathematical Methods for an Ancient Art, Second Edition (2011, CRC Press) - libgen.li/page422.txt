@@ -1,0 +1,37 @@
+                                         leaf and branch, by a letter on the tree graph, and have added 
+                                         their corresponding vertices to the active paths in the crease 
+                                         pattern on the square. Observe that in general, a branch node 
+                                         may show up on more than one active path.
+                                             It’s also worth pointing out that we don’t show any leaf verti-
+                                         ces along the edges of the square because the paths between node 
+                                         pairs G and E, E and F, and F and H are not active paths.
+
+                                         11.3. Scale
+                                         There is one more factor to consider: the relationship between the 
+                                         size of the tree graph and the crease pattern on the square. In 
+                                         the pattern shown in Figure 11.8, we have given each stick unit 
+                                         length; but for this to ﬁt within a square, the square must be larger 
+                                         than a unit square. In order to ﬁt the crease pattern into a unit 
+                                         square, we introduce a quantity we call the scale, which is simply 
+                                         the distance on the square that corresponds to one unit in the tree 
+                                         graph. This is an unknown, as illustrated in Figure 11.9.
+
+                                                                     ?
+
+
+                                         Figure 11.9. 
+                                         What is the relationship between the size of the square and the scale 
+                                         of the tree graph?
+
+                                             We can ﬁt the crease pattern in Figure 11.8 into a unit 
+                                         square if we choose a scale factor m = 0.267; that is, one unit 
+                                         of length on the tree is equivalent to a distance of 0.267 in 
+                                         the crease pattern. Then we must modify the tree theorem to 
+                                         incorporate a scale factor. Our path condition becomes: For 
+
+                                         every path between leaf vertices ui and uj, the leaf vertices 
+                                         must satisfy the inequality
+
+     410
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

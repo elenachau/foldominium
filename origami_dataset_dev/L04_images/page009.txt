@@ -1,0 +1,9 @@
+1D vs. 3D
+
+• Circle River Method / Tree Method
+  – Works fine for tree-like objects
+  – Does not fit to 3D objects
+
+• Origamizer / Freeform Origami
+  – 3D Polyhedron, surface approximation
+  – What You See Is What You Fold

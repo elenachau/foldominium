@@ -1,0 +1,51 @@
+            to an integer division of the circle: 8ths (45°), 12ths (30°), or 
+            16ths (22.5°), for example.
+                As we will see, it is indeed possible to design complex 
+            origami bases by working directly with the hinge polygons 
+            and hinge rivers—a technique I call “polygon packing.”  And 
+            it requires some new ideas and new concepts, which I will 
+            introduce shortly. But polygon packing is also quite old—in 
+            fact, one form of it dates back to the earliest days of the mod-
+            ern era of origami. The nice properties I’ve outlined exist in 
+            a design method we’ve already encountered: box pleating. As 
+            we have seen, one can create arbitrary arrangements of ﬂaps 
+            using the techniques of box pleating; what remains is to ﬁnd 
+            the appropriate mapping between the concepts of circle/river 
+            packing and the concepts of box pleating—and, we hope, to 
+            uncover any additional concepts in the one that are suggested 
+            by the other. Box pleating itself is not new; what is new is 
+            how it can be tied to circle packing, polygon packing, and 
+            uniaxial bases.
+                Box pleating actually is an example of polygon packing—
+            or at least the portion of box pleating that involves uniaxial-
+            base-like structures, which I will call uniaxial box pleating. 
+            Uniaxial box pleating brings both of the “nice” properties 
+            outlined above:
+
+                • All creases run at a ﬁnite number of angles: in 
+                box pleating, multiples of 45°.
+
+                • All creases can be forced to lie on a regular grid; 
+                in box pleating, a grid of squares.
+
+                All is not perfection, though; there are cons, too, for 
+            uniaxial box pleating (and for polygon packing in general), 
+            as we will see:
+
+                • The ﬂaps are generally narrower than the equiva-
+                lent ﬂaps in circle-packed bases. (There are tricks, 
+                however, for selectively widening certain ﬂaps, one 
+                of which—level shifting—I’ll talk about shortly.)
+
+                • The crease patterns are less efﬁcient than circle-
+                packed patterns. 
+
+                This inefﬁciency is unsurprising: it can be shown that 
+            circle/river packing produces the most efﬁcient uniaxial bases; 
+            everything else must be, by deﬁnition, less efﬁcient. What is 
+            surprising, though, is that the penalty is often very small, 
+            and uniaxial box-pleated structures can still be surprisingly 
+
+                                                                                                     573
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

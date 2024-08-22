@@ -1,0 +1,77 @@
+                                    Mechanical Meta-materials from Self-folding Polymer Sheets
+
+  Scientific Goals:           Understanding mechanics of origami structures in order to fabricate “self-folding” polymer gels with designed
+                              mechanical properties.
+
+  Design Goals:               Creating new structures using novel polymer materials (origomu) and developing the design tools to engineer
+                              these new materials.
+
+
+  Development of polymer gels for self-folding origami                                         New mathematical tools
+
+   Taking advantage of inhomogeneous swelling, polymer gels can be patterned to reversibly fold at Any self-folding structure is subject to becoming trapped in metastable states or otherwise misfolding.
+   controllable angles.                                                                           How do we “program” origami robustly?
+
+UMass Soft Matter &Gel Polymer lithography Science Group                                            counting “misfolds”
+     high swelling
+• Chris Santangelo & Ryan Hayward
+    low swelling                         As crosslinked          Swelled state
+                                          (dry) state
+
+                                                                                                                                       related to 3-colorings of a graph
+
+                                                                     Kim et al., Soft Matter (2012)
+                                             A                                                      forcing sets The minimal set of folds that must be programmed “correctly” to ensure that the
+                                               0                     A                                          entire fold pattern folds without error.
+   By controlling area fraction of high and low swelling materials, Gaussian curvature can be “programmed.”
+                                                    = A/A
+                                                             0                                  How do you find optimal patterns for robust folding of polymer gels? (swelling patterns are not unique)
+        cone with        cone with       hyperbolic      spherical
+                                            disk            cap
+      deficit angle    excess angle                                                             Optimize for finite experimental range of swelling available, pattern resolution, and robustness of folding.
+                                                                     confocal
+                               20 °C                                 reconstruction
+                                                                     and cross-section
+
+
+                                                                                                   This swelling pattern empirically
+                                                                                                    folds better than an axisymmetric
+                                                                                                    pattern for the sphere.
+                                                                              Gaussian
+                                                                              curvature                    Kim et al., Science (2012)
+
+
+                                                                                                                                   Gel swelling pattern         Almost a sphere
+                                                                       Kim et al., Science (2012)
+
+   Understanding and designing origami mechanics                                               Tools for mechanical characterization
+
+              Elastic energy as a function of the shape of the first crease                     Apparatus built to simultaneously measure mechanics during 3D visualization
+
+
+                                                                        Dias et al., EPL (2012)                    Miura map                       “Defected” Miura map
+   Geometry couples the stiff in-plane stretching to the floppy bending modes of a sheet, leading to novel
+   mechanical properties.
+                                                                                                The 3D reconstruction of mean and Gaussian curvatures reveal where the sheet has stretched and where
+   Non-Euclidean origami                                                                        it has folded in response to an external force.
+                                     By combining folds with shells, entirely new structures are                                                                     Mean curvature
+                                     possible.
+                                                                                                  Gaussian curvature                                                 (folding)
+                                                                                                  (stretching)
+
+                                     Folding shells introduces new local and global constraints 
+                                     leading to snap-through transitions. These transitions depend
+                                     on the direction of the fold and the underlying curvature of
+                                     the surface.
+
+
+      Numerically determined shape
+      combining curvature and folding.
+
+
+  Team
+
+
+    Christian Santangelo          Ryan Hayward                  Itai Cohen                 Tom Hull                        Robert Lang               Jeannine Mosely
+    UMass Physics                 UMass Polymer                 Cornell Physics            Western New England
+                                  Science & Engineering                                    Math

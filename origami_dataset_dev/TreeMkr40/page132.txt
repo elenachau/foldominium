@@ -1,0 +1,59 @@
+ Since every polygon network can be broken up into triangles and quads by the addition of extra
+ circles, the triangle and quad molecules are by themselves sufficient for filling in the crease
+ pattern for any tree. However, there are many other possible molecules, including molecules that
+ can be used for higher-order polygons. It turns out that the gusset quad is just a special case of a
+ more general construction that is applicable to any higher-order polygon. I call this construction
+ the universal molecule. In fact, many of the known molecules — the Maekawa and Meguro
+ molecules, the rabbit ear, and so forth (but not the arrowhead quad, as it turns out) are special
+ cases of the universal molecule. The rest of this article describes the construction of this
+ molecule for an arbitrary polygon.
+
+ Consider a general polygon that satisfies the tree theorem, i.e., any two vertices are separated by
+ a distance greater than or equal to their separation on the tree graph. Since we are considering a
+ single active polygon, we know that of the paths between nonadjacent vertices, none are at their
+ minimum length (otherwise it would be an active path and the polygon would have been split).
+
+ Suppose we inset the boundary of the polygon by a distance h, as shown in figure 5.24. If the
+                                                                      ′  ′
+ original vertices of the polygon were A1, A2,… then we will label the inset vertices A1 , A2 ,… as
+ we did for the gusset quad construction. I will call the inset polygon a reduced polygon of the
+ original polygon.
+
+                                     A4
+                                   α α       polygon
+                                    4 4
+                                                 reduced polygon
+                       α             A ′
+                   A5                 4
+                      α 5
+                       5                          α
+                                                   3
+                           ′                          A3
+                         A5                        α
+                                                ′   3
+                                               A3
+
+                             ′                ′
+                           A1               A2
+                        α
+                          1        h          α
+                          α                 α   2
+                           1                 2
+                       A1                       A2
+
+ Figure 5.24. A reduced polygon is inset a distance h inside of an active polygon. The inset
+corners lie on the angle bisectors (dotted lines) emanating from each corner.
+                   ′
+ Note that the points Ai  lie on the bisectors emanating from the points Ai for any h. Consider first
+a reduced polygon that is inset by an infinitesimally small amount. In the folded base, the sides
+of the reduced polygon all lie in a common plane, just as the sides of the original active polygon
+all lie in a common plane; however, the plane of the sides of the reduced polygon is offset from
+the plane of the sides of the active polygon by a perpendicular distance h. As we increase h, we
+shrink the size of the reduced polygon. Is there a limit to the shrinkage? Yes, there is, and this
+limit is the key to the universal molecule. Recall that for any polygon that satisfies the tree
+theorem, the path between any two vertices satisfies a path length constraint
+
+                                     −   ≥
+                                   Ai  Aj  lij ,                            (1)
+
+                                 132

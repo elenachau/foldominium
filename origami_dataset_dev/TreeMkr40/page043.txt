@@ -1,0 +1,32 @@
+The result is shown in figure 3.2.8. Now
+there are active paths between nodes 6                    1
+and 9 and between nodes 9 and 8, filling         2                 2
+the entire symmetry line. Thus, the
+                                                          1
+                                        4                                   5
+condition for making a plan view model                     1.000
+is satisfied.                                    3        2        4
+                                                  1.000             1.000
+Select Build Polys and Creases to                           2
+complete the pattern and Creases Only
+                                        2                                   2
+to display it. The crease pattern is shown
+in figure 3.2.9. And if you fold this                     3
+                                                           2
+pattern into a base, you will indeed get a                  1.000
+plan view base.                                           9
+                                        3                 8                 3
+                                                          3 1.000-56.8%
+                                                            3
+
+                                                 5        7        6
+                                                  1.000    0.400+115.8%1.000
+                                        6        3        8       3         7
+
+                                                       3.2.8
+
+
+                                                       3.2.9
+
+
+                                  43

@@ -1,0 +1,26 @@
+                                              axial+1
+
+
+                                       ?
+
+                                                                       Figure 14.2. 
+                                                                       Two colliding contours at differ-
+                                                                       ent levels.
+                         axial
+
+            Figuratively, we have a head-on train wreck. What we need 
+            is a way to get the two trains onto parallel tracks.
+                And we will ﬁnd a solution lurking within a very simple 
+            structure, shown in Figure 14.3. This is simple to fold: take 
+            a Waterbomb Base; sink the point; crease the result through 
+            all layers; then spread-sink two corners as you fold the near 
+            edge downward. Then closed-sink the ﬂap into the interior of 
+            the model.
+
+
+                                                                       Figure 14.3. 
+                                                                       A level-shifting test structure.
+
+                                                                                                     627
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

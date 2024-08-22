@@ -1,0 +1,44 @@
+                                         efﬁcient. Besides, efﬁciency isn’t everything—sometimes it’s 
+                                         not even very much. The beneﬁts gained from polygon packing 
+                                         in terms of elegance, symmetry, and foldability often outweigh 
+                                         any losses of efﬁciency and gains in thickness.
+                                             I have been talking about “polygon packing” in general, 
+                                         not just box pleating, because I want to emphasize the gener-
+                                         ality of polygon packing. There are multiple forms of polygon 
+                                         packing; box pleating is but one of them. Because it is the most 
+                                         accessible, though, it is the form I will concentrate on for the 
+                                         rest of this chapter.
+
+                                         13.3. Concepts of Polygon Packing
+                                         Polygon packing works similarly to circle packing; we are still 
+                                         fundamentally creating a stick-ﬁgure-like shape as a uniaxial 
+                                         base, but we now pack hinge polygons and hinge rivers, not 
+                                         circles and curvilinear rivers, into the square. There are further 
+                                         similarities: as with circle packing, we do not allow overlap 
+                                         (because any spot of paper can only be in any one ﬂap), and 
+                                         the centers of the polygons must lie within the square. But 
+                                         there are differences, too. In circle packing, the axial creases 
+                                         in adjacent circles and rivers all line up collinearly. This will 
+                                         no longer be the case. It will turn out that grids are not just a 
+                                         “nice” thing to have—they are essential to keeping the crease 
+                                         pattern ﬁnite.
+                                             There is a new family of creases that appears, which joins 
+                                         the families of ridge, axial, and hinge creases: axis-parallel 
+                                         creases. These are creases that in the folded form run parallel 
+                                         to the axis but are offset by some distance from the axis. The 
+                                         gusset crease of circle packing is an example of this, but while 
+                                         gussets are occasional visitors to circle-packed bases (via gusset 
+                                         molecules and universal molecules), axis-parallel creases are 
+                                         essential and widespread elements in polygon-packed bases.
+                                             So what are these hinge polygons and hinge rivers?
+                                             In circle packing, there are two fundamental shapes used 
+                                         for packing, illustrated in Figure 13.9. They are the circle and 
+                                         the river.
+
+
+            Figure 13.9. 
+            Two circles and a river.
+
+     574
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

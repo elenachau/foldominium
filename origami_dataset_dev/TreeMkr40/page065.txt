@@ -1,0 +1,25 @@
+                              4.0 Reference
+
+    4.1  Introduction
+
+ This section describes the user interface of TreeMaker; it gives a comprehensive description of
+the main window, how you construct a tree, and lists all of the menu commands and describes all
+of the dialogs. The reference complements the tutorials in the previous section. While you should
+start with the tutorials, they only cover the most important parts of TreeMaker; it would be a
+good idea at some point to read through all of the reference to make sure you are aware of all the
+capabilities of the program.
+
+   4.2   Main window
+
+Each origami design is its own document and is displayed within a single window. An origami
+design is composed of a number of interrelated “parts”; the 7 types of parts are called: node,
+edge, path, poly, vertex, and crease — each of which has a graphical representation — and
+conditions, which modify nodes, edges, or paths, and don’t have a direct visual representation.
+
+Figures 4.2.1 and 4.2.2 show two views of a typical window that displays all of the different
+parts.
+
+
+                                       4.2.1
+
+                                  65

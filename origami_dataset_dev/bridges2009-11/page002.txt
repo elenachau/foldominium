@@ -1,0 +1,50 @@
+Lang
+
+    Fundamental to my own motivation was the goal of developing truly useful techniques for design, and
+for several years I designed ever more complex origami ﬁgures using circles and spacers (the latter were
+my precursors to “rivers,” see below) and nothing more technological than pencil and paper. (My colleague
+Meguro added compass and straightedge to his crease pattern design arsenal.) However, a paradigm that
+framed my ideas early on was the idea that it might eventually be possible to use computer programming to
+solve for complex origami ﬁgures, and I began sketching out algorithms for this in the late 1980s. (Early
+discovery: FORTRAN 77 is a lousy language for computational origami.) Beginning in the 1990s, I began
+writing what became my program TreeMaker (in Object Pascal, then C++), a design program that served
+both as a repository of algorithms as I developed them and a way to probe their validity and limits [8]. By
+1998, TreeMaker was up to version 4.0, and had become a useful tool rather than just a toy program; in fact,
+I realized that it was now capable of solving for origami design patterns that were beyond the ability of an
+individual armed with only pencil, paper, and compass.
+    Which is not to say that pencil-and-paper origami designers have not been creating designs as complex
+as those that TreeMaker could create; on the contrary, by recognizing fortuitious geometric alignments and
+patterns, origami artists could, and still do, design with pencil and paper extremely complex and beautiful
+works. The most complex origami designs today are usually human-designed, not computer-designed. While
+its crease pattern may be drawn on computer, advanced origami is designed using a mixture of mathematical
+ideas and artistic inspiration, with the designer’s own imagination the most important tool.
+    Still, a computerized design serves a useful pedagogical purpose: it provides a vivid illustration of the
+power of mathematical ideas in achieving a distinctly non-mathematical result. And so, in the bulk of this
+paper, I would like to walk the reader through the process of concept, design, and folding, for an origami
+ﬁgure: an arthropod. The greatest successes of the circle-river method of design came in the design of
+insects, spiders, and their ilk, and so I will present here one of my ﬁrst TreeMaker designs: my “Scorpion,
+opus 379” [5]. Although I have designed more complex ﬁgures since then, this remains one of my favorites,
+both for the geometric structure of its design and its overall appearance.
+
+                                      2   Design
+
+The journey begins with the subject and its abstract description: a tree graph (the “tree” in TreeMaker). Or,
+more prosaically, a “stick ﬁgure.” The stick ﬁgure captures the information that will be produced by the
+design algorithm, and so its properties—the number, lengths, and connectivities of its edges—are the choice
+of the designer. The circle-river method of origami design is a step in the creation of a folded ﬁgure, but it
+does not seek to create a speciﬁc 3-D form; rather, it produces a shape that has “enough material in the right
+places.” Speciﬁcally, it produces a folded shape that has a ﬂap of paper for every appendage of the subject.
+The algorithm gives relatively little control over the width of those ﬂaps, but it lets one specify the number
+of ﬂaps, length of each ﬂap, and how they are connected to one another, and for some subjects, that is very
+useful indeed. That information can be described concisely by a stick ﬁgure—which, using the terminology
+of graph theory, is an “edge-weighted tree graph.” Hence, the tree is the starting point for a TreeMaker
+design.
+    The simplest way to construct the tree is to literally overlay the stick ﬁgure on a photograph of the
+subject, as illustrated in Figure 1. Each stick represents an appendage or body segment of the subject, and
+will be represented in the origami ﬁgure by a ﬂap of paper. The folded shape will be a collection of ﬂaps; we
+call this collection a “base.” Each edge of the tree graph must be assigned a length, which will be the length
+of the associated ﬂap of paper. By measuring lengths of the various body parts in the photograph, one can
+choose the desired lengths of the ﬂaps, although it must be noted that one might commonly adjust desired
+ﬂap lengths from their literal dimensions for artistic reasons.
+
+                                          12

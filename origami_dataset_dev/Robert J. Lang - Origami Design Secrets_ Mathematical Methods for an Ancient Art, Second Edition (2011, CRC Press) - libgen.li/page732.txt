@@ -1,0 +1,22 @@
+               16. Reverse-fold the               17. Reverse-fold the next set          18. Fold and unfold
+               edges underneath.                  of edges in the same way.              through the near layers.
+
+
+            19. Open-sink the corners.            20. Open-sink the next pair         21. Turn the model over.
+                                                  of edges in the same way.
+
+                                                                                                         22–24
+
+
+            22. Squash-fold the double- 23. Tuck the small       24. Fold one flap   25. Repeat steps
+            edge, pushing up from inside white corner up         back to the left.   22–24 on the right.
+            and flattening symmetrically. inside.
+
+
+            26. Fold and unfold      27. Fold and unfold           28. Turn the paper       29. Fold the bottom
+            along angle bisectors.   along four more angle         over.                    point up over all the
+                                     bisectors.                                             layers.
+
+     720
+                         Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

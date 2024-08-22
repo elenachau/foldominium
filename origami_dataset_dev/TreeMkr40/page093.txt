@@ -1,0 +1,26 @@
+    Build Polygons                     14
+ Build all of the polygons in the crease pattern. This command constucts polys from active  and
+ border paths; it also computes all the reduced paths and reduced polygons, according to the
+ theory of the “universal molecule” construction. (The algorithm that does this is one of the
+ centerpieces of my origami design theory.) Figure 4.5.17 shows a typical before and after for this
+ command.
+
+
+                                       4.5.17
+
+In the example above, the triangles are converted to triangle polygons, while the irregular
+pentagon at the bottom contains a set nested subpolygons.
+   Fracture PolyÉ                       1;
+ Any active polygon can be broken up into smaller active polygons by adding a stub to the
+ corresponding subtree (this is a generalization of Toshiyuki Meguro’s overlapping circle
+ algorithm). If you add the stub to an existing node and optimize it using the Optimize Selection
+ command, you can usually only break the polygon into three smaller polys. However, if one adds
+ the degree of freedom to create a new node along an edge, then it’s possible to break the poly
+ into four smaller polys. (This is also a new algorithm I developed.) This command implements
+ this improved algorithm.
+
+ You must select a major polygon to fracture, then select this command. A dialog is put up as
+ shown in figure 4.5.18.
+
+
+                                  93

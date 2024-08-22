@@ -1,0 +1,44 @@
+            ways, depending on which features are emphasized, which 
+            are merely suggested, and how the detail folds and shaping 
+            are rendered.
+                You should also compare this crease pattern and base to 
+            that of the Turtle (Chapter 7, Figure 7.1), which was also made 
+            from a six-ﬂap base. The turtle base had all its creases running 
+            at multiples of 30° and thus had a more symmetric crease pat-
+            tern and more neatly aligned edges. The songbird base here is 
+            less symmetric, but is slightly larger relative to the size of the 
+            square. Can you make a turtle from this base?
+                The N = 7 solution combines both squares and equilateral 
+            triangles into the underlying symmetry. An unusual feature 
+            of this solution is the fact that one of the circles (the one in 
+            the lower left corner) doesn’t touch any other circle. The pa-
+            per between the lower left circle and the rest of the model is 
+            wasted. One could put this extra paper to use, however, by en-
+            larging the lower left circle (corresponding to lengthening the 
+            associated ﬂap) and using this base to fold a model with one 
+            particularly long appendage, for example, an extra-long tail. 
+            We can carry out this enlargement by expanding the lower left 
+            circle until it touches one of the others (the middle circle, as 
+            it turns out). This expansion gives the circle pattern shown in 
+            Figure 9.36, corresponding to a shape with six equal-sized ﬂaps 
+            and a seventh slightly larger one. I have also superimposed a 
+            crease pattern that gives a seven-ﬂap base. I encourage you to 
+            enlarge the ﬁgure, draw it on a square, and fold the base; it is 
+            remarkable how all of the circles line up with each other once 
+            you have collapsed the square into the base.
+
+
+                                                                        Figure 9.36. 
+                                                                        Crease pattern and base for the 
+                                                                        N = 7 circle packing with one 
+                                                                        ﬂap enlarged.
+
+                There is a mathematical term for the condition in which a 
+            circle is free to move without changing the overall scale of the 
+            model: If any circle can move without altering the scale, the 
+            pattern is said to be unstable; any pattern in which no circle can 
+            move is said to be stable. It is easy to see that a pattern is stable 
+
+                                                                                                     325
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,35 @@
+                  Figure 13.2. 
+                  Packing shapes on the square 
+                  and stick figure. The rivers 
+                  are shown connected to their 
+                  respective segments on the tree 
+                  graph.
+
+                                               circle centers and the size of the enclosing square. This is a 
+                                               bit tedious, but it is worth going through as an illustration 
+                                               of how to solve for a packing pattern with minimal computa-
+                                               tional tools.
+                                                   Figure 13.3 shows the packing of circles and rivers into 
+                                               the left half of a square whose side has length s. The most 
+                                               elegant arrangement would have circles packed neatly into the 
+                                               corners of the square, but one is rarely so lucky as to achieve 
+                                               this condition; more often, the situation is as shown in the 
+                                               ﬁgure, where no circle lies precisely in a corner.
+                                                   There are ﬁve unknowns in this ﬁgure: the square side 
+                                               s, and the four distances marked w, x, y, and z. In order 
+                                               to solve for all distances, we need ﬁve equations. Three of 
+                                               them come from adding up distances along the sides of the 
+                                               rectangle. Along the top edge, left edge, and bottom edge, we 
+                                               have, respectively,
+
+                                                                      w +  4  +   1  =   s  /2   , (13–1)
+
+                                                          x    + 4 +1+1+ 6 + y =  s ,             (13–2)
+                                                              
+                                                          z                + 8 = s  /2   .        (13–3)
+                                                     
+
+                                                                  
+           566
+                             Origami Design Secrets, Second Edition
+      © 2012 by Taylor & Francis Group, LLC

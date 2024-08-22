@@ -1,0 +1,13 @@
+Other Conditions
+
+
+ • Conditions for fold angles
+    – Fold angles ρ
+    – V fold: 0<ρ<π
+    – M fold: −π<ρ<0
+    – crease: −απ<ρ<απ (α=0:planar polygon)
+ • Optional Conditions
+    – Fixed Boundary
+       • Folded from a specific shape of paper
+    – Rigid bars
+    – Pinning

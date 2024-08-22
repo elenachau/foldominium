@@ -1,0 +1,57 @@
+                                         surprisingly often) is to “soak up” the extra space by enlarging 
+                                         one or more of the interior circles. With this design, the length-4 
+                                         abdomen circle is an obvious candidate for enlargement; we can 
+                                         either turn the excess paper underneath, hiding it, or perhaps 
+                                         use the extra paper to create additional lines or features of the 
+                                         model. A similar analysis to the above, letting the size of the 
+                                         abdomen square now become an unknown variable, gives the 
+                                         circle/river packing shown in Figure 13.4, where we now show 
+                                         the full packing in both halves of the square.
+
+
+                                                       s/2
+                                                   w
+                                                                4   1
+                                            x             4
+                                                    1 1       4
+                                                4                 1 1
+                                                                    1
+                                             4                      1
+                                                                    1
+                                             1                      1
+                                             1                      1
+                                                                    1
+                                                                    2
+                                             6
+
+                                                                  6.2
+                                          s
+                                               6
+
+                                                                6.2
+                                                  2
+
+                                            y
+
+                                                     8     8
+            Figure 13.4. 
+            Expanding the abdomen circle                      8
+                                                  z
+            makes the packing rigid.                   s/2
+
+                                             Note that the positions of the circles are ﬁxed (“pinned”) 
+                                         in place, as are the rivers where they cross the axial paths be-
+                                         tween the circle centers. Elsewhere, the positions of the rivers 
+                                         are not necessarily ﬁxed; I have drawn them where they are 
+                                         only for convenience.
+                                             For this packing, the abdomen circle has been increased in 
+                                         length by 55%, to a total length of 6.2 units. This means that 
+                                         there will be a fair amount of excess length to be hidden. But 
+                                         that extra paper was going to have to be hidden somewhere, 
+                                         and in a beetle, the abdomen is one of the fattest parts of the 
+                                         model; better to hide excess paper in the abdomen (or thorax) 
+                                         than in the antennae, for example.
+
+     568
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

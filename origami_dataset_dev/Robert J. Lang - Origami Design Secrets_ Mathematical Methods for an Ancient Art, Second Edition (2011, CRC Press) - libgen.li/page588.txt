@@ -1,0 +1,27 @@
+                                         Figure 13.10. 
+                                         Valid hinge polygons for uniaxial box pleating for a given ﬂap length 
+                                         (circle size).
+
+                                         corresponding circle. For uniaxial box pleating, this polygon 
+                                         is the square that circumscribes the minimum-size circle. The 
+                                         actual hinge polygon can be larger. In Figure 13.10 and the 
+                                         ﬁgures that follow, I will identify the minimum-size square by 
+                                         a light blue line, while the actual hinge polygon will be drawn 
+                                         in a darker shade.
+                                             So, in the transition from circle/river packing to uniaxial 
+                                         box pleating and polygon packing, circles, which correspond 
+                                         to leaf ﬂaps, are replaced by hinge polygons that enclose their 
+                                         corresponding circles. In the same way, the curvilinear rivers 
+                                         of circle/river packing are replaced by hinge rivers—straight-
+                                         line strips of constant width that only change direction at ﬁxed 
+                                         angles. In box pleating, those hinge rivers form right angle 
+                                         bends, as shown in Figure 13.11.
+
+
+            Figure 13.11. 
+            Examples of several hinge rivers 
+            of constant width.
+
+     576
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,62 @@
+                Butterﬂy                              Crawﬁsh                               Dragonﬂy
+                 crease pattern, base, and folded      crease pattern, base, and folded      crease pattern, base, and folded 
+                      model  703                            model  157                            model  705
+                                                      Crawford, Patricia  713               Dragon, Robert Neale’s  139
+                C                                     crease assignment  21, 22, 744,       Dump Truck  562
+                                                                  748
+                Camel Spider                           around a vertex  371                 E
+                 contour map and folded model          within molecules  368
+                      641                             crease patterns  7, 744               edge ﬂap  105, 291, 745
+                Centipede  677                         lines used in  22                      splitting of  105
+                 crease pattern, base, and folded     creases  744                          edges  402, 745
+                      model  278                       axial  409                             branch  402
+                Cerambycid Beetle  641                 axis-paralell  574                     folded  745
+                 crease pattern, base, and folded      deﬁnition of  11                       leaf  402, 747
+                      model  606                       gusset 369                             raw  749
+                Cerceda, Adolfo  713                   hinge  348                           edge weight  402, 745
+                Chan, Brian  563                       pseudohinge  416, 581                efﬁciency  745
+                Cicada Nymph  676                      ridge  349, 749                        in pleated textures  211
+                 contour map, base, and folded        creativity, nature of  5                of a circle packing  299
+                      model  655                      crimp fold  31, 744                     of middle ﬂaps  321
+                circle method  298                     in a gusset molecule  362            elegance  43
+                circle packings  7, 291, 296, 299,     stretching  32                       elephant
+                   352, 364, 378, 401, 702, 744       Crow                                    African Elephant  42, 713
+                 bases from equal circle               folding sequence for  130              Elephant’s Head  44
+                         packings  322                crystallization  308, 310, 744          Elephant’s Head with longer 
+                 equivalence to mathematical          Cupboard Base  57,  745                     tusks  45
+                         circle packing  317          Cyclomatus metallifer                   Elephant’s Head with tusks  44
+                 limitations of  699                   contour map, base, and folded          Elephant’s Head with white 
+                 limits for large numbers of                model  669                            tusks  51
+                         ﬂaps  304                                                            exhibition of  1
+                 optimal packings, 110 circles  318   D                                       going to see  713
+                 three regular  301                                                           One-Crease Elephant  41
+                circle/river method  7, 368, 744      decreeping  145, 745                  elevation  588
+                circle/river packings  474            degenerate vertices  426              Elias, Neal  48, 64, 461, 480, 562, 
+                 molecules for  364                   degrees of freedom  421                  680, 713
+                circle/river patterns  269            Demaine, Erik  584,  588, 596, 658    Elias stretch  562, 745
+                circles                               dense bouncing  656                   Emu
+                 connection to tiles  297             dense contours  656                     crease pattern, base, and folded 
+                 in circle/river packings  412        design, basic principles  48                model  322
+                 in Classic Base triangle  63         detail folds  53, 745                 Engel, Peter  42, 48, 587, 700
+                 minimum boundary of a ﬂap  293       diagonal diagonal symmetry  306       Euclid  353
+                 overlap, impermissibility  295       diagonal symmetry  745                Eupatorus gracilicornis
+                Classic Bases  54, 744                diagramming symbols and terms           crease pattern, base, and folded 
+                closed sink fold  36, 744                   13                                    model  383
+                Cockroach                             diagrams, level of detail in  48      Euthysanius Beetle
+                 crease pattern, base, and folded     difﬁculty, scale of  28                 contour map and folded 
+                      model  378                      dihedral angle  469, 745                         model  678
+                colliding squares  637                distance                              extended Pythagorean stretch  647
+                comb  676                              in folded form versus crease 
+                complexity  42                                  pattern  151                F
+                composite molecules  360, 380, 744    distorted base  69, 745
+                contour lines  589                    Dog Base  244                         families of creases  349
+                 bouncing  596                        double-blintzed Frog Base  326        ﬁlaments
+                 inﬁnite bouncing  596                double-blintzing  326, 745              in comb  676
+                corner ﬂap  105, 291, 744             Double-Boat Base  57                  Fish Base  54, 151, 242, 248, 
+                Correia, Jean-Claude, crossing        double rabbit-ear fold  26, 745          346, 711, 745
+                      pleats  204                     double sink fold  35, 745               constructed from two tiles  255
+
+
+       754
+                              Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

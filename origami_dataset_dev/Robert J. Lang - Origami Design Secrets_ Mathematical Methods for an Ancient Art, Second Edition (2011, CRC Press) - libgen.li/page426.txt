@@ -1,0 +1,45 @@
+            A                                          A
+                                                             ma       mc
+                            D          B                                         mb
+                a     C                                                               B
+                          c        b
+
+
+                                         Figure 11.13. 
+                                         Left: a tree with two leaf nodes and two branch nodes. 
+                                         Right: use of circles and rivers to represent the path conditions.
+
+                                             If we draw a circle around node A of radius ma (the scaled 
+                                         length of ﬂap A) and one around node B of radius mb, then the 
+                                         path condition is satisﬁed if and only if the two circles do not 
+                                         overlap; and at equality, the two circles touch.
+                                             Similarly, if the two leaf nodes are separated in the tree 
+                                         by multiple edges as in Figure 11.13, we can still represent this 
+                                         geometrically by inserting rivers whose width is proportional 
+                                         (by the same scale factor m) to the corresponding segments of 
+                                         the tree.
+                                             The use of circles and rivers to design a crease pattern and 
+                                         the solution of the path equations are completely equivalent 
+                                         approaches. Why use one instead of the other? Circles and rivers 
+                                         are concrete geometric objects, easily visualizable, and so are 
+                                         generally easier for a person to work with. But equations have 
+                                         their own value; they can be manipulated, rigorously proven, 
+                                         and turned into algorithms. The ﬁrst computer algorithm for 
+                                         sophisticated origami design and the proof of its sufﬁciency were 
+                                         based on the path equations. However, most origami designers 
+                                         who use these techniques work with circles, rivers, and (as we 
+                                         will see) other geometric objects to create their own designs. 
+                                         Even if one is working computationally, it is still a useful aid 
+                                         to one’s intuition when working with crease patterns found by 
+                                         path methods to draw in the corresponding circles (and/or riv-
+                                         ers) to illustrate the underlying structure.
+
+                                         11.5. Computational Molecules
+                                         In the previous chapter on molecules, we distinguished dif-
+                                         ferent molecules by their number of ﬂaps and whether or not 
+                                         they had connectors between groups of ﬂaps. This distinction 
+                                         is concisely captured by associating with each molecule the 
+
+     414
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

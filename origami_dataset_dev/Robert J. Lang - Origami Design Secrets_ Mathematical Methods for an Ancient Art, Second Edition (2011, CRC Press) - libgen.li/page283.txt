@@ -1,0 +1,38 @@
+                                a
+
+                           b        c
+
+                                d                               a d
+                                                              b     c
+                                                                  e
+                                                             l
+               h                                k                 g
+                                                                 f
+                                e                                   k
+                                                             h  i j
+                           f         g                                  Figure 8.43. 
+                                        j
+                        i                                               Left: the circle/river pattern 
+                                                                        with all features labeled. 
+                                                                        Right: the schematic stick ﬁgure, 
+                                l                                       illustrating the lengths and 
+                                                                        connections among ﬂaps.
+
+            the crease pattern, we label each circle and river with a letter 
+            from a to l, as in Figure 8.43.
+                The four circles a–d at the top are four equal-length ﬂaps. 
+            Since a touches b and c, its corresponding line must be joined 
+            to lines b and c at the same point. Since b and c also touch 
+            circle d, that means line segment d must also be connected at 
+            the same point as well.
+                There is a subtlety here I don’t want to speed by; even 
+            though circle d doesn’t touch circle a, since d touches b and b 
+
+
+            Figure 8.44. 
+            Left: the crease pattern ﬁlled with simple tiles. 
+            Right: the same pattern ﬁlled with narrow tiles.
+
+                                                                                                     271
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

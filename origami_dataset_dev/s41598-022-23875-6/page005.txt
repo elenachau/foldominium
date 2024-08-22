@@ -1,0 +1,21 @@
+www.nature.com/scientificreports/
+
+
+                            Figure 3.  Comparing diferent origami patterns using the decision tree-random forest method. (a) Problem 
+                            setup: two origami patterns are compared for their performance as a metasheet. (b) Design rules for diferent 
+                            axial stifness targets when the metasheet is at a 60% extension. (c) Design rules for the bending stifness at 
+                            a 90% extension. (d) Sample designs for the four selected design targets. (e) Design rules afer adding design 
+                            features regarding the materials stifness. (f) Design realizations of the origami metasheet afer adding materials 
+                            stifness as design features.
+
+                            the diferent origami systems (details in the Supplementary Materials Section S2). In this example, we separately 
+                            design the metasheet for two targets including the axial stifness ka at 60% extension and the bending stifness 
+                            kb at 90% extension (design for multiple targets/objectives is discussed in the next section). As before, we defne 
+                            the extension of the origami ( Ext ) as the ratio between the folded length to the fat length. Four stifness target 
+                            zones are created for both the axial stifness and the bending stifness as indicated in Fig. 3b and c.
+                              We frst study the design for axial stifness ka at 60% extension (see Fig. 3b). Assume that we want to design 
+                            an origami metasheet to have 15, 000 N/m < ka < 30, 000 N/m (Zone a1), we can label data that meet the target 
+
+
+Scientifc Reports |        (2022) 12:19277  | https://doi.org/10.1038/s41598-022-23875-6                                 5
+                                                                                                                     Vol.:(0123456789)

@@ -1,0 +1,6 @@
+Topologically Extend Rigid Origami
+
+• Generalize to the cylindrical, or higher genus rigid-
+ foldable polyhedron.
+
+• But it is not trivial!

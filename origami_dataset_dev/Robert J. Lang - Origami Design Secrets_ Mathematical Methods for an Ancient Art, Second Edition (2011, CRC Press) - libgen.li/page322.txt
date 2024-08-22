@@ -1,0 +1,35 @@
+                                             We then inﬂate the circles, moving them around to keep 
+                                         them from overlapping, until they are locked into position. 
+                                         Figure 9.17 shows the result of the tarantula circle crystalliza-
+                                         tion, which is the largest possible book-symmetric packing of 
+                                         eight circles into a square. (An equivalent solution is the same 
+                                         pattern ﬂipped vertically.) The radius of a circle relative to the 
+                                         length of the side of the square is 0.2182, so the length of the leg 
+                                         ﬂaps will be about 22% of the length of the side of the square.
+                                             Now, we add the pedipalps, which would be represented 
+                                         by two paired circles about half the size of the leg circles. The 
+                                         obvious place to put them is in the center of the large hexagon 
+                                         in the lower half of the square. Continuing the process of inﬂa-
+                                         tion in Figure 9.18, we drop two small circles into an opening 
+                                         of the pattern, then expand them until they, too, are ﬁrmly 
+                                         wedged against their neighbors.
+
+
+                                         Figure 9.18. 
+                                         Left: add two circles for pedipalps. 
+                                         Right: crystallized circle packing.
+
+                                             With this conﬁguration, the pedipalp ﬂaps turn out to be 
+                                         0.583 times as long as the leg ﬂaps—just about right.
+                                             Next comes the abdomen, whose circle should also be about 
+                                         half the size of the leg circle, and so we can ﬁt it into the top 
+                                         middle of the square, as shown in Figure 9.19.
+                                             When this circle is inﬂated, it turns out to be 0.826 times 
+                                         as long as a leg ﬂap—longer than we might like, but perfectly 
+                                         acceptable since it is very easy to shorten a ﬂap.
+                                             Last comes the head. There are two same-size holes re-
+                                         maining in the circle pattern either just above or just below 
+
+     310
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

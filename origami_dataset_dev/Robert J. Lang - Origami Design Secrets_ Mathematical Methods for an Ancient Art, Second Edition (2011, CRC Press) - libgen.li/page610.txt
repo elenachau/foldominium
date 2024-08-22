@@ -1,0 +1,50 @@
+                                         at least: we make every distance in the stick ﬁgure an integral 
+                                         number, or equivalently, we put the vertices of all of our packing 
+                                         squares and rectilinear rivers on a square grid. We will shortly 
+                                         see that if we do that, no matter how irregular the hinge poly-
+                                         gons become, so long as all of their sides run along gridlines, all 
+                                         of the axial contours will also run along grid lines. This insures 
+                                         that axial contours can’t bounce forever because there are only a 
+                                         ﬁnite number of grid lines. But it is not uncommon to ﬁnd that 
+                                         when you’ve propagated all of the axial contours through all of 
+                                         their bounces, they completely ﬁll up the crease pattern with 
+                                         either a horizontal or vertical axial contour (or both) through 
+                                         nearly every grid point—as Figure 13.29 vividly shows.
+                                             We have been constructing axial contours, not necessarily 
+                                         axial folds; but folds they are indeed. If the minimum elevation 
+                                         in the base is zero (which has been an unspoken assumption so 
+                                         far, though is not strictly required), then every point not on an 
+                                         axial contour has a nonzero elevation. Since the paper on each 
+                                         side of an axial contour has a higher elevation than the axial 
+                                         contour, the axial contour must actually be folded, and so all 
+                                         axial contours are fold lines; they are, in fact, axial folds.
+                                             But what can we say about the paper that lies between 
+                                         two axial contours? It must lie at some higher elevation, of 
+                                         course. But more germane, if we travel from one axial contour 
+                                         to a nearby axial contour in the folded form of the base, as we 
+                                         depart the contour, we must be heading uphill to higher eleva-
+                                         tion. When we get to the other contour, we must be traveling 
+                                         downhill. So somewhere between going uphill and going down-
+                                         hill, we had to have reached a high point where we changed 
+                                         elevation directions.
+                                             That hypothetical high point deﬁnes a nonzero elevation, 
+                                         and at least in the vicinity of our path from one axial contour 
+                                         to the next, the paper on both sides of that high point has lower 
+                                         elevation than the high point. So there must be a folded line 
+                                         that runs through the high point, parallel to the axial contours. 
+                                         And it is fairly easy to show that this folded line must be exactly 
+                                         halfway between the two axial contours, parallel to both, and 
+                                         that it is, in fact, part of another set of contour lines.
+                                             So there is at least one new fold that for at least part of its 
+                                         length runs along a new contour line. At this point, we should 
+                                         construct the new contour. This ﬁrst elevation contour can be 
+                                         initiated at any point that lies halfway between two parallel 
+                                         axial contours, but then we propagate it in both directions as 
+                                         shown in Figure 13.30. Like the axial contours, this new con-
+                                         tour, too, will bounce at ridge creases (reﬂect across the ridge) 
+                                         and will continue propagating and bouncing until it terminates 
+                                         by connecting with a preexisting contour line (of the same eleva-
+
+     598
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

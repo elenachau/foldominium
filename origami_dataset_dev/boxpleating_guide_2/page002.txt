@@ -1,0 +1,35 @@
+To divide the paper into thirds we can use several different methods.
+More information about these methods including the famous Haga theorems can be found at
+http://www.origami.gr.jp/People/CAGE_/divide/index-e.html
+Here’s the method I always use.
+
+
+                              2. Precrease the diagonal
+            1. Fold in half       but only where shown.
+                both ways.                       3. Fold between the shown
+                                                     points but only mark the
+                                                     intersection with the
+                                                     diagonal.
+
+
+      6. Division into thirds done.
+                              5. Fold the two other sides 4. Fold the sides to the
+                                  to the creases made      marked intersection
+                                  in step 4 and unfold.     and unfold.
+
+Now that we have thirds, all we have to do is the following:
+    1. Add creases in the middle of the thirds to get sixths
+    2. Add creases between the sixths to get 12ths.
+    3. Turn the paper over.
+    4. Add creases between the 12ths to get the intended 24ths.
+So in general (beware, some mathematics ahead) to get a grid of 2(n+1)*m units, with m being an odd
+number, first you have to make a grid of m x m units.
+That’s where the methods at http://www.origami.gr.jp/People/CAGE_/divide/index-e.html can help.
+I’ll show you how to get some more divisions (the most common ones) on the next pages.
+For the reference points in these methods you will mostly need halves, 4ths, 8ths and the like. In most
+cases you will need those creases for the CP anyway. If you don’t need them just create them as pinches
+on the paper edge where they are needed.
+Once you have the m x m grid, you only need to subdivide the division in half and in half again and
+so on until you have reached  a 2n*m division. All of the creases so far have been valley folds on the
+coloured side. Now you turn the paper over and subdivide in half a last time to get the final 2(n+1)*m
+grid.

@@ -1,0 +1,41 @@
+            or something in the model derived from this pattern. I used the 
+            largest unused corner to extend the tail in the emu.
+                The N = 4 case is quite obviously the crease pattern for 
+            the Waterbomb Base, which has been widely used for origami 
+            models. Similarly, the N = 5 case has a single ﬂap in the middle 
+            of the square; it is the Bird Base. But that’s unexpected; the 
+            Bird Base is normally considered to have four equal ﬂaps, not 
+            ﬁve. How can this be?
+
+
+                                                                        Figure 9.32. 
+                                                                        The Bird Base as a five-flap 
+                                                                        base.
+
+                As shown in Figure 9.32, if we treat each ﬂap as starting 
+            from a point exactly halfway between the top and bottom of 
+            the model, the four long ﬂaps of the Bird Base become shorter 
+            and the blunt top ﬂap becomes longer. We can get all ﬁve ﬂaps 
+            to have the same aspect ratio by narrowing the top ﬂap, as 
+            shown in Figure 9.33.
+
+
+                                                                        Figure 9.33. 
+                                                                        Narrowing the ﬂaps of a Bird 
+                                                                        Base by spread-sinking turns it 
+                                                                        into a ﬁve-equal-ﬂap base.
+
+                And if we add four more smaller circles to the ﬁve-circle 
+            pattern corresponding to four more smaller ﬂaps, we get the 
+            crease pattern for yet another Classic Base, the Frog Base.
+                The N = 1, 2, 4, and 5 cases correspond to Classic Bases 
+            that have been known for hundreds of years. However, the N = 6 
+            solution, like the N = 3 pattern, has not been explored, or to 
+            my knowledge, even recognized. I suspect that it is because the 
+            N = 6 pattern does not incorporate either the standard 22.5° 
+            symmetry or the less-common 30°–60°–90° symmetry and so 
+            was unlikely to have been found by trial-and-error folding 
+
+                                                                                                     323
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

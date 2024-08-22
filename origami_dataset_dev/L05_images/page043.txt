@@ -1,0 +1,9 @@
+                                      Flaps
+
+
+                                                                                  36
+Circle/River Packing (CRP) as a space allocation
+Uniquely deﬁnes a tree
+Tree edges can be oriented anyway we like because if uniaxial base is inﬁnitely thinned, base 
+is actually stick ﬁgure
+Space between circles is wasted paper and maps to a single tree node

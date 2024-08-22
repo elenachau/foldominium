@@ -1,0 +1,29 @@
+If you’re happy with the results of the
+strain optimization, you can make it
+permanent by selecting the Relieve                        4
+strain command, Action menu. This
+absorbs the strain into the length of each       3      3          3
+edge and resets the strain to zero, as                   1.014
+shown in figure 3.5.10.                 7      6        3        7          8
+                                                1.014     3       1.014
+You can again Build Polygons and                       2
+Creases from the Action menu to get the       3         0.622        3
+                                                          2
+new crease pattern shown in figure      3               2                   3
+3.5.11.                                            2            2
+                                                        1
+You’ll see that the new crease pattern is 2              1.014              2
+somewhat simpler and cleaner than the          4          1      5
+previous pattern. Perhaps more useful is        1.014             1.014
+that with the standardization of the             2                 2
+angles, you can find all of the reference
+                                        5                                   6
+points by folding alone.
+
+                                                      3.5.10
+
+
+                                                      3.5.11
+
+
+                                  64

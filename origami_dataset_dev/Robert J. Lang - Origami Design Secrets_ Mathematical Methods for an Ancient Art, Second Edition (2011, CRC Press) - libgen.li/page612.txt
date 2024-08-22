@@ -1,0 +1,43 @@
+                 elevation   0111111111112 002220                         2     000
+
+
+                unassigned
+
+
+                  assigned
+
+
+                   axial+2
+                   axial+1
+                     axial
+                                         Figure 13.31. 
+                                         Crease assignment. Given a set of elevation lines (top), the fold angle 
+                                         (mountain/valley/crease) of axis-parallel folds can be determined by 
+                                         the elevation of the creases on either side of the given fold.
+
+                                         yet speciﬁed (although if there is only one family of off-axial 
+                                         contour folds, they are uniformly valley folds; the ridge folds 
+                                         alternate fold direction). In general, however, this informa-
+                                         tion is enough to perform the collapse of the crease pattern; 
+                                         the as-yet-unlabeled crease directions become obvious as you 
+                                         perform the collapse.
+                                             If we draw the crease pattern on a square grid with hinge 
+                                         polygon vertices always landing on grid points, then we can 
+                                         talk about ﬂap lengths in terms of “units,” where one unit is 
+                                         one grid square. The shortest possible ﬂap is therefore one unit 
+                                         long. What about ﬂap width? In the densest crease patterns, 
+                                         we have axial fold lines on parallel grid lines, and so we will 
+                                         have off-axial fold lines on the half-integral grid lines. The 
+                                         spacing between axial and off-axial folds sets the width of the 
+                                         associated ﬂap; so the minimum width of any ﬂap is one-half 
+                                         unit. For insect legs, narrow ﬂaps are desirable, but for crea-
+                                         tures with reasonably large bodies, it’s desirable to have the 
+                                         body ﬂaps somewhat wider. It is often possible to adjust the 
+                                         positions of rivers and the sizes of the “stretched” polygons to 
+                                         shift the axial contours so that the axial contours get no closer 
+                                         to each other than two or more units. This gives a base that is 
+                                         proportionately wider relative to the lengths of its ﬂaps.
+
+     600
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

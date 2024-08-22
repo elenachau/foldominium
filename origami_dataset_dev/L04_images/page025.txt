@@ -1,0 +1,15 @@
+                           2
+
+         Freeform Origami
+
+
+Related Papers:
+•Tomohiro Tachi, "Freeform Variations of Origami", 
+in Proceedings of The 14th International Conference 
+on Geometry and Graphics (ICGG 2010), Kyoto, Japan, 
+pp. 273-274, August 5-9, 2010.
+(to appear in Journal for Geometry and Graphics 
+Vol. 14, No. 2)
+
+•Tomohiro Tachi: "Smooth Origami Animation by Crease 
+Line Adjustment ," ACM SIGGRAPH 2006 Posters, 2006. 

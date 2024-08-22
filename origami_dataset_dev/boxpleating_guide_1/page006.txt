@@ -1,0 +1,38 @@
+The stick figure for this CP will look like this.
+
+
+For this specific model the stick figure doesn’t really tell that much, because the model also makes
+use of the fact that due to paper thickness the flaps (which theoretically are all coming from the same
+point in the stick figure) will be spread apart and create a voluminous 3D body.
+But at least theoretically the collapsed base will look similar to the stick figure.
+
+To make things easier for the folder I usually show the meaning of the flaps in a separate drawing along
+with the CPs I publish.
+When designing a box pleated model, the main challenge is to create such a square packing to fit the
+intended stick figure by arranging squares of different size into a square.
+
+                                   Lower Jaw
+
+                      QuillUpper Jaw                 Quill
+
+         Foreleg                                                Foreleg
+                                     Eyes &
+                                      Ears
+
+
+              Quill          Quill   Quill   Quill           Quill
+
+                                     Neck
+
+
+          QuillQuillQuill                            Quill       Quill
+
+
+        Hind legQuill     Quill                  Quill   Quill  Hind leg
+
+                                      Tail
+
+                  Quill   Quill                  Quill   Quill
+
+With this we have gathered the most important information from the CP and can commence with the
+folding.

@@ -1,0 +1,34 @@
+                Some of them, though, will need to be converted from 
+            vertical to horizontal; every edge, corner, or middle ﬂap is a 
+            mixture of vertical and horizontal folds, along with a handful 
+            of alternating diagonals. In fact, the diagonal folds typically 
+            separate regions of vertical from regions of horizontal (we will 
+            see more about this in the next chapter). When a group of ﬂaps 
+            runs in a row along an edge, the diagonals from adjacent ﬂaps 
+            create triangle “wedges” of paper whose crease directions must 
+            be rotated.
+                Fortunately, this process can often be carried out one 
+            wedge at a time. All pleats are ﬁrst formed running in the domi-
+            nant direction, say, the vertical direction. Then, by separating 
+            particular pairs of pleats and stretching them apart, it is pos-
+            sible to add, one by one, the pleats that run in the horizontal 
+            direction. This process is shown in Figure 12.48. 
+
+
+            1. Pull a single layer out to 2. Fold down the top     3. Mountain-fold the
+            the left, stretching out the  edge, making diagonal    top edge behind.
+            pleat.                        creases at 45°.
+
+
+                           4. Pleat the edge          5. Finished Elias
+                           again and close            stretch. The pleat
+                           up the model.              has now been
+                                                      turned into a gap
+                                                      between two flaps.
+
+            Figure 12.48. 
+            Folding sequence for an Elias stretch.
+
+                                                                                                     505
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

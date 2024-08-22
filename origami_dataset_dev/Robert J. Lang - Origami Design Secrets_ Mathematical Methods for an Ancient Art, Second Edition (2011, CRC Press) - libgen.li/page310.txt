@@ -1,0 +1,52 @@
+                                             • The center of each circle lies within the square.
+
+                                             • The circles may overlap the edges of the square, 
+                                             but not each other.
+
+                                             We have now assembled the necessary building blocks to 
+                                         carry out origami design from the ground up. Throughout the 
+                                         history of origami, most designs were modiﬁcations, and the 
+                                         techniques we’ve learned so far—offsetting, distortion, point-
+                                         splitting, grafting, tiling—have implicitly assumed that we 
+                                         started with something reasonably close to our ﬁnal objective. 
+                                         But proximity is no longer needed; we can proceed directly from 
+                                         the desired subject to a base that contains all the structure nec-
+                                         essary to realize our subject. Here, therefore, is an algorithm 
+                                         for origami design, called the circle method: 
+
+                                             • Count up the number of appendages in the subject 
+                                             and note their lengths.
+
+                                             • Represent each ﬂap of the desired base by a circle 
+                                             whose radius is the length of the ﬂap.
+
+                                             • Position the circles on a square such that no two 
+                                             overlap and the center of each circle lies within the 
+                                             square.
+
+                                             • Connect the centers of touching circles to one an-
+                                             other with axial creases, dividing the square into axial 
+                                             polygons.
+
+                                             • Identify tiles whose circles match up with the 
+                                             circles in the axial polygons.
+
+                                             • Fill in the axial polygons with tile creases.
+
+                                             The resulting pattern can be folded into a base with the 
+                                         number and dimension of ﬂaps with which you started.
+
+                                         9.4. Scale of a Circle Pattern
+                                         One aspect of the circle method of design that we have already 
+                                         seen is that corner ﬂaps consume less paper than edge ﬂaps, 
+                                         which consume less paper than middle ﬂaps. Turn this property 
+                                         around, and you ﬁnd that for a given size square, you can fold 
+                                         a larger model (with fewer layers of paper) if you use corner 
+                                         ﬂaps rather than edge ﬂaps, and edge ﬂaps rather than middle 
+                                         ﬂaps. Seen in the light of the circle method, the traditional 
+                                         Crane—and the Bird Base from which it comes—is an extremely 
+                                         efﬁcient design, since all four ﬂaps are corner ﬂaps, and almost 
+
+     298
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

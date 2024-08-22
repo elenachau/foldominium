@@ -1,0 +1,21 @@
+                                       4.5.27
+
+The origami design is complete!
+   Remove Creases                      1R
+ Removes all creases from the image.
+    Build Polys & Creases              16
+ Builds both polygons and creases in a single step.
+
+    Conditions
+ The Conditions menu contains commands for applying or removing conditions from the origami
+ design. A condition is a way of imposing additional requirements on the crease pattern beyond
+ the bare minimum required for foldability. For example, you might want to require that the
+ crease pattern be bilaterally symmetric (to match the subject), that certain flaps be corner or edge
+ flaps (to minimize the total thickness of the flap); that certain flaps be the same length no matter
+ how the tree is distorted due to strain; or that certain paths fall at particularly symmetric angles.
+ The requirements are met by creating objects called “conditions” and linking them to the tree.
+    Edit ConditionsÉ                   1=
+ The Edit Conditions… command puts up a dialog that displays all conditions and their settings,
+as shown in figure 4.5.28.
+
+                                 102

@@ -1,0 +1,18 @@
+3-Partition
+
+ • Given integers 1, 2, … , , can you partition 
+
+  into /3 triples with the same𝑛𝑛  sum? =
+       𝑛𝑛    𝑎𝑎 𝑎𝑎 𝑎𝑎    ∑𝑖𝑖 𝑎𝑎𝑖𝑖
+ • This problem is              :
+     𝑛𝑛     strongly NP-complete𝑡𝑡 𝑛𝑛⁄3
+  NP-complete even if numbers are ( )
+                               𝑂𝑂 1
+                  𝑎𝑎𝑖𝑖   𝑛𝑛
+                  ?
+                               …
+                       𝑡𝑡
+
+                                /3 triples
+
+                               𝑛𝑛

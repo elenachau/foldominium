@@ -1,0 +1,37 @@
+                                             It is tempting to think that we could keep applying the 
+                                         process to quadrilaterals and thereby reduce every uniaxial 
+                                         base to a collection of rabbit-ear molecules, but quadrilater-
+                                         als turn out to be special. If you add a circle to the center of 
+                                         a quadrilateral that touches three of the four circles, you will 
+                                         end up with two triangles and another quadrilateral. So it’s 
+                                         not possible, in general, to take a circle packing crease pattern 
+                                         down to consist entirely of rabbit-ear molecules by adding circles 
+                                         without altering any of the existing circles.
+                                             Thus, in the circle packing in Figure 10.49—which cor-
+                                         responds to a diagonally symmetric base with thirteen equal 
+                                         ﬂaps and two slightly longer ﬂaps at the sides—the axial creases 
+                                         outline triangles and four pentagons. By adding another circle 
+                                         (meaning another ﬂap) to each pentagon, each can be broken 
+                                         down into two quadrilaterals and a triangle.
+                                             Now all polygons can be filled in with molecular 
+                                         creases, giving the generic form crease pattern shown in 
+                                         Figure 10.50.
+
+
+            Figure 10.50. 
+            Generic form crease pattern for 
+            the ﬁfteen-ﬂap base, ﬁlled in 
+            with molecules.
+
+                                             I shall leave it as another challenge to you to fold this pat-
+                                         tern into a base. It is not easy, given all of the middle ﬂaps, but 
+                                         you can easily derive the proportions by folding alone; many of 
+                                         the key lines propagate at multiples of 22.5°.
+                                             You might wonder, what would one ever make from a 
+                                         ﬁfteen-ﬂap base? I have used this circle packing for a ﬂying 
+                                         Eupatorus gracilicornis (a horned beetle), although instead of 
+                                         breaking up the axial polygons in this way, I used a pentagonal 
+
+     382
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

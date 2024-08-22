@@ -1,0 +1,50 @@
+                           EF
+
+                                 B      A      B
+
+
+                                     B      B
+
+                                 C              C
+                                                                        Figure 11.11. 
+                         GHThe pattern of leaf vertices and 
+                                  CC                                    axial paths with circles and 
+                                                                        rivers from the corresponding 
+                                        D                               base.
+
+            ply the branch vertices, points along the axial paths that cor-
+            respond to the branch nodes of the tree. The creases that ﬁll in 
+            this structure will be those creases that collapse the individual 
+            polygons so that the branch vertices around the perimeter of each 
+            polygon are aligned. And so, the molecular crease patterns we 
+            have seen—rabbit-ear (for triangles), Waterbomb, arrowhead, 
+            gusset, and sawhorse (for quadrilaterals)—will be the patterns 
+            that ﬁll in these axial polygons as well.
+                You can also see from Figure 11.12 that the use of nonover-
+            lapping circles and rivers is simply a geometric way of enforc-
+            ing the path conditions that apply to pairs of leaf vertices. For 
+            example, take the case of two leaf nodes with a single branch 
+            node between them as shown in Figure 11.12. If the two leaf 
+            nodes are separated by edges with lengths a and b, then the 
+            path condition between their corresponding leaf vertices in the 
+            crease pattern would be
+
+
+                              uAB− u   ≥m() a + b .             (11–2)
+                 
+
+
+            A                                              A
+                                                                 ma
+                 a                                                            mb
+                       C           B                                                B
+                              b
+
+
+            Figure 11.12. 
+            Left: a tree with two leaf nodes. 
+            Right: use of nonoverlapping circles to represent the path conditions.
+
+                                                                                                     413
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

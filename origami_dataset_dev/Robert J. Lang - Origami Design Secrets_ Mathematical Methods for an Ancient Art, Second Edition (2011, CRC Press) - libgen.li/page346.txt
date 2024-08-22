@@ -1,0 +1,44 @@
+                                         Similar urchins by others, including Toshiyuki Meguro, who 
+                                         pioneered circle-packing design methods in Japan, abound.
+
+                                         9.12. Comments
+                                         The circle method of origami design described in this chapter 
+                                         can be an extremely powerful tool for designing complex ori-
+                                         gami models, particularly beetles and insects. For any pattern 
+                                         of circles, there exists a folding method that transforms that 
+                                         pattern into a base with the proper number and size of points. 
+                                         However, although the technique of packing circles guarantees 
+                                         that a folding sequence exists to convert the circle pattern into 
+                                         a base, it doesn’t provide much guidance as to how to execute 
+                                         a step-by-step folding sequence for that base—a shortcoming 
+                                         of most algorithmic origami design. So even if you work out a 
+                                         circle pattern, you still have some work ahead of you to ﬁgure 
+                                         out how to fold the crease pattern into a base.
+                                             By packing circles densely so that each circle touches sev-
+                                         eral others, we can connect the centers of touching circles with 
+                                         creases, which turn out to be axial creases in the base. If the 
+                                         polygons and circle fragments outlined by the axial creases turn 
+                                         out to resemble the circle patterns of known tiles, we can ﬁll 
+                                         in the polygons with tile crease patterns and, voilà, construct 
+                                         the full crease pattern for an origami base.
+                                             Furthermore, we can, with some further effort, add riv-
+                                         ers of constant width to the circle packing to create bases that 
+                                         contain segments separating groups of ﬂaps. These circle/river 
+                                         patterns, too, may be ﬁlled in with crease patterns if they hap-
+                                         pen to correspond to known tiles.
+                                             But that’s a very big if. While we have progressed a long 
+                                         way in designing origami bases, so that we can start with any 
+                                         number, length, and connectivity of ﬂaps we desire, we are 
+                                         still dependent upon the existence of tile patterns for ﬁlling in 
+                                         the creases of the axial polygons. There is no guarantee that 
+                                         such tiles exist.
+                                             At least, there is no guarantee just yet. But as we will see 
+                                         in the next chapter, there is a small number of general-purpose 
+                                         crease patterns that will allow us to ﬁll in any circle pattern 
+                                         whatsoever. These patterns—some new, some old—provide the 
+                                         ﬁnal step in the construction of a generalized uniaxial base.
+
+
+     334
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

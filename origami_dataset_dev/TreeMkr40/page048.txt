@@ -1,0 +1,47 @@
+With only 3 or 4 flaps in the tree, they
+will almost inevitably be edge flaps.
+However, even with as few as 5 flaps,           3
+                                                                       2
+you will find that one or more flap will
+tend to move into the middle. For
+example, suppose we want a base with                2           1
+five equal-length flaps. Construct a tree            1.000      1.000
+as shown in figure 3.3.1.
+                                                         1
+Depending on the initial configuration of        3
+                                          4       1.000
+nodes, there are two optimum                                    5
+arrangments of node circles, shown in                            1.000
+figure 3.3.1. If you start with the initial             4               6
+configuration above, then you will                       1.000
+probably wind up with the solution
+shown in figure 3.3.2, which has a scale
+of 0.323.                                               5
+
+
+                                                       3.3.1
+
+
+                                                    3           1           2
+
+
+                                                      2           1
+                                              1        1.000      1.000
+                                                                            1
+
+                                                         1
+                                                3
+                                        4       1.000             5
+                                                                  1.000
+                                                                            6
+                                                        4
+                                                1        1.000
+                                                                  1
+
+
+                                                        5
+
+                                                       3.3.2
+
+
+                                  48

@@ -1,0 +1,37 @@
+            base by exploiting both the variation in length and importance 
+            of the different ﬂaps in the base.
+                The ﬂaps fall into several logical groupings. The longest 
+            ﬂaps are the eight legs. Although the legs of an actual taran-
+            tula vary in length, they are close to the same length, and the 
+            symmetry and foldability of the base will likely be higher if 
+            we choose them all to be the same length. Thus, the eight legs 
+            form the ﬁrst group.
+                The next group would consist of the pedipalps, which 
+            are generally about half as long as the legs. We could start by 
+            choosing their length to be exactly half of the leg length, but 
+            in practice, anything from about 40% to 60% would probably 
+            give a workable model.
+                Next, the abdomen is also about half the length of a leg. 
+            Since there’s only one abdomen ﬂap, but two pedipalp ﬂaps 
+            that must come as a matched pair, we’ll give the paired ﬂaps 
+            a higher priority; ﬁt them in ﬁrst, then try to ﬁnd a space for 
+            the abdomen.
+                Last comes the head ﬂap. Since the cephalothorax of a 
+            tarantula is quite short, we almost don’t need this ﬂap at all, 
+            so we can just count on tucking it in somewhere in the ﬁnished 
+            packing.
+                Let’s now work through the circle packing step by step. 
+            The ﬁrst step is to pick the symmetry line of the base: Will it 
+            be oriented parallel to a side (book symmetry) or along the 
+            diagonal (diagonal symmetry)? Let’s choose book symmetry 
+            for starters. The ﬁrst step will be to pack the eight leg circles 
+            into the square.
+
+
+            Figure 9.17. 
+            Left: starting conﬁguration. 
+            Right: crystallized circle packing.
+
+                                                                                                     309
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

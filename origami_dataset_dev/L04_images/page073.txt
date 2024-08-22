@@ -1,0 +1,21 @@
+Eggbox: Discrete Voss Surface
+
+
+• Use Complementary Folding 
+  Angle for “Complementary 
+  Foldline”
+                               Complementary Folding Angle
+                                           ′      ′
+                            ρ1= ρ 3  =π − ρ1 = π − ρ3
+   ρ ()t       ρ ()t 
+ tan 0         tan 0 0      ρ=  ρ
+    2           2        0   2
+   ρ ()t       ρ ()t 
+    1           1 0       ρ0    1+cos()θ0 − θ 1 ρ1
+ tan     = λ()t tan         tan  =              cot
+    2           2          2    1+cos()θ + θ   2
+                                     0  1
+   ρ N ()t    ρ N ()t0                          ′
+ tan           tan                  1+cos()θ0 − θ 1 ρ1
+   2         2           =              tan
+                                    1+cos()θ0 + θ 1 2

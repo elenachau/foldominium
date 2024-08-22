@@ -1,0 +1,44 @@
+            can be constructed geometrically or computed, and the gusset 
+            molecule for Figure 14.54 is shown in Figure 14.55. And yes, 
+            indeed, as you can see: once we construct the gusset molecule, 
+            all of the contours connect properly to their counterparts on 
+            the other sides.
+
+
+                                                                       Figure 14.55. 
+                                                                       Filling in the hinge polygon with 
+                                                                       the appropriate gusset molecule 
+                                                                       allows all of the contours to line 
+                                                                       up with their counterparts on 
+                                                                       other sides of the hinge polygon.
+
+                So this tells us that we can, in fact, use any quadrilateral 
+            whatsoever as a hinge polygon; if it has integer sides, we can 
+            ﬁnd the straight skeleton to tell us approximately how the 
+            contours should line up with one another, then use the gusset 
+            molecule to perturb the ridge creases in such a way that they 
+            line up exactly the way we want.
+                And did we have to give up anything to get this ﬂexibil-
+            ity? Yes: a little bit of length. In theory, the ﬂap made from 
+            this polygon should be as long as the radius of its maximum 
+            inscribed circle (shown in Figure 14.55). If, however, you 
+            measure the length of the resulting ﬂap (it is given by the 
+            length of the longest axial+1 contour in the ﬁgure), you will 
+            see that we have given up a little bit of length. In essence, we 
+            have traded some of that length for uniformity of the crease 
+            pattern. In many cases, it is an acceptable tradeoff.
+                Wasn’t it a nice coincidence that the gusset molecule, 
+            which we use to ﬁnd ridge creases inside active polygons, 
+            works as well to ﬁnd ridge creases inside hinge polygons? It is 
+            indeed nice—but it’s not just a coincidence. In fact, there is a 
+            deep duality between the axial polygons of tree theory and the 
+            hinge polygons of polygon packing, and the same algorithms 
+            work for both in many situations. So just as the gusset mol-
+            ecule works to bring points along the edges into alignment for 
+            both axial quadrilaterals and hinge quadrilaterals, for hinge 
+            polygons with larger numbers of sides, the universal molecule 
+            algorithm will work as well, in exactly the same way.
+
+                                                                                                     675
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

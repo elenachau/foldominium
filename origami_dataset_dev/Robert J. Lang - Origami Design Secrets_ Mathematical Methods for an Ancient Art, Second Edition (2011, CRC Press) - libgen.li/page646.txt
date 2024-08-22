@@ -1,0 +1,42 @@
+                                         vary is their width relative to their length. For many designs, 
+                                         even this is not too important: a fat ﬂap can be narrowed, par-
+                                         ticularly easily if it has been turned at a right angle relative 
+                                         to the axis during the shaping folds.
+                                             So the primary motivation for picking the basic unit is 
+                                         to establish a sort of minimum feature size. This becomes 
+                                         particularly important when the desired subject has a fairly 
+                                         wide region—the main body, for example. One can use level 
+                                         shifters fairly easily to double the width of a portion of a model, 
+                                         but higher multiples are trickier: one must use multiple level 
+                                         shifters, or more complex level shifters, and the shifting itself 
+                                         consumes paper that might have been desired for other pur-
+                                         poses.
+                                             Once we have established a grid, we very often would like 
+                                         to keep all of the creases on the grid—ideally, without using 
+                                         level shifters at all. That means that in every region of the 
+                                         paper, we would like our contours to alternate axial, axial+1, 
+                                         axial, axial+1, and so forth.
+                                             This goal may not be possible, though. In fact, it is possible 
+                                         to choose hinge polygons that make this choice impossible. A 
+                                         situation that arises not infrequently is to have a middle ﬂap 
+                                         positioned along the center line of the base, which is usually 
+                                         an axial fold (so that the base can be opened out in plan view). 
+                                         When this situation occurs, the contour down the center is axial; 
+                                         the contour one unit away is axial+1; and then they alternate 
+                                         from there, as shown in Figure 14.11, as one moves around the 
+                                         outside of the polygon.
+
+
+            Figure 14.11. 
+            A hinge polygon centered on an 
+            axial contour.
+
+                                             Now, if we start with an axial contour in the middle and, 
+                                         as shown on the left in Figure 14.11, start working our way 
+                                         around the polygon, we ﬁnd that when we get to the middle 
+                                         of the left side, there are two axial+1 contours one unit apart. 
+                                         That means there must be a folded contour halfway between 
+
+     634
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,29 @@
+                                             For any given corner, there is only one way of making an 
+                                         open sink, but there are multiple ways of forming closed sinks; 
+                                         in fact, a sink can be open at one end and closed at the other, 
+                                         an arrangement called a mixed sink. The different varieties 
+                                         are not always distinguishable from the outside, as different 
+                                         arrangements of interior (hidden) layers can have the same 
+                                         outward appearance. For a quadrilateral sink—one with four 
+                                         ridges running down from the top point—there are nine distinct 
+                                         conﬁgurations. They and their crease patterns are shown in 
+                                         Figure 2.47.
+
+
+             Open sink
+
+
+             Mixed sink
+
+
+             Mixed sink
+
+
+            Closed sink
+
+                                         Figure 2.47. 
+                                         The nine distinct types of sink for a four-ridged point.
+
+      38
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

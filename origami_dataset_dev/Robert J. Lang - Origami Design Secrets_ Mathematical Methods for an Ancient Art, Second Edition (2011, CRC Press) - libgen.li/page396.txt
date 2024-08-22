@@ -1,0 +1,27 @@
+                                         Figure 10.52. 
+                                         Crease pattern, base, and folded model of the Silverﬁsh.
+
+                                         chief architects of these techniques showed off their latest and 
+                                         greatest winged, horned, antennaed, and sometimes spotted 
+                                         and striped creations. It was an entomologist’s delight (and 
+                                         an arachnophobe’s nightmare), and the contest is still going 
+                                         on with new revelations every year.
+                                             In circle/river-method designs, the packing of the circles 
+                                         and rivers into the square is still a bit ad hoc; the designer 
+                                         must shufﬂe circles on paper (or actually manipulate card-
+                                         board circles) to ﬁnd an efﬁcient arrangement; but there is no 
+                                         particular prescription for ﬁnding an efﬁcient arrangement, 
+                                         let alone the most efﬁcient arrangement. Circles and rivers 
+                                         are a wonderful tool for visualizing paper usage, but they can 
+                                         also be a distraction from some of the underlying principles. 
+                                         By reintroducing a concept we have already seen—the stick 
+                                         ﬁgure or tree—and building connections between properties of 
+                                         the tree and the crease pattern directly, in the next chapter we 
+                                         will be able to construct rigorous mathematical tools that al-
+                                         low the numerical solution of both locally and globally efﬁcient 
+                                         crease patterns.
+
+
+     384
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,48 @@
+ The Tree class has two friend classes, TreeCleaner and TreeFile, which are utilized for
+housecleaning and persistence, respectively.
+
+The references contained by a Tree are summarized below. Names in bold refer to inherited
+member variables.
+Object    References          What
+
+Tree      mOwnedNodes         All nodes in the primary tree (i.e., not including nodes
+                              in the interior of a poly, which are owned by the poly
+                              itself)
+
+          mOwnedEdges         All edges in the primary tree
+
+          mOwnedPaths         All paths in the primary tree (i.e., not including
+                              reduced paths inside a poly, which are owned by the
+                              poly)
+
+          mOwnedPolys         All top-level polygons (i.e., not including polys that
+                              are subpolys)
+
+          mNodes              All nodes
+
+          mEdges              All edges
+
+          mPaths              All paths
+
+          mPolys              All polygons
+
+          mConditions         All conditions
+
+          mVertices           All vertices
+
+          mCreases            All creases
+ Node
+
+ A Node is the data structure that represents a node of a planar graph. There are several types of
+ planar graph utilized in TreeMaker; there is the top-level graph, which is the target of the
+ modeling; but there are also sub-graphs that are used in the process of insetting polygons.
+
+ There are two types of Node. A “tree node” is a node that is part of the tree and is owned by the
+ tree. Tree nodes come in two flavors: terminal nodes, which have exactly one edge, and internal
+ nodes, which represent nodes where two or more edges come together.
+
+ A “poly node” is a node that is owned by a poly. Poly nodes are the reduced images of tree
+ nodes; so all poly nodes are also reduced nodes.
+
+
+                                 164

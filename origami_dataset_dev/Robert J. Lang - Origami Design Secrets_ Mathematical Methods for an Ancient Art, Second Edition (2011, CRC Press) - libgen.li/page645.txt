@@ -1,0 +1,30 @@
+            layered 1-unit-wide ﬂaps, given by the perimeter of the ﬂap 
+            polygon, expressed in those same units.
+                So, for example, one can “fatten up” a corner ﬂap by add-
+            ing a few more grid squares to the bite it takes out of the corner 
+            of the crease pattern, as illustrated in Figure 14.10.
+
+
+            Figure 14.10. 
+            Left: a minimum-size corner ﬂap. 
+            Right: the ﬂap fattened by adding two more units of width.
+
+                A similar technique can be used to fatten up an edge or 
+            middle ﬂap (although the circumstances where you would 
+            want to fatten a middle ﬂap are rare indeed).
+                A side beneﬁt to ﬂap thickening comes when folding 
+            insects. The addition of one or two units to the width of 
+            the ﬂap has the effect of squaring off the end, as shown in 
+            Figure 14.10. This squared-off end can then be easily point-
+            split—creating, for example, the pair of claws at the end of 
+            many insects’ feet.
+
+            14.3. Whole vs. Half-Integer Widths
+            In theory, the exact grid that one uses to make a uniaxial box-
+            pleated base is not that important: if there are three sets of 
+            legs, they’ll have the same relative proportions whether they 
+            are 1, 2, and 3 units long; 2, 4, and 6; or 3, 6, and 9. What will 
+
+                                                                                                     633
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,30 @@
+                                         Figure 14.48. 
+                                         Contour map and folded model of a hex-pleated Scorpion HP.
+
+                                         14.8. Arbitrary Polygons
+                                         Box-pleating and hex-pleating are not the only way to employ 
+                                         polygon packing. If we are careful with our selection of polygons, 
+                                         we can use polygons whose sides run at many different angles, 
+                                         and, in fact, angles that are not integer subdivisions of a circle. 
+                                         As long as the contours along the outside of the polygon are 
+                                         evenly spaced, polygons and rivers will all mate nicely with 
+                                         one another along their edges, no matter what the angles of 
+                                         the polygons and rivers are.
+                                             Polygons on a grid insured “nice mating,” though. When 
+                                         a polygon is formed on a grid, we can draw evenly spaced 
+                                         contour lines all the way around the polygon with no hiccups 
+                                         in the spacing. For purposes of mating polygons, it’s not ter-
+                                         ribly important what goes on inside the polygon; what matters 
+                                         are the points on the outline of the polygon where quantized 
+                                         contours hit those of the adjacent polygon. If we mark these 
+                                         points on the outside of a polygon, we can be assured that two 
+                                         such polygons will mate and their contours will line up, and 
+                                         no undesirable new contours will be created.
+                                             But we don’t necessarily need a grid to force this condi-
+                                         tion. For some polygons, simply controlling the side lengths is 
+                                         sufﬁcient. Consider, for example, a triangular hinge polygon 
+                                         with an integer number of contour lines along one side. We 
+
+     670
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

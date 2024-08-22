@@ -1,0 +1,37 @@
+                                                                        Figure 10.45. 
+                                                                        A ﬁve-circle base with all ﬁve 
+                                                                        circles on the edge of the square 
+                                                                        yields an axial polygon with 
+                                                                        ﬁve sides.
+
+                Figure 10.46 shows a generic form crease pattern for this 
+            ﬁve-circle polygon, which yields a ﬁve-ﬂap molecule. It is very 
+            similar to the quadrilateral gusset molecule, which suggests 
+            that, perhaps, there is a pentagonal gusset molecule as well.
+
+
+                                                                        Figure 10.46. 
+                                                                        Generic form crease pattern for 
+                                                                        a ﬁve-circle molecule.
+
+                In fact, for ﬁve identical circles, there are many pentagonal 
+            gusset molecules, which depend on the speciﬁc arrangement 
+            of the circles. Figure 10.47 shows three such molecules, which 
+            are obtained by slight perturbations to a packing of ﬁve circles 
+            into a square. Unfortunately, there does not appear to be a 
+            simple way to geometrically construct the molecule from the 
+            circle packing; in fact, it isn’t even clear where the gussets go 
+            to allow the pentagon to collapse with its edges on a line and 
+            the tangent points aligned. (The patterns in the ﬁgure were 
+            computed numerically—we will see how to do this later on.) 
+            Furthermore, relatively slight changes in the arrangement of 
+            the circles can make signiﬁcant changes in the arrangements 
+            of the creases and gussets.
+                The explosion of possibility for ﬁve and higher numbers of 
+            sides is worrisome. Fortunately, it isn’t necessary to enumerate 
+            all unique molecules for higher-order polygons; there is a way 
+            to transform any higher-order polygon into a combination of 
+
+                                                                                                     379
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

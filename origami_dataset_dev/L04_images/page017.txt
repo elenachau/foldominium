@@ -1,0 +1,27 @@
+Geometric Constraints
+ (Inequalities) 
+
+•  2D Cond.
+                      θ()i, o ≥ π
+    –  Convex Paper
+                      w() i, o ≥ 0   Convexity of paper     Non intersection
+                                                            (convexity of molecule)
+    –  Non-intersection −π < θ()i, j < π
+                     min(w()() i, j , w j , i ) ≥ 0
+
+                     0 ≤ Θm < π
+    –  Crease pattern non-intersection
+                             1
+                     2()i , j cos θ () i, j
+          φ()i, j ≤ arctan   2     + 5.0 π
+                      w()() i,, j+ w j i
+•  3D Cond.                              展開図の妥当条件： 頂点襞分子iと稜線襞分子ijが共有す
+    for tuck proxy angle τ ′()iand, j  depth d′() i る辺を含むDelaunay三角形の頂点角φ(i, j)を用いる。
+    –  Tuck angle condition
+                    1
+               φ()i, j− θ()() i, j ≤ π − τ ′ i, j
+                    2
+    –  Tuck depth condition
+                          1    
+            w()() i, j ≤ 2sinτ′ i, j− α()() i, j d′ i
+                          2    

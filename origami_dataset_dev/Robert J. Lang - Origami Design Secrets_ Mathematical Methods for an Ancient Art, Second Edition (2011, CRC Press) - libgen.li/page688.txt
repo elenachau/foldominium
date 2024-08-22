@@ -1,0 +1,50 @@
+                                             (Note, however, that not everything carries over. The 
+                                         universal molecule was only deﬁned for convex axial polygons. 
+                                         Hinge polygons, though, may be nonconvex; a generalization of 
+                                         the universal molecule to nonconvex polygons is still needed.)
+                                             Ultimately, one could choose entirely irregular hinge poly-
+                                         gons and then use the universal molecule to force regularity of 
+                                         the axis-parallel creases, at the expense of some irregularity 
+                                         around the tips of the ﬂaps. That approach is in some sense a 
+                                         dual to the use of tree theory, which insures clean, sharp tips 
+                                         of ﬂaps but generally results in irregular axis-parallel creases 
+                                         when the base is sunk and countersunk to a constant width.
+                                             Either extreme results in a lot of irregularity. The sweet 
+                                         spot in origami design is reached by striking a balance between 
+                                         irregularity and regularity in the design, so that one can achieve 
+                                         one’s aesthetic goals in the ﬁnished model and, hopefully, create 
+                                         an interesting and efﬁcient design along the way. 
+                                             As an example of an irregular structure that one might 
+                                         incorporate into a combination of grid-based and other polygon 
+                                         packing, I’d like to return to a structure we saw a bit earlier 
+                                         in this chapter. Both the Cicada Nymph and the Scorpion HP 
+                                         included segmented regions in their bodies. The way those seg-
+                                         ments were obtained was to create a series of short ﬂaps spaced 
+                                         out along a longer ﬂap—the abdomen of the Cicada Nymph 
+                                         and the body of the Scorpion, respectively. Those are special 
+                                         examples of a general concept I call a comb: a series of equal or 
+                                         nearly equal ﬁlaments spaced out along a longer shaft. 
+                                             In a circle-packed or polygon-packed representation, a 
+                                         comb consists of a series of rivers that spread apart to have 
+                                         circles inserted between them. Those circles constitute the se-
+                                         ries of ﬁlaments; the bundle of rivers gives the gaps between 
+                                         each ﬁlament along the shaft, as illustrated in Figure 14.56.
+                                             It’s pretty clear that this pattern could be extended arbi-
+                                         trarily for larger numbers of ﬁlaments. It’s also clear that by 
+                                         varying the sizes of the circles while keeping the river widths 
+                                         ﬁxed (or vice versa), we could alter the ratio between the ﬁla-
+                                         ment length and the gaps between ﬁlaments. Larger circles 
+                                         mean longer ﬁlaments; narrower rivers mean smaller gaps.
+                                             What is less obvious from this example is that we can in-
+                                         dependently vary the angle that the rivers bend as they turn 
+                                         around the circles. You can see that from the two appearances 
+                                         of this concept in the crease patterns of the Cicada Nymph and 
+                                         Scorpion HP; in the Cicada, the rivers turn at right angles (as 
+                                         in the above); in the Scorpion, they bend at 60°.
+                                             In fact, one can choose the bend angle arbitrarily, and that 
+                                         allows for another degree of design freedom. In the Cicada and 
+                                         Scorpion HP, I used this structure to realize a segmented body; 
+
+     676
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

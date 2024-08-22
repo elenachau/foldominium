@@ -1,0 +1,64 @@
+         −σ      σ   ∈  s
+ minimize    over { ,ui U } s.t.
+
+     ≤    ≤          ∈  s
+ (1) 0 ui, x w  for all ui U
+
+     ≤    ≤          ∈  s
+ (2) 0 ui, y h for all ui U
+
+                             
+                             
+         []()+ σ +    ()+ σ     −     −    2+−2≤                   ∈  t
+ (3) m ∑ 1    lk  ∑[]1    k lk  ()ui,x uj,x ()ui,yuj,y0 for all pij , P
+       ∈            ∈
+     ekpij        ekpij      
+       ∈ s          ∉ s
+     ek E         ek E       
+
+ Equation (3) can be broken into a fixed and variable part:
+
+              σ  ⋅    []+       ()+σ    −     −    2+−2≤
+              {   ml∑  k  m∑[]1     klk    ()ui, x u j, x ()ui,yuj,y0
+                    ∈        ∈            1244444344444
+             variable ek pij ekpij
+                   e ∈E s   e ∉E s                 fixed or
+                  12434k   1244k  443              variable
+                    fixed       fixed
+Note, however, that the last term may or may not be a mixture of fixed and variable parts
+depending upon which nodes are moving.
+
+   6.5   Strain Optimization
+
+Strain optimization is used to distort the edges of the tree minimally in order to impose other
+global constraints, e.g., symmetry, particular angles, etc, on the overall crease pattern. As with
+edge optimization, the overall scale is fixed, but in this case, rather than maximizing the same
+strain for all affected edges, the strain optimizer minimizes the RMS strain for a large set of edges
+with each edge potentially having a different strain. As with the strain optimizer, there is a set of
+strainable edges E s and a set of moving nodes U s . The strain optimizer solves the problem:
+
+            σ 2     σ        ∈  s
+         ∑   i     { i ∈ s ,u j U }
+ minimize       over  ei E        s.t.
+          ∈ s
+         ei E
+
+     ≤    ≤          ∈  s
+ (1) 0 ui, x w  for all ui U
+
+     ≤    ≤          ∈  s
+ (2) 0 ui, y h for all ui U
+
+                              
+                              
+          ()+ σ   +    ()+ σ    −      −    2+−2≤                   ∈ t
+ (3) m ∑[]1  k lk  ∑[]1    k lk  ()ui,x uj,x ()ui,yuj,y0 for all pij , P
+       ∈             ∈
+     ekpij         ekpij      
+       ∈ s           ∉ s
+     ek E          ek E       
+
+ Equation 3 can also be broken into a fixed and variable part:
+
+
+                                 145

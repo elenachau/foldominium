@@ -1,0 +1,46 @@
+            tion) or it runs off the paper. But eventually, this process, too, 
+            will terminate. If we create new contour lines between every 
+            pair of contour lines that have the same elevation, eventually 
+            the process of contour line creation, propagation, and bounc-
+            ing will terminate. And we will now have all of the potential 
+            crease lines of the base: hinges, ridges, axial contours, and 
+            off-axial contours.
+
+                                                   nonzero elevation
+
+                                                   zero elevation (axial)
+
+
+                                                                       Figure 13.30. 
+                                                                       Construction of a nonzero-ele-
+                                                                       vation contour line between two 
+                                                                       equal-elevation lines.
+
+                In many cases, there are only two sets of contour lines 
+            needed: axial contours, at zero elevation, and a second set at 
+            some nonzero elevation. The spacing between parallel contour 
+            lines ends up setting the width of the ﬂaps of the base. It is 
+            possible to create multiple sets of contour lines at multiple 
+            elevations, yielding ﬂaps with multiple widths (and so, for 
+            example, giving a beetle a wide body but narrow legs). The 
+            possible elevation assignments then grow rapidly. But no 
+            matter how you assign the elevations, it is possible to unam-
+            biguously determine which ones are folded, and, for many of 
+            them, determine the fold direction by the simple rule that if a 
+            contour line is surrounded by higher elevations, it is a valley 
+            fold; if it is surrounded by lower elevations, it is a mountain 
+            fold; and if the elevation is higher on one side and lower on 
+            the other, then it is unfolded, as shown in Figure 13.31.
+                (As with the generic form crease assignment seen earlier, 
+            this rule will assign all axials to be mountain, which is only 
+            an approximation; for some middle ﬂaps, axial creases will 
+            turn out to be valley.)
+                And that completes the basic algorithm for uniaxial box 
+            pleating. You now have all of the folds: the hinges between the 
+            ﬂaps; the ridges (diagonals, mostly); and axial and off-axial 
+            contour folds (the latter of which are now the analogs of gus-
+            set creases in circle-packed bases). The fold directions are not 
+
+                                                                                                     599
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

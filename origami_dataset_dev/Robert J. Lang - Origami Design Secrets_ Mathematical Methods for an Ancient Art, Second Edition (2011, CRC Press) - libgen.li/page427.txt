@@ -1,0 +1,60 @@
+                            A
+                        a
+                               a                          E
+                     D                                                                           C
+                                 D                                    C                     c
+                            E                                    c
+                                                                         B
+                 b                  c                                            b
+                                            B       b                                  D
+                                                          D                                 a
+                                                             a
+                                                                A
+            B                          C                                                      A
+                    bcD
+            Figure 11.14. 
+            Generic form crease pattern, folded form, and tree graph for a rabbit-
+            ear molecule.
+
+            particular tree graph (a subtree of the base’s tree graph) to 
+            which it corresponds.
+                As we have seen, there is a single triangle molecule, the rab-
+            bit-ear molecule. It has three ﬂaps that come to a common point; 
+            thus its tree has three leaf nodes and three edges, which are 
+            joined at a common branch node, as shown in Figure 11.14.
+                If you are folding the axial polygon, you can ﬁnd the inter-
+            section of the angle bisectors—point E in the ﬁgure —by pinch-
+            ing each corner in half along the bisector and ﬁnding the point 
+            where all three creases come together. If you are calculating 
+            the crease locations numerically, there is an elegant formula 
+            for the location of the intersection of the angle bisectors of an 
+
+            arbitrary triangle. If pA, pB, and pC are the vector coordinates 
+
+            of corners A, B, and C and pE is the coordinate of the bisector 
+
+            intersection, then pE is given by the formula
+
+                           p ()()()b+ c +p c + a +p a + b
+                      p  =  A         B         C
+                       E            2(a+ b + c )
+                           p  ()()()sb − ac +p sc − ba +p sa − cb
+                          =  A   +     B   +     C   + 
+                                       s2s                      (11–3)
+
+            where s is the perimeter of the triangle. That is, the location of 
+            the bisector intersection is simply the weighted average of the 
+            coordinates of the three corners, with each corner weighted by 
+            the length of the opposite side.
+                What happens when one of the sides of the triangle is not 
+            an active path? This can happen, for example, when one of the 
+            sides of the triangle lies along an edge of the square; all of the 
+            triangles in Figure 11.8 are of this type. Since the distance 
+            between any two leaf vertices must be greater than or equal 
+            to the minimum path length, the side that isn’t an active path 
+            must be slightly too long to be an active path rather than too 
+            short. Fortunately, only a slight modiﬁcation of the rabbit ear 
+
+                                                                                                     415
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

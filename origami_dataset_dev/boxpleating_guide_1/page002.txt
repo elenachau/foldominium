@@ -1,0 +1,19 @@
+Let’s apply this knowledge to the CP at hand.
+
+
+You should find 36 flaps in this CP which is quite a lot.
+To determine the length of the flaps we first have to know how a flap looks like in the CP.
+A flap will always have the form of a square in varying sizes with the just found end points as centre.
+An exception are edge flaps which might seem to be rectangles because a part of the square is outside
+of the paper.
+                                             1 unit flap
+
+                                             2 unit flap
+
+                                             3 unit flap
+
+                                             4 unit flap
+
+The crease distribution inside a flap square will always look exactly the same, so when trying to find
+the length of a flap we are looking for the largest possible square around the flap end point which looks
+like in the picture above.

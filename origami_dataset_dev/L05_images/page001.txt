@@ -1,0 +1,18 @@
+              MIT 6.849
+        Geometric Folding Algorithms
+               Prof. Erik Demaine
+
+                  Lecture 6:
+             Origami ArtText and Design
+
+                Guest Lecturer:  
+                  Jason Ku
+             origami-info@mit.edu
+
+              September 27, 2010
+
+                                         1
+Jason Ku
+President of OrigaMIT
+Mechanical Engineering Bachelor's, MIT ’09
+PhD student in Mechanical Engineering working in folding on the micro and nano scales

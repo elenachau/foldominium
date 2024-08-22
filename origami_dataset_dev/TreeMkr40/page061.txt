@@ -1,0 +1,45 @@
+                                 N     angle
+
+                                 445°
+
+                                 630°
+
+                                 8     22.5°
+
+                                 12    15°
+
+                                 16    11.25°
+
+ The most common choice is N=8, which corresponds to the angles you find in a Bird Base, but
+ there are many other useful possibilities to be found in the other angles, and I have found
+ interesting structures for N=10 as well.
+
+ We’ll work with N=8 for now. Type in 8 and click OK.
+
+Note that the node circles have turned
+green, indicating that there’s a condition                4
+imposed on the nodes (actually, on the           3                 3
+paths connected to the nodes). However,                 3
+both ordinary polygon paths and polygon 7                1.000              8
+paths with conditions on them are              6                 7
+                                                1.000             1.000
+displayed in black.                                     3
+                                              3                       3
+In principle, you should be able to re-                2
+optimize; however, due to a quirk in                    1.000
+TreeMaker’s nolinear optimizer,                         2
+TreeMaker has a tendency to settle onto a           2           2
+spurious solution in which the entire                   1
+crease pattern has shrunk into oblivion.                 1.000
+To prevent this tendency, we’ll need to        4                 5
+                                                1.000     1       1.000
+stitch some of the nodes to the edges of
+the square.                                      2                 2
+                                        5                                   6
+The two easiest to do this to are to stick
+nodes 5 and 6 to their present locations.
+Double-click on node 5 to bring up the                 3.5.5
+Node Editor.
+
+
+                                  61

@@ -1,0 +1,50 @@
+       Persistence
+
+ In memory, references to objects are made by pointers. To the user, and in storage, references are
+ maintained by the Part index. The Tree contains master lists of all Parts which are used solely for
+ storage and indexing. This lets us follow this model for reading in the structure:
+
+ 1. Create the appropriate number of blank, uninitialized Parts
+
+ 2. Read in each part, and “on the fly” convert all indices to Part references.
+
+ Every Part constructor supplies the Tree* variable separately from the owner variable.
+
+ Conditions, because they are polymorphic, are handled slightly differently, since we don’t
+ know a priori which type of blank Condition to create. Therefore, as described further in the
+ source code (TreeFile.cp), Conditions are created on the fly through the
+ ConditionRegistry object.
+
+       References: Ref<T> and RefList<T>
+
+ Because of the complexity of the data structure — most parts maintain several lists of related
+ parts (e.g., a Node has a list of all Paths that begin or end on it) — when we create or delete
+ parts, there are a lot of references to clean up, particularly when objects are deleted. Earlier
+ versions of TreeMaker maintained these references by pointers and lists of pointers.
+ Unfortunately, the program was frequently plagued by dangling pointers created when I failed to
+ clear all pointers scattered throughout the data structure that referenced a deleted part.
+
+ In TreeMaker 4.0, references and lists of references are maintained through the Ref<T> and
+RefList<T> template classes, which are essentially “smart pointer” classes. A Ref<T>
+behaves like a T* (you can dereference it both directly and indirectly and assign it to T*) but if
+you ever delete an object of type T, every Ref<T> that referred to it clears itself and subsequent
+attempts to dererence return NULL. This simplifies the programming, since I don’t need to clear
+such references explicitly, and it also eliminates a great many bugs since attempts to dererence a
+pointer to a deleted object (which snuck through in earlier versions) are converted to attempts to
+dereference a void*, which is more easily caught and eliminated.
+
+A  RefList<T> is similar to a Ref<T>. It behaves like a ListOf<T*>, except when an
+object from the list is deleted, its reference is completely removed from the list.
+Tree
+
+A Tree is the top-level data structure that contains and ties together the stick figure we are
+trying to represent and the crease pattern for the corresponding base. There is one unique Tree
+for each document.
+
+                            EdgeOwner
+                                            Tree
+                            PolyOwner
+                                      7.11
+
+
+                                 163

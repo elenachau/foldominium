@@ -1,0 +1,33 @@
+                What is less obvious but also a consideration is the length 
+            of the gap between circle pairs A–B and B–C. In the ﬁrst two 
+            patterns, the B–C circles are touching, indicating that their 
+            corresponding ﬂaps are joined at their base. Conversely, in the 
+            last pattern, circles A and B are touching with a gap between 
+            B and C, which means that ﬂaps A and B are joined at their 
+            base. By adjusting the size of the Kite Base embedded within 
+            the square and manipulating the circles that allocate paper for 
+            ﬂaps, you can adjust not only the length of the ﬂaps, but also 
+            their topology.
+                You can also graft other shapes into squares in a similar 
+            way. The design shown in Figure 15.13, for example, grafts the 
+            diamond of a Fish Base into a square.
+
+
+            Figure 15.13. 
+            Crease pattern, base, and folded model of a Mouse.
+
+                In all of the grafted Kite Base examples, the top point of the 
+            Kite Base becomes a relatively thick middle ﬂap. In the previous 
+            two models, this middle ﬂap ends up unused, sunken down into 
+            the model. But it would also be possible to use it for features, 
+            for example, by point-splitting, as we will see shortly.
+                One of the things you should always do when you learn a 
+            new technique is to ask: How can this be generalized? In the 
+            grafted Kite Base, an obvious generalization is to vary the size 
+            of the Kite Base relative to that of the bounding square. Another 
+            generalization, perhaps less obvious, but equally powerful, is 
+            to vary the apex angle of the Kite Base. Different angles give a 
+
+                                                                                                     711
+                                                                  Chapter 15: Hybrid Bases
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,29 @@
+                    A                                                A
+
+
+                                    B                                               B
+
+
+             Figure 5.25. 
+             Left: the kite creases terminate at points A and B. 
+             Right: the completed crease pattern. (The corner goes unused and 
+             should be folded down before making the creases.)
+
+                                        incompatible
+
+
+             Figure 5.26. 
+             Left: four wedges don’t let you put the outermost points on the raw 
+             edge of the ﬂap. 
+             Right: using narrower wedges permits this construction to be 
+             extended to ﬁve or more points.
+
+                  Another family of splits works particularly well for odd 
+             numbers of points. It’s shown in Figure 5.27 for three, ﬁve, 
+             and seven points (what would you ever use seven small points 
+             for?), but this method, like the other, generalizes in an obvi-
+             ous way.
+
+                                                                                                                 113
+                                                                         Chapter 5: Splitting Points
+© 2012 by Taylor & Francis Group, LLC

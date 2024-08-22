@@ -1,0 +1,31 @@
+                                         Figure 10.47. 
+                                         Three pentagonal circle packings and the associated generic form 
+                                         crease patterns that collapse them. Note how the gussets vary among 
+                                         the three patterns.
+
+
+                                         Figure 10.48. 
+                                         Left: add a circle and expand it until it hits its neighbors. 
+                                         Center: when the circle touches its neighbors, add axial creases be-
+                                         tween touching circles. 
+                                         Right: ﬁll in the resulting triangles and quadrilaterals with rabbit-
+                                         ear and gusset molecules.
+
+                                         triangle and quadrilateral molecules—what we called composite 
+                                         molecules. The basic idea is very simple. The paper that lies 
+                                         between the circles is, in a sense, unused. We can make use of 
+                                         it by adding a new circle of our own, as shown in Figure 10.48. 
+                                         Think of the existing circles as rigid disks; we add a small 
+                                         circle, then inﬂate it until it hits its neighbors. Once the circle 
+                                         contacts three others, it creates three new axial creases, which 
+                                         break down the higher-order polygon into several lower-order 
+                                         polygons.
+                                             Because a new circle has three degrees of freedom—the 
+                                         two coordinates of its center and its radius—you can always 
+                                         expand a circle until it hits at least three of its neighbors. (In 
+                                         Figure 10.48, because of the symmetry, we can actually get the 
+                                         new circle to touch four neighboring circles). When two circles 
+
+     380
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

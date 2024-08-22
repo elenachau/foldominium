@@ -1,0 +1,53 @@
+   p — pinned node: node can’t be moved without violating a path constraint
+
+   g — polygon node: node is a vertex of a valid polygon
+
+   c — conditioned node: node has one or more conditions applied to it
+
+Show edges — display the edges of the tree. Edges are shown as thick light blue lines. Pinned
+edges are shown in a lighter blue.
+
+Show edge indices — display the index of each edge at its midpoint
+
+Show edge labels — display any labels defined for edges
+
+Show edge length — display the length of each edge
+
+Always show edge strain — display the edge strain even if it’s equal to zero
+
+Show edge flags — display single-letter codes for the flags attached to each edge, which are:
+
+   p — pinned edge: edge can’t be lengthed without violating a path constraint
+
+   c — conditioned edge: edge has one or more conditions applied to it
+
+Show terminal paths — display all paths between terminal nodes (nodes with only 1 edge). Paths
+are shown as single-pixel-thick lines between nodes. Terminal paths are shown in red.
+
+Show internal paths — display all paths that connect to at least one internal node. Internal paths
+are shown in pale red.
+
+Show sub paths — display paths between sub nodes. Sub paths are shown in very pale red.
+
+Show invalid paths — display all paths whose actual lengths exceeds their computed minimum
+length. Invalid paths are shown in dark red.
+
+Show polygon paths — display all paths that are part of the network of active paths and
+polygons. Polygon paths are shown in black.
+
+Show conditioned paths — display paths that have conditions applied. Conditioned paths are
+shown in orange.
+
+Show path indices — display the index of each visible path at its midpoint
+
+Show path length — display the minimum length of each visible path
+
+Show path flags — display single-letter codes for the flags attached to each path, which are:
+
+   t — terminal path: the path runs between two terminal nodes.
+
+   v — valid path: this path’s actual length is greater than or equal to its minimum length
+
+   a — active path: this path’s actual length is exactly equal to its minimum length
+
+                                 88

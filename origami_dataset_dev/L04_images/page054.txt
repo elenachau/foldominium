@@ -1,0 +1,14 @@
+Rigid Origami?
+
+•  Rigid Origami is
+    – Plates and Hinges model for origami
+•  Characteristics
+    – Panels do not deform
+       • Do not use Elasticity
+    – synchronized motion
+       • Especially nice if One-DOF
+    – watertight cover for a space
+•  Applicable for
+    – self deployable micro mechanism
+    – large scale objects under gravity using 
+      thick panels

@@ -1,0 +1,13 @@
+Hexagonal Tripod Shell
+
+Hexagonal boundary:
+
+Eout = 6
+ DOF = 6 - 3 =3
++ rigid DOF = 6
+∴
+
+3 pin joints (x,y,z):
+ 3x3 = 9 constraints
+
+∴

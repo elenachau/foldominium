@@ -1,0 +1,43 @@
+                                         bisectors of each angle of the triangle, which meet at a point. 
+                                         Then draw a line from the tangent point on each side to the 
+                                         intersection of the bisectors. We will call this crease pattern 
+                                         the rabbit-ear molecule.
+
+                                         10.3. Quadrilateral Molecules
+                                         It is heartening that the triangle was so easy. It is further heart-
+                                         ening that the most common polygon one encounters in circle-
+                                         method bases is a triangle, and in fact, for the two- through 
+                                         ﬁve-ﬂap bases seen in the previous chapter, all of the polygons 
+                                         were triangles. Thus, using the rabbit-ear molecule, we could 
+                                         ﬁnd the full crease pattern for each of these bases. Wouldn’t it 
+                                         be nice if when we diced up any circle pattern along its bound-
+                                         ary creases, the polygons always turned out to be triangles? 
+                                         Alas, such is not the case. For the very next circle pattern, the 
+                                         pattern for six equal points shown in Figure 10.11, we ﬁnd that 
+                                         a four-sided polygon crops up.
+
+
+            Figure 10.11. 
+            Circle pattern for a six-pointed 
+            base.
+
+                                             The crease pattern for Figure 10.11 does contain several 
+                                         triangles. Note that the two triangles in the upper corners 
+                                         of the square have only two circles inside each triangle. Any 
+                                         polygon with fewer than three circles in it is essentially unused 
+                                         paper and can be ignored. At the bottom of the model are three 
+                                         triangles, which can be ﬁlled with rabbit-ear molecules.
+                                             But look at the polygon in the upper middle of the paper: 
+                                         the polygon is not a triangle—it is a four-sided diamond. So here 
+                                         we have a concrete demonstration that we will have to deal with 
+                                         polygons with more than three sides. Sometimes there will be 
+                                         four sides. So let us look at the problem of collapsing quadrilat-
+                                         erals so that all of their edges lie on a single line.
+
+                                         10.4. Waterbomb Molecule
+                                         With a triangle, there was exactly one crease pattern that put all 
+                                         of its edges onto a single line. Fortunately, this one crease pat-
+
+     354
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

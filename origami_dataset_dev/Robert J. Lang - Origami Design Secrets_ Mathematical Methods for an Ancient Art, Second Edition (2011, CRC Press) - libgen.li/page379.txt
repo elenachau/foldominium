@@ -1,0 +1,30 @@
+                                                                                             Figure 10.31. 
+                                                                                             The sawhorse molecule does not 
+                                                                                             work for most circle/river quadri-
+                                                                                             laterals because the hinge creases 
+                                                                                             miss the tangent points.
+
+
+                                                                    B
+                                                                              A
+
+
+                1. Begin with the four angle bisectors. 2. Make a copy of the two lower      3. Construct the two bisectors between
+                Draw lines from all six of the tangent perpendiculars and rotate both copies the indicated angles.
+                points perpendicular to the edges until together about point A until the left one
+                they meet at the bisector. Extend the lower hits point B.
+                perpendiculars farther than the others.
+
+
+                4. Add three more creases through the 5. The finished crease pattern.        6. Collapse on the crease pattern.
+                given crease intersections.
+
+
+                                                      7. The finished gusset molecule.
+                Figure 10.32. 
+                Geometric construction for the gusset molecule for a circle/river quadrilateral. Note that the hinge creases 
+                now hit the tangent points, which are brought together along the bottom edges of the folded form.
+
+                                                                                                                                  367
+                                                                                         Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,33 @@
+            Figure 8.38. 
+            Schematic representation of two triangular tiles. The length of each 
+            stick is equal to the length of the ﬂap.
+
+            However, there is an important difference between the stick 
+            ﬁgure and the base. Although we often draw the branches of 
+            the stick ﬁgure in the same orientation as the ﬂaps of a base 
+            (as in Figure 8.38), there is no signiﬁcance to the order of sticks 
+            around their common endpoint. The ﬂaps of the base may be 
+            superimposed, one atop the other, but in order to distinguish 
+            adjacent ﬂaps, I will always draw the stick ﬁgure schematic 
+            with the segments separated by some angle. So in the stick ﬁg-
+            ure, it is not the angles between segments that are signiﬁcant; 
+            only the lengths of the segments and their connections to each 
+            other matter, because the length of each segment indicates 
+            the length of the corresponding ﬂap. This length is also equal 
+            to the radius of the inscribed circular arc for ﬂaps represented 
+            by circles.
+                For a tile with a river running through it, we will represent 
+            both the ﬂaps and the connection between them by lines as well. 
+            Thus, a rectangular tile with a river is represented schematically 
+            by four lines joined in pairs with a connection between the pairs, 
+            while a square tile composed of four circles would be represented 
+            by four lines all coming together at a point.
+
+
+            Figure 8.39. 
+            Schematic representation of a rectangular tile with a river and a 
+            square tile.
+
+                                                                                                     267
+                                                                         Chapter 8: Tiling
+© 2012 by Taylor & Francis Group, LLC

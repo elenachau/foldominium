@@ -1,0 +1,42 @@
+                                             We can see what must happen in the crease pattern by 
+                                         considering what must happen in the folded form, as shown 
+                                         in Figure 13.25.
+
+
+                                         Figure 13.25. 
+                                         Left: a folded form around a ridge with two contour lines shown. 
+                                         Right: the conﬁguration of the two contour lines around the ridge 
+                                         crease. The contour line enters and leaves the ridge crease at the 
+                                         same angle, i.e., it reﬂects across the ridge crease.
+
+                                             As the ﬁgure shows, when an axial contour line hits a 
+                                         ridge crease, it reﬂects across the crease and keeps going until 
+                                         it joins a collinear axial contour, runs off the paper, or hits yet 
+                                         another ridge crease, in which case, the process continues fur-
+                                         ther. Thus, at each ridge crease, there is a net change in angle 
+                                         of propagation, which is twice the angle between the contour 
+                                         line and the ridge crease. If a propagating contour hits the 
+                                         ridge crease at 45°, it departs at 45° to that same ridge crease, 
+                                         with the net result that it takes a 90° turn at the ridge crease 
+                                         relative to its original direction.
+                                             What if it hits a ridge crease at 90°? It should still reﬂect 
+                                         across the crease, but reﬂecting across a 90° line results in a 
+                                         continuation of the contour line. So a contour line that hits a 
+                                         ridge at 90° just keeps going straight.
+                                             And, as you can see in Figure 13.24, other conﬁgurations 
+                                         can occur. A contour line can hit a junction of two ridge creases. 
+                                         We can ﬁgure out what happens there by considering what 
+                                         happens if the contour line slightly misses the junction. In that 
+                                         case, it reﬂects across both ridge creases, which, for uniaxial 
+                                         box pleating, has the effect of sending the contour line back 
+                                         the way it came. Since we’ve already drawn the contour line 
+                                         in “the way it came,” we can simply allow the contour line to 
+                                         terminate on such a junction.
+                                             All three of these conﬁgurations are illustrated in Fig -
+                                         ure 13.26.
+                                             There is one other situation to consider, which is visible 
+                                         in the lower left portion of Figure 13.24. What happens when 
+
+     594
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

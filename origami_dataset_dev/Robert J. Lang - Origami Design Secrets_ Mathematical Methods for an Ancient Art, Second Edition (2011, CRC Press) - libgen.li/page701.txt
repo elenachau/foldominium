@@ -1,0 +1,12 @@
+           Camel Spider
+
+
+           Mark the edges of a 58x58 square grid. Use the edge
+           markings to locate interior vertices. The corners of
+           the Pythagorean stretches are located roughly halfway
+           between grid lines.
+
+
+                                                                                           689
+                                                         CreaseChapter Patterns: 14: Polygon Camel Packing Spider 
+© 2012 by Taylor & Francis Group, LLC

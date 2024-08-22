@@ -1,0 +1,49 @@
+                                         the number of vertical pleats in the shorter ﬂap structures 
+                                         equals the number of pleats needed by the longest ﬂap in 
+                                         the entire assembly. In fact, given sufﬁcient paper, we can 
+                                         create any string of any number of ﬂaps of any length we 
+                                         wish. Figure 12.32 shows an example of ﬁve ﬂaps, whose 
+                                         lengths run 1-2-3-2-1, each spaced two units from the next. 
+                                         I encourage you to try folding this, which will help develop 
+                                         a physical intuition for how to assemble these types of struc-
+                                         ture from their crease patterns. Sequential folding sequences 
+                                         can be elusive.
+                                             In this pattern, I put 2-unit gaps between the ﬂaps for 
+                                         clarity, to make it easy to resolve the individual ﬂap crease 
+                                         patterns. As further practice, you might try folding this 
+                                         same structure, but with 1-unit gaps, or no gaps—all ﬂaps 
+                                         emanating from the same point.
+
+                                         12.4. Corner and Middle Flaps
+                                         Thus far, we’ve seen how to create edge ﬂaps using box pleat-
+                                         ing, and we can put any number of ﬂaps of any length, at any 
+                                         spacing, around the edges of the paper. That is provided, of 
+                                         course, that there is enough paper available. If we have allowed 
+                                         ourselves to use arbitrary rectangles (a la Mooser’s Train), then 
+                                         we can, effectively, scale up our rectangle to accommodate all 
+                                         of the ﬂaps that we need.
+                                             But are we restricted to only creating ﬂaps around the 
+                                         edges of the paper? No, as it turns out. As we have seen in 
+                                         previous chapters, there are corner, edge, and middle ﬂaps. 
+                                         Thus far, we’ve only looked at box-pleated edge ﬂaps: but 
+                                         surely there are box-pleated analogs of corner and middle 
+                                         ﬂaps. And indeed there are.
+                                             A corner ﬂap is easily created by simply splitting one 
+                                         of the edge ﬂaps that we’ve already constructed along the 
+                                         obvious line of symmetry of the ﬂap. Figure 12.33 shows the 
+                                         results for 1-unit, 2-unit, and 3-unit ﬂaps. 
+                                             As with the edge ﬂaps, the color changes depending on 
+                                         whether the length of the ﬂap is odd or even. And, as with 
+                                         the edge ﬂaps, one can add additional strips to the top and/or 
+                                         side to change the color of the ﬂap, to add layers, or simply 
+                                         to make the parity of the alternating mountain/valley folds 
+                                         match the parity of the folds to which the ﬂap is grafted.
+                                             What about middle ﬂaps, though? Can we create box-
+                                         pleated middle ﬂaps? We can indeed. A corner ﬂap is half of 
+                                         an edge ﬂap; an edge ﬂap, then, could be considered half of 
+                                         a middle ﬂap, and so we could create the crease pattern by 
+                                         joining two middle ﬂaps along their raw edges.
+
+     490
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

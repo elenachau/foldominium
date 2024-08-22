@@ -1,0 +1,51 @@
+ “sawhorse.” If a, b, c, and d are the lengths of the four terminal edges in either graph and e is the
+length of the “body” in the sawhorse, then a quadrilateral whose sides are all active paths will
+have sides of length (a+b), (b+c), (c+d), and (d+a) for the 4-star and (a+b), (b+c+e), (c+d), and
+(d+a+e) for the sawhorse. There is an ambiguity associated with quadrilateral polygons; with the
+triangle, if we are given the lengths of the three sides, then the lengths of the edges of the tree are
+uniquely determined but with a quadrilateral, knowledge of just the lengths of the sides is
+insufficient to fully specify the dimensions of the tree. We must have the full tree to know
+whether the graph is a 4-star or a sawhorse and in the latter case, to know the length of the body.
+
+                       a        d           a            d
+
+                                                  e
+                      bc                   b             c
+
+ Figure 5.13. The two trees with four terminal nodes. (Left) The 4-star. (Right) The sawhorse.
+ Finding crease patterns for quadrilaterals is more complex than finding patterns triangles because
+ there is more than one crease pattern that will collapse a given quadrilateral into the appropriate
+ subbase. In fact, there can be infinitely many different crease patterns for a given quad. However,
+ there is one pattern that has the desirable property that it works for quadrilaterals corresponding
+ to either type of tree. I call it “the gusset quad” crease pattern because it usually has a gusset
+ across its top. Its construction is rather complex, but I will describe it briefly here.
+
+ Given a quadrilateral ABCD as shown in figure 5.14. Inscribe a smaller quadrilateral inside
+whose sides are parallel to the sides of the original quadrilateral but are shifted inward a distance
+h (the value of h is not yet determined). Denote the corners of the new quadrilateral by A′, B′, C′,
+and D′. Drop perpendiculars from these four corners to the sides of the original quadrilateral.
+                                                  ′
+Label their points of intersection AAB where the line from A  hits side AB, BAB where the line
+ from B′ hits AB, and so forth.
+
+                                           CCD       C
+                              D
+                         D     CD
+
+                                                       CBC
+                     D
+                      DA                       ′
+                                D′            C
+
+                  A
+                   DA                                      BBC
+                             ′
+                            A                     B′
+
+                                          h
+
+               A                                                B
+                            AAB                 BAB
+
+
+                                 124

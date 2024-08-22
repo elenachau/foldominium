@@ -1,0 +1,30 @@
+                                                                        Figure 10.7. 
+                                                                        A hinge polygon, outlined by 
+                                                                        hinge creases, becomes a single 
+                                                                        flap of the base. This figure 
+                                                                        shows a polygon that becomes 
+                                                                        a corner ﬂap.
+
+
+                                                                        Figure 10.8. 
+                                                                        A hinge polygon that becomes 
+                                                                        an edge ﬂap.
+
+
+                                                                        Figure 10.9. 
+                                                                        A hinge polygon that becomes a 
+                                                                        middle ﬂap.
+
+                While the hinge creases are most easily related to the 
+            original base and circle pattern, the axial creases—the lines 
+            between circle centers—are just as important, but in an entirely 
+            different way. They, too, delineate distinct polygons, which we 
+            will call axial polygons.
+                When we collapse an axial polygon, all of its edges wind 
+            up collinear, because its edges must lie along the axis of the 
+            base. But in addition to this, all of the tangent points must 
+            come together at a single point. Thus, there are two properties 
+
+                                                                                                     351
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

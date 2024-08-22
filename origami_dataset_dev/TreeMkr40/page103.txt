@@ -1,0 +1,28 @@
+                                       4.5.28
+
+Most of the Condition Editor is filled with a scrolling list of all conditions. The “Add…” popup
+menu lets you add conditions to the origami design. When you first create a condition, it has
+blank fields, which you must fill in with the indices of affected parts and any settings that apply
+to those parts.
+
+If you click on or in a condition, it will be highlighted (the third from the bottom is currently
+highlighted). If you then click on the “Remove” button, the highlighted condition will be deleted.
+
+If you click on the “Remove All” button, all conditions will be deleted.
+
+Conditions can be applied to nodes, edges, and paths. The Node Editor, Edge Editor, and Path
+Editor each contain a reduced version of the Condition Editor that will display only the
+conditions that apply to the particular node, edge, or path being edited.
+
+The types of conditions that can be applied and their fields are the following:
+Node fixed to position
+
+
+                                       4.5.29
+
+This condition fixes one or both coordinates of a node to a set location. The fields are:
+
+ — the index of the node
+
+
+                                 103

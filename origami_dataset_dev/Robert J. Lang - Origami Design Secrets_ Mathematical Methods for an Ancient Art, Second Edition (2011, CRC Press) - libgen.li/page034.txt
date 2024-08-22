@@ -1,0 +1,37 @@
+                                         is, not folded at all). The traditional mountain and valley lines—
+                                         chain and dashed—tend to lose their distinction in large crease 
+                                         patterns, dissolving into a morass of confusing clutter. Thus, 
+                                         in crease patterns, I will adopt a different convention that 
+                                         provides greater contrast. Creases that are valley fold lines 
+                                         will be indicated by dashed colored lines, while mountain folds 
+                                         will be solid black lines. Creases that lie ﬂat will be indicated 
+                                         by thin gray lines. Flat creases that don’t play an important 
+                                         role are not shown at all, but it is sometimes helpful to show 
+                                         creases that were important to the construction of the base. To 
+                                         see the difference between the two line styles, compare the two 
+                                         examples in Figure 2.20.
+
+
+                                         Figure 2.20.
+                                         Left: a crease pattern using the traditional patterned lines to 
+                                         indicate mountain and valley folds. 
+                                         Right: the same crease pattern using contrasting lines specialized 
+                                         for crease patterns.
+
+                                             The use of dashed lines for valley folds and chain lines 
+                                         for mountain folds has been ﬁrmly established as a worldwide 
+                                         standard in origami for decades. The precise line styles used 
+                                         for crease patterns are less standardized. In general, because 
+                                         mountain folds are more visible in the unfolded paper, I choose 
+                                         solid, darker lines for them; valley folds are less visible, so 
+                                         they get lighter colors and their traditional dashing pattern, 
+                                         but a somewhat ﬁner dashing so that the dashes themselves 
+                                         do not distract from the large-scale patterns of mountain and 
+                                         valley lines.
+                                             A crease pattern that has its mountain and valley folds 
+                                         distinctly labeled is said to be assigned, or crease-assigned. If 
+                                         we draw all of the fold lines with no distinction, then it is said 
+
+      22
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

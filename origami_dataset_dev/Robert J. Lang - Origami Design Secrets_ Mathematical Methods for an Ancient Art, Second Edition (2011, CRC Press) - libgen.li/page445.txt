@@ -1,0 +1,33 @@
+            Figure 11.36. 
+            Crease pattern, base, and folded model of the Flying Grasshopper.
+
+            you identify where a pair of stubs was added in the middle of 
+            the pattern?
+                Computation also allows one to introduce symmetries into 
+            the crease pattern, either to make the folding sequence simpler 
+            or for aesthetic reasons. A host of symmetric requirements 
+            can be imposed as additional equations to solve: forcing ﬂaps 
+            to be mirror-image, or requiring active paths to fall along the 
+            symmetry line. This last condition is required to fold a plan 
+            view model—one that can be oriented with half the layers to 
+            the left of the axis and half to the right—or equivalently, to 
+            fold a model with a closed back. You can also force creases 
+            to run at particular angles. In the Alamo Stallion shown in 
+            Figure 11.37, several such symmetries are imposed: 
+
+                • An active path runs from the head to the tail so 
+                that the back is seamless.
+
+                • The base is symmetric about a line of bilateral  
+                symmetry.
+
+                • By forcing particular fold angles, its folding   
+                sequence becomes relatively tractable and requires 
+                few arbitrary reference points.
+
+                This last symmetry is a bit subtler. Observe that the 
+            equilateral triangle in the lower left is aligned with the ridge 
+
+                                                                                                     433
+                                                                   Chapter 11: Tree Theory
+© 2012 by Taylor & Francis Group, LLC

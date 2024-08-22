@@ -1,0 +1,40 @@
+                                                                                                   Glossary
+
+
+               A
+               Active path (page 408): a path whose length on the crease pattern is equal 
+               to its minimum length as speciﬁed by the tree graph.
+               Active reduced path (page 426): a reduced path within a universal mol-
+               ecule whose length on the crease pattern is equal to its minimum length as 
+               speciﬁed by the tree graph.
+               Arrowhead molecule (page 358): a crease pattern within a quadrilateral 
+               that consists of a Waterbomb molecule combined with an angled dart; it al-
+                lows an arbitrary four-circle quadrilateral to be collapsed while aligning the 
+                four tangent points.
+                Assignment (page 21): the labeling of each fold in a crease pattern by its 
+                fold direction, e.g., mountain or valley.
+                Axial crease (page 246): a crease in a crease pattern that lies along the 
+                axis in the folded form of a uniaxial base.
+                Axial+N crease (page 604): an axis-parallel crease in a crease pattern whose 
+               elevation is N width units from the axis in the folded form.
+               Axial polygon (page 247): a polygonal region of paper in a crease pattern 
+                outlined by axial creases. In the folded form, the entire perimeter of an axial 
+                polygon lies along the axis of the base.
+                Axis (page 244): a line on a base along which the edges of ﬂaps lie and to 
+                which the hinges of ﬂaps are perpendicular.
+                Axis-parallel (page 574): any fold or line in a uniaxial base that lies on or 
+                parallel to the axis of the base in the folded form. Axial+N contours are all 
+                axis-parallel.
+
+               B
+               Base (page 53): a regular geometric shape that has a structure similar to 
+               that of the desired subject.
+               Bird Base (page 54): one of the Classic Bases, formed by petal-folding the 
+               front and back of a Preliminary Fold.
+               Blintzing (page 58): folding the four corners of a square to the center.
+               Blintzed base (page 58): any base in which the four corners of the square 
+               are folded to the center prior to folding the base.
+
+                                                                                                                                  743
+
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,47 @@
+ nineteen-pointed base with flaps of the right size in the right places purely by luck. For such
+ models, a more directed approach is called for.
+
+ For a given number and distribution of flaps, there are always many possible bases that can be
+ folded that differ in various ways: the overall size of the base, which flaps have how many
+ layers, how the flaps are positioned in the plane of the paper, the stacking order of the layers, and
+ so forth. I doubt that there is a universal algorithm that could come up with every possible base
+ for a given subject; at any rate, most folders would be satisfied with an algorithm that could at
+ least come up with one. It turns out that such an algorithm exists for a particular class of base.
+ We will consider bases that have a special property: their flaps and layers can be arranged such
+ that (1) one edge of every flap lies in a common plane and (2) when the edges all lie in a plane,
+ all of the layers of the base are perpendicular to the plane. I call this type of base a uniaxial base
+ (because when the base is flattened, all of the flaps lie along a single common axis). An example
+ of a hypothetical uniaxial base for a hypothetical four-legged (and hence six-flapped) creature is
+ shown in figure 5.1.
+
+                            Head       Foreleg
+
+                       Foreleg
+
+                                                   Hind leg
+
+                                                     Tail
+                                Hind leg
+
+
+Figure 5.1. Schematic of a uniaxial base for an animal with four legs, a head, body, and tail. It’s
+a uniaxial base if it can be manipulated so that all of the flaps lie in a plane and all of the layers
+are perpendicular to the plane. The shadow of the base consists entirely of lines.
+While a great many origami bases can be represented as uniaxial bases including the four classic
+bases — the kite, fish, bird, and frog bases — many others cannot. For example, John Montroll’s
+Dog Base and its derivatives do not fall into this category. But there are many bases that do, and
+most importantly from the standpoint of design, for a great many subjects, a uniaxial base is a
+sufficiently good approximation of the subject that you can easily transform it into a very
+accurate and detailed replica of the subject.
+
+We can represent any uniaxial base by the stick figure formed by the projection of the base into
+the plane, i.e., the shadow cast by the base if illuminated from above. This stick figure has the
+same number and length sticks as the base has flaps, and therefore it is a convenient abstraction
+of the base, even as the base is an abstraction of the subject which we are trying to fold. The
+problem to be solved is: for a given stick figure, can one find a way of folding a square into a
+base whose projection is that stick figure?
+
+Let’s first define some terms describing this stick figure. The mathematical term for a stick figure
+is a graph. I’ll call the particular stick figure for a uniaxial base the graph of the uniaxial base.
+
+                                 113

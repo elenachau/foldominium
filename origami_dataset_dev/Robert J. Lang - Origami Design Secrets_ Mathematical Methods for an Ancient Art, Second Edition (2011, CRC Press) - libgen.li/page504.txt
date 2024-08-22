@@ -1,0 +1,29 @@
+                                             The easiest way to join two ﬂaps so that both the crease 
+                                         pattern and the folded form lie ﬂat is to look for ﬂap conﬁgura-
+                                         tions where the raw edges that are to be joined lie along a single 
+                                         line. Looking through our menagerie of edge ﬂaps, you can see 
+                                         that the white-up 2-unit ﬂap of Figure 12.28 has exactly that 
+                                         property. The raw edges to be joined lie along the vertical left 
+                                         side of the ﬂap; and so we can join this ﬂap and its mirror im-
+                                         age to create a single middle ﬂap. Joining the crease patterns 
+                                         in the same way gives the crease pattern for the corresponding 
+                                         middle ﬂap. This process is shown in Figure 12.34.
+
+
+                                         Figure 12.34. 
+                                         Left: two edge ﬂaps, about to be joined: folded form (top) and crease 
+                                         pattern (bottom). 
+                                         Right: A single middle ﬂap, in folded form (top) and crease pattern 
+                                         (bottom).
+
+                                             By grafting pairs of longer edge ﬂaps, one can create lon-
+                                         ger middle ﬂaps, and by grafting strips in between the edge 
+                                         ﬂaps, one can create wider ﬂaps as well. Not only that: there 
+                                         are further variations possible in which the layers are stacked 
+                                         differently, which one can construct by folding an example ﬂap 
+                                         and then turning various of the pleats inside-out and/or by 
+                                         ﬂipping them from side to side.
+
+     492
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

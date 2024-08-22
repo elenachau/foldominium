@@ -1,0 +1,52 @@
+When adding the new node to the crease
+pattern, we didn’t necessarily have to add                1
+it to node 2, which put the extra point          2                 2
+between the legs of the base; we could
+                                                          1
+                                        4                                   5
+have added it to node 4, which would put                   1.000
+the extra point at the shoulders of the          3        2        4
+base. If you do that and run the                  1.000             1.000
+                                                            2
+optimization, you’ll get the pattern                      98
+                                                            1.000-56.8%
+shown in figure 3.2.10.                 2                                   2
+                                                          2
+This gives a different crease pattern,
+                                                           2
+shown in figure 3.2.11. This crease                         1.000
+pattern is entirely different: yet it results
+in a plan view base with exactly the same 3                                 3
+number and size of flaps as the first                     3
+                                                            3
+example.
+                                                 5        7        6
+In both cases, the extra flap “sops up”           1.000    0.400+115.8%1.000
+                                        6        3        8       3         7
+excess paper between the top and bottom
+of the model. The difference between the
+two is that in the first example, the extra        Figure 3.2.10
+paper emanates from the junction of the
+top group of points. In the second, the
+excess flap emanates from the bottom
+group of points.
+
+There’s another possibility: we could
+collect the excess paper in the middle of
+the model. This would be preferable
+because it distributes layers more evenly
+through the model. We can do this by
+adding the new flap in the middle of edge
+2.
+
+To do this, delete the new node you just
+added. Then select edge 2. Choose the
+command Split selected edge… from the
+Action menu, which puts up the dialog
+shown in figure 3.2.12.
+
+
+                                                      3.2.11
+
+
+                                  44

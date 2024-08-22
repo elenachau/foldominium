@@ -1,0 +1,42 @@
+            instead, the unit that is replicated is two half-ﬂaps with a gap 
+            between them. As with the Yoshizawa split, the gap contains 
+            the secret to the structure.
+                So two, three, or four points may be constructed by us-
+            ing one, two, or three wedges. It should also be clear that the 
+            diagonal creases inside the wedge don’t have any particular 
+            signiﬁcance. They’re there to make the points narrow, and 
+            they divide the angle into equal divisions so that in the folded 
+            result, the edges line up. But we could easily have used fewer 
+            or more diagonal creases and gotten fatter or skinnier points, 
+            as shown in Figure 5.22.
+
+
+            Figure 5.22. 
+            The wedge unit with the two points divided into successively greater 
+            numbers of divisions.
+
+                We can build the number of points we need by assem-
+            bling the number of wedges we need: For N points, we use 
+            N–1 wedges.
+
+
+                                                                       Figure 5.23. 
+                                                                       One, two, and three wedges 
+                                                                       deﬁne gaps between two, three, 
+                                                                       and four points.
+
+                But now, we need to overlay this structure on the origi-
+            nal ﬂap and somehow connect the creases so that the whole 
+            thing folds ﬂat. Note that the wedge assembly itself folds ﬂat 
+            no matter how many we use, so the only thing we need to do 
+            is ﬁnd the creases that enable the multipoint wedge group to 
+            connect to the rest of the ﬂap.
+                Let’s use the three-wedge (four-point) module as an ex-
+            ample. If I simply overlay this pattern onto the original Kite 
+            Base, it is clear that with no other changes, the pattern will 
+            not fold ﬂat (if it is not clear from the crease pattern, draw 
+            the pattern and try folding it.)
+
+                                                                                                     111
+                                                                 Chapter 5: Splitting Points
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,42 @@
+ Each line segment in the graph is called an edge of the graph; each endpoint of a line segment (or
+point where two segments come together) is called a node. Each flap of the base corresponds to a
+distinct edge of the graph, and since each flap has a specified length, each edge of the graph has a
+length as well, which is the length of its associated flap. Thus, the planar graph for the six-legged
+animal base shown in figure 5.2 has eight nodes and seven edges. In figure 2, I have assigned a
+length of 1 to each edge of the graph, which implies that each segment in the base has the same
+length. One can, of course, assign any desired combination of lengths — if you wanted an extra-
+long tail, you could give it a length of 2 or 3 — but for simplicity, we’ll make all of the edges the
+same in this example.
+
+                              Foreleg        Hind leg
+
+                                  1          1
+
+                               111
+                       Head                           Tail
+
+                                  1          1
+
+                              Foreleg        Hind leg
+
+Figure 5.2. Planar graph for the six-legged base. Each edge of the graph has a length of 1 unit in
+this example.
+We will also restrict ourselves to bases that don’t contain any loops of paper, which correspond
+to planar graphs that don’t have any cycles in them. If a base has a closed loop, that implies it has
+a hole in it somewhere, which would imply cutting — a no-no, in origami design. (Of course, we
+can always simulate a loop by joining two flaps together and hiding the joint.) A graph with no
+cycles is called a tree graph or just tree. It’s easy to see that for any tree , the number of nodes is
+always exactly one more than the number of edges. Thus, we will be searching for bases whose
+projections are trees; for this reason, I call this design approach the tree method of design.
+
+We will also divide the nodes into two types: terminal nodes are nodes that come at the end of a
+single edge. Terminal nodes correspond to the tips of legs, wings, and other appendages. Nodes
+formed where two or more edges come together are called internal nodes.
+
+                   Terminal nodes
+
+
+                             Internal nodes             Edges
+
+
+                                 114

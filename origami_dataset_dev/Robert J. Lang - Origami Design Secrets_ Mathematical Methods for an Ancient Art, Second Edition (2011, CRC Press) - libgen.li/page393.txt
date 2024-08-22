@@ -1,0 +1,35 @@
+            touch, we add new axial creases. In the example shown, this 
+            has the result of dividing the pentagon into three triangles 
+            and a quadrilateral, all of which we know how to ﬁll with  
+            molecules.
+                This technique always works and can be repeated over and 
+            over. Suppose we have a polygon with N sides. A circle added 
+            in the middle can always be expanded until it touches at least 
+            three others. If the three touched circles are consecutive, you 
+            will create two triangles and another N-gon, which is no help. 
+            But there is always more than one way to add another circle, 
+            and if the three touching circles are not consecutive, then the 
+            largest polygon remaining will have at most N – 1 sides, thereby 
+            simplifying the problem. Repeatedly applying this process to 
+            every polygon of order ﬁve or larger will result in a pattern of 
+            axial creases consisting entirely of triangles and quadrilaterals, 
+            which can be ﬁlled in with rabbit-ear, arrowhead, gusset, and 
+            (where appropriate) Waterbomb molecules.
+                An interesting unsolved problem in circle-packed origami 
+            design is to prove that for any N-gon of touching circles with 
+            N > 4, it is always possible to add a circle touching at least 
+            three others so that the largest resulting polygon has, at 
+            most, N – 1 sides. It is possible to ﬁnd arrangements where 
+            the addition of a circle leaves an N-gon, but in all the cases 
+            I’ve examined, there has been another circle arrangement 
+            that takes the largest polygon down a notch.
+
+
+            Figure 10.49. 
+            Left: circle packing for a ﬁfteen-ﬂap base and axial creases. 
+            Right: adding more circles breaks the pentagons into quads and 
+            triangles.
+
+                                                                                                     381
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

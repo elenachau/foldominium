@@ -1,0 +1,53 @@
+                Cupboard Base (page 57): a traditional base consisting of a square with 
+                two opposite edges folded toward each other to meet in the middle.
+
+                D
+                Decreeping (page 145): rearranging several trapped layers of paper so that 
+                no layer is wrapped around another.
+                Detail folds (page 53): folds that transform the ﬂaps of a base into details 
+                of the ﬁnished subject.
+                Diagonal symmetry (page 306): the symmetry of a crease pattern that is 
+                mirror-symmetric about one of the diagonals of the square.
+                Dihedral angle (page 469): the angle between the two surfaces on either 
+                side of a crease, deﬁned as the angle between the surface normals.
+                Distorted base (page 69): a modified base formed by shifting the ver-
+                tices of the crease pattern so that the paper can fold flat; the number 
+                of creases and vertices remains the same, but the angles between them 
+                change.
+                Double-blintzing (page 326): folding the four corners of a square to the 
+                center twice in succession.
+                Double rabbit-ear fold (page 26): a fold in which the creases of a rabbit 
+                ear are made on the near layer of a ﬂap and the mirror-image creases are 
+                made on the far layer.
+                Double sink fold (page 35): two sink folds formed in succession on the 
+                same ﬂap.
+
+                E
+                Edge (page 402): in a tree graph, a single line segment. Each edge cor-
+                responds to a unique ﬂap or connector between ﬂaps in the base. See leaf 
+                edge, branch edge.
+                Edge ﬂap (page 105): a ﬂap whose tip comes from one of the edges (but not 
+                a corner) of the square. An edge ﬂap has twice as many layers as a same-size 
+                corner ﬂap.
+                Edge weight (page 402): a number assigned to each edge of a tree graph 
+                that represents the length of the associated ﬂap.
+                Efﬁciency (page 43): a measure of how much paper is used to obtain features 
+                of the subject versus extra paper that is merely hidden away.
+                Elevation (page 588): the distance of an axis-parallel crease (or in general, 
+                any point) from the axis in the folded form.
+                Elias stretch (page 506): A maneuver used in box pleating to create ﬂaps 
+                from a pleated region of paper, by changing the direction of the pleats by 90° 
+                within wedges of paper.
+
+                F
+                Fish Base (page 54): one of the Classic Bases, formed by folding all four 
+                edges of a square to a common diagonal and gathering the excess paper in 
+                two ﬂaps.
+                Flap (page 54): a region of paper in an origami shape that is attached only 
+                along one edge so that it can be easily manipulated by itself.
+                Folded edge (page 15): an edge created by folding.
+                Folded form (page 21): the result obtained after folding a crease pattern.
+
+                                                                                                                                  745
+                                                                                                        Glossary
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,11 @@
+Example: Construct a foldable structure that 
+temporarily connects existing buildings
+•  Space: Flexible
+    – Connects when opened
+       • Openings: different position 
+         and orientation
+       • Connected gallery space
+    – Compactly folded
+       • to fit the facade
+•  Structure: Rigid
+    – Rigid panels and hinges

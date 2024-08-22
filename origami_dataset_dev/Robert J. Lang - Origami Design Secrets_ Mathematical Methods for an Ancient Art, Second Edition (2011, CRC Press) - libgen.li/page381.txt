@@ -1,0 +1,32 @@
+                In a gusset molecule, the boundaries of the gusset are also 
+            ridge creases and thus are valley folds. The base of the gusset, 
+            which we call a gusset crease, is always a mountain fold.
+                The hinge creases, however, are highly variable; they can 
+            be mountain, valley, or unfolded creases, depending on the 
+            orientation of the ﬂaps of the molecule. Figure 10.33 shows 
+            several perfectly valid crease assignments for the hinge creases 
+            within a single gusset molecule.
+
+
+            Figure 10.33. 
+            Six possible valid crease assignments for the hinge creases in a gusset 
+            molecule.
+
+                You might try folding up these four patterns and observing 
+            the differences in the folded forms. The choice of crease parity 
+            for the hinge creases affects the orientation of the ﬂaps. Since, 
+            in a complete crease pattern, most ﬂaps encompass portions of 
+            several different molecules, the choice of crease parity within 
+            a given molecule cannot be made in isolation, but only after 
+            deciding the ﬂap orientation in the full pattern.
+                When constructing a crease pattern from molecules, it is 
+            helpful to assign the creases in two steps. We will ﬁrst deﬁne a 
+            generic form for each molecule in which we apply the structural 
+            coloring scheme ﬁrst introduced in Figure 10.6 (ridge = red, 
+            axial = green, hinge = blue, and adding gusset = gray). This 
+            way of drawing a crease pattern highlights the structural role 
+            of each crease and its position and orientation in the folded 
+
+                                                                                                     369
+                                                                    Chapter 10: Molecules
+© 2012 by Taylor & Francis Group, LLC

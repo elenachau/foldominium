@@ -1,0 +1,11 @@
+Not-All-Equal 3SAT
+
+ • Given variables
+  & triples of 
+  variables
+ • Assign binary 
+  values to 
+  variables so 
+  that every triple 
+  has both values
+ • NP-hard

@@ -1,0 +1,25 @@
+ The top of the window shows the scale of the current design (the scale is the relationship
+between one edge unit and the size of the square). The rest of the window shows all the parts.
+
+The collection of nodes and edges is known as a tree. Lines between nodes are paths. There is a
+path between most pairs of nodes, however, most paths are invisible in the windows above.
+Groups of certain paths form polys (“poly” is short for “polygon” and I’ll use the term more or
+less interchangeably). Polys are filled in with vertices and creases. The vertices and creases form
+the crease pattern for the origami base. The design of an origami base is accomplished in three
+steps:
+
+(1) Construction of a tree and specification of the desired attributes of the base (this is done by
+you)
+
+(2) Placement of the nodes in a valid configuration (this is computed by TreeMaker)
+
+(3) Construction of the polys, vertices, and creases, forming the crease pattern for the base. (This
+is also computed by TreeMaker.)
+
+
+                                       4.2.3
+
+Figure 4.2.33 shows a finished crease pattern.
+
+
+                                  68

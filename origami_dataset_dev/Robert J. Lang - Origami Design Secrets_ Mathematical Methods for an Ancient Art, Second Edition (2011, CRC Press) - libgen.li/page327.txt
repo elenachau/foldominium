@@ -1,0 +1,32 @@
+            Figure 9.24. 
+            Crease pattern, base, and folded model of the Tarantula.
+
+                As we see in the tarantula design, circle packing patterns 
+            and their corresponding crease patterns are most symmetric if 
+            the circle radii (and thus ﬂap lengths) are chosen from among 
+            only a small number of values, rather than making every ﬂap 
+            a different length. It is common to adjust the values in order 
+            to realize particularly symmetric patterns.
+                The crease pattern in Figure 9.25 is based on a circle 
+            packing of six large circles and six medium ones oriented 
+            in opposite directions, corresponding to six long and six 
+            medium ﬂaps; three small circles are added to ﬁll in the gaps. 
+            This gives a pattern that, in the interior of the model, can be 
+            ﬁlled in entirely with triangle tiles, and works very well for 
+            ﬂying insects, in which the six long ﬂaps can be used for four 
+            wings, head, and abdomen, while the six medium ﬂaps get 
+            used for legs.
+                We could also rotate the pattern by 90° and assign the 
+            short ﬂaps to head, abdomen, and wings, and the long ﬂaps to 
+            legs to make a ﬂying insect with proportionately longer legs. 
+            Can you devise a model based on this hint?
+                While this circle packing is quite efﬁcient in its use of the 
+            paper, it still leaves the corners unused, making it a great temp-
+            tation to ﬁgure out something else to do with them. The Flying 
+            Ladybird Beetle in Figure 9.26 uses the same circle packing 
+            (although adding two more smaller circles), but further uses 
+            the corners of the paper to realize the spots on the wings.
+
+                                                                                                     315
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

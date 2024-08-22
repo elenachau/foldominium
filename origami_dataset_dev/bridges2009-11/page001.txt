@@ -1,0 +1,48 @@
+                                  Bridges 2009: Mathematics, Music, Art, Architecture, Culture
+
+                 Mathematical Methods in Origami Design
+
+                                     Robert J. Lang
+                                   Langorigami.com
+                                Alamo, California, USA
+                               robert@langorigami.com
+                            http://www.langorigami.com
+
+                                       Abstract
+     The marriage of art and mathematics has been widespread and productive, but almost nowhere more productive than
+     in the world of origami. In this paper I will discuss how mathematical ideas led to the development of powerful
+     tools for origami design and will present a step-by-step illustration of the design and realization of a representational
+     origami ﬁgure using mathematical design algorithms. Along the way, I will discuss how these mathematical concepts
+     have led to new levels of creative expression within this art.
+
+                                   1   Introduction
+
+The marriage of art and mathematics has been fruitful and productive. Mathematical concepts inspire, en-
+able, and enrich artistic forms, and in many cases, mathematical concepts lead to entirely new expressions,
+visual, auditory, and conceptual, outside of the traditional milieu of art. It is relatively rare, though, that
+mathematical ideas have led to a revolution within an existing art—that is, enabling artists to do what they
+wanted to do within their art, but were previously unable to accomplish. That exact thing is what has hap-
+pened within the art of origami, the Japanese art of paper-folding (usually from an uncut square), over the
+last twenty years or so. Beginning in the late 1970s and early 1980s, and accelerating more-or-less continu-
+ously since then, mathematical design techniques have become essential elements of the origami designers’
+toolkit, allowing the creation of works only dreamed of in the past, enabling newer, richer, more diverse
+forms of artistic expression.
+    Now, while it is tempting to present the world of mathematical origami design as a simple, linear thread
+of development, in fact there were roots stretching back into the 1950s and 1960s and several different ap-
+proaches to mathematical design in the 1970s and 1980s investigated by origami artists such as Peter Engel,
+Jun Maekawa, and Fumiaki Kawahata, among others. But I will talk about the approach I am personally most
+familiar with, and with which I was closely involved in the development of: circle-river packing. This was,
+I believe, the ﬁrst systematic design method that could be used to create and design arbitrarily complicated
+origami structures.
+    As often happens in mathematics, when the time is ripe, the same ideas can occur to multiple people,
+and this was the case with circle-river packing: I (in the US) [1, 3, 4, 6] and Toshiyuki Meguro (in Japan)
+[10, 9] both developed the concept of circle packing in the late 1980s and then met and compared notes
+and ideas beginning in 1992, ﬁnding surprising overlap between our approaches and sharing ideas in the
+years that followed. (Shades of Newton and Leibniz, with two differences: Meguro and I got on quite
+well, and we’re only talking about paper-folding, not calculus!) In the years following our meeting, we
+both traded and reﬁned our concepts and were joined by others who built on and expanded the basic ideas
+into a regular suite of design algorithms. (I should mention speciﬁcally that in recent years I have greatly
+enjoyed collaborating with Professor Erik Demaine of MIT on the development of improved algorithms and
+expanding their underlying rigor.)
+
+                                          11

@@ -1,0 +1,34 @@
+                                             So now, let’s look at what type of pattern we’d put on this 
+                                         design. Fish have a distinctive pattern of overlapping scales 
+                                         that is very close to a pattern of overlapping half-circles, similar 
+                                         to the pattern shown in Figure 7.12.
+
+
+                                         Figure 7.12. 
+                                         Left: a single ﬁsh scale, abstractly represented by a half-circle. 
+                                         Middle: an array of half-circles approximating an array of ﬁsh scales.
+                                         Right: an array of crossed pleats at 45° approximating the lines of 
+                                         the array of scales.
+
+                                             If we overlay lines on top of the half-circles as shown in 
+                                         Figure 7.12, we can elucidate the underlying grid of the pattern; 
+                                         it is the same as the grid of crossed pleats rotated by 45°, which 
+                                         suggests that a grid of crossed pleats is a good place to start.
+                                             However, crossed pleats alone gives scales that are dia-
+                                         monds, not semicircles. A better approximation of circles can 
+                                         be had by blunting the tips of the squares, for example, with 
+                                         sink folds. But if you fold up an array of crossed pleats to work 
+                                         on, you will ﬁnd that the tips of all squares are entangled with 
+                                         other layers of the pleats and need to be freed before they can 
+                                         be sunk. So a bit more folding is going to be necessary. In order 
+                                         to be efﬁcient about it, let’s make a single crossed pleat to work 
+                                         on, as shown in Figure 7.13.
+                                             The tip of the scale is marked A in the folding sequence 
+                                         in Figure 7.13. If we wish to blunt the tip, we must ﬁrst free 
+                                         it from the entangled layers, which we can do by stretching 
+                                         the two pleats apart on either side of the tip as shown in 
+                                         Figure 7.14.
+
+     206
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

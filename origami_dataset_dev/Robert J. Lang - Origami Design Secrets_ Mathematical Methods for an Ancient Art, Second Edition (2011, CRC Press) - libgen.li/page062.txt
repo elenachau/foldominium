@@ -1,0 +1,42 @@
+                                                                                                                    D
+
+
+                                                                                                                    B
+
+
+                                                                                                                  A   C
+
+
+                Figure 3.7.                             1. Divide the square in half vertically and          2. The Bird Base.
+                                                        horizontally with creases. Crease all angle
+                Compact sequence for folding a          bisectors at the corners, then assemble using the
+                Bird Base.                              creases shown.
+
+
+                                                                                                                     D
+
+
+                                                                                  B                                  B
+
+
+                                                                                                                   A   C
+
+                                                                   A                             C
+
+
+                                                                                  D
+                       1. Begin with a square with creased           2. Petal-fold front and back.             3. The Bird Base.
+                       diagonals. Bring the four corners
+                       together at the bottom and flatten.
+                                                     Figure 3.8. 
+                                                     Intermediate sequence for folding a Bird Base.
+
+                                                           Origami design runs along a continuous scale ranging from 
+                                                     minor modiﬁcation of an existing design to the “ground-up” 
+                                                     creation of an entirely new model. Just as a beginning folder 
+                                                     should begin to fold simple models from diagrams, the begin-
+                                                     ning designer should choose simple shapes to design.
+
+        50
+                              Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

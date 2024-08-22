@@ -1,0 +1,38 @@
+                                                                       Figure 14.56. 
+                                                                       Circle and hinge river packing 
+                                                                       for a comb. The stick ﬁgure for 
+                                                                       the comb is shown at the bottom. 
+                                                                       The x-ray line through the circle 
+                                                                       centers deﬁnes the left boundary 
+                                                                       of the minimum paper needed to 
+                        boundaryboundary                               realize both the main shaft and 
+                                              comb                     the ﬁlaments of the comb.
+
+            the “ﬁlaments” were, in fact, squared-off ﬂaps, much wider 
+            than their lengths. But we could also use this technique to 
+            make sharp-pointed ﬁlaments. To minimize the paper going 
+            into each ﬁlament, we would likely want to orient the boundary 
+            line of the comb along the edge of the paper. (Although this 
+            certainly isn’t necessary; one could use this technique to create 
+            rows of middle ﬂaps, and indeed, you can see something very 
+            much like this in the Centipede and Pill Bug of Chapter 8.)
+                Now we can start thinking about the positioning of the 
+            axial contours. If all of the ﬁlaments lie at the same elevation, 
+            then we’d want them all to have axial contours emanating from 
+            them, heading off somewhere into the interior of the paper. 
+            And we’d need some type of off-axis contour (say, axial+1) 
+            spaced evenly between those axial contours. In order to avoid 
+            additional bouncing of those contours, we’d want the axial+1 
+            contours to terminate on the junctions between adjacent ridge 
+            creases. This leads to the geometry shown in Figure 14.57.
+                The entire pattern is tilted with respect to the paper edge 
+            by an angle , which can be continuously varied. This angle 
+            affects the ﬁlament-to-gap ratio; if we deﬁne this ratio as f, 
+            i.e., f ≡ l/g, then you can show that
+                                      1
+                       f            =  ()cscα  −   1   ,     (14–16)
+                                      2
+
+                                                                                                     677
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

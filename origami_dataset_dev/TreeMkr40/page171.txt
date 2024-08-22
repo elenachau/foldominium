@@ -1,0 +1,51 @@
+• Dialogs no longer alter parts directly; instead, they issue commands to the TreeDoc together
+with a list of the new settings. (This is in preparation for implementing Undo/Redo by
+bottlenecking all editing actions through the TreeDoc.)
+
+• In dialogs, eliminated unnecessary ctor/dtor method declarations and inlined from-LStream
+ctors.
+
+• Private data shown in part editors was made less obtrusive (smaller type)
+
+• All part indices are now fully validated in dialogs
+
+• Validation alerts are provided by a new superclass for all dialogs, class TreeDialog. Text in
+validation alerts is now stored in an ‘STR#’ resource (per Mac UI guidelines).
+
+• Fixed bug in which menus were not updated properly after a Tab or Delete keystroke.
+
+• Optimize Selected Nodes… command and StretchyEdgeOptimizer have been modified so that
+the only nodes and edges considered for scaling are those in the current selection.
+
+• Many new commands and optimizers added to Action Menu:
+
+• Added Split Edge… command which lets you add a node to the middle of an edge
+
+• Added Absorb Node command which lets you remove a redundant node from the middle of an
+edge
+
+• Added Absorb Redundant Nodes command, which removes all redundant nodes
+
+• Added Arrange Internal Nodes command, which cleans up the position of internal nodes.
+
+• Added Fracture Poly… command, which lets you add a node inside a polygon that forms four
+active paths with the polygon nodes, effectively fracturing the polygon into smaller polys.
+
+• Added Triangulate Tree command, which fractures all polys in the crease pattern down to
+order-3 polys.
+
+• Fixed memory leak in ConstrainedMinimax (constraints were not being destroyed)
+
+• Restored computation of tristate creases for rabbit-ear molecules in Build Creases.
+
+• Updated documentation and added tutorials to describe the new commands.
+
+• “Wait” cursor is now in color.
+
+• Improved About… box.
+(3.6) 03-18-96 released
+
+• Added “Show Creases and Circles” command, which is a useful view for printing.
+
+
+                                171

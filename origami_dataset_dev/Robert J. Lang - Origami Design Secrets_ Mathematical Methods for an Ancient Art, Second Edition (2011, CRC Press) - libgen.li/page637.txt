@@ -1,0 +1,36 @@
+                                                          14Polygon Packing
+
+                         t this point, you have seen that uniaxial box 
+                         pleating has all the versatility of circle/river 
+                         packing but has the additional beneﬁt of pro -
+                         ducing symmetric, easily precreaseable (if not 
+            A            necessarily easily collapsible) folding patterns. 
+            These patterns can be highly complex, and while the tech-
+            nique may be used for all types of subject, it is particularly 
+            suited to insects and arthropods (many of which you will meet 
+            in this chapter), such as the Flying Walking Stick shown in 
+            Figure 14.1.
+                This design contains all the elements of uniaxial box pleat-
+            ing: rectilinear hinge polygons, ridge creases along the straight 
+            skeleton, and two elevation levels for axis-parallel folds: axial 
+            and axial+1. Although you might enjoy the challenge of ﬁguring 
+            out a crease assignment from the contour map, a fully assigned 
+            crease pattern is given at the end of the chapter. 
+                If, however, you restrict your designs only to the basic ele-
+            ments of box pleating described in the previous chapter, you 
+            will quickly bump up against one of the barriers of uniaxial 
+            box pleating, for this design approach carries with it several 
+            limitations. Fortunately, there are more specialized tech-
+            niques—modiﬁcations and variations of the basic idea—that 
+            let you creatively work around the limitations of uniaxial box 
+            pleating. Better yet, uniaxial box pleating is just a special case 
+            of a much broader, much more powerful concept, whose name 
+            I have already introduced: polygon packing. Polygon packing 
+            allows one to create complex designs while striking an aesthetic 
+            balance between efﬁciency, symmetry, precreasability, collaps-
+            ibility, and, of course, the desired visual representation of the 
+            subject. In this chapter, we will delve deeply into the subtleties 
+
+                                                                                                     625
+
+© 2012 by Taylor & Francis Group, LLC

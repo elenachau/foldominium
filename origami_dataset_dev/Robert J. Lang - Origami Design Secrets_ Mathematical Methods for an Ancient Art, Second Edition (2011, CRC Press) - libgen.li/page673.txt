@@ -1,0 +1,39 @@
+            between “up and down” and “side to side” directions. In box 
+            pleating, any hinge polygon or river that ﬁt on the grid would 
+            work equally well if it were rotated by 90°. But this is not the 
+            case with hex pleating. Observe that in Figure 14.37, there 
+            are hinges that run horizontally, but none that run vertically. 
+            The same goes for the underlying grid, of course. If we were to 
+            ﬂip our grid by 90°, we could still carry out hex pleating, but 
+            we would have to use a different set of hexagons and rivers, 
+            ones that were ﬂipped by 90° from what is shown here.
+                As with box pleating, the ridge creases are given by the 
+            straight skeleton of any polygon. That is, they propagate in-
+            ward from every corner, traveling along the angle bisectors. 
+            The ridge creases for the hinge polygons of Figure 14.37 are 
+            shown in Figure 14.38. The construction process is exactly 
+            the same as described earlier for more complicated hinge 
+            polygons.
+
+
+                                                                       Figure 14.38. 
+                                                                       Ridge creases in hex-pleating 
+                                                                       hinge polygons.
+
+                Hinge creases can run in any of three different directions, 
+            but ridge creases can run in any of six. There are no vertical 
+            hinge creases (for this orientation of the grid), but there are 
+            both horizontal and vertical ridge creases, and we can see ex-
+            amples of them all here. We can also see that rivers can bend 
+            at two distinct angles: 60° and, more sharply, at 120°.
+                Once one completes a packing, one constructs the axis-
+            parallel creases, beginning, typically, with the axials. If we 
+            assume that all of the ﬂaps in Figures 14.37 and 14.38 are 
+            axial ﬂaps (i.e., their tips are axial points), then we can con-
+            struct all of the forced axial creases—which, you may recall, 
+            propagate from the tip toward any and all accessible hinge 
+            creases. Figure 14.39 shows the polygons with axials added.
+
+                                                                                                     661
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

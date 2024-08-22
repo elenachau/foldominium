@@ -1,0 +1,43 @@
+                       XY                             XY                            XY
+
+                                                  B
+
+                      A
+                                                                                  C
+
+
+                                                  B
+              XYXYXY
+                                                                                  C
+                    A
+
+
+            Figure 5.7. 
+            Upper row: path in the folded form. 
+            Bottom row: path traveling along the surface of the unfolded paper.
+
+                Now, what’s interesting is that although path C is the short-
+            est path from tip to tip in the unfolded paper, it’s clearly not 
+            the shortest possible path in the folded model. As can be seen in 
+            the ﬁgure, the bookworm backtracks a bit and actually travels 
+            somewhat below the baseline of the two points. This means that 
+            we’ve devoted more paper to the gap than we really needed to—
+            paper that could have been used to make longer points.
+                In the most efﬁcient possible structure, the amount of 
+            paper that is used to create a gap between two points would be 
+            as close as possible to the minimum required. In other words, 
+            if we compared the tip-to-tip path in the folded model and the 
+            crease pattern, they would look something like Figure 5.8.
+                Of course, we don’t know what the rest of the crease 
+            pattern looks like or even what the folded model looks like. 
+            But we’ve identiﬁed several salient features of both. We 
+            know where the tips of the two points are (indicated by the 
+            black dots), and we know how deep the gap is in the folded 
+            model (half the distance between the point tips on the crease 
+            pattern). Knowing the depth of the gap, we also know where 
+            the baseline of the two ﬂaps must be, and we can make cor-
+            responding creases on the paper.
+
+                                                                                                      99
+                                                                 Chapter 5: Splitting Points
+© 2012 by Taylor & Francis Group, LLC

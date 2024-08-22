@@ -1,0 +1,36 @@
+            Figure 2.33. 
+            Petal-folding an edge.
+
+                                             Petal folds, squash folds, reverse folds, and rabbit ears are 
+                                         all closely related to each other. It is often possible to reach 
+                                         the same end by more than one means. For example, the petal 
+                                         fold shown in Figure 2.33 can also be realized by making two 
+                                         reverse folds and a valley fold.
+
+
+            1. Fold the sides in to lie 2. Reverse-fold the edges 3. Lift up the frontmost flap. 4. Finished petal fold.
+            along the center line and inside using the creases
+            unfold.               you just made.
+
+            Figure 2.34. 
+            An alternative way to make a 
+            petal fold using reverse folds.
+
+                                             And if you were to cut apart the finished petal fold 
+                                         along the center line (cutting both slightly left and right of 
+                                         the center line to be sure to sever all layers that touch the 
+                                         center line), the petal-folded ﬂap would turn out to be two rab-
+                                         bit ears!
+                                             Thus, the various combination folds are not distinct 
+                                         entities so much as convenient ways of getting two or four 
+                                         creases to come together at once. What is important in origami 
+                                         design is the underlying structure, not the speciﬁc sequence of 
+                                         steps one takes to get to the ﬁnished model (although it must 
+                                         be acknowledged that once the design is ﬁxed, a sequence com-
+                                         posed of simple combinations that ﬂows from one to the next is 
+                                         far more aesthetically pleasing than a few precreases followed 
+                                         by, “Make these 150 creases come together at once”).
+
+      30
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

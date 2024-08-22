@@ -1,0 +1,31 @@
+            Figure 12.37. 
+            Left: crease pattern for Crane on a Plane. 
+            Right: folded form.
+
+                I have used this technique to create the design shown in 
+            Figure 12.37, titled “Crane on a Plane.” The plane is a horizontal 
+            plane on which the crane is perched.
+                Remarkably, a single crane has a folding sequence, which, 
+            however contains a lot of pleats, closed sinks, closed unsinks, 
+            and various other nasty maneuvers, all of which seem like an 
+            awful lot of work to fold something that is not too far off from 
+            the ﬁrst origami most people ever learn! But this crane is 
+            nothing more than a somewhat-more-complicated-than-usual 
+            box-pleated middle ﬂap. Its pleats are all perpendicular to the 
+            edges, so that the raw edges of the paper lie entirely along the 
+            raw edges of the square on which the crane perches. And that 
+            means this crane has a special property: it tiles.
+                And so, having built up the crane by tiling four middle 
+            ﬂaps together, we could create an array of such cranes from a 
+            single sheet of paper by tiling an array of these cranes together. 
+            How many? As many as we want—limited only by our paper 
+            size and folding fortitude. Figure 12.38 shows a progression of 
+            the Crane on a Plane tiling.
+                Consider, for example, a 32 × 32 array of crane tiles. Each 
+            tile requires a 28 × 28 grid of squares, so that the square of 
+            paper required would be 896 × 896 squares. For a 1-centimeter 
+            grid (which is a reasonably easily foldable size), the required 
+
+                                                                                                     495
+                                                                  Chapter 12: Box Pleating
+© 2012 by Taylor & Francis Group, LLC

@@ -1,0 +1,50 @@
+                                             Here the “mod 1” indicates the “modulo” function; basi-
+                                         cally, we add or subtract integers to/from (a – x) until the result 
+                                         lies between 0 and 1. The function g(x) is plotted in the bottom 
+                                         right subﬁgure of Figure 14.36.
+                                             The horizontal position of a contour after it has made one 
+                                         complete circuit through both top and bottom halves is the 
+                                         result of applying g(x) followed by f(x), which works out to be
+
+                                                     h(x)   ≡  f (g(x)) = ()x − a mod    1  . (14–13)
+
+                                             After two circuits, it will be at position
+
+                                                    h(h(x))  = ()x − 2a mod  1 .           (14–14)
+
+                                             And, in general, after n circuits, it will be at position
+
+                                                    hn   (x) = ()x − na mod 1 .            (14–15)
+
+                                             So the question of when, or if, the contour ever closes on 
+                                         itself is equivalent to the question of when or if the value of (x – 
+                                         na) mod 1 ever comes back to the value x. This, in turn, happens 
+                                         when (x – na) differs from the value of x by some integer k, so 
+                                         that the modulo function takes it back to its starting position. 
+                                         And that only happens if the distance a takes on the value k/n, 
+                                         i.e., some rational number. If a = k/n for some integers (k,n), 
+                                         then the contour will close on itself after n circuits through 
+                                         both top and bottom. Note, though, that there is no value x for 
+                                         which the bouncing runs off the page, so it must either close on 
+                                         itself, or keep going, which means the following: if the distance 
+                                         a is irrational, the bouncing contour never closes on itself nor 
+                                         runs off the page.
+                                             If the bouncing never stops, it means that there is an in-
+                                         ﬁnite number of contours that are inﬁnitely close together, so 
+                                         that the ﬂap, if we could fold it, would be inﬁnitely thin, but 
+                                         with an inﬁnite number of layers—which would be a serious 
+                                         problem. The contours, in this case, are said to be dense on 
+                                         the paper.
+                                             This concept of dense contours was discovered by Erik 
+                                         Demaine in the course of his solution of the one-cut problem; 
+                                         there, too, there were creases (exactly analogous to the contour 
+                                         lines in polygon packing) that never settled down, but bounced 
+                                         around forever. 
+                                             It is a well-known fact of mathematics that there are in-
+                                         ﬁnitely more irrational than rational numbers, so that if you 
+                                         were to pick the dimension a at random, the odds are inﬁnitely 
+                                         higher that you would have picked a value that gave inﬁnite 
+
+     658
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

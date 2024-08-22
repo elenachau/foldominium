@@ -1,0 +1,44 @@
+ {
+    public:
+       short mIndex;
+       Tree* mTree;
+ }
+ References to objects are made visible to the user by the mIndex, the value of which is set by
+ the owner of the part (see below). Given a reference to any Part, the mTree reference gives
+ access to the overall Tree. All TreeMaker objects inherit from Part as shown below:
+
+                                       Node
+                                       Edge
+                             Part
+                                       Path
+                                       Poly
+                                       Condition
+                                       Vertex
+                                       Crease
+                                      7.9
+
+ Conversely, the Tree has a set of lists of references to all Parts with names like mNodes,
+mEdges, mPaths, etc. This provides flat access to the hierarchical data structure; it simplifies
+searching over the Parts and lets us assign the Part index according to its position within the
+master list.
+
+      Ownership
+
+The data structures in TreeMaker are tied together by various relations. One important set of
+relations is the concept of “ownership.” Every object is owned by another object. The chain of
+ownership is a simple rooted tree, that is, every object has a unique owner, which in turn has a
+unique owner, all the way up to the Tree at the top of the hierarchy. (It’s similar to a “chain of
+command.”)
+
+Ownership confers two important properties:
+
+      When an owner object is deleted, it deletes all of the objects that it owns
+
+      An owner object can be interrogated about objects that it owns, for example, to return an
+object that satisfies certain criteria.
+
+Ownership ability is conferred through inheritance. The chain of ownership is shown in the
+figure below. Objects to the right inherit from objects to the left.
+
+
+                                 161

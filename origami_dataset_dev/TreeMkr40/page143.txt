@@ -1,0 +1,48 @@
+                     6.0 TreeMaker Algorithms
+
+This section describes the internal mathematical algorithms of TreeMaker. You don’t need to
+know any of this to use the program, but if you’re curious about what’s going on inside your
+machine, you might find this section interesting. If you come up with any
+mathematical/algorithmic ideas of your own, send them to me and I’ll put them into a future
+version.
+
+   6.1  Mathematical Model
+
+TreeMaker finds crease patterns by performing several different types of nonlinear constrained
+optimization. The quantity to maximize is the scale, which is the size of a 1-unit flap compared
+to the size of the square. There are two families of constraints that must be satisfied for any valid
+crease pattern:
+
+— The coordinates of every node must lie within the square
+
+— The separation between any two nodes on the square must be at least as large as the scaled
+length of the path between the two nodes as measured along the tree.
+
+If there are N nodes in a figure, the first condition sets 4N linear inequality constraints while the
+second sets N(N–1)/2 quadratic inequality constraints. In addition to these constraints, the user
+can set a number of other constraints:
+
+— A node can have its position set to a fixed value
+
+— A node can be constrained to lie on a line of bilateral symmetry
+
+— Two nodes can be constrained to lie symmetrically about a line of symmetry
+
+— Three nodes can be constrained to be collinear
+
+— An edge can be constrained to a fixed length
+
+— Two edges can be constrained to have the same strain
+
+— A path can be forced to be active
+
+— A path can have its angle set to a fixed value
+
+— A path can have its angle quantized to a multiple of a given angle
+
+The problem is solved by converting the path conditions of the Tree Theorem and any constraints
+into mathematical equations, specifically, a constrained nonlinear optimization. This document
+decribes the equations that define each type of optimization.
+
+
+                                143

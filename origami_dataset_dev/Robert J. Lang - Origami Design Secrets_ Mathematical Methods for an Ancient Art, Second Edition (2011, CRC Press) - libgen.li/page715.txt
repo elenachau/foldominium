@@ -1,0 +1,37 @@
+            intrude into the wing regions—at least, not beyond the circles 
+            that delineate the gaps.
+                A bit of manipulation reveals that nine circles ﬁt neatly 
+            into the space available, as shown in Figure 15.4. Unfortunate-
+            ly, that’s one circle too few. The obvious next step is to reduce 
+            the circles and rearrange them to add a tenth circle. But the 
+            nine-circle packing is so elegant, it would be nice to ﬁnd a way 
+            to make use of it. Rather than rearranging, we can jettison 
+            one ﬂap; a separate ﬂap for the head isn’t really needed if we 
+            use the presence of the two antennae ﬂaps to suggest a head. 
+            This means that a ﬁnal packing of circles for the appendages 
+            and the square facets for the wings can be solidiﬁed as shown 
+            in Figure 15.4.
+
+
+                                                                        Figure 15.4. 
+                                                                        Circle packing for a butterﬂy 
+                                                                        with ﬂat regions allocated for 
+                                                                        the wings.
+
+                In this packing, all of the axial creases are orthogonal, 
+            which suggests that a box-pleated crease pattern is possible, 
+            and indeed it is. We have a choice of how many divisions to 
+            use in the box-pleated sections. In the published version of this 
+            model, I chose to use 12, as shown in Figure 15.5 in the crease 
+            pattern, base, and folded model.
+                The same packing and arrangement of ﬂaps can also be 
+            folded using more divisions, which give narrower ﬂaps. You 
+            might enjoy the challenge of working out what the crease pat-
+            tern (and folded result) would be using 20 divisions, rather 
+            than 12, in the box-pleated portion.
+                Note that our nine ﬂaps would ideally come in the form of 
+            four symmetric pairs of ﬂaps for legs and antennae, plus a single 
+
+                                                                                                     703
+                                                                  Chapter 15: Hybrid Bases
+© 2012 by Taylor & Francis Group, LLC

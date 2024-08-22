@@ -1,0 +1,31 @@
+                     (a)                           (b)                                (c)
+
+                                         Figure 8.12. 
+                                         (a) The rectangle tile from the strip graft. 
+                                         (b) A wider rectangle. 
+                                         (c) The limiting case of an equilateral rectangle, i.e., a square.
+
+                                         composed of rectangles and triangles. The triangles are famil-
+                                         iar; the rectangles are new. Rectangles, too, can be used as tiles 
+                                         from which crease patterns may be assembled. Figure 8.12 
+                                         shows the rectangular tile from the strip graft; it, too, can be 
+                                         folded so that its perimeter lies along a common line. Thus, a 
+                                         rectangle can also serve as an axial polygon.
+                                             Just as we saw that creases can be constructed inside of 
+                                         any triangle to make an axial polygon, so too can creases be 
+                                         constructed within any rectangle, no matter what its aspect 
+                                         ratio. Figure 8.12 shows creases for three different aspect 
+                                         ratios, including the limiting case of a square—which gives 
+                                         rise to the uniaxial orientation of the Waterbomb Base as its 
+                                         folded form.
+                                             As we saw for the triangle, it is possible to orient the ﬂaps 
+                                         of a tile in several different ways. Figure 8.13 shows several 
+
+
+                                         Figure 8.13. 
+                                         Three different crease patterns and arrangements of ﬂaps for a 
+                                         rectangular tile.
+
+     252
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

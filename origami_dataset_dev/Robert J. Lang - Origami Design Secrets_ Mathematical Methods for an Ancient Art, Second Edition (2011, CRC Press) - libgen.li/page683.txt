@@ -1,0 +1,48 @@
+            propagate those contours into the triangle, reﬂect them off of 
+            the ridge creases, and then send them back out to either side, 
+            adding new contours as needed to ﬁll out the triangle. On the 
+            input side, there are evenly spaced contours running from 
+            vertex to vertex. Is the same true on the other two “output” 
+            sides of the triangle?
+                Figure 14.49 shows the answer: it depends on the tri-
+            angle, and small differences in the dimensions of the triangle 
+            can make a big difference in the behavior of the contours. In 
+            the pattern on the left, the contours alternate with even spac-
+            ing all the way to the far vertex of the triangle. In the triangle 
+            on the right, which is only very slightly different, the contours 
+            around the outside don’t line up with each other when they 
+            get to the ridge creases in the interior. Or, equivalently, if we 
+            reﬂect the contours across the ridge creases, they don’t hit the 
+            sides at evenly spaced unit distances from the vertices.
+
+                        new                                    new
+                                    new                                      new
+
+
+              OUT                                    OUT
+                                          OUT                                      OUT
+
+
+                            IN                                      IN
+            Figure 14.49. 
+            Left: a “nice” triangle, with integer contours on each side. 
+            Right: a “not-nice” triangle: it’s not possible to continue the contours 
+            with even spacing all the way around the polygon. An x-ray line 
+            shows the original position of the left side of the triangle.
+
+                This ﬁgure also suggests what the difference is between 
+            the two triangles: the side lengths of the one on the left are 
+            clearly an integer number of units in length. In the one on 
+            the right, the side lengths are not integral, and that is what 
+            causes the misalignment in the contour pattern.
+                That doesn’t mean the triangle on the right is wholly 
+            unusable, though. We can choose to continue the pattern on 
+            one side of the triangle, say, the left side; reﬂection off of the 
+            ridge creases then dictates what the contours must be on the 
+            right side, as shown in Figure 14.50.
+                So, we can complete the pattern of contours, but we lose 
+            two potentially desirable attributes: (1) the top vertex is no 
+
+                                                                                                     671
+                                                               Chapter 14: Polygon Packing 
+© 2012 by Taylor & Francis Group, LLC

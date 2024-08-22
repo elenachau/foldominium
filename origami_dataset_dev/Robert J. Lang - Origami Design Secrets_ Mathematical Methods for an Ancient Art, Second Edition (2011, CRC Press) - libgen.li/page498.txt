@@ -1,0 +1,37 @@
+                                             This structure deﬁnitely has the hallmarks of a graft: 
+                                         there’s a bit of paper that is devoted to the new structure, the 
+                                         ﬂap, and then a long, parallel-sided strip of excess paper that 
+                                         doesn’t really contribute anything except thickness (usually 
+                                         undesired, but an acceptable price to pay for the newly cre-
+                                         ated ﬂap). In Chapter 6, we encountered edge grafts, which 
+                                         run along the boundary of the paper, and strip grafts, which 
+                                         cut through the middle of the paper. This triangle ﬂap is, in 
+                                         effect, a combination of the two. The vertical strip of excess 
+                                         paper is an edge graft; the horizontal strip is a strip graft. The 
+                                         combination of the two types of graft creates the excess paper 
+                                         we need to realize this triangular ﬂap. We’ll call this a “T-graft” 
+                                         (since the shape of the added paper is T-shaped, if you look at 
+                                         it sideways).
+                                             That realization, then, sets the stage to generalize and 
+                                         expand this concept. We know from graft theory that larger 
+                                         grafts allow the creation of larger ﬂaps. That should be the 
+                                         case here. If we double the width of each of the strips in the 
+                                         T-graft, we should, in principle, be able to double the length 
+                                         of the ﬂap that we’ve created. And that is, in fact, exactly the 
+                                         situation, as illustrated in the crease pattern and folded form 
+                                         for a 2-unit-long ﬂap shown in Figure 12.28.
+
+
+                                         Figure 12.28. 
+                                         Crease pattern and folded form for a 2-unit-long ﬂap.
+
+                                             We have lengthened this ﬂap by one unit, at the expense 
+                                         of adding another unit to the width of the vertical strip and two 
+                                         to the height of the horizontal strip. As you might expect, we 
+                                         could continue the process: a 3-unit ﬂap, resulting in the crease 
+                                         pattern and folded form in Figure 12.29. Here, the horizontal 
+                                         strip of the T-graft has nearly consumed the entire height of 
+
+     486
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

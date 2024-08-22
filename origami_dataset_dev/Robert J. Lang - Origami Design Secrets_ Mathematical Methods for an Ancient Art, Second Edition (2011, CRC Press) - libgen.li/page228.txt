@@ -1,0 +1,52 @@
+                                             In Figure 7.29, the head has been slightly reduced in size 
+                                         and the pleats have been allowed to creep into the edges of the 
+                                         head and the tail. This seems like an acceptable tradeoff to get 
+                                         the body nearly fully covered.
+                                             The next step in the construction would be the same as 
+                                         what we did with the Turtle: we replace each of the pleat lines 
+                                         with a strip of paper for the pleat. How wide?
+                                             To address this, we need to look at the details of how a tile 
+                                         should map to a pleat line. In essence, we are using a line to 
+                                         represent the paper that is hidden in the tile. So let’s look at 
+                                         the tile and identify the hidden paper; see Figure 7.30. 
+
+
+                                                   hidden         hidden
+
+
+            Figure 7.30. 
+            Left: in the folded form, the 
+            nearly hidden pleat contains 
+            the layers of paper that are not 
+            visible. Right: the shaded region 
+            indicates the hidden paper in 
+            the crease pattern.
+
+
+                                             It is this hidden paper that must map to each line in our 
+                                         schematic of the scale pattern overlaid on the crease pattern, 
+                                         as illustrated in Figure 7.31. Up to now, I’ve been showing tile 
+                                         crease patterns from the colored side of the paper, but let’s now 
+                                         ﬂip the tile over so that, like the Koi pattern of Figures 7.28 
+                                         and 7.29, we’re looking at the white side of the paper.
+                                             Now we can precisely determine the dimensions of the 
+
+                                         scale pattern. In Figure 7.31, the distance marked d0 is the 
+                                         width of the visible part of each individual scale in the hori-
+                                         zontal direction; the folded array of scales will be periodic with 
+
+                                         spacing d0. To achieve this size and spacing, we must make 
+
+                                         parallel pleats with spacings d1 and d2, as shown on the bottom 
+                                         of the ﬁgure. From the geometry of each scale, we can calculate 
+                                         these relationships:
+
+
+                                                            d = (1 + 1/√2) d0,                (7–1)
+
+
+                                                           d2 = (1/√2) d0.                    (7–2)
+
+     216
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

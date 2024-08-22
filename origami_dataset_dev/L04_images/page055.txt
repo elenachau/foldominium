@@ -1,0 +1,11 @@
+Study Objectives
+
+1. Generalize rigid foldable structures to freeform
+  1. Generic triangular-mesh based design
+   •  multi-DOF
+   •  statically determinate
+  2. Singular quadrilateral-mesh based design
+   •  one-DOF
+   •  redundant contraints
+2. Generalize rigid foldable structures to cylinders 
+  and more

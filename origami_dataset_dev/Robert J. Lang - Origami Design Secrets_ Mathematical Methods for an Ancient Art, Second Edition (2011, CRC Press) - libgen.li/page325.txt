@@ -1,0 +1,51 @@
+            pedipalp ﬂaps are middle ﬂaps, which means that they will be 
+            wrapped inside other ﬂaps in the folded base; this may make 
+            it difﬁcult to achieve an elegant distribution of the legs in the 
+            folded model. Also, being middle ﬂaps, they will have many lay-
+            ers of paper when they are thinned. In Figure 9.22, however, 
+            the pedipalps are edge ﬂaps and the abdomen is a middle ﬂap, 
+            which would probably be easier to work with. Since the abdo-
+            men is not thinned as much as a leg or pedipalp would be (it 
+            might actually be ballooned outward), it would be more tolerant 
+            of the extra layers inherent in a middle ﬂap.
+                Note that in both cases, two of the legs are middle ﬂaps; 
+            these will unavoidably be thicker than the other leg ﬂaps, 
+            especially compared to the two corner leg ﬂaps immediately 
+            above. This variation in leg thickness could conceivably be a 
+            weakness of any model folded from either base.
+                A remarkable thing about circle-packing bases is that de-
+            spite the deterministic nature of their construction, there are 
+            usually many possible circle-packed bases for a given number 
+            and distribution of ﬂaps. Consider the following sources of 
+            variety: 
+
+                • There are two possible symmetric orientations for 
+                the base.
+
+                • There are typically several crystallizations of the 
+                major circles for each symmetric orientation.
+
+                • There are typically several placements of the minor 
+                circles for each crystallization.
+
+                For the tarantula conﬁguration—eight legs, two pedipalps, 
+            an abdomen and a head—a small amount of experimentation 
+            reveals a host of possible crease patterns, some of which are 
+            shown in Figure 9.23.
+                Each crease pattern gives a unique base. Some are el-
+            egant, some are awkward; some can be folded in plan view 
+            (i.e., opened out ﬂat, like an open book) while others only work 
+            in side view, i.e., in proﬁle. All can be turned into a tarantula of 
+            one sort or another. When you add to that the inﬁnite variations 
+            possible in thinning and shaping folds, you can see that the 
+            possibilities for exploiting circle packing are nearly limitless.
+                Of the nine patterns, (b) (book symmetry) and (e) (diagonal 
+            symmetry) are actually the same pattern. Both are based on 
+            an underlying octagon, which can be ﬁt into the square with 
+            either symmetry. The presence of a valley fold running along 
+            the symmetry line for most of the model allows the base to be 
+            folded in plan view, which allows a smooth and rounded top 
+
+                                                                                                     313
+                                                                  Chapter 9: Circle Packing
+© 2012 by Taylor & Francis Group, LLC

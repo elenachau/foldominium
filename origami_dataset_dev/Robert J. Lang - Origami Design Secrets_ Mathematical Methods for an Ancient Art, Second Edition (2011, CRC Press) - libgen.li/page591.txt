@@ -1,0 +1,50 @@
+            pinned in a way that prevents further shrinkage. An example 
+            of this scale-to-ﬁt is shown in Figure 13.13.
+                The “toy problem” tree we have chosen has ﬂaps of two 
+            lengths, which are multiples of a common unit. When the 
+            ﬂaps are an integral number of units in length, then we can 
+            easily examine packing patterns by placing the corresponding 
+            squares and rivers on a grid, which is what I have done in 
+            Figure 13.13. This ﬁgure shows that a 5 × 5 square, on the left, 
+            is just barely too small to ﬁt all ﬁve squares plus the river into 
+            the pattern. A 6 × 6 square is large enough to ﬁt everything—
+            but it is, in fact, plenty large; there is a lot of extra room left 
+            over for some of the squares to “rattle around.”
+                Packing problems of this sort are notoriously difﬁcult 
+            to solve; in fact, ﬁnding the optimum packing of squares of 
+            variable size within another square is one of the so-called NP-
+            COMPLETE problems of computer science, a problem whose gen-
+            eral solution could provide an efﬁcient solution to every hard 
+            problem whose answer could be easily checked. The greatest 
+            minds of computer science think that no such solution exists 
+            (though no one has proved this yet). Fortunately, in origami, 
+            there are two mitigating circumstances that apply. First, 
+            origami packing problems are rarely “worst-case” problems. 
+            Second, we don’t need to ﬁnd the best possible solution (nor 
+            to prove that it is the best possible); we only need a solution 
+            that is reasonably good.
+                And so, a packing such as the one on the right in 
+            Figure 13.13 is perfectly suitable for our needs. There is 
+            still a lot of empty space that needs to be filled, though. 
+            Remember, in a polygon packing, every point in the square 
+            must belong to some hinge polygon or hinge river; every 
+            point must be allocated to some region of the base.
+                We performed the initial packing using squares, because 
+            a square is the minimum-size polygon that (a) encloses the 
+            circle, and (b) satisﬁes the angle limitations on its edges. But 
+            we can use larger polygons that satisfy these two conditions. In 
+            particular, we can expand a square in any direction in which 
+            it is unconstrained by adjacent squares or rectilinear rivers, 
+            turning it into a rectangle, and expanding the rectangle to 
+            “soak up” the extra paper. So, as Figure 13.14 shows, while we 
+            can ﬁll most of the extra space by moving some of the hinge 
+            polygons into the interior of the enclosing square, we can “sop 
+            up” the rest of the space by expanding the square in the lower 
+            left corner into a rectangle.
+                Interestingly, when we expand a rectangle, we’re not 
+            lengthening the associated ﬂap; the length of the ﬂap is given 
+            by the perpendicular distance from the circle center to the 
+
+                                                                                                     579
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

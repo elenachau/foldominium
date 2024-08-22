@@ -1,0 +1,27 @@
+Figure 5.32. Crease pattern from Oru using arrowhead quad and rabbbit-ear molecules.
+We can simplify the crease pattern obtained for the same terminal node positions by adding a
+smaller number of interior circles and inflating each new circle to its maximum size before
+adding the next, as described above. It turns out that we need add only three nodes to insure that
+all active polygons have three or four sides. The resulting modified tree and crease pattern,
+shown in figure 5.33, is reasonably simple to fold, and utilizes only rabbit-ear and gusset quad
+molecules.
+
+
+                                                      3.224 2
+                                                                5
+
+                                                     2      2
+                                                       1  1
+                                                   2        2
+                                                        2    2
+
+                                                          2 2
+                                                            1
+
+
+Figure 5.33. Tree and crease pattern for the Oru tree with three additional interior circles and
+filled with triangle and gusset quads.
+By applying the universal molecule to the original polygon, we can get a still simpler crease
+pattern, which is shown in figure 5.34. This pattern has the additional perk that it is yet easier to
+
+                                 139

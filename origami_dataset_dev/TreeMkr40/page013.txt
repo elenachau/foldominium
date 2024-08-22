@@ -1,0 +1,27 @@
+We’ll do this second stage now via the
+simplest route. Go to the Action menu
+and select Build Polygons. You will see
+the polygons become inlined with a thick
+gray border, as shown in figure 2.1.8.
+
+Then select the command Build Creases.
+You will see a bunch of new lines
+appear, as shown in figure 2.1.9.
+
+This is the full crease pattern. The black
+lines are valley folds; the medium gray
+lines are mountain folds. You might
+wonder why I don’t use dashed and chain
+lines for mountain and valley folds, since
+they are standard origami usage. I’ve
+found that with the low resolution of
+computer screens, in very complex
+crease patterns, it’s hard to distinguish
+the two.
+                                                       2.1.8
+
+
+                                                    Figure 2.1.9
+
+
+                                  13

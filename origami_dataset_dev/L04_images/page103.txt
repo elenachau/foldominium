@@ -1,0 +1,11 @@
+Trimming Volume
+
+
+• folds up to
+         −δπ
+• offsetting edges by
+            δ 
+      t cot  
+→Different speed 2 for  
+  each edge: Weighed 
+  Straight Skeleton

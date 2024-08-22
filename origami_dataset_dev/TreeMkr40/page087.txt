@@ -1,0 +1,28 @@
+                                       4.5.10
+
+The other fields of the View Editor are:
+
+Show symmetry lines — draw the line of symmetry on the square
+
+Show terminal nodes — display nodes that have only one edge attached. All nodes are displayed
+as dark black dots at the location of each node. Nodes with conditions attached are shown in dark
+green.
+
+Show internal nodes — display nodes that have more than one edge attached
+
+Show sub nodes — display nodes that are not part of the Tree but that are contained by polys
+
+Show node indices — display the indices of the nodes
+
+Show node circles — display a circle around each terminal node. The circles around nodes with
+conditions attached are shown in dark green.
+
+Show node labels — display any labels you have defined for nodes
+
+Show node flags — display single-letter codes for the flags attached to each node, which are:
+
+   t — terminal node: node has only one edge attached
+
+   b — border node: node lies on the convex hull of the group of nodes
+
+                                  87

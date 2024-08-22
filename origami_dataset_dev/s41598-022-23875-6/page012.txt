@@ -1,0 +1,55 @@
+        www.nature.com/scientificreports/
+
+
+                                     33. Murdoch, W. J., Singh, C., Kumbier, K., Abbasi-Asl, R. & Bin, Y. Defnitions, methods, and applications in interpretable machine 
+                                       learning. PNAS 116, 22071–22080 (2019).
+                                     34. Zhu, Y. & Filipov, E. T. Sequentially working origami multi-physics simulator (SWOMPS): A versatile implementation. in IDETC/
+                                       CIE 2021 (2021).
+                                     35. Zhu, Y. & Filipov, E. T. A bar and hinge model for simulating bistability in origami structures with compliant creases. J. Mech. 
+                                       Robot. 12, 021110 (2020).
+                                     36. Zhu, Y. & Filipov, E. T. Rapid multi-physics simulation for electro-thermal origami systems. Int. J. Mech. Sci. 202–203, 106537 
+                                       (2021).
+                                     37. Buitinck, L. et al. API design for machine learning sofware: Experiences from the scikit-learn project. in ECML PKDD Workshop: 
+                                       Languages for Data Mining and Machine Learning, 108–122 (2013).
+                                     38. Tarwat, A. Classifcation assessment methods. NEJE 17, 168–192 (2020).
+                                     39. Faber, J. A., Arrieta, A. F. & Studart, A. R. Bioinspired spring origami. Science 359, 1386–1391 (2018).
+                                     40. Silverberg, J. L. et al. Using origami design principles to fold reprogrammable mechanical metamaterials. Science 345, 647–650 
+                                       (2014).
+                                     41. Tachi, T. Freeform origami tessellations by generalizing Resch’s patterns. in IDETC/CIE USA, (2013).
+                                     42. Lin, J., Zhong, C., Rudin, D. H. C. & Seltzer, M. Generalized and scalable optimal sparse decision trees. in Proceedings of the 37th 
+                                       International Conference on Machine (2020).
+                                     43. Bertsimas, D. & Dunn, J. Optimal classifcation trees. Mach. Learn. 106, 1039–1082 (2017).
+                                     44. Zhu, Y., Schenk, M. & Filipov, E. A review on origami simulations: From kinematics, to mechanics, toward multiphysics. Appl. 
+                                       Mech. Rev. 74(3), 030801 (2022).
+                                    Acknowledgements
+                                    Te authors want to thank the helpful discussion with Ziyang (Tony) Tang at Purdue University.
+                                    Author contributions
+                                    Conceptualization: Y.Z., Methodology: Y.Z., Investigation: Y.Z., Visualization: Y.Z., Supervision: E.T.F., Writ-
+                                    ing—original draf: Y.Z., Writing—review & editing: Y.Z., E.T.F.
+                                    Funding
+                                    National Science Foundation Grant #2054148 Automotive Research Center (ARC) in accordance with Coopera-
+                                    tive Agreement W56HZV-19-2-0001 U.S. Army Ground Vehicle System Center (GVSC) in Warren, MI.
+
+                                    Competing interests 
+                                    Te authors declare no competing interests.
+                                    Additional information
+                                    Supplementary Information Te online version contains supplementary material available at https:// doi. org/ 
+                                    10. 1038/ s41598- 022- 23875-6.
+                                    Correspondence and requests for materials should be addressed to Y.Z.
+                                    Reprints and permissions information is available at www.nature.com/reprints.
+                                    Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and 
+                                    institutional afliations.
+                                               Open Access  Tis article is licensed under a Creative Commons Attribution 4.0 International 
+                                               License, which permits use, sharing, adaptation, distribution and reproduction in any medium or 
+                                    format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the 
+                                    Creative Commons licence, and indicate if changes were made. Te images or other third party material in this 
+                                    article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the 
+                                    material. If material is not included in the article’s Creative Commons licence and your intended use is not 
+                                    permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from 
+                                    the copyright holder. To view a copy of this licence, visit http:// creat iveco mmons. org/ licen ses/ by/4. 0/.
+
+                                    © Te Author(s) 2022
+
+
+        Scientifc Reports |        (2022) 12:19277  | https://doi.org/10.1038/s41598-022-23875-6                                12
+Vol:.(1234567890)

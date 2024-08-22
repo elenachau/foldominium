@@ -1,0 +1,53 @@
+system. The UI classes are heavily platform-dependent; they are built from PowerPlant, which is
+a Macintosh-specific class library.
+
+         Tree Classes
+
+The Tree Classes are the classes that support a unified mathematical model of the tree (the stick
+figure); the crease pattern; and the relationships between the various objects. The figure below
+shows the different classes and their inheritance hierarchy.
+
+            EdgeOwner
+PathOwner                    Tree
+             PolyOwner
+NodeOwner
+                             Poly
+            CreaseOwner
+                             Path        ConditionNodeFixed
+            VertexOwner                  ConditionNodeSymmetric
+                             Node        ConditionNodeOnEdge
+               Part          Condition   ConditionNodeOnCorner
+                                        ConditionNodesPaired
+                             Edge
+                                        ConditionNodesCollinear
+                                        ConditionEdgeLengthFixed
+                                                              ConditionPathAngleFixed
+                                         ConditionPathActive
+                                                              ConditionPathAngleQuant
+
+                                     7.2
+
+The primary Tree Classes are:
+Tree
+
+Node
+
+Edge
+
+Path
+
+Poly
+
+Vertex
+
+Crease
+
+Condition
+
+All primary classes inherit similar behavior from the Part base class. Some classes have the
+capability of owning instances of other classes. Condition is a base class for conditions
+imposed on the crease pattern (e.g., bilateral symmetry). A more detailed description of the Tree
+classes is given later.
+
+
+                                155

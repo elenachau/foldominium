@@ -1,0 +1,61 @@
+                         s/2
+                      w
+                                 4   1
+               x            4
+                      1 1
+                   4
+
+                4                                    4 1
+
+                                                      1
+                1                                        1
+                1                                  4  1
+                                                      1
+                                                  6   1  1
+                6
+                                                 8    2
+
+                                                      4
+             s
+
+                  6                  4
+
+                    2
+                                     4
+               y
+
+                        8
+                                                                       Figure 13.3. 
+                                8                                      Circle packing for the generic 
+                     z                                                 beetle in a square of side s.
+                         s/2
+
+                And then at the two corners, the Pythagorean theorem 
+            gives the remaining two equations:
+
+                       x       2 + w 2 = (4 +1+ 1  +   4)   2 , (13–4)
+
+                               2   2            2
+                       y         + z = (6 + 2 +  8)    .      (13–5)
+
+                These  equations can be solved exactly (with complex 
+            results), but all we really need are numerical values for 
+            the solution  with all real positive values, which are readily 
+            found to be the values shown in Table 13.1.
+
+                           Distance            Value
+                              w                 9.63
+                              x                 2.70
+                              y                14.56
+                              z                 6.63                   Table 13.1. 
+                                                                       Distance values for the generic 
+                              s                29.26                   beetle circle packing.
+
+                This packing is not complete, however. The packing of the 
+            three circles in the interior is not rigid; there is room for the 
+            circles (and the rivers around them) to “rattle around” in the 
+            interior. The way we deal with this situation (which occurs 
+
+                                                                                                     567
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

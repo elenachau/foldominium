@@ -1,0 +1,42 @@
+                                         is conﬁned to the square and whose radius is proportional to 
+                                         the desired length of the point. Initially, the circles are much 
+                                         smaller than the square, so that there is a lot of extra room 
+                                         around each; they can rattle around in the square. But then 
+                                         you start inﬂating each circle (or equivalently, shrinking the 
+                                         square) so that the extra room gets slowly squeezed out and 
+                                         the circles start bumping up against one another. Eventually, 
+                                         all of the room is squeezed out and each circle is pinned into 
+                                         place, at which point the basic structure of the crease pattern 
+                                         is frozen. You then ﬁt tiles to the resulting pattern of circles, 
+                                         ﬁtting tile boundaries along lines between touching circles.
+                                             You can ﬁnd the optimum circle pattern several ways. 
+                                         The easiest is to simply draw a square, then start drawing in 
+                                         circles; if you can ﬁt them all with room to spare, do the same 
+                                         thing again, but this time use slightly bigger circles. Repeat 
+                                         until all the circles you draw ﬁt snugly.
+                                             This approach, while the simplest and quickest, does re-
+                                         quire that you have a pretty good eye for size (and that you’re 
+                                         able to draw an accurate circle). An easier technique is to use a 
+                                         jig. To make the jig, cut out thick cardboard circles correspond-
+                                         ing to the sizes of each of the ﬂaps in your model. Then press a 
+                                         thumbtack through each circle in the very center of the circle. 
+                                         Turn the circles over (so the thumbtack points upward); you 
+                                         can now slide the circles around until they touch and quickly 
+                                         try out different arrangements of circles.
+
+
+                                         Figure 9.10. 
+                                         To make a circle jig, push a thumbtack through a circle of the same 
+                                         size as the desired ﬂap. Then you can slide the circles around.
+
+                                             But how do you insure that the centers all lie in a square? 
+                                         The second part of the jig is the frame. Cut out two L-shaped 
+                                         pieces of cardboard as shown in Figure 9.11 and mark a scale 
+                                         along the inside of each arm of the L, starting where the two 
+                                         arms touch.
+                                             Now you can overlap the edges of the two Ls so that their 
+                                         inside edges form a square; you can insure that they form a 
+
+     302
+                       Origami Design Secrets, Second Edition
+© 2012 by Taylor & Francis Group, LLC

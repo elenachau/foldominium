@@ -1,0 +1,54 @@
+  EF
+
+         BB
+
+                  A
+                                          A
+                                                               F
+             BB
+
+                                        E
+                                                  B
+       CC
+                                                                      H
+
+                                                          C
+ GH
+                                                G
+          CC
+                                                                D
+
+                  D
+
+Figure 5.18. Full crease pattern and six-legged base.
+If you try to collapse figure 5.18 into the base, you will have to flatten some valley folds and turn
+several tri-state creases into valley or mountain folds, depending on how you stack the layers and
+arrange the points. Although Tom Hull, Toshikazu Kawasaki, and others have identified several
+rules for assigning mountain and valley folds to a crease pattern that will allow it to be folded
+flat, I haven’t yet identified an algorithm to assign mountain and valley folds to a tree method
+crease pattern — in fact, as you can tell by folding up a base, there is always more than one
+distribution of mountain and valley folds for a given crease pattern. In any event, when you
+collapse the base, all of the points will be free and unattached from the others and each segment
+of the base is precisely the same length as corresponding segment on the tree. You can thin the
+points further and add reverse folds, et cetera, to turn the base into a subject.
+
+Much the same procedure can be used for any network of active polygons. However, what
+happens if there are polygons with five, six, or more sides? You saw the jump in complexity
+going from three to four corners was considerable. Although there was only one type of tree for a
+triangle and two for a quadrilateral, for a five-sided polygon there are three possible types of
+trees and the number rises quickly beyond that. So there are many more possibilities to
+enumerate. In addition, computation of the crease pattern for higher-order polygons gets very
+complicated very quickly, and you can imagine the difficulties as the number of points increases.
+For a nineteen-pointed insect, the network of active polygons could conceivably consist of a
+single nineteen-sided polygon! How would we ever collapse such a beast?
+
+I recently discovered one solution: there is a generalization of the gusset quad that produces a
+crease pattern for any active polygon. However, its construction is even more complex than the
+construction of the gusset quad was. It turns out, though, that we need no more than the gusset
+quad and the rabbit ear to fold a base for any tree.
+
+Again, a paradox: we’ll simplify the design problem by making the tree more complicated.
+Consider the tree in figure 5.19, which is a 5-pointed star. This graph leads to a set of active
+paths that comprise a single five-sided polygon.
+
+                              127

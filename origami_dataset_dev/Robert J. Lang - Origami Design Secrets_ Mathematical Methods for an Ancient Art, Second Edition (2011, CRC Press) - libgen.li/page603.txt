@@ -1,0 +1,41 @@
+            from the colored side of the paper, a contour line that indicates 
+            a valley in the folded form is, in fact, a valley fold; a contour 
+            line that indicates a level mountain ridge is, in fact, a moun-
+            tain fold. Ridge lines can be either mountain or valley folds, as 
+            they could indicate either a sloped ridge or a sloped valley, and 
+            gussets, in our geographical analogy, are level hanging valleys, 
+            and thus, become valley folds. This correspondence is illustrated 
+            in Figure 13.22. In this ﬁgure, I’ve drawn a molecule with one 
+            gusset fold. (Can you identify the ridges, gussets, and hinges in 
+            the crease pattern?) I’ve also added a set of contour lines to the 
+            crease pattern and, just to emphasize the topographical relief, 
+            have added arrows that point “uphill” in each polygon of the 
+            contour map and on the folded form.
+
+
+            Figure 13.22. 
+            Left: a contour map of a crease pattern for a molecule. 
+            Right: the folded form. Arrows point “uphill” in both.
+
+                Here you can see clearly how to identify mountain and 
+            valley folds from the contour map for axis-parallel contours 
+            and ridge lines. If the arrows on either side of a line both point 
+            toward the line (or even partially toward the line), then it’s 
+            a mountain fold. If the two arrows both point away from the 
+            line, it’s a valley fold. And one points toward and the other 
+            points away, it’s a “slope” line, i.e., there is no fold there (and 
+            I didn’t really need to draw the contour line there at all).
+                The choice of the two contour lines in Figure 13.22 was 
+            somewhat arbitrary; there is, of course, an inﬁnite set of 
+            contour lines between the lowest-elevation point (“sea level”) 
+            and the two peaks of the molecule. But most of the contour 
+            lines will be “slope” lines, lines with higher elevation on one 
+            side and lower elevation on the other, and therefore, they will 
+            be unfolded. So all we really need to pay attention to are the 
+            lines that are potential fold lines, i.e., contour lines where 
+            the paper might change direction from one side of the line to 
+            the other.
+
+                                                                                                     591
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

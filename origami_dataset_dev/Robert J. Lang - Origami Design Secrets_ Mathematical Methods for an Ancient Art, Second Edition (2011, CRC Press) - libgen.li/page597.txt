@@ -1,0 +1,50 @@
+            cally, the “distance” from a point to a polygon edge is the 
+            perpendicular distance from the point to the extension of the 
+            edge to an inﬁnite line. (This makes more sense when you see 
+            it than can be described in words.)
+                And I will hope that something about this description 
+            has rung a bell of recognition. The construction process—
+            insetting of the edges, merging of vertices, the “pinching off” 
+            of a polygon into subpolygons—should sound very familiar, 
+            because we have already encountered something very much 
+            like it in the construction of the universal molecule. In fact, 
+            the resemblance is more than superﬁcial. Recall that in the 
+            universal molecule, the presence of active cross paths gave rise 
+            to gussets. If there are no active cross paths at any stage of the 
+            universal molecule construction, though, then the universal 
+            molecule algorithm gives precisely the straight skeleton. So 
+            the straight skeleton is, in some sense, a special case of the 
+            universal molecule.
+                But in another sense, it is a generalization. The univer-
+            sal molecule was deﬁned solely for convex polygons, but the 
+            straight skeleton can be deﬁned for nonconvex polygons—
+            speciﬁcally, L-shaped or T-shaped polygons.
+                Another difference lies in the ease of construction. In 
+            general, the universal molecule must be constructed numeri-
+            cally/computationally. The straight skeleton, by contrast, can 
+            be constructed graphically—and for nice hinge polygons, its 
+            construction is particularly simple.
+                Because of the “closeness” property mentioned above, one 
+            way, in principle, to construct the straight skeleton would be to 
+            color each edge of the polygon a different color, then measure 
+            this special perpendicular distance from every point to every 
+            edge and mark the point with the color of the closest edge in 
+            a way that makes the boundaries between colors a tree graph. 
+            Once you’ve colored every point in the polygon, the straight 
+            skeleton would be all of the boundary lines between the dif-
+            ferent colored regions.
+                If we had to construct the straight skeleton that way, it 
+            would be a long and tedious process. Fortunately, there’s an 
+            easier way to do it, which relies on the fact that every line seg-
+            ment in the straight skeleton is the angle bisector between two 
+            of the edges of the polygon—sometimes two adjacent edges, 
+            sometimes not. Rather than having to color every point and 
+            look for the boundaries, we can just construct those angle 
+            bisector bits. 
+                We start at the perimeter of the polygon and work our 
+            way in toward the center. From each corner, angle bisectors 
+            propagate inward. It should be clear that, at least locally, the 
+
+                                                                                                     585
+                                                           Chapter 13: Uniaxial Box Pleating
+© 2012 by Taylor & Francis Group, LLC

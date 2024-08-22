@@ -1,0 +1,38 @@
+            1. A sink fold can    2. Fold the point down 3. Fold and unfold 4. Unfold the point.
+            sometimes easily be   along the sink line. along a crease that just
+            made as a spread-sink,                     touches the tip of the
+            as this sequence shows.                    point.
+
+
+                      5. Grasp the sides and fold 6. Bring the middle of 7. Completed sink fold.
+                      them down while simul- the sides of the square
+                      taneously stretching and region together at the
+                      pushing down on the top top.
+                      flap.
+
+            Figure 2.43. 
+            Folding sequence for making a sink folding using a spread sink.
+
+                The example in Figure 2.43 is for a four-sided sink—one 
+            in which the point has four ridges coming down from it (and 
+            the polygon outlined by the mountain folds “going around the 
+            mountain” is a quadrilateral), but you can form three-, ﬁve-, 
+            and higher-sided sinks in a similar way.
+                As we have seen, a valley fold can combine with its mir-
+            ror image to make a reverse fold, a squash fold can combine 
+            with its mirror image to make a petal fold, and a rabbit ear 
+            can combine with its mirror image to make a double rabbit 
+            ear. Can a sink fold be combined with its mirror image? Yes, 
+            in multiple ways, but the most common way happens when a 
+            point is sequentially sunk down and back up. The maneuver 
+            is called a double sink (or triple or quadruple sink, for more 
+            complicated generalizations).
+                Although a multiple sink can be made sequentially—make 
+            the lowest sink, then reach inside and sink the point back 
+            upward—it’s usually easier to make them all together, ﬁrst 
+            pinching the mountain folds around the point, then pinching the 
+            valley folds around before attempting to close up the model.
+
+                                                                                                      35
+                                                                 Chapter 2: Building Blocks 
+© 2012 by Taylor & Francis Group, LLC
