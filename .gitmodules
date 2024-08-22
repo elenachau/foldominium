@@ -1,0 +1,3 @@
+[submodule "website/src/cp-editor"]
+	path = website/src/cp-editor
+	url = https://github.com/edemaine/cp-editor

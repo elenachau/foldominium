@@ -10,10 +10,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@svgdotjs/svg.js": "^3.2.4",
     "@types/react-router-dom": "^5.3.3",
+    "fold": "^0.12.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.25.1"
+    "react-router-dom": "^6.25.1",
+    "stylus": "^0.63.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
@@ -21,11 +24,15 @@
     "@typescript-eslint/eslint-plugin": "^7.13.1",
     "@typescript-eslint/parser": "^7.13.1",
     "@vitejs/plugin-react": "^4.3.1",
+    "browserify": "^17.0.0",
     "eslint": "^8.57.0",
     "eslint-plugin-react": "^7.34.4",
     "eslint-plugin-react-hooks": "^4.6.2",
     "eslint-plugin-react-refresh": "^0.4.7",
     "typescript": "^5.2.2",
-    "vite": "^5.3.1"
+    "vite": "^5.3.1",
+    "vite-plugin-commonjs": "^0.10.1",
+    "vite-plugin-html": "^3.2.2",
+    "watchify": "^4.0.0"
   }
 }
