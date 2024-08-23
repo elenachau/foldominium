@@ -23,5 +23,5 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src", "public/simulator", "public/cpedit.js"]
+  "include": ["src", "public/simulator", "public/cpedit.js", "public/simulator"]
 }

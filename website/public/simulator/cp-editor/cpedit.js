@@ -3,6 +3,8 @@
 
   margin = 0.5;
 
+  FOLD = require('fold')
+
   defaultPage = function() {
     return {
       xMin: 0,
@@ -11,8 +13,6 @@
       yMax: 4
     };
   };
-
-  FOLD = require('fold');
 
   foldAngleToOpacity = function(foldAngle, assignment) {
     if (assignment === 'M' || assignment === 'V') {
