@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Crease Pattern Editor</title>
+    <script src="node_modules/@svgdotjs/svg.js/dist/svg.min.js"></script>
+    <script src="node_modules/fold/dist/fold.js"></script>
+    <script src="cpedit.js"></script>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+    </style>
+    <link rel="stylesheet" href="cpedit.css">
+
+  </head>
+  <body>
+    <div id="menu">
+      <div class="header">
+        <h2><a href="../../">Back to Foldominium</a></h2>
+      </div>
+      <div class="input clickable">
+        <input id="loadFold" type="button" value="Load FOLD 1.2" title="Load previously saved .fold file (including cut edges), previously named .cp files (which also work)">
+        <input id="fileFold" type="file" style="display: none">
+      </div>
+      <div class="input clickable">
+        <input id="downloadFold" type="button" value="Save FOLD 1.2" title="For reloading with this editor, and other software supporting cut edges"><a id="download"></a>
+      </div>
+      <div class="input clickable">
+        <input id="downloadSplitFold" type="button" value="Export FOLD w/o cuts" title="Separate all cuts into boundaries. For most software supporting .fold, including Freeform Origami and Origami Simulator. Do not reload with this editor.">
+      </div>
+      <div class="input clickable">
+        <input id="downloadSVG" type="button" value="Export SVG" title="For Origami Simulator or paper figures">
+      </div>
+      <div class="input clickable">
+        <input id="simulate" type="button" value="Simulate" title="Launch Origami Simulator in a new window with current pattern">
+      </div>
+      <div class="input clickable">
+        <input id="cleanup" type="button" value="Cleanup" title="Clean up unneeded straight vertices">
+      </div>
+      <hr>
+      <div class="input">
+        <input id="title" type="text" placeholder="Title">
+      </div>
+      <div class="input">
+        <label>Width</label><span class="number" id="width">4</span>
+        <button id="widthDec">&minus;</button>
+        <button id="widthInc">+</button>
+      </div>
+      <div class="input">
+        <label>Height</label><span class="number" id="height">4</span>
+        <button id="heightDec">&minus;</button>
+        <button id="heightInc">+</button>
+      </div>
+      <div class="input">
+        <label>Transform:</label>
+        <div class="stack">
+          <div class="row">
+            <button id="reflectX" title="Reflect horizontally">⇹</button>
+            <button id="reflectY" title="Reflect vertically">↕</button>
+            <button id="rotateCCW" title="Rotate 90° counterclockwise">⟲</button>
+            <button id="rotateCW" title="Rotate 90° clockwise">⟳</button>
+          </div>
+          <div class="row">
+            <button id="shiftL" title="Shift left">←</button>
+            <button id="shiftD" title="Shift down">↓</button>
+            <button id="shiftU" title="Shift up">↑</button>
+            <button id="shiftR" title="Shift right">→</button>
+          </div>
+        </div>
+      </div>
+      <hr>
+      <div class="input clickable">
+        <input id="undo" type="button" value="Undo" title="Shortcut: z or ctrl-z">
+      </div>
+      <div class="input clickable">
+        <input id="redo" type="button" value="Redo" title="Shortcut: y or shift-z or ctrl-y or ctrl-shift-z">
+      </div>
+      <hr>
+      <div class="input clickable">
+        <input id="drawLine" type="radio" name="mode" checked>
+        <label for="drawLine">Draw Crease (<code>d</code>)</label>
+      </div>
+      <div class="input clickable">
+        <input id="assignLine" type="radio" name="mode">
+        <label for="assignLine">Assign Crease (<code>a</code>)</label>
+      </div>
+      <div class="input clickable">
+        <input id="eraseLine" type="radio" name="mode">
+        <label for="eraseLine">Erase Crease (<code>e</code>)</label>
+      </div>
+      <div class="input clickable">
+        <input id="moveVertex" type="radio" name="mode">
+        <label for="moveVertex">Move Vertex (<code>m</code>)</label>
+      </div>
+      <hr>
+      <div class="input clickable">
+        <input id="boundary" type="radio" name="line" value="B" checked>
+        <label for="boundary">Boundary (<code>B</code>)</label>
+      </div>
+      <div class="input clickable">
+        <input id="mountain" type="radio" name="line" value="M">
+        <label for="mountain">Mountain (<code>M</code>)</label>
+      </div>
+      <div class="input clickable">
+        <input id="valley" type="radio" name="line" value="V">
+        <label for="valley">Valley (<code>V</code>)</label>
+      </div>
+      <div class="input clickable">
+        <input id="unfolded" type="radio" name="line" value="U">
+        <label for="unfolded">Unfolded (<code>U</code>)</label>
+      </div>
+      <div class="input clickable">
+        <input id="cut" type="radio" name="line" value="C">
+        <label for="cut">Cut (<code>C</code>)</label>
+      </div>
+      <div class="multinput">
+        <div class="input">
+          <label for="angle" title="Between 0 and 180 degrees. Use Mountain/Valley for sign. Can use JavaScript formulas.">Absolute fold angle:</label>
+          <div class="gap"></div>
+          <button id="angleAdd1">+1</button>
+          <button id="angleAdd90">+90</button>
+        </div>
+        <div class="input">
+          <input id="angle" type="text" value="180" title="Between 0 and 180 degrees. Use Mountain/Valley for sign. Can use JavaScript formulas.">
+          <div class="gap"></div>
+          <button id="angleSub1">&minus;1</button>
+          <button id="angleSub90">&minus;90</button>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div id="interface"></div>
+  </body>
+</html>

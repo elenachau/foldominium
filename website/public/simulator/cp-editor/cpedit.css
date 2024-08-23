@@ -1,0 +1,199 @@
+:root {
+    font-family: Saira, Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+  
+    --bg-color-light: #FEFAE0;
+    --bg-color-medium: #DDA15E;
+    --bg-color-dark: #BC6C25;
+    --accent-color: #9FB15C;
+    --accent-color-dark: #485A33;
+    --ease-time: 0.2s;
+  
+    /* color-scheme: light dark; */
+    color-scheme: light;
+  
+    color: var(--accent-color);
+    background-color: var(--bg-color-light);
+  
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  
+    height: 100%;
+    font-size: 1.5vw;
+  }
+
+  button {
+    border-radius: 8px;
+    border: 2px solid var(--accent-color-dark);
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: var(--accent-color);
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+
+  input {
+    border-radius: 8px;
+    border: 2px solid var(--bg-color-light);
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: var(--bg-color-medium);
+    cursor: pointer;
+    transition: border-color 0.25s;
+  }
+
+.header {
+    text-align: center;
+    color: var(--bg-color-light);
+    background-color: var(--accent-color-dark);
+    margin-bottom: 10px;
+}
+
+a:visited {
+    color: var(--bg-color-light);
+}
+
+body {
+    display: flex;
+    margin: 0px;
+    height: 100vh;
+  }
+  #menu {
+    max-width: 50%;
+    flex: 0;
+    display: flex;
+    flex-direction: column;
+    min-width: min-content;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background: var(--bg-color-dark);
+    color: #fff;
+  }
+  #menu a:link {
+    color: #fff;
+  }
+  #menu a:hover {
+    color: #ff0;
+  }
+  #menu hr {
+    width: 100%;
+  }
+  #interface {
+    flex: 1;
+  }
+  .input,
+  .multinput {
+    font-size: large;
+    white-space: nowrap;
+    padding: 5px 10px 5px 5px;
+  }
+  .input input,
+  .multinput input {
+    font-size: large;
+  }
+  .input .input,
+  .multinput .input {
+    padding: 2px 0px;
+  }
+  .input .gap,
+  .multinput .gap {
+    min-width: 5px;
+    flex: 0;
+  }
+  .input:hover,
+  .multinput:hover {
+    color: #ff0;
+    background: var(--accent-color);
+  }
+  .input label,
+  .multinput label,
+  .input span,
+  .multinput span {
+    display: block;
+    flex: 1;
+  }
+  .input input[type='button'],
+  .multinput input[type='button'],
+  .input td button,
+  .multinput td button {
+    width: 100%;
+  }
+  .input input[type='text'],
+  .multinput input[type='text'] {
+    width: 5em;
+    flex: 1;
+  }
+  table {
+    color: inherit;
+    font: inherit;
+  }
+  table td {
+    padding: 0;
+  }
+  .input,
+  .row {
+    display: flex;
+    align-items: center;
+  }
+  .clickable,
+  .clickable button,
+  .clickable input,
+  .clickable label,
+  .input button {
+    cursor: pointer;
+  }
+  .number {
+    text-align: center;
+  }
+  svg {
+    width: 100%;
+    height: 100%;
+  }
+  line {
+    stroke-linecap: round;
+  }
+  .grid line {
+    stroke: var(--accent-color-dark);
+    stroke-width: 0.05;
+  }
+  .crease line,
+  .drag line {
+    stroke-width: 0.1;
+  }
+  .crease line.B,
+  .drag line.B {
+    stroke: #000;
+  }
+  .crease line.M,
+  .drag line.M {
+    stroke: #f00;
+  }
+  .crease line.V,
+  .drag line.V {
+    stroke: #00f;
+  }
+  .crease line.U,
+  .drag line.U {
+    stroke: #808080;
+  }
+  .crease line.C,
+  .drag line.C {
+    stroke: #008000;
+  }
+  .crease line.drag,
+  .drag line.drag {
+    stroke: #800080;
+    stroke-width: 0.25;
+  }
+  .drag circle {
+    fill: #800080;
+  }
+  .vertex circle.drag {
+    fill: #800080;
+    stroke: #800080;
+    stroke-width: 0.1;
+  }

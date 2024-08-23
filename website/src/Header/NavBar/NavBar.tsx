@@ -15,8 +15,8 @@ export default function NavBar() {
           <ul>
             <li><Link to={`/`}><p>Home</p></Link></li>
             <li><Link to={`/aboutus`}><p>About Us</p></Link></li>
-            <li><a href={`../../../simulator/cp-editor/cpedit.html`}><p>Creator</p></a></li>
-            <li><a href="https://origamisimulator.org"><p>Simulator</p></a></li>
+            <li><a href={`/simulator/cp-editor/cpedit.html`}><p>Creator</p></a></li>
+            <li><a href="https://origamisimulator.org" target="_blank"><p>Simulator</p></a></li>
           </ul>
         </div>
       </div>

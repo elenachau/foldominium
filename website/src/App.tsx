@@ -10,7 +10,7 @@ function App() {
       <div className={classes.body}>
         <div className={classes.innerBody}>
           <div className={classes.buttonWithImg}>
-            <a href="../simulator/cp-editor/cpedit.html">
+            <a href="/simulator/cp-editor/cpedit.html">
               <button type="button">Create a Fold!</button>
             </a>
             <p>How it works: Create, experiment, and simulate origami folds from scratch using our intuitive FOLD editor.</p>
@@ -20,7 +20,7 @@ function App() {
           <div className={classes.divider}></div>
 
           <div className={classes.buttonWithImg}>
-            <a href="../simulator/OrigamiSimulator/index.html">
+            <a href="https://origamisimulator.org" target="_blank">
               <button type="button">Simulate a Fold!</button>
             </a>
             <p>How it works: Bring your folds to life 3D viewport instantly utilizing OrigamiSimulator.</p>
